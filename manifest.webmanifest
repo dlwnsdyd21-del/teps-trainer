@@ -1,0 +1,12 @@
+{
+  "name": "TEPS 트레이너",
+  "short_name": "TEPS",
+  "description": "목표 텝스 점수별 단어 암기 · 예문 해석 · 실전 문제 풀이",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#3d5afe",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
