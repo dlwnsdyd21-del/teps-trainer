@@ -113,12 +113,42 @@
     return a;
   }
   function pct(n, d) { return d ? Math.round((n / d) * 100) : 0; }
-  function speak(text) {
-    if (!('speechSynthesis' in window)) return;
+  // ---------- TTS: 기기에서 가장 좋은 미국식 영어 음성을 골라 사용 ----------
+  let ttsVoice = null;
+  function pickVoice() {
+    const vs = window.speechSynthesis ? speechSynthesis.getVoices() : [];
+    if (!vs.length) return null;
+    // 우선순위: 플랫폼별 고품질 미국식 음성 → en-US 로컬 → en-US → 기타 영어
+    const prefer = [
+      'Google US English',            // Android Chrome
+      'Samantha',                     // iOS / macOS
+      'Microsoft Aria Online',        // Windows Edge (신형)
+      'Microsoft Jenny Online',
+      'Microsoft Aria',
+      'Microsoft Zira',               // Windows (구형)
+      'Microsoft David',
+    ];
+    for (const name of prefer) {
+      const v = vs.find(v => v.name.includes(name) && v.lang.replace('_', '-').startsWith('en'));
+      if (v) return v;
+    }
+    const us = vs.filter(v => v.lang.replace('_', '-') === 'en-US');
+    return us.find(v => v.localService) || us[0] ||
+      vs.find(v => v.lang.replace('_', '-').startsWith('en-')) || null;
+  }
+  if (window.speechSynthesis) {
+    ttsVoice = pickVoice();
+    speechSynthesis.onvoiceschanged = function () { ttsVoice = pickVoice(); };
+  }
+  function speak(text, isWord) {
+    if (!window.speechSynthesis) return;
     speechSynthesis.cancel();
     const u = new SpeechSynthesisUtterance(text);
     u.lang = 'en-US';
-    u.rate = 0.95;
+    if (!ttsVoice) ttsVoice = pickVoice();
+    if (ttsVoice) u.voice = ttsVoice;
+    u.rate = isWord ? 0.85 : 0.95;   // 단어는 또박또박, 문장은 자연스럽게
+    u.pitch = 1;
     speechSynthesis.speak(u);
   }
 
@@ -305,15 +335,17 @@
         <div class="flip-card ${S.flipped ? 'flipped' : ''}" data-act="flip">
           <div class="flip-face front">
             <div class="flash-word">${esc(w.word)}</div>
+            ${w.ipa ? `<div class="flash-ipa">${esc(w.ipa)}</div>` : ''}
             <div class="flash-pos"><span class="pill" style="background:${m.soft};color:${m.color}">${esc(w.pos)}</span></div>
-            <div style="margin-top:16px"><button class="tts-btn" data-act="tts" data-tts="${esc(w.word)}">🔊</button></div>
+            <div style="margin-top:16px"><button class="tts-btn" data-act="tts" data-word="1" data-tts="${esc(w.word)}">🔊</button></div>
             <div class="flash-hint">카드를 누르면 뜻이 보여요</div>
           </div>
           <div class="flip-face back">
             <div class="back-word-row">
               <span class="back-word">${esc(w.word)}</span>
+              ${w.ipa ? `<span class="back-ipa">${esc(w.ipa)}</span>` : ''}
               <span class="tiny">${esc(w.pos)}</span>
-              <button class="tts-btn" data-act="tts" data-tts="${esc(w.word)}" style="margin-left:auto">🔊</button>
+              <button class="tts-btn" data-act="tts" data-word="1" data-tts="${esc(w.word)}" style="margin-left:auto">🔊</button>
             </div>
             <div class="back-ko">${esc(w.ko)}</div>
             ${syn}
@@ -393,7 +425,8 @@
       <div class="card">
         <div style="text-align:center;padding:14px 0 20px">
           <div class="flash-word" style="font-size:30px">${esc(w.word)}</div>
-          <div class="tiny" style="margin-top:4px">${esc(w.pos)} · <button class="tts-btn" data-act="tts" data-tts="${esc(w.word)}" style="font-size:14px">🔊</button></div>
+          ${w.ipa ? `<div class="flash-ipa" style="font-size:14px">${esc(w.ipa)}</div>` : ''}
+          <div class="tiny" style="margin-top:4px">${esc(w.pos)} · <button class="tts-btn" data-act="tts" data-word="1" data-tts="${esc(w.word)}" style="font-size:14px">🔊</button></div>
         </div>
         <div class="choice-list">${choices}</div>
         ${Q.picked != null ? `<button class="btn btn-primary btn-block quiz-next" data-act="wq-next">${Q.pos + 1 === Q.qs.length ? '결과 보기' : '다음 단어'} →</button>` : ''}
@@ -611,7 +644,7 @@
       // TTS
       case 'tts':
         e.stopPropagation();
-        speak(el.dataset.tts);
+        speak(el.dataset.tts, el.dataset.word === '1');
         break;
 
       // 단어 카드

@@ -377,7 +377,15 @@ button {
 .flip-face.back { transform: rotateY(180deg); justify-content: flex-start; text-align: left; align-items: stretch; overflow-y: auto; }
 
 .flash-word { font-size: 34px; font-weight: 800; letter-spacing: -0.5px; word-break: break-word; }
-.flash-pos { margin-top: 6px; }
+.flash-ipa {
+  margin-top: 6px;
+  font-size: 16px;
+  color: var(--ink-soft);
+  font-family: "Segoe UI", "Charis SIL", "Gentium Plus", "Noto Sans", -apple-system, sans-serif;
+  letter-spacing: 0.3px;
+}
+.back-ipa { font-size: 13.5px; color: var(--ink-soft); letter-spacing: 0.3px; }
+.flash-pos { margin-top: 10px; }
 .flash-hint { margin-top: 22px; font-size: 12.5px; color: var(--ink-faint); }
 
 .back-word-row { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; margin-bottom: 4px; }

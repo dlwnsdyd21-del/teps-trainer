@@ -9,21 +9,24 @@ window.TEPS_DATA.low = {
    "ex_ko": "경찰은 그가 강도 사건에 연루되었다는 증거를 찾지 못했다.",
    "syn": [
     "proof"
-   ]
+   ],
+   "ipa": "/ˈɛvɪdəns/"
   },
   {
    "word": "refund",
    "pos": "명사",
    "ko": "환불(금)",
    "ex_en": "If you are not satisfied with the product, you can get a full refund.",
-   "ex_ko": "제품이 마음에 들지 않으시면 전액 환불을 받으실 수 있습니다."
+   "ex_ko": "제품이 마음에 들지 않으시면 전액 환불을 받으실 수 있습니다.",
+   "ipa": "/ˈriˌfʌnd/"
   },
   {
    "word": "appointment",
    "pos": "명사",
    "ko": "(만날) 약속, (진료 등의) 예약",
    "ex_en": "I made an appointment with the dentist for three o'clock on Friday.",
-   "ex_ko": "금요일 세 시로 치과 예약을 잡았어요."
+   "ex_ko": "금요일 세 시로 치과 예약을 잡았어요.",
+   "ipa": "/əˈpɔɪntmənt/"
   },
   {
    "word": "admission",
@@ -34,14 +37,16 @@ window.TEPS_DATA.low = {
    "syn": [
     "entrance",
     "entry"
-   ]
+   ],
+   "ipa": "/ədˈmɪʃən/"
   },
   {
    "word": "receipt",
    "pos": "명사",
    "ko": "영수증",
    "ex_en": "Please keep your receipt in case you need to exchange the item.",
-   "ex_ko": "상품 교환이 필요할 경우를 대비해 영수증을 보관해 주세요."
+   "ex_ko": "상품 교환이 필요할 경우를 대비해 영수증을 보관해 주세요.",
+   "ipa": "/rɪˈsit/"
   },
   {
    "word": "opportunity",
@@ -51,7 +56,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "이번 인턴십은 실무 경험을 쌓을 수 있는 좋은 기회입니다.",
    "syn": [
     "chance"
-   ]
+   ],
+   "ipa": "/ˌɑpɚˈtunəti/"
   },
   {
    "word": "purpose",
@@ -62,7 +68,8 @@ window.TEPS_DATA.low = {
    "syn": [
     "aim",
     "goal"
-   ]
+   ],
+   "ipa": "/ˈpɝpəs/"
   },
   {
    "word": "income",
@@ -72,21 +79,24 @@ window.TEPS_DATA.low = {
    "ex_ko": "그녀의 월수입은 집세와 생활비를 겨우 감당할 정도다.",
    "syn": [
     "earnings"
-   ]
+   ],
+   "ipa": "/ˈɪnkʌm/"
   },
   {
    "word": "symptom",
    "pos": "명사",
    "ko": "증상, 징후",
    "ex_en": "Common symptoms of the flu include fever, coughing, and body aches.",
-   "ex_ko": "독감의 흔한 증상으로는 열, 기침, 몸살이 있다."
+   "ex_ko": "독감의 흔한 증상으로는 열, 기침, 몸살이 있다.",
+   "ipa": "/ˈsɪmptəm/"
   },
   {
    "word": "prescription",
    "pos": "명사",
    "ko": "처방전, 처방",
    "ex_en": "The doctor gave me a prescription for some painkillers.",
-   "ex_ko": "의사가 진통제 처방전을 써 주었다."
+   "ex_ko": "의사가 진통제 처방전을 써 주었다.",
+   "ipa": "/prɪˈskrɪpʃən/"
   },
   {
    "word": "warranty",
@@ -96,7 +106,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "이 노트북에는 모든 수리를 보장하는 2년 보증이 포함되어 있습니다.",
    "syn": [
     "guarantee"
-   ]
+   ],
+   "ipa": "/ˈwɔrənti/"
   },
   {
    "word": "deadline",
@@ -106,7 +117,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "이번 주 금요일 마감 전까지 보고서를 끝내야 한다.",
    "syn": [
     "due date"
-   ]
+   ],
+   "ipa": "/ˈdɛdˌlaɪn/"
   },
   {
    "word": "colleague",
@@ -116,21 +128,24 @@ window.TEPS_DATA.low = {
    "ex_ko": "직장 동료 한 명이 집까지 태워다 주겠다고 했다.",
    "syn": [
     "coworker"
-   ]
+   ],
+   "ipa": "/ˈkɑliɡ/"
   },
   {
    "word": "audience",
    "pos": "명사",
    "ko": "관객, 청중",
    "ex_en": "The audience gave the singer a big round of applause.",
-   "ex_ko": "관객들은 그 가수에게 큰 박수를 보냈다."
+   "ex_ko": "관객들은 그 가수에게 큰 박수를 보냈다.",
+   "ipa": "/ˈɔdiəns/"
   },
   {
    "word": "destination",
    "pos": "명사",
    "ko": "목적지, 도착지",
    "ex_en": "After a ten-hour flight, we finally arrived at our destination.",
-   "ex_ko": "열 시간의 비행 끝에 우리는 마침내 목적지에 도착했다."
+   "ex_ko": "열 시간의 비행 끝에 우리는 마침내 목적지에 도착했다.",
+   "ipa": "/ˌdɛstəˈneɪʃən/"
   },
   {
    "word": "luggage",
@@ -140,35 +155,40 @@ window.TEPS_DATA.low = {
    "ex_ko": "짐은 호텔 프런트에 맡기시면 됩니다.",
    "syn": [
     "baggage"
-   ]
+   ],
+   "ipa": "/ˈlʌɡɪdʒ/"
   },
   {
    "word": "complaint",
    "pos": "명사",
    "ko": "불평, 항의",
    "ex_en": "The restaurant received several complaints about its slow service.",
-   "ex_ko": "그 식당은 느린 서비스에 대해 여러 건의 항의를 받았다."
+   "ex_ko": "그 식당은 느린 서비스에 대해 여러 건의 항의를 받았다.",
+   "ipa": "/kəmˈpleɪnt/"
   },
   {
    "word": "discount",
    "pos": "명사",
    "ko": "할인",
    "ex_en": "Members receive a ten percent discount on all items in the store.",
-   "ex_ko": "회원은 매장 내 전 품목을 10퍼센트 할인받는다."
+   "ex_ko": "회원은 매장 내 전 품목을 10퍼센트 할인받는다.",
+   "ipa": "/ˈdɪskaʊnt/"
   },
   {
    "word": "budget",
    "pos": "명사",
    "ko": "예산",
    "ex_en": "We need to cut costs to stay within our budget this month.",
-   "ex_ko": "이번 달 예산을 지키려면 비용을 줄여야 한다."
+   "ex_ko": "이번 달 예산을 지키려면 비용을 줄여야 한다.",
+   "ipa": "/ˈbʌdʒɪt/"
   },
   {
    "word": "career",
    "pos": "명사",
    "ko": "직업, 경력",
    "ex_en": "She gave up a successful career in law to become a teacher.",
-   "ex_ko": "그녀는 교사가 되기 위해 성공적인 법조계 경력을 포기했다."
+   "ex_ko": "그녀는 교사가 되기 위해 성공적인 법조계 경력을 포기했다.",
+   "ipa": "/kəˈrɪr/"
   },
   {
    "word": "schedule",
@@ -178,7 +198,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "이번 주는 일정이 꽉 차서 다음 주 월요일에 만나요.",
    "syn": [
     "timetable"
-   ]
+   ],
+   "ipa": "/ˈskɛdʒul/"
   },
   {
    "word": "fee",
@@ -188,7 +209,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "그 헬스장은 수영장 이용에 소액의 요금을 부과한다.",
    "syn": [
     "charge"
-   ]
+   ],
+   "ipa": "/ˈfi/"
   },
   {
    "word": "maintain",
@@ -199,7 +221,8 @@ window.TEPS_DATA.low = {
    "syn": [
     "keep",
     "preserve"
-   ]
+   ],
+   "ipa": "/meɪnˈteɪn/"
   },
   {
    "word": "postpone",
@@ -210,7 +233,8 @@ window.TEPS_DATA.low = {
    "syn": [
     "delay",
     "put off"
-   ]
+   ],
+   "ipa": "/poʊstˈpoʊn/"
   },
   {
    "word": "decline",
@@ -221,7 +245,8 @@ window.TEPS_DATA.low = {
    "syn": [
     "refuse",
     "turn down"
-   ]
+   ],
+   "ipa": "/dɪˈklaɪn/"
   },
   {
    "word": "purchase",
@@ -231,14 +256,16 @@ window.TEPS_DATA.low = {
    "ex_ko": "티켓은 온라인이나 매표소에서 구입하실 수 있습니다.",
    "syn": [
     "buy"
-   ]
+   ],
+   "ipa": "/ˈpɝtʃəs/"
   },
   {
    "word": "recommend",
    "pos": "동사",
    "ko": "추천하다, 권하다",
    "ex_en": "Can you recommend a good restaurant near the station?",
-   "ex_ko": "역 근처에 괜찮은 식당 좀 추천해 줄래요?"
+   "ex_ko": "역 근처에 괜찮은 식당 좀 추천해 줄래요?",
+   "ipa": "/ˌrɛkəˈmɛnd/"
   },
   {
    "word": "cancel",
@@ -248,7 +275,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "급한 집안일 때문에 여행을 취소해야 했다.",
    "syn": [
     "call off"
-   ]
+   ],
+   "ipa": "/ˈkænsəl/"
   },
   {
    "word": "confirm",
@@ -258,14 +286,16 @@ window.TEPS_DATA.low = {
    "ex_ko": "출발 이틀 전에 항공사에 전화해서 예약을 확인해 주세요.",
    "syn": [
     "verify"
-   ]
+   ],
+   "ipa": "/kənˈfɝm/"
   },
   {
    "word": "deliver",
    "pos": "동사",
    "ko": "배달하다, (연설 등을) 하다",
    "ex_en": "The package will be delivered to your door within three business days.",
-   "ex_ko": "택배는 영업일 기준 3일 이내에 문 앞으로 배송됩니다."
+   "ex_ko": "택배는 영업일 기준 3일 이내에 문 앞으로 배송됩니다.",
+   "ipa": "/dɪˈlɪvɚ/"
   },
   {
    "word": "improve",
@@ -275,7 +305,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "그는 1년간 유학을 다녀온 뒤 영어 실력이 많이 늘었다.",
    "syn": [
     "enhance"
-   ]
+   ],
+   "ipa": "/ɪmˈpruv/"
   },
   {
    "word": "attend",
@@ -285,14 +316,16 @@ window.TEPS_DATA.low = {
    "ex_ko": "작년에 200명이 넘는 사람들이 그 학회에 참석했다.",
    "syn": [
     "participate in"
-   ]
+   ],
+   "ipa": "/əˈtɛnd/"
   },
   {
    "word": "borrow",
    "pos": "동사",
    "ko": "빌리다",
    "ex_en": "Can I borrow your umbrella? I'll bring it back tomorrow.",
-   "ex_ko": "우산 좀 빌릴 수 있을까? 내일 돌려줄게."
+   "ex_ko": "우산 좀 빌릴 수 있을까? 내일 돌려줄게.",
+   "ipa": "/ˈbɑroʊ/"
   },
   {
    "word": "hire",
@@ -303,21 +336,24 @@ window.TEPS_DATA.low = {
    "syn": [
     "employ",
     "recruit"
-   ]
+   ],
+   "ipa": "/ˈhaɪɚ/"
   },
   {
    "word": "avoid",
    "pos": "동사",
    "ko": "피하다",
    "ex_en": "You should avoid drinking coffee late at night if you can't sleep.",
-   "ex_ko": "잠이 안 온다면 밤늦게 커피 마시는 것을 피하는 게 좋다."
+   "ex_ko": "잠이 안 온다면 밤늦게 커피 마시는 것을 피하는 게 좋다.",
+   "ipa": "/əˈvɔɪd/"
   },
   {
    "word": "apologize",
    "pos": "동사",
    "ko": "사과하다",
    "ex_en": "He apologized to his coworker for missing the important meeting.",
-   "ex_ko": "그는 중요한 회의에 빠진 것에 대해 동료에게 사과했다."
+   "ex_ko": "그는 중요한 회의에 빠진 것에 대해 동료에게 사과했다.",
+   "ipa": "/əˈpɑləˌdʒaɪz/"
   },
   {
    "word": "expand",
@@ -328,7 +364,8 @@ window.TEPS_DATA.low = {
    "syn": [
     "enlarge",
     "grow"
-   ]
+   ],
+   "ipa": "/ɪkˈspænd/"
   },
   {
    "word": "notify",
@@ -338,7 +375,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "주문하신 상품이 발송되면 이메일로 알려 드리겠습니다.",
    "syn": [
     "inform"
-   ]
+   ],
+   "ipa": "/ˈnoʊtəˌfaɪ/"
   },
   {
    "word": "register",
@@ -349,7 +387,8 @@ window.TEPS_DATA.low = {
    "syn": [
     "sign up",
     "enroll"
-   ]
+   ],
+   "ipa": "/ˈrɛdʒɪstɚ/"
   },
   {
    "word": "replace",
@@ -359,7 +398,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "리모컨 건전지를 갈아야 한다.",
    "syn": [
     "substitute"
-   ]
+   ],
+   "ipa": "/rɪˈpleɪs/"
   },
   {
    "word": "reserve",
@@ -369,7 +409,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "오늘 저녁 7시에 4인용 테이블을 예약하고 싶은데요.",
    "syn": [
     "book"
-   ]
+   ],
+   "ipa": "/rɪˈzɝv/"
   },
   {
    "word": "persuade",
@@ -379,7 +420,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "친구들이 나를 설득해서 함께 등산 동호회에 가입하게 했다.",
    "syn": [
     "convince"
-   ]
+   ],
+   "ipa": "/pɚˈsweɪd/"
   },
   {
    "word": "encourage",
@@ -389,7 +431,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "부모님은 항상 두려워하지 말고 새로운 것에 도전하라고 격려해 주셨다.",
    "syn": [
     "motivate"
-   ]
+   ],
+   "ipa": "/ɪnˈkɝɪdʒ/"
   },
   {
    "word": "reduce",
@@ -400,7 +443,8 @@ window.TEPS_DATA.low = {
    "syn": [
     "decrease",
     "cut"
-   ]
+   ],
+   "ipa": "/rɪˈdus/"
   },
   {
    "word": "require",
@@ -411,7 +455,8 @@ window.TEPS_DATA.low = {
    "syn": [
     "need",
     "demand"
-   ]
+   ],
+   "ipa": "/rɪˈkwaɪɚ/"
   },
   {
    "word": "suggest",
@@ -421,7 +466,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "그녀는 다음 업무를 시작하기 전에 잠깐 쉬자고 제안했다.",
    "syn": [
     "propose"
-   ]
+   ],
+   "ipa": "/səɡˈdʒɛst/"
   },
   {
    "word": "significant",
@@ -432,14 +478,16 @@ window.TEPS_DATA.low = {
    "syn": [
     "considerable",
     "important"
-   ]
+   ],
+   "ipa": "/sɪɡˈnɪfɪkənt/"
   },
   {
    "word": "available",
    "pos": "형용사",
    "ko": "이용할 수 있는, 시간이 되는",
    "ex_en": "The doctor is available for appointments on weekday afternoons only.",
-   "ex_ko": "그 의사 선생님은 평일 오후에만 진료 예약이 가능하다."
+   "ex_ko": "그 의사 선생님은 평일 오후에만 진료 예약이 가능하다.",
+   "ipa": "/əˈveɪləbəl/"
   },
   {
    "word": "reasonable",
@@ -450,14 +498,16 @@ window.TEPS_DATA.low = {
    "syn": [
     "fair",
     "moderate"
-   ]
+   ],
+   "ipa": "/ˈrizənəbəl/"
   },
   {
    "word": "convenient",
    "pos": "형용사",
    "ko": "편리한, (시간이) 알맞은",
    "ex_en": "Would ten o'clock tomorrow morning be convenient for you?",
-   "ex_ko": "내일 오전 10시가 괜찮으시겠어요?"
+   "ex_ko": "내일 오전 10시가 괜찮으시겠어요?",
+   "ipa": "/kənˈvinjənt/"
   },
   {
    "word": "essential",
@@ -468,7 +518,8 @@ window.TEPS_DATA.low = {
    "syn": [
     "vital",
     "necessary"
-   ]
+   ],
+   "ipa": "/ɪˈsɛnʃəl/"
   },
   {
    "word": "various",
@@ -478,21 +529,24 @@ window.TEPS_DATA.low = {
    "ex_ko": "그 가게는 세계 각지의 다양한 치즈를 판매한다.",
    "syn": [
     "diverse"
-   ]
+   ],
+   "ipa": "/ˈvɛriəs/"
   },
   {
    "word": "familiar",
    "pos": "형용사",
    "ko": "익숙한, 잘 아는",
    "ex_en": "Her face looks familiar, but I can't remember her name.",
-   "ex_ko": "그녀의 얼굴은 낯이 익은데 이름이 기억나지 않는다."
+   "ex_ko": "그녀의 얼굴은 낯이 익은데 이름이 기억나지 않는다.",
+   "ipa": "/fəˈmɪljɚ/"
   },
   {
    "word": "temporary",
    "pos": "형용사",
    "ko": "일시적인, 임시의",
    "ex_en": "He took a temporary job at a café during the summer.",
-   "ex_ko": "그는 여름 동안 카페에서 임시직으로 일했다."
+   "ex_ko": "그는 여름 동안 카페에서 임시직으로 일했다.",
+   "ipa": "/ˈtɛmpəˌrɛri/"
   },
   {
    "word": "crowded",
@@ -502,7 +556,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "지하철은 아침 출근 시간에 항상 붐빈다.",
    "syn": [
     "packed"
-   ]
+   ],
+   "ipa": "/ˈkraʊdɪd/"
   },
   {
    "word": "valuable",
@@ -512,7 +567,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "그 박물관은 가장 귀중한 그림들을 특별실에 보관한다.",
    "syn": [
     "precious"
-   ]
+   ],
+   "ipa": "/ˈvæljuəbəl/"
   },
   {
    "word": "affordable",
@@ -522,7 +578,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "요즘 대도시에서는 가격이 적당한 집을 찾기 어렵다.",
    "syn": [
     "inexpensive"
-   ]
+   ],
+   "ipa": "/əˈfɔrdəbəl/"
   },
   {
    "word": "urgent",
@@ -532,14 +589,16 @@ window.TEPS_DATA.low = {
    "ex_ko": "미안한데 방금 급한 전화를 받아서 지금 가봐야 해.",
    "syn": [
     "pressing"
-   ]
+   ],
+   "ipa": "/ˈɝdʒənt/"
   },
   {
    "word": "efficient",
    "pos": "형용사",
    "ko": "효율적인, 유능한",
    "ex_en": "The new heating system is much more efficient than the old one.",
-   "ex_ko": "새 난방 시스템은 예전 것보다 훨씬 효율적이다."
+   "ex_ko": "새 난방 시스템은 예전 것보다 훨씬 효율적이다.",
+   "ipa": "/ɪˈfɪʃənt/"
   },
   {
    "word": "spacious",
@@ -549,7 +608,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "그 아파트에는 큰 창문이 있는 널찍한 거실이 있다.",
    "syn": [
     "roomy"
-   ]
+   ],
+   "ipa": "/ˈspeɪʃəs/"
   },
   {
    "word": "reliable",
@@ -560,7 +620,8 @@ window.TEPS_DATA.low = {
    "syn": [
     "dependable",
     "trustworthy"
-   ]
+   ],
+   "ipa": "/rɪˈlaɪəbəl/"
   },
   {
    "word": "exhausted",
@@ -570,7 +631,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "일주일 내내 야근을 했더니 완전히 지쳐 버렸다.",
    "syn": [
     "worn out"
-   ]
+   ],
+   "ipa": "/ɪɡˈzɔstɪd/"
   },
   {
    "word": "frequently",
@@ -580,7 +642,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "그는 업무차 해외 출장을 자주 가는데, 한 달에 두 번 갈 때도 있다.",
    "syn": [
     "often"
-   ]
+   ],
+   "ipa": "/ˈfrikwəntli/"
   },
   {
    "word": "immediately",
@@ -591,7 +654,8 @@ window.TEPS_DATA.low = {
    "syn": [
     "at once",
     "right away"
-   ]
+   ],
+   "ipa": "/ɪˈmidiətli/"
   },
   {
    "word": "eventually",
@@ -602,7 +666,8 @@ window.TEPS_DATA.low = {
    "syn": [
     "finally",
     "in the end"
-   ]
+   ],
+   "ipa": "/ɪˈvɛntʃuəli/"
   },
   {
    "word": "rarely",
@@ -612,7 +677,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "할아버지는 텔레비전을 거의 보지 않으시고 대신 책 읽기를 좋아하신다.",
    "syn": [
     "seldom"
-   ]
+   ],
+   "ipa": "/ˈrɛrli/"
   },
   {
    "word": "approximately",
@@ -623,7 +689,8 @@ window.TEPS_DATA.low = {
    "syn": [
     "about",
     "roughly"
-   ]
+   ],
+   "ipa": "/əˈprɑksəmətli/"
   },
   {
    "word": "currently",
@@ -633,7 +700,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "엘리베이터가 현재 운행 중지 상태이니 계단을 이용해 주세요.",
    "syn": [
     "at present"
-   ]
+   ],
+   "ipa": "/ˈkɝəntli/"
   },
   {
    "word": "particularly",
@@ -643,7 +711,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "오늘은 교통이 혼잡한데, 특히 도심 주변이 심하다.",
    "syn": [
     "especially"
-   ]
+   ],
+   "ipa": "/pɚˈtɪkjəlɚli/"
   },
   {
    "word": "gradually",
@@ -653,7 +722,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "봄이 다가오면서 날씨가 서서히 따뜻해지고 있다.",
    "syn": [
     "little by little"
-   ]
+   ],
+   "ipa": "/ˈɡrædʒuəli/"
   },
   {
    "word": "unfortunately",
@@ -663,7 +733,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "안타깝게도 오늘 밤 공연 티켓은 모두 매진되었습니다.",
    "syn": [
     "regrettably"
-   ]
+   ],
+   "ipa": "/ʌnˈfɔrtʃənətli/"
   },
   {
    "word": "definitely",
@@ -673,14 +744,16 @@ window.TEPS_DATA.low = {
    "ex_ko": "다음 달 네 졸업식에는 꼭 갈게.",
    "syn": [
     "certainly"
-   ]
+   ],
+   "ipa": "/ˈdɛfənɪtli/"
   },
   {
    "word": "run out of",
    "pos": "구동사",
    "ko": "~을 다 써버리다, ~이 떨어지다",
    "ex_en": "We ran out of milk, so I need to go to the store.",
-   "ex_ko": "우유가 다 떨어져서 가게에 가야 해."
+   "ex_ko": "우유가 다 떨어져서 가게에 가야 해.",
+   "ipa": "/rʌn aʊt əv/"
   },
   {
    "word": "come up with",
@@ -690,7 +763,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "그 팀은 새 광고를 위한 창의적인 아이디어를 생각해 냈다.",
    "syn": [
     "think of"
-   ]
+   ],
+   "ipa": "/kʌm ʌp wɪθ/"
   },
   {
    "word": "drop by",
@@ -700,7 +774,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "궁금한 점이 있으면 언제든 제 사무실에 들르세요.",
    "syn": [
     "stop by"
-   ]
+   ],
+   "ipa": "/drɑp baɪ/"
   },
   {
    "word": "fill out",
@@ -710,7 +785,8 @@ window.TEPS_DATA.low = {
    "ex_ko": "이 양식을 작성해서 프런트에 제출해 주세요.",
    "syn": [
     "complete"
-   ]
+   ],
+   "ipa": "/fɪl aʊt/"
   },
   {
    "word": "get over",
@@ -720,14 +796,16 @@ window.TEPS_DATA.low = {
    "ex_ko": "그녀는 심한 감기에서 회복하는 데 일주일이 걸렸다.",
    "syn": [
     "recover from"
-   ]
+   ],
+   "ipa": "/ɡɛt ˈoʊvɚ/"
   },
   {
    "word": "look forward to",
    "pos": "숙어",
    "ko": "~을 기대하다, 고대하다",
    "ex_en": "I'm really looking forward to seeing you at the reunion next week.",
-   "ex_ko": "다음 주 동창회에서 널 만나기를 정말 기대하고 있어."
+   "ex_ko": "다음 주 동창회에서 널 만나기를 정말 기대하고 있어.",
+   "ipa": "/lʊk ˈfɔrwɚd tu/"
   },
   {
    "word": "in advance",
@@ -737,14 +815,2911 @@ window.TEPS_DATA.low = {
    "ex_ko": "기차표는 적어도 일주일 전에 미리 예매하는 게 좋다.",
    "syn": [
     "beforehand"
-   ]
+   ],
+   "ipa": "/ɪn ədˈvæns/"
   },
   {
    "word": "make sense",
    "pos": "숙어",
    "ko": "이치에 맞다, 이해가 되다",
    "ex_en": "His explanation didn't make sense to me at all.",
-   "ex_ko": "그의 설명은 나에게 전혀 이해가 되지 않았다."
+   "ex_ko": "그의 설명은 나에게 전혀 이해가 되지 않았다.",
+   "ipa": "/meɪk sɛns/"
+  },
+  {
+   "word": "fare",
+   "pos": "명사",
+   "ko": "(버스·택시 등의) 요금, 운임",
+   "ipa": "/ˈfɛr/",
+   "ex_en": "The bus fare will increase by ten percent starting next month.",
+   "ex_ko": "다음 달부터 버스 요금이 10퍼센트 인상될 것이다.",
+   "syn": [
+    "fee",
+    "charge"
+   ]
+  },
+  {
+   "word": "deposit",
+   "pos": "명사",
+   "ko": "보증금; 예금",
+   "ipa": "/dɪˈpɑzɪt/",
+   "ex_en": "You have to pay a deposit of two months' rent before moving in.",
+   "ex_ko": "입주 전에 두 달 치 월세에 해당하는 보증금을 내야 한다.",
+   "syn": [
+    "down payment"
+   ]
+  },
+  {
+   "word": "landlord",
+   "pos": "명사",
+   "ko": "집주인, 임대인",
+   "ipa": "/ˈlændˌlɔrd/",
+   "ex_en": "Our landlord promised to fix the leaking roof by this weekend.",
+   "ex_ko": "집주인이 이번 주말까지 새는 지붕을 고쳐 주기로 약속했다.",
+   "syn": [
+    "property owner"
+   ]
+  },
+  {
+   "word": "tenant",
+   "pos": "명사",
+   "ko": "세입자, 임차인",
+   "ipa": "/ˈtɛnənt/",
+   "ex_en": "The new tenant moved into the apartment upstairs last Friday.",
+   "ex_ko": "새 세입자가 지난 금요일에 위층 아파트로 이사 왔다.",
+   "syn": [
+    "renter"
+   ]
+  },
+  {
+   "word": "utility",
+   "pos": "명사",
+   "ko": "(전기·수도 등의) 공공요금; 유용성",
+   "ipa": "/juˈtɪləti/",
+   "ex_en": "Utilities are included in the monthly rent for this studio apartment.",
+   "ex_ko": "이 원룸은 공과금이 월세에 포함되어 있다.",
+   "syn": []
+  },
+  {
+   "word": "appliance",
+   "pos": "명사",
+   "ko": "가전제품",
+   "ipa": "/əˈplaɪəns/",
+   "ex_en": "This store offers free delivery on all home appliances over two hundred dollars.",
+   "ex_ko": "이 매장은 200달러가 넘는 모든 가전제품을 무료로 배송해 준다.",
+   "syn": [
+    "device",
+    "equipment"
+   ]
+  },
+  {
+   "word": "lease",
+   "pos": "명사",
+   "ko": "임대차 계약",
+   "ipa": "/ˈlis/",
+   "ex_en": "My lease runs out at the end of June, so I need to move.",
+   "ex_ko": "임대 계약이 6월 말에 끝나서 이사를 해야 한다.",
+   "syn": [
+    "rental contract"
+   ]
+  },
+  {
+   "word": "itinerary",
+   "pos": "명사",
+   "ko": "여행 일정(표)",
+   "ipa": "/aɪˈtɪnəˌrɛri/",
+   "ex_en": "The travel agency sent us a detailed itinerary for our trip to Spain.",
+   "ex_ko": "여행사가 우리의 스페인 여행 상세 일정표를 보내 주었다.",
+   "syn": [
+    "travel plan"
+   ]
+  },
+  {
+   "word": "voucher",
+   "pos": "명사",
+   "ko": "상품권, 할인권",
+   "ipa": "/ˈvaʊtʃɚ/",
+   "ex_en": "Passengers received a meal voucher because their flight was delayed for hours.",
+   "ex_ko": "승객들은 항공편이 몇 시간 지연되어 식사 쿠폰을 받았다.",
+   "syn": [
+    "coupon",
+    "gift certificate"
+   ]
+  },
+  {
+   "word": "errand",
+   "pos": "명사",
+   "ko": "심부름, 볼일",
+   "ipa": "/ˈɛrənd/",
+   "ex_en": "I have to run a few errands downtown before the stores close.",
+   "ex_ko": "가게들이 문을 닫기 전에 시내에서 볼일을 몇 가지 봐야 한다.",
+   "syn": [
+    "chore",
+    "task"
+   ]
+  },
+  {
+   "word": "amenity",
+   "pos": "명사",
+   "ko": "(호텔·주거 단지의) 편의시설",
+   "ipa": "/əˈmɛnəti/",
+   "ex_en": "The hotel offers many amenities, including a gym and a rooftop pool.",
+   "ex_ko": "그 호텔은 헬스장과 옥상 수영장을 포함해 많은 편의시설을 제공한다.",
+   "syn": [
+    "facility"
+   ]
+  },
+  {
+   "word": "layover",
+   "pos": "명사",
+   "ko": "(비행 중간의) 경유, 단기 체류",
+   "ipa": "/ˈleɪˌoʊvɚ/",
+   "ex_en": "We have a three-hour layover in Tokyo before flying on to Sydney.",
+   "ex_ko": "우리는 시드니로 가기 전에 도쿄에서 세 시간 경유한다.",
+   "syn": [
+    "stopover"
+   ]
+  },
+  {
+   "word": "aisle",
+   "pos": "명사",
+   "ko": "(상점·기내의) 통로",
+   "ipa": "/ˈaɪl/",
+   "ex_en": "Cleaning products are in aisle five, next to the paper towels.",
+   "ex_ko": "세제류는 5번 통로, 키친타월 옆에 있습니다.",
+   "syn": [
+    "passage"
+   ]
+  },
+  {
+   "word": "merchandise",
+   "pos": "명사",
+   "ko": "상품, 제품",
+   "ipa": "/ˈmɝtʃənˌdaɪz/",
+   "ex_en": "All merchandise on this shelf is thirty percent off this week only.",
+   "ex_ko": "이 진열대의 모든 상품은 이번 주에 한해 30퍼센트 할인된다.",
+   "syn": [
+    "goods",
+    "products"
+   ]
+  },
+  {
+   "word": "expense",
+   "pos": "명사",
+   "ko": "비용, 지출",
+   "ipa": "/ɪkˈspɛns/",
+   "ex_en": "Keeping a car in the city involves a lot of extra expenses.",
+   "ex_ko": "도시에서 차를 유지하려면 추가 비용이 많이 든다.",
+   "syn": [
+    "cost",
+    "expenditure"
+   ]
+  },
+  {
+   "word": "subscription",
+   "pos": "명사",
+   "ko": "구독(료), 정기 이용권",
+   "ipa": "/səbˈskrɪpʃən/",
+   "ex_en": "I canceled my magazine subscription because I never had time to read it.",
+   "ex_ko": "읽을 시간이 전혀 없어서 잡지 구독을 해지했다.",
+   "syn": [
+    "membership"
+   ]
+  },
+  {
+   "word": "resident",
+   "pos": "명사",
+   "ko": "거주자, 주민",
+   "ipa": "/ˈrɛzədənt/",
+   "ex_en": "Residents of the building complained about the noise from the construction site.",
+   "ex_ko": "그 건물 주민들은 공사장에서 나는 소음에 대해 불평했다.",
+   "syn": [
+    "inhabitant",
+    "occupant"
+   ]
+  },
+  {
+   "word": "pedestrian",
+   "pos": "명사",
+   "ko": "보행자",
+   "ipa": "/pəˈdɛstriən/",
+   "ex_en": "Drivers must slow down when pedestrians are crossing the street.",
+   "ex_ko": "보행자가 길을 건널 때 운전자는 속도를 줄여야 한다.",
+   "syn": [
+    "walker"
+   ]
+  },
+  {
+   "word": "renovate",
+   "pos": "동사",
+   "ko": "개조하다, 보수하다",
+   "ipa": "/ˈrɛnəˌveɪt/",
+   "ex_en": "They renovated the old kitchen and added new cabinets and lighting.",
+   "ex_ko": "그들은 낡은 주방을 개조하고 새 수납장과 조명을 달았다.",
+   "syn": [
+    "remodel",
+    "restore"
+   ]
+  },
+  {
+   "word": "relocate",
+   "pos": "동사",
+   "ko": "이전하다, 이사하다",
+   "ipa": "/riˈloʊˌkeɪt/",
+   "ex_en": "The company will relocate its head office to a cheaper part of town.",
+   "ex_ko": "그 회사는 본사를 시내의 더 저렴한 지역으로 이전할 것이다.",
+   "syn": [
+    "move"
+   ]
+  },
+  {
+   "word": "exchange",
+   "pos": "동사",
+   "ko": "교환하다; 환전하다",
+   "ipa": "/ɪksˈtʃeɪndʒ/",
+   "ex_en": "Can I exchange this sweater for a larger size without the receipt?",
+   "ex_ko": "영수증 없이 이 스웨터를 더 큰 사이즈로 교환할 수 있나요?",
+   "syn": [
+    "swap",
+    "trade"
+   ]
+  },
+  {
+   "word": "charge",
+   "pos": "동사",
+   "ko": "(요금을) 청구하다; 충전하다",
+   "ipa": "/ˈtʃɑrdʒ/",
+   "ex_en": "The hotel charges an extra fee for late checkout on weekends.",
+   "ex_ko": "그 호텔은 주말 늦은 체크아웃에 대해 추가 요금을 청구한다.",
+   "syn": [
+    "bill"
+   ]
+  },
+  {
+   "word": "owe",
+   "pos": "동사",
+   "ko": "(돈을) 빚지고 있다, 갚아야 한다",
+   "ipa": "/ˈoʊ/",
+   "ex_en": "I still owe my roommate twenty dollars for last week's groceries.",
+   "ex_ko": "지난주 장 본 값으로 룸메이트에게 아직 20달러를 갚아야 한다.",
+   "syn": []
+  },
+  {
+   "word": "inquire",
+   "pos": "동사",
+   "ko": "문의하다, 묻다",
+   "ipa": "/ɪnˈkwaɪɚ/",
+   "ex_en": "She called the front desk to inquire about the checkout time.",
+   "ex_ko": "그녀는 체크아웃 시간을 문의하려고 프런트에 전화했다.",
+   "syn": [
+    "ask"
+   ]
+  },
+  {
+   "word": "extend",
+   "pos": "동사",
+   "ko": "연장하다; 늘리다",
+   "ipa": "/ɪkˈstɛnd/",
+   "ex_en": "We decided to extend our stay in Rome for two more nights.",
+   "ex_ko": "우리는 로마에서 이틀 밤 더 묵도록 체류를 연장하기로 했다.",
+   "syn": [
+    "prolong",
+    "lengthen"
+   ]
+  },
+  {
+   "word": "expire",
+   "pos": "동사",
+   "ko": "(기한이) 만료되다",
+   "ipa": "/ɪkˈspaɪɚ/",
+   "ex_en": "This coupon expires at the end of the month, so use it soon.",
+   "ex_ko": "이 쿠폰은 이달 말에 만료되니 빨리 사용하세요.",
+   "syn": [
+    "run out"
+   ]
+  },
+  {
+   "word": "depart",
+   "pos": "동사",
+   "ko": "출발하다, 떠나다",
+   "ipa": "/dɪˈpɑrt/",
+   "ex_en": "The express train to the airport departs every twenty minutes from platform two.",
+   "ex_ko": "공항행 급행열차는 2번 승강장에서 20분마다 출발한다.",
+   "syn": [
+    "leave"
+   ]
+  },
+  {
+   "word": "accommodate",
+   "pos": "동사",
+   "ko": "수용하다; (요구를) 들어주다",
+   "ipa": "/əˈkɑməˌdeɪt/",
+   "ex_en": "The banquet hall can accommodate up to two hundred guests comfortably.",
+   "ex_ko": "그 연회장은 최대 200명의 손님을 무리 없이 수용할 수 있다.",
+   "syn": [
+    "hold",
+    "house"
+   ]
+  },
+  {
+   "word": "transfer",
+   "pos": "동사",
+   "ko": "환승하다; (돈을) 이체하다",
+   "ipa": "/trænsˈfɝ/",
+   "ex_en": "You need to transfer to the blue line at the next station.",
+   "ex_ko": "다음 역에서 파란색 노선으로 환승해야 합니다.",
+   "syn": [
+    "change"
+   ]
+  },
+  {
+   "word": "install",
+   "pos": "동사",
+   "ko": "설치하다",
+   "ipa": "/ɪnˈstɔl/",
+   "ex_en": "A technician will visit tomorrow to install the new air conditioner.",
+   "ex_ko": "기사가 내일 방문하여 새 에어컨을 설치할 것이다.",
+   "syn": [
+    "set up"
+   ]
+  },
+  {
+   "word": "operate",
+   "pos": "동사",
+   "ko": "운행하다, 작동하다; 운영하다",
+   "ipa": "/ˈɑpəˌreɪt/",
+   "ex_en": "The shuttle bus operates every day except on national holidays.",
+   "ex_ko": "그 셔틀버스는 국경일을 제외하고 매일 운행한다.",
+   "syn": [
+    "run",
+    "function"
+   ]
+  },
+  {
+   "word": "furnish",
+   "pos": "동사",
+   "ko": "가구를 갖추다, 비치하다",
+   "ipa": "/ˈfɝnɪʃ/",
+   "ex_en": "The apartment comes fully furnished, so you only need to bring your clothes.",
+   "ex_ko": "그 아파트는 가구가 완비되어 있어서 옷만 가져오면 된다.",
+   "syn": [
+    "equip"
+   ]
+  },
+  {
+   "word": "vacant",
+   "pos": "형용사",
+   "ko": "비어 있는, 사람이 없는",
+   "ipa": "/ˈveɪkənt/",
+   "ex_en": "There are still a few vacant rooms on the third floor.",
+   "ex_ko": "3층에는 아직 빈 방이 몇 개 있다.",
+   "syn": [
+    "empty",
+    "unoccupied"
+   ]
+  },
+  {
+   "word": "complimentary",
+   "pos": "형용사",
+   "ko": "무료의; 칭찬하는",
+   "ipa": "/ˌkɑmpləˈmɛntəri/",
+   "ex_en": "All guests receive a complimentary breakfast during their stay at the hotel.",
+   "ex_ko": "모든 투숙객은 호텔에 묵는 동안 무료 조식을 제공받는다.",
+   "syn": [
+    "free"
+   ]
+  },
+  {
+   "word": "defective",
+   "pos": "형용사",
+   "ko": "결함이 있는",
+   "ipa": "/dɪˈfɛktɪv/",
+   "ex_en": "The store replaced my defective toaster with a brand-new one for free.",
+   "ex_ko": "가게에서 결함이 있는 내 토스터를 새 제품으로 무료로 교체해 주었다.",
+   "syn": [
+    "faulty"
+   ]
+  },
+  {
+   "word": "fragile",
+   "pos": "형용사",
+   "ko": "깨지기 쉬운, 연약한",
+   "ipa": "/ˈfrædʒəl/",
+   "ex_en": "Please handle this package carefully because it contains fragile glassware.",
+   "ex_ko": "이 소포에는 깨지기 쉬운 유리 제품이 들어 있으니 조심히 다뤄 주세요.",
+   "syn": [
+    "delicate",
+    "breakable"
+   ]
+  },
+  {
+   "word": "durable",
+   "pos": "형용사",
+   "ko": "내구성이 좋은, 오래가는",
+   "ipa": "/ˈdʊrəbəl/",
+   "ex_en": "These hiking boots are expensive, but they are extremely durable.",
+   "ex_ko": "이 등산화는 비싸지만 내구성이 매우 뛰어나다.",
+   "syn": [
+    "sturdy",
+    "long-lasting"
+   ]
+  },
+  {
+   "word": "overdue",
+   "pos": "형용사",
+   "ko": "기한이 지난, 연체된",
+   "ipa": "/ˌoʊvɚˈdu/",
+   "ex_en": "My library books are three days overdue, so I have to pay a fine.",
+   "ex_ko": "도서관 책이 사흘 연체되어서 연체료를 내야 한다.",
+   "syn": [
+    "late",
+    "unpaid"
+   ]
+  },
+  {
+   "word": "punctual",
+   "pos": "형용사",
+   "ko": "시간을 엄수하는",
+   "ipa": "/ˈpʌŋktʃuəl/",
+   "ex_en": "Please be punctual, as the tour bus will not wait for latecomers.",
+   "ex_ko": "투어 버스는 늦는 사람을 기다려 주지 않으니 시간을 지켜 주세요.",
+   "syn": [
+    "on time",
+    "prompt"
+   ]
+  },
+  {
+   "word": "flexible",
+   "pos": "형용사",
+   "ko": "유연한, 융통성 있는",
+   "ipa": "/ˈflɛksəbəl/",
+   "ex_en": "The gym offers flexible membership plans that fit different budgets.",
+   "ex_ko": "그 헬스장은 다양한 예산에 맞는 유연한 회원권 제도를 제공한다.",
+   "syn": [
+    "adaptable",
+    "adjustable"
+   ]
+  },
+  {
+   "word": "additional",
+   "pos": "형용사",
+   "ko": "추가의",
+   "ipa": "/əˈdɪʃənəl/",
+   "ex_en": "There is an additional charge for checked baggage on this flight.",
+   "ex_ko": "이 항공편에서는 위탁 수하물에 추가 요금이 붙는다.",
+   "syn": [
+    "extra",
+    "supplementary"
+   ]
+  },
+  {
+   "word": "domestic",
+   "pos": "형용사",
+   "ko": "국내의; 가정의",
+   "ipa": "/dəˈmɛstɪk/",
+   "ex_en": "Domestic flights are often cheaper if you book them several weeks ahead.",
+   "ex_ko": "국내선 항공편은 몇 주 전에 예약하면 대체로 더 저렴하다.",
+   "syn": [
+    "national",
+    "internal"
+   ]
+  },
+  {
+   "word": "promptly",
+   "pos": "부사",
+   "ko": "즉시, 지체 없이",
+   "ipa": "/ˈprɑmptli/",
+   "ex_en": "The customer service team responded promptly to my email about the billing error.",
+   "ex_ko": "고객 서비스팀은 요금 오류에 관한 내 이메일에 즉시 답변했다.",
+   "syn": [
+    "quickly",
+    "immediately"
+   ]
+  },
+  {
+   "word": "occasionally",
+   "pos": "부사",
+   "ko": "가끔, 이따금",
+   "ipa": "/əˈkeɪʒənəli/",
+   "ex_en": "We occasionally eat out at the Italian restaurant near our apartment.",
+   "ex_ko": "우리는 가끔 아파트 근처 이탈리아 식당에서 외식을 한다.",
+   "syn": [
+    "sometimes",
+    "from time to time"
+   ]
+  },
+  {
+   "word": "otherwise",
+   "pos": "부사",
+   "ko": "그렇지 않으면; 그 외에는",
+   "ipa": "/ˈʌðɚˌwaɪz/",
+   "ex_en": "Leave now; otherwise, you will miss the last train home.",
+   "ex_ko": "지금 출발해라. 그렇지 않으면 집에 가는 막차를 놓칠 것이다.",
+   "syn": [
+    "or else"
+   ]
+  },
+  {
+   "word": "try on",
+   "pos": "구동사",
+   "ko": "(옷 등을) 입어 보다, 착용해 보다",
+   "ipa": "/traɪ ɑn/",
+   "ex_en": "You should try on the jacket before deciding whether to buy it.",
+   "ex_ko": "그 재킷을 살지 결정하기 전에 입어 보는 게 좋다.",
+   "syn": []
+  },
+  {
+   "word": "pick up",
+   "pos": "구동사",
+   "ko": "찾아오다, 수령하다; 태우러 가다",
+   "ipa": "/pɪk ʌp/",
+   "ex_en": "I need to pick up my dry cleaning on the way home.",
+   "ex_ko": "집에 가는 길에 세탁소에 맡긴 옷을 찾아와야 한다.",
+   "syn": [
+    "collect"
+   ]
+  },
+  {
+   "word": "check in",
+   "pos": "구동사",
+   "ko": "투숙·탑승 수속을 하다",
+   "ipa": "/tʃɛk ɪn/",
+   "ex_en": "You can check in at the hotel any time after three o'clock.",
+   "ex_ko": "호텔에는 3시 이후 아무 때나 체크인할 수 있다.",
+   "syn": []
+  },
+  {
+   "word": "get off",
+   "pos": "구동사",
+   "ko": "(버스·기차에서) 내리다",
+   "ipa": "/ɡɛt ɔf/",
+   "ex_en": "Get off at City Hall Station and take exit number four.",
+   "ex_ko": "시청역에서 내려서 4번 출구로 나가세요.",
+   "syn": []
+  },
+  {
+   "word": "out of stock",
+   "pos": "숙어",
+   "ko": "품절된, 재고가 없는",
+   "ipa": "/aʊt əv stɑk/",
+   "ex_en": "The shoes I wanted were out of stock in my size.",
+   "ex_ko": "내가 원했던 신발은 내 사이즈가 품절이었다.",
+   "syn": [
+    "sold out"
+   ]
+  },
+  {
+   "word": "salary",
+   "pos": "명사",
+   "ko": "급여, 월급",
+   "ipa": "/ˈsæləri/",
+   "ex_en": "The company offers a good salary and health benefits to new employees.",
+   "ex_ko": "그 회사는 신입 사원에게 좋은 급여와 건강 보험 혜택을 제공한다.",
+   "syn": [
+    "pay",
+    "wage"
+   ]
+  },
+  {
+   "word": "employee",
+   "pos": "명사",
+   "ko": "직원, 종업원",
+   "ipa": "/ɪmˈplɔɪi/",
+   "ex_en": "Every employee must attend the safety training session next Monday morning.",
+   "ex_ko": "모든 직원은 다음 주 월요일 아침 안전 교육에 참석해야 한다.",
+   "syn": [
+    "worker",
+    "staff member"
+   ]
+  },
+  {
+   "word": "contract",
+   "pos": "명사",
+   "ko": "계약, 계약서",
+   "ipa": "/ˈkɑntrækt/",
+   "ex_en": "Please read the contract carefully before you sign it.",
+   "ex_ko": "서명하기 전에 계약서를 주의 깊게 읽어 보세요.",
+   "syn": [
+    "agreement",
+    "deal"
+   ]
+  },
+  {
+   "word": "profit",
+   "pos": "명사",
+   "ko": "이익, 수익",
+   "ipa": "/ˈprɑfɪt/",
+   "ex_en": "The company made a large profit by selling its products overseas.",
+   "ex_ko": "그 회사는 해외에 제품을 판매해 큰 이익을 냈다.",
+   "syn": [
+    "gain",
+    "earnings"
+   ]
+  },
+  {
+   "word": "invoice",
+   "pos": "명사",
+   "ko": "송장, 청구서",
+   "ipa": "/ˈɪnvɔɪs/",
+   "ex_en": "We will send you an invoice once your order has shipped.",
+   "ex_ko": "주문하신 상품이 발송되면 송장을 보내 드리겠습니다.",
+   "syn": [
+    "bill"
+   ]
+  },
+  {
+   "word": "loan",
+   "pos": "명사",
+   "ko": "대출, 빌려준 돈",
+   "ipa": "/ˈloʊn/",
+   "ex_en": "She took out a loan from the bank to start her business.",
+   "ex_ko": "그녀는 사업을 시작하기 위해 은행에서 대출을 받았다.",
+   "syn": [
+    "credit"
+   ]
+  },
+  {
+   "word": "interest",
+   "pos": "명사",
+   "ko": "이자; 관심",
+   "ipa": "/ˈɪntrəst/",
+   "ex_en": "The bank charges high interest on credit card debt.",
+   "ex_ko": "그 은행은 신용카드 빚에 높은 이자를 부과한다."
+  },
+  {
+   "word": "account",
+   "pos": "명사",
+   "ko": "계좌; 계정",
+   "ipa": "/əˈkaʊnt/",
+   "ex_en": "I opened a savings account at the bank near my office.",
+   "ex_ko": "나는 사무실 근처 은행에서 예금 계좌를 개설했다."
+  },
+  {
+   "word": "currency",
+   "pos": "명사",
+   "ko": "통화, 화폐",
+   "ipa": "/ˈkɝənsi/",
+   "ex_en": "You can exchange foreign currency at the airport before your trip.",
+   "ex_ko": "여행 전에 공항에서 외화를 환전할 수 있다.",
+   "syn": [
+    "money"
+   ]
+  },
+  {
+   "word": "debt",
+   "pos": "명사",
+   "ko": "빚, 부채",
+   "ipa": "/ˈdɛt/",
+   "ex_en": "He worked two jobs to pay back his student debt.",
+   "ex_ko": "그는 학자금 빚을 갚기 위해 두 가지 일을 했다.",
+   "syn": [
+    "liability"
+   ]
+  },
+  {
+   "word": "promotion",
+   "pos": "명사",
+   "ko": "승진; 판촉",
+   "ipa": "/prəˈmoʊʃən/",
+   "ex_en": "She received a promotion after leading the project successfully last year.",
+   "ex_ko": "그녀는 작년에 프로젝트를 성공적으로 이끈 후 승진했다.",
+   "syn": [
+    "advancement"
+   ]
+  },
+  {
+   "word": "resume",
+   "pos": "명사",
+   "ko": "이력서",
+   "ipa": "/ˈrɛzəˌmeɪ/",
+   "ex_en": "Please submit your resume and cover letter by this Friday.",
+   "ex_ko": "이번 주 금요일까지 이력서와 자기소개서를 제출해 주세요.",
+   "syn": [
+    "CV"
+   ]
+  },
+  {
+   "word": "department",
+   "pos": "명사",
+   "ko": "부서",
+   "ipa": "/dɪˈpɑrtmənt/",
+   "ex_en": "He was transferred to the marketing department last month.",
+   "ex_ko": "그는 지난달 마케팅 부서로 전근되었다.",
+   "syn": [
+    "division"
+   ]
+  },
+  {
+   "word": "tax",
+   "pos": "명사",
+   "ko": "세금",
+   "ipa": "/ˈtæks/",
+   "ex_en": "The government plans to raise taxes on luxury goods next year.",
+   "ex_ko": "정부는 내년에 사치품에 대한 세금을 인상할 계획이다."
+  },
+  {
+   "word": "branch",
+   "pos": "명사",
+   "ko": "지점, 지사; 나뭇가지",
+   "ipa": "/ˈbræntʃ/",
+   "ex_en": "Our bank opened a new branch in the downtown area.",
+   "ex_ko": "우리 은행은 시내 중심가에 새 지점을 열었다."
+  },
+  {
+   "word": "client",
+   "pos": "명사",
+   "ko": "고객, 의뢰인",
+   "ipa": "/ˈklaɪənt/",
+   "ex_en": "The lawyer met with an important client to discuss the case.",
+   "ex_ko": "그 변호사는 사건을 논의하기 위해 중요한 의뢰인을 만났다.",
+   "syn": [
+    "customer"
+   ]
+  },
+  {
+   "word": "demand",
+   "pos": "명사",
+   "ko": "수요; 요구",
+   "ipa": "/dɪˈmænd/",
+   "ex_en": "The demand for electric cars has grown quickly in recent years.",
+   "ex_ko": "최근 몇 년 사이 전기차에 대한 수요가 빠르게 증가했다.",
+   "syn": [
+    "need",
+    "request"
+   ]
+  },
+  {
+   "word": "supply",
+   "pos": "명사",
+   "ko": "공급; 공급량",
+   "ipa": "/səˈplaɪ/",
+   "ex_en": "The store keeps a large supply of bottled water in stock.",
+   "ex_ko": "그 가게는 생수 재고를 대량으로 보유하고 있다.",
+   "syn": [
+    "provision",
+    "stock"
+   ]
+  },
+  {
+   "word": "inflation",
+   "pos": "명사",
+   "ko": "물가 상승, 인플레이션",
+   "ipa": "/ɪnˈfleɪʃən/",
+   "ex_en": "Because of inflation, food prices have risen sharply this year.",
+   "ex_ko": "물가 상승 때문에 올해 식료품 가격이 급격히 올랐다."
+  },
+  {
+   "word": "negotiate",
+   "pos": "동사",
+   "ko": "협상하다",
+   "ipa": "/nɪˈɡoʊʃiˌeɪt/",
+   "ex_en": "The union will negotiate with management for higher wages next week.",
+   "ex_ko": "노조는 다음 주에 임금 인상을 놓고 경영진과 협상할 것이다.",
+   "syn": [
+    "bargain"
+   ]
+  },
+  {
+   "word": "invest",
+   "pos": "동사",
+   "ko": "투자하다",
+   "ipa": "/ɪnˈvɛst/",
+   "ex_en": "Many young people invest their savings in stocks these days.",
+   "ex_ko": "요즘 많은 젊은이들이 저축한 돈을 주식에 투자한다."
+  },
+  {
+   "word": "resign",
+   "pos": "동사",
+   "ko": "사직하다, 사임하다",
+   "ipa": "/rɪˈzaɪn/",
+   "ex_en": "The manager decided to resign after ten years with the company.",
+   "ex_ko": "그 관리자는 회사에서 10년을 근무한 후 사직하기로 결정했다.",
+   "syn": [
+    "quit",
+    "step down"
+   ]
+  },
+  {
+   "word": "retire",
+   "pos": "동사",
+   "ko": "은퇴하다, 퇴직하다",
+   "ipa": "/rɪˈtaɪɚ/",
+   "ex_en": "My father plans to retire from his job at sixty-five.",
+   "ex_ko": "우리 아버지는 65세에 은퇴할 계획이시다."
+  },
+  {
+   "word": "apply",
+   "pos": "동사",
+   "ko": "지원하다; 신청하다",
+   "ipa": "/əˈplaɪ/",
+   "ex_en": "More than fifty people applied for the sales position this month.",
+   "ex_ko": "이번 달에 50명이 넘는 사람들이 그 영업직에 지원했다."
+  },
+  {
+   "word": "submit",
+   "pos": "동사",
+   "ko": "제출하다",
+   "ipa": "/səbˈmɪt/",
+   "ex_en": "You must submit the report to your supervisor by noon tomorrow.",
+   "ex_ko": "내일 정오까지 상사에게 보고서를 제출해야 한다.",
+   "syn": [
+    "hand in",
+    "turn in"
+   ]
+  },
+  {
+   "word": "earn",
+   "pos": "동사",
+   "ko": "(돈을) 벌다; 얻다",
+   "ipa": "/ˈɝn/",
+   "ex_en": "She earns enough money to support her whole family comfortably.",
+   "ex_ko": "그녀는 온 가족을 넉넉히 부양할 만큼 충분한 돈을 번다.",
+   "syn": [
+    "make",
+    "gain"
+   ]
+  },
+  {
+   "word": "estimate",
+   "pos": "동사",
+   "ko": "추정하다; 견적을 내다",
+   "ipa": "/ˈɛstəˌmeɪt/",
+   "ex_en": "Experts estimate that the repairs will cost about two thousand dollars.",
+   "ex_ko": "전문가들은 수리에 약 2천 달러가 들 것으로 추정한다.",
+   "syn": [
+    "calculate",
+    "guess"
+   ]
+  },
+  {
+   "word": "recruit",
+   "pos": "동사",
+   "ko": "모집하다, 채용하다",
+   "ipa": "/rɪˈkrut/",
+   "ex_en": "The company is recruiting new staff for its overseas offices.",
+   "ex_ko": "그 회사는 해외 지사에서 일할 신입 직원을 모집하고 있다."
+  },
+  {
+   "word": "launch",
+   "pos": "동사",
+   "ko": "출시하다; 시작하다",
+   "ipa": "/ˈlɔntʃ/",
+   "ex_en": "The firm will launch its new smartphone in October this year.",
+   "ex_ko": "그 회사는 올해 10월에 새 스마트폰을 출시할 것이다.",
+   "syn": [
+    "release",
+    "start"
+   ]
+  },
+  {
+   "word": "withdraw",
+   "pos": "동사",
+   "ko": "(돈을) 인출하다; 철회하다",
+   "ipa": "/wɪðˈdrɔ/",
+   "ex_en": "You can withdraw cash from the ATM with this bank card.",
+   "ex_ko": "이 은행 카드로 현금 자동 인출기에서 현금을 인출할 수 있다."
+  },
+  {
+   "word": "financial",
+   "pos": "형용사",
+   "ko": "금융의, 재정의",
+   "ipa": "/fəˈnænʃəl/",
+   "ex_en": "The company is facing serious financial problems this year.",
+   "ex_ko": "그 회사는 올해 심각한 재정 문제에 직면해 있다.",
+   "syn": [
+    "monetary"
+   ]
+  },
+  {
+   "word": "commercial",
+   "pos": "형용사",
+   "ko": "상업의, 영리 목적의",
+   "ipa": "/kəˈmɝʃəl/",
+   "ex_en": "The new commercial district is full of shops and restaurants.",
+   "ex_ko": "새로 생긴 상업 지구는 상점과 식당으로 가득하다."
+  },
+  {
+   "word": "annual",
+   "pos": "형용사",
+   "ko": "연례의, 연간의",
+   "ipa": "/ˈænjuəl/",
+   "ex_en": "The company holds its annual meeting every March at headquarters.",
+   "ex_ko": "그 회사는 매년 3월 본사에서 연례 회의를 연다.",
+   "syn": [
+    "yearly"
+   ]
+  },
+  {
+   "word": "competitive",
+   "pos": "형용사",
+   "ko": "경쟁력 있는; 경쟁이 치열한",
+   "ipa": "/kəmˈpɛtətɪv/",
+   "ex_en": "We offer competitive prices to attract more customers to our store.",
+   "ex_ko": "우리는 더 많은 고객을 매장으로 끌기 위해 경쟁력 있는 가격을 제공한다."
+  },
+  {
+   "word": "stable",
+   "pos": "형용사",
+   "ko": "안정된, 안정적인",
+   "ipa": "/ˈsteɪbəl/",
+   "ex_en": "He wants a stable job with a regular monthly income.",
+   "ex_ko": "그는 매달 정기적인 수입이 있는 안정된 직업을 원한다.",
+   "syn": [
+    "steady",
+    "secure"
+   ]
+  },
+  {
+   "word": "regularly",
+   "pos": "부사",
+   "ko": "정기적으로",
+   "ipa": "/ˈrɛɡjəlɚli/",
+   "ex_en": "The team meets regularly to check the progress of the project.",
+   "ex_ko": "그 팀은 프로젝트 진행 상황을 점검하기 위해 정기적으로 모인다.",
+   "syn": [
+    "routinely"
+   ]
+  },
+  {
+   "word": "shortly",
+   "pos": "부사",
+   "ko": "곧, 얼마 안 되어",
+   "ipa": "/ˈʃɔrtli/",
+   "ex_en": "The manager will return shortly, so please wait in the lobby.",
+   "ex_ko": "매니저가 곧 돌아올 테니 로비에서 기다려 주세요.",
+   "syn": [
+    "soon"
+   ]
+  },
+  {
+   "word": "lay off",
+   "pos": "구동사",
+   "ko": "해고하다",
+   "ipa": "/leɪ ˈɔf/",
+   "ex_en": "The factory had to lay off fifty workers because of falling sales.",
+   "ex_ko": "그 공장은 매출 감소 때문에 직원 50명을 해고해야 했다.",
+   "syn": [
+    "dismiss"
+   ]
+  },
+  {
+   "word": "take over",
+   "pos": "구동사",
+   "ko": "인수하다; (업무를) 넘겨받다",
+   "ipa": "/teɪk ˈoʊvɚ/",
+   "ex_en": "A larger company plans to take over our firm next year.",
+   "ex_ko": "한 대기업이 내년에 우리 회사를 인수할 계획이다."
+  },
+  {
+   "word": "pay off",
+   "pos": "구동사",
+   "ko": "(빚을) 다 갚다; 성과를 내다",
+   "ipa": "/peɪ ˈɔf/",
+   "ex_en": "It took them ten years to pay off the house loan.",
+   "ex_ko": "그들이 주택 대출을 다 갚는 데 10년이 걸렸다."
+  },
+  {
+   "word": "set up",
+   "pos": "구동사",
+   "ko": "설립하다, 세우다",
+   "ipa": "/sɛt ˈʌp/",
+   "ex_en": "She set up her own company after leaving her old job.",
+   "ex_ko": "그녀는 이전 직장을 그만둔 뒤 자신의 회사를 설립했다.",
+   "syn": [
+    "establish",
+    "found"
+   ]
+  },
+  {
+   "word": "in charge of",
+   "pos": "숙어",
+   "ko": "~을 담당하는, 책임지는",
+   "ipa": "/ɪn ˈtʃɑrdʒ əv/",
+   "ex_en": "Ms. Kim is in charge of the company's advertising campaigns.",
+   "ex_ko": "김 씨는 회사의 광고 캠페인을 담당하고 있다.",
+   "syn": [
+    "responsible for"
+   ]
+  },
+  {
+   "word": "assignment",
+   "pos": "명사",
+   "ko": "과제, 임무",
+   "ipa": "/əˈsaɪnmənt/",
+   "ex_en": "You must submit the assignment by Friday to receive full credit.",
+   "ex_ko": "만점을 받으려면 금요일까지 과제를 제출해야 합니다.",
+   "syn": [
+    "task",
+    "homework"
+   ]
+  },
+  {
+   "word": "lecture",
+   "pos": "명사",
+   "ko": "강의, 강연",
+   "ipa": "/ˈlɛktʃɚ/",
+   "ex_en": "The professor's lecture on modern history attracted more than two hundred students.",
+   "ex_ko": "현대사에 관한 그 교수의 강의는 200명이 넘는 학생들을 끌어모았다.",
+   "syn": [
+    "talk",
+    "class"
+   ]
+  },
+  {
+   "word": "semester",
+   "pos": "명사",
+   "ko": "학기",
+   "ipa": "/səˈmɛstɚ/",
+   "ex_en": "I plan to take five courses during the spring semester this year.",
+   "ex_ko": "나는 올해 봄 학기에 다섯 과목을 수강할 계획이다.",
+   "syn": [
+    "term"
+   ]
+  },
+  {
+   "word": "scholarship",
+   "pos": "명사",
+   "ko": "장학금",
+   "ipa": "/ˈskɑlɚˌʃɪp/",
+   "ex_en": "She received a full scholarship because of her excellent grades in high school.",
+   "ex_ko": "그녀는 고등학교에서의 우수한 성적 덕분에 전액 장학금을 받았다.",
+   "syn": [
+    "grant"
+   ]
+  },
+  {
+   "word": "tuition",
+   "pos": "명사",
+   "ko": "등록금, 수업료",
+   "ipa": "/tuˈɪʃən/",
+   "ex_en": "Many students work part-time jobs to pay for their college tuition.",
+   "ex_ko": "많은 학생들이 대학 등록금을 내기 위해 아르바이트를 한다."
+  },
+  {
+   "word": "dormitory",
+   "pos": "명사",
+   "ko": "기숙사",
+   "ipa": "/ˈdɔrməˌtɔri/",
+   "ex_en": "Freshmen are required to live in the dormitory during their first year.",
+   "ex_ko": "신입생은 1학년 동안 기숙사에서 생활해야 한다.",
+   "syn": [
+    "residence hall"
+   ]
+  },
+  {
+   "word": "experiment",
+   "pos": "명사",
+   "ko": "실험",
+   "ipa": "/ɪkˈspɛrəmənt/",
+   "ex_en": "The scientists repeated the experiment three times to check their results.",
+   "ex_ko": "과학자들은 결과를 확인하기 위해 실험을 세 번 반복했다.",
+   "syn": [
+    "test",
+    "trial"
+   ]
+  },
+  {
+   "word": "survey",
+   "pos": "명사",
+   "ko": "설문 조사",
+   "ipa": "/ˈsɝveɪ/",
+   "ex_en": "The university conducted a survey to learn about student satisfaction with campus food.",
+   "ex_ko": "그 대학은 교내 음식에 대한 학생 만족도를 알아보기 위해 설문 조사를 실시했다.",
+   "syn": [
+    "poll",
+    "questionnaire"
+   ]
+  },
+  {
+   "word": "theory",
+   "pos": "명사",
+   "ko": "이론, 학설",
+   "ipa": "/ˈθiəri/",
+   "ex_en": "His theory explains why some children learn languages faster than others.",
+   "ex_ko": "그의 이론은 왜 어떤 아이들이 다른 아이들보다 언어를 더 빨리 배우는지 설명한다.",
+   "syn": [
+    "hypothesis"
+   ]
+  },
+  {
+   "word": "vocabulary",
+   "pos": "명사",
+   "ko": "어휘, 어휘력",
+   "ipa": "/voʊˈkæbjəˌlɛri/",
+   "ex_en": "Reading English novels is a great way to build your vocabulary.",
+   "ex_ko": "영어 소설을 읽는 것은 어휘력을 키우는 좋은 방법이다."
+  },
+  {
+   "word": "grammar",
+   "pos": "명사",
+   "ko": "문법",
+   "ipa": "/ˈɡræmɚ/",
+   "ex_en": "Students often make grammar mistakes when they write essays in English.",
+   "ex_ko": "학생들은 영어로 에세이를 쓸 때 종종 문법 실수를 한다."
+  },
+  {
+   "word": "laboratory",
+   "pos": "명사",
+   "ko": "실험실, 연구실",
+   "ipa": "/ˈlæbrəˌtɔri/",
+   "ex_en": "The chemistry laboratory is open to students until nine in the evening.",
+   "ex_ko": "화학 실험실은 저녁 9시까지 학생들에게 개방된다.",
+   "syn": [
+    "lab"
+   ]
+  },
+  {
+   "word": "degree",
+   "pos": "명사",
+   "ko": "학위; 정도",
+   "ipa": "/dɪˈɡri/",
+   "ex_en": "He earned a degree in economics from a university in Seoul.",
+   "ex_ko": "그는 서울에 있는 한 대학에서 경제학 학위를 받았다."
+  },
+  {
+   "word": "certificate",
+   "pos": "명사",
+   "ko": "수료증, 자격증",
+   "ipa": "/sɚˈtɪfɪkət/",
+   "ex_en": "You will receive a certificate after completing the ten-week language course.",
+   "ex_ko": "10주 어학 과정을 마치면 수료증을 받게 됩니다.",
+   "syn": [
+    "diploma"
+   ]
+  },
+  {
+   "word": "knowledge",
+   "pos": "명사",
+   "ko": "지식",
+   "ipa": "/ˈnɑlɪdʒ/",
+   "ex_en": "The lecture will give you basic knowledge of Korean history and culture.",
+   "ex_ko": "그 강의는 한국 역사와 문화에 대한 기초 지식을 제공할 것이다."
+  },
+  {
+   "word": "conclusion",
+   "pos": "명사",
+   "ko": "결론, 결말",
+   "ipa": "/kənˈkluʒən/",
+   "ex_en": "The researchers reached the conclusion that sleep affects memory and learning.",
+   "ex_ko": "연구자들은 수면이 기억과 학습에 영향을 미친다는 결론에 도달했다.",
+   "syn": [
+    "result"
+   ]
+  },
+  {
+   "word": "reference",
+   "pos": "명사",
+   "ko": "참고 문헌, 참조",
+   "ipa": "/ˈrɛfərəns/",
+   "ex_en": "Be sure to include a list of references at the end of your paper.",
+   "ex_ko": "보고서 끝에 반드시 참고 문헌 목록을 포함하세요.",
+   "syn": [
+    "source"
+   ]
+  },
+  {
+   "word": "article",
+   "pos": "명사",
+   "ko": "기사, 글",
+   "ipa": "/ˈɑrtɪkəl/",
+   "ex_en": "I read an interesting article about language learning in a science journal.",
+   "ex_ko": "나는 과학 저널에서 언어 학습에 관한 흥미로운 기사를 읽었다.",
+   "syn": [
+    "paper",
+    "essay"
+   ]
+  },
+  {
+   "word": "analyze",
+   "pos": "동사",
+   "ko": "분석하다",
+   "ipa": "/ˈænəˌlaɪz/",
+   "ex_en": "The students learned how to analyze data collected from their experiments.",
+   "ex_ko": "학생들은 실험에서 수집한 데이터를 분석하는 방법을 배웠다.",
+   "syn": [
+    "examine"
+   ]
+  },
+  {
+   "word": "memorize",
+   "pos": "동사",
+   "ko": "암기하다",
+   "ipa": "/ˈmɛməˌraɪz/",
+   "ex_en": "It is difficult to memorize hundreds of new words in one week.",
+   "ex_ko": "일주일 만에 수백 개의 새 단어를 암기하기는 어렵다.",
+   "syn": [
+    "learn by heart"
+   ]
+  },
+  {
+   "word": "graduate",
+   "pos": "동사",
+   "ko": "졸업하다",
+   "ipa": "/ˈɡrædʒuˌeɪt/",
+   "ex_en": "She will graduate from college next February and look for a job.",
+   "ex_ko": "그녀는 내년 2월에 대학을 졸업하고 일자리를 찾을 것이다."
+  },
+  {
+   "word": "enroll",
+   "pos": "동사",
+   "ko": "등록하다, 입학하다",
+   "ipa": "/ɪnˈroʊl/",
+   "ex_en": "More than fifty students enrolled in the new Spanish course this semester.",
+   "ex_ko": "이번 학기에 50명이 넘는 학생들이 새 스페인어 강좌에 등록했다.",
+   "syn": [
+    "sign up"
+   ]
+  },
+  {
+   "word": "revise",
+   "pos": "동사",
+   "ko": "수정하다, 개정하다",
+   "ipa": "/rɪˈvaɪz/",
+   "ex_en": "Please revise your essay carefully before turning in the final version.",
+   "ex_ko": "최종본을 제출하기 전에 에세이를 꼼꼼히 수정하세요.",
+   "syn": [
+    "edit",
+    "correct"
+   ]
+  },
+  {
+   "word": "summarize",
+   "pos": "동사",
+   "ko": "요약하다",
+   "ipa": "/ˈsʌməˌraɪz/",
+   "ex_en": "Can you summarize the main points of the article in a few sentences?",
+   "ex_ko": "그 기사의 요점을 몇 문장으로 요약해 줄 수 있나요?",
+   "syn": [
+    "sum up"
+   ]
+  },
+  {
+   "word": "pronounce",
+   "pos": "동사",
+   "ko": "발음하다",
+   "ipa": "/prəˈnaʊns/",
+   "ex_en": "Many Korean learners find it hard to pronounce certain English sounds.",
+   "ex_ko": "많은 한국인 학습자들이 특정 영어 소리를 발음하는 것을 어려워한다."
+  },
+  {
+   "word": "translate",
+   "pos": "동사",
+   "ko": "번역하다, 통역하다",
+   "ipa": "/trænsˈleɪt/",
+   "ex_en": "She was asked to translate the document from English into Korean.",
+   "ex_ko": "그녀는 그 문서를 영어에서 한국어로 번역해 달라는 요청을 받았다.",
+   "syn": [
+    "interpret"
+   ]
+  },
+  {
+   "word": "concentrate",
+   "pos": "동사",
+   "ko": "집중하다",
+   "ipa": "/ˈkɑnsənˌtreɪt/",
+   "ex_en": "It was too noisy in the library, so I couldn't concentrate on studying.",
+   "ex_ko": "도서관이 너무 시끄러워서 나는 공부에 집중할 수 없었다.",
+   "syn": [
+    "focus"
+   ]
+  },
+  {
+   "word": "define",
+   "pos": "동사",
+   "ko": "정의하다, 규정하다",
+   "ipa": "/dɪˈfaɪn/",
+   "ex_en": "The professor asked us to define the term in our own words.",
+   "ex_ko": "교수님은 우리에게 그 용어를 우리 자신의 말로 정의해 보라고 하셨다."
+  },
+  {
+   "word": "investigate",
+   "pos": "동사",
+   "ko": "조사하다, 연구하다",
+   "ipa": "/ɪnˈvɛstəˌɡeɪt/",
+   "ex_en": "The research team will investigate how social media affects teenagers' study habits.",
+   "ex_ko": "연구팀은 소셜 미디어가 십 대들의 학습 습관에 어떤 영향을 미치는지 조사할 것이다.",
+   "syn": [
+    "examine",
+    "look into"
+   ]
+  },
+  {
+   "word": "participate",
+   "pos": "동사",
+   "ko": "참가하다, 참여하다",
+   "ipa": "/pɑrˈtɪsəˌpeɪt/",
+   "ex_en": "All first-year students are expected to participate in the group discussion.",
+   "ex_ko": "모든 1학년 학생은 그룹 토론에 참여해야 한다.",
+   "syn": [
+    "take part"
+   ]
+  },
+  {
+   "word": "acquire",
+   "pos": "동사",
+   "ko": "습득하다, 얻다",
+   "ipa": "/əˈkwaɪɚ/",
+   "ex_en": "Children acquire their first language naturally without any formal instruction.",
+   "ex_ko": "아이들은 정식 교육 없이도 모국어를 자연스럽게 습득한다.",
+   "syn": [
+    "gain",
+    "obtain"
+   ]
+  },
+  {
+   "word": "evaluate",
+   "pos": "동사",
+   "ko": "평가하다",
+   "ipa": "/ɪˈvæljuˌeɪt/",
+   "ex_en": "Teachers evaluate students based on tests, homework, and class participation.",
+   "ex_ko": "교사들은 시험, 숙제, 수업 참여도를 바탕으로 학생들을 평가한다.",
+   "syn": [
+    "assess",
+    "judge"
+   ]
+  },
+  {
+   "word": "observe",
+   "pos": "동사",
+   "ko": "관찰하다; (규칙을) 준수하다",
+   "ipa": "/əbˈzɝv/",
+   "ex_en": "The students observed how the plants grew under different light conditions.",
+   "ex_ko": "학생들은 식물이 다양한 빛 조건에서 어떻게 자라는지 관찰했다.",
+   "syn": [
+    "watch"
+   ]
+  },
+  {
+   "word": "academic",
+   "pos": "형용사",
+   "ko": "학업의, 학문의",
+   "ipa": "/ˌækəˈdɛmɪk/",
+   "ex_en": "His academic performance improved after he started studying in the library every day.",
+   "ex_ko": "그는 매일 도서관에서 공부하기 시작한 후 학업 성적이 향상되었다.",
+   "syn": [
+    "scholastic"
+   ]
+  },
+  {
+   "word": "accurate",
+   "pos": "형용사",
+   "ko": "정확한",
+   "ipa": "/ˈækjərət/",
+   "ex_en": "Make sure your answers are accurate before you hand in the test.",
+   "ex_ko": "시험지를 제출하기 전에 답이 정확한지 확인하세요.",
+   "syn": [
+    "exact",
+    "precise"
+   ]
+  },
+  {
+   "word": "complex",
+   "pos": "형용사",
+   "ko": "복잡한",
+   "ipa": "/kəmˈplɛks/",
+   "ex_en": "The professor explained the complex theory using simple, everyday examples.",
+   "ex_ko": "교수는 그 복잡한 이론을 쉽고 일상적인 예를 들어 설명했다.",
+   "syn": [
+    "complicated"
+   ]
+  },
+  {
+   "word": "fluent",
+   "pos": "형용사",
+   "ko": "유창한",
+   "ipa": "/ˈfluənt/",
+   "ex_en": "After two years in Canada, she became fluent in English.",
+   "ex_ko": "캐나다에서 2년을 보낸 후 그녀는 영어가 유창해졌다."
+  },
+  {
+   "word": "mandatory",
+   "pos": "형용사",
+   "ko": "의무적인, 필수의",
+   "ipa": "/ˈmændəˌtɔri/",
+   "ex_en": "Attendance is mandatory for all students taking this writing course.",
+   "ex_ko": "이 작문 강좌를 수강하는 모든 학생에게 출석은 의무이다.",
+   "syn": [
+    "required",
+    "compulsory"
+   ]
+  },
+  {
+   "word": "optional",
+   "pos": "형용사",
+   "ko": "선택적인",
+   "ipa": "/ˈɑpʃənəl/",
+   "ex_en": "The evening study session is optional, but most students choose to join.",
+   "ex_ko": "저녁 자율 학습은 선택 사항이지만 대부분의 학생이 참여하기로 한다.",
+   "syn": [
+    "voluntary"
+   ]
+  },
+  {
+   "word": "relevant",
+   "pos": "형용사",
+   "ko": "관련 있는, 적절한",
+   "ipa": "/ˈrɛləvənt/",
+   "ex_en": "Please include only information that is relevant to your research topic.",
+   "ex_ko": "연구 주제와 관련 있는 정보만 포함하세요.",
+   "syn": [
+    "related"
+   ]
+  },
+  {
+   "word": "specific",
+   "pos": "형용사",
+   "ko": "구체적인, 특정한",
+   "ipa": "/spəˈsɪfɪk/",
+   "ex_en": "The teacher gave us specific instructions on how to write the report.",
+   "ex_ko": "선생님은 보고서 작성 방법에 대해 구체적인 지침을 주셨다.",
+   "syn": [
+    "particular",
+    "detailed"
+   ]
+  },
+  {
+   "word": "thoroughly",
+   "pos": "부사",
+   "ko": "철저히, 꼼꼼히",
+   "ipa": "/ˈθɝoʊli/",
+   "ex_en": "Read the exam questions thoroughly before you begin writing your answers.",
+   "ex_ko": "답안을 작성하기 전에 시험 문제를 꼼꼼히 읽으세요.",
+   "syn": [
+    "completely",
+    "carefully"
+   ]
+  },
+  {
+   "word": "constantly",
+   "pos": "부사",
+   "ko": "끊임없이, 계속",
+   "ipa": "/ˈkɑnstəntli/",
+   "ex_en": "Language learners need to practice constantly to keep their skills sharp.",
+   "ex_ko": "언어 학습자는 실력을 유지하기 위해 끊임없이 연습해야 한다.",
+   "syn": [
+    "continually"
+   ]
+  },
+  {
+   "word": "properly",
+   "pos": "부사",
+   "ko": "제대로, 적절히",
+   "ipa": "/ˈprɑpɚli/",
+   "ex_en": "If you don't cite your sources properly, you may lose points.",
+   "ex_ko": "출처를 제대로 밝히지 않으면 감점될 수 있다.",
+   "syn": [
+    "correctly"
+   ]
+  },
+  {
+   "word": "hand in",
+   "pos": "구동사",
+   "ko": "제출하다",
+   "ipa": "/ˌhænd ˈɪn/",
+   "ex_en": "Don't forget to hand in your homework before class starts tomorrow.",
+   "ex_ko": "내일 수업 시작 전에 숙제를 제출하는 것을 잊지 마세요.",
+   "syn": [
+    "submit",
+    "turn in"
+   ]
+  },
+  {
+   "word": "keep up with",
+   "pos": "구동사",
+   "ko": "~을 따라가다, 뒤처지지 않다",
+   "ipa": "/ˌkip ˈʌp wɪð/",
+   "ex_en": "He studies every night to keep up with his classmates.",
+   "ex_ko": "그는 반 친구들에게 뒤처지지 않으려고 매일 밤 공부한다."
+  },
+  {
+   "word": "figure out",
+   "pos": "구동사",
+   "ko": "알아내다, 이해하다",
+   "ipa": "/ˌfɪɡjɚ ˈaʊt/",
+   "ex_en": "I couldn't figure out the answer to the last math problem.",
+   "ex_ko": "나는 마지막 수학 문제의 답을 알아낼 수 없었다.",
+   "syn": [
+    "work out",
+    "understand"
+   ]
+  },
+  {
+   "word": "go over",
+   "pos": "구동사",
+   "ko": "검토하다, 복습하다",
+   "ipa": "/ˌɡoʊ ˈoʊvɚ/",
+   "ex_en": "Let's go over the main points of the lesson before the quiz.",
+   "ex_ko": "퀴즈 전에 수업의 요점을 다시 검토해 봅시다.",
+   "syn": [
+    "review"
+   ]
+  },
+  {
+   "word": "sign up for",
+   "pos": "구동사",
+   "ko": "~을 신청하다, 등록하다",
+   "ipa": "/ˌsaɪn ˈʌp fɔr/",
+   "ex_en": "Many students signed up for the free writing workshop last week.",
+   "ex_ko": "지난주에 많은 학생들이 무료 글쓰기 워크숍을 신청했다.",
+   "syn": [
+    "enroll in",
+    "register for"
+   ]
+  },
+  {
+   "word": "nutrition",
+   "pos": "명사",
+   "ko": "영양, 영양 섭취",
+   "ipa": "/nuˈtrɪʃən/",
+   "ex_en": "Good nutrition plays an important role in preventing many common diseases.",
+   "ex_ko": "좋은 영양 섭취는 많은 흔한 질병을 예방하는 데 중요한 역할을 한다.",
+   "syn": [
+    "nourishment"
+   ]
+  },
+  {
+   "word": "ingredient",
+   "pos": "명사",
+   "ko": "(요리) 재료, 성분",
+   "ipa": "/ɪnˈɡridiənt/",
+   "ex_en": "This soup is made with fresh ingredients from the local market.",
+   "ex_ko": "이 수프는 지역 시장에서 가져온 신선한 재료로 만들어진다.",
+   "syn": [
+    "component",
+    "element"
+   ]
+  },
+  {
+   "word": "flavor",
+   "pos": "명사",
+   "ko": "맛, 풍미",
+   "ipa": "/ˈfleɪvɚ/",
+   "ex_en": "The new yogurt comes in three different flavors, including strawberry.",
+   "ex_ko": "새로 나온 요구르트는 딸기를 포함해 세 가지 맛으로 나온다.",
+   "syn": [
+    "taste"
+   ]
+  },
+  {
+   "word": "appetite",
+   "pos": "명사",
+   "ko": "식욕",
+   "ipa": "/ˈæpɪˌtaɪt/",
+   "ex_en": "I lost my appetite completely when I caught a bad cold.",
+   "ex_ko": "심한 감기에 걸렸을 때 나는 식욕을 완전히 잃었다.",
+   "syn": [
+    "hunger"
+   ]
+  },
+  {
+   "word": "allergy",
+   "pos": "명사",
+   "ko": "알레르기",
+   "ipa": "/ˈælɚdʒi/",
+   "ex_en": "She has a serious allergy to peanuts, so she checks every food label.",
+   "ex_ko": "그녀는 땅콩에 심한 알레르기가 있어서 모든 식품 라벨을 확인한다."
+  },
+  {
+   "word": "injury",
+   "pos": "명사",
+   "ko": "부상, 상해",
+   "ipa": "/ˈɪndʒəri/",
+   "ex_en": "He missed the entire season because of a serious knee injury.",
+   "ex_ko": "그는 심각한 무릎 부상 때문에 시즌 전체를 결장했다.",
+   "syn": [
+    "harm",
+    "wound"
+   ]
+  },
+  {
+   "word": "fatigue",
+   "pos": "명사",
+   "ko": "피로",
+   "ipa": "/fəˈtiɡ/",
+   "ex_en": "Constant fatigue can be a sign that you are not sleeping enough.",
+   "ex_ko": "지속적인 피로는 잠이 부족하다는 신호일 수 있다.",
+   "syn": [
+    "tiredness",
+    "exhaustion"
+   ]
+  },
+  {
+   "word": "obesity",
+   "pos": "명사",
+   "ko": "비만",
+   "ipa": "/oʊˈbisəti/",
+   "ex_en": "Childhood obesity has become a serious health problem in many countries.",
+   "ex_ko": "아동 비만은 많은 나라에서 심각한 건강 문제가 되었다."
+  },
+  {
+   "word": "therapy",
+   "pos": "명사",
+   "ko": "치료, 요법",
+   "ipa": "/ˈθɛrəpi/",
+   "ex_en": "After the accident, she received physical therapy twice a week.",
+   "ex_ko": "사고 후 그녀는 일주일에 두 번 물리 치료를 받았다.",
+   "syn": [
+    "treatment"
+   ]
+  },
+  {
+   "word": "checkup",
+   "pos": "명사",
+   "ko": "건강검진, 정기 검진",
+   "ipa": "/ˈtʃɛkˌʌp/",
+   "ex_en": "You should get a regular checkup at least once a year.",
+   "ex_ko": "적어도 일 년에 한 번은 정기 검진을 받아야 한다.",
+   "syn": [
+    "examination"
+   ]
+  },
+  {
+   "word": "dose",
+   "pos": "명사",
+   "ko": "(약의) 복용량, 1회분",
+   "ipa": "/ˈdoʊs/",
+   "ex_en": "Do not take more than the recommended dose of this medicine.",
+   "ex_ko": "이 약을 권장 복용량보다 많이 복용하지 마세요."
+  },
+  {
+   "word": "vaccine",
+   "pos": "명사",
+   "ko": "백신",
+   "ipa": "/vækˈsin/",
+   "ex_en": "The new vaccine protects children against several dangerous diseases.",
+   "ex_ko": "새 백신은 여러 위험한 질병으로부터 아이들을 보호한다."
+  },
+  {
+   "word": "infection",
+   "pos": "명사",
+   "ko": "감염",
+   "ipa": "/ɪnˈfɛkʃən/",
+   "ex_en": "Washing your hands often helps prevent the spread of infection.",
+   "ex_ko": "손을 자주 씻으면 감염의 확산을 막는 데 도움이 된다."
+  },
+  {
+   "word": "surgery",
+   "pos": "명사",
+   "ko": "수술",
+   "ipa": "/ˈsɝdʒəri/",
+   "ex_en": "The doctor said my grandfather needs surgery on his heart next month.",
+   "ex_ko": "의사는 할아버지가 다음 달에 심장 수술을 받아야 한다고 말했다.",
+   "syn": [
+    "operation"
+   ]
+  },
+  {
+   "word": "pharmacy",
+   "pos": "명사",
+   "ko": "약국",
+   "ipa": "/ˈfɑrməsi/",
+   "ex_en": "You can pick up your medicine at the pharmacy across the street.",
+   "ex_ko": "길 건너 약국에서 약을 받아 갈 수 있다.",
+   "syn": [
+    "drugstore"
+   ]
+  },
+  {
+   "word": "wound",
+   "pos": "명사",
+   "ko": "상처, 부상",
+   "ipa": "/ˈwund/",
+   "ex_en": "The nurse cleaned the wound carefully before putting on a bandage.",
+   "ex_ko": "간호사는 붕대를 감기 전에 상처를 조심스럽게 씻어 냈다.",
+   "syn": [
+    "injury",
+    "cut"
+   ]
+  },
+  {
+   "word": "anxiety",
+   "pos": "명사",
+   "ko": "불안(감), 걱정",
+   "ipa": "/æŋˈzaɪəti/",
+   "ex_en": "Many students feel anxiety before taking an important exam.",
+   "ex_ko": "많은 학생들이 중요한 시험을 보기 전에 불안을 느낀다.",
+   "syn": [
+    "worry",
+    "unease"
+   ]
+  },
+  {
+   "word": "insomnia",
+   "pos": "명사",
+   "ko": "불면증",
+   "ipa": "/ɪnˈsɑmniə/",
+   "ex_en": "Drinking coffee late at night can cause insomnia in some people.",
+   "ex_ko": "밤늦게 커피를 마시면 어떤 사람들에게는 불면증이 생길 수 있다.",
+   "syn": [
+    "sleeplessness"
+   ]
+  },
+  {
+   "word": "recover",
+   "pos": "동사",
+   "ko": "회복하다, 되찾다",
+   "ipa": "/rɪˈkʌvɚ/",
+   "ex_en": "It took him several weeks to recover from the operation.",
+   "ex_ko": "그가 수술에서 회복하는 데 몇 주가 걸렸다.",
+   "syn": [
+    "heal",
+    "get better"
+   ]
+  },
+  {
+   "word": "examine",
+   "pos": "동사",
+   "ko": "진찰하다, 검사하다",
+   "ipa": "/ɪɡˈzæmɪn/",
+   "ex_en": "The doctor examined my throat and said it was just a mild infection.",
+   "ex_ko": "의사는 내 목을 진찰하더니 가벼운 감염일 뿐이라고 말했다.",
+   "syn": [
+    "check",
+    "inspect"
+   ]
+  },
+  {
+   "word": "swallow",
+   "pos": "동사",
+   "ko": "삼키다",
+   "ipa": "/ˈswɑloʊ/",
+   "ex_en": "My throat hurts so much that it is hard to swallow food.",
+   "ex_ko": "목이 너무 아파서 음식을 삼키기가 힘들다."
+  },
+  {
+   "word": "consume",
+   "pos": "동사",
+   "ko": "섭취하다, 소비하다",
+   "ipa": "/kənˈsum/",
+   "ex_en": "Doctors advise us not to consume too much salt and sugar.",
+   "ex_ko": "의사들은 소금과 설탕을 너무 많이 섭취하지 말라고 조언한다.",
+   "syn": [
+    "eat",
+    "use up"
+   ]
+  },
+  {
+   "word": "prevent",
+   "pos": "동사",
+   "ko": "예방하다, 막다",
+   "ipa": "/prɪˈvɛnt/",
+   "ex_en": "Regular exercise can prevent many health problems later in life.",
+   "ex_ko": "규칙적인 운동은 나중에 생길 수 있는 많은 건강 문제를 예방할 수 있다.",
+   "syn": [
+    "stop",
+    "block"
+   ]
+  },
+  {
+   "word": "digest",
+   "pos": "동사",
+   "ko": "소화하다",
+   "ipa": "/daɪˈdʒɛst/",
+   "ex_en": "Some people find it hard to digest milk as they get older.",
+   "ex_ko": "어떤 사람들은 나이가 들면서 우유를 소화하기 어려워한다."
+  },
+  {
+   "word": "sneeze",
+   "pos": "동사",
+   "ko": "재채기하다",
+   "ipa": "/ˈsniz/",
+   "ex_en": "Please cover your mouth when you sneeze in public places.",
+   "ex_ko": "공공장소에서 재채기할 때는 입을 가려 주세요."
+  },
+  {
+   "word": "spoil",
+   "pos": "동사",
+   "ko": "(음식이) 상하다; 망치다",
+   "ipa": "/ˈspɔɪl/",
+   "ex_en": "The milk will spoil quickly if you leave it out of the refrigerator.",
+   "ex_ko": "우유를 냉장고 밖에 두면 금방 상할 것이다.",
+   "syn": [
+    "go bad",
+    "rot"
+   ]
+  },
+  {
+   "word": "overcome",
+   "pos": "동사",
+   "ko": "극복하다",
+   "ipa": "/ˌoʊvɚˈkʌm/",
+   "ex_en": "She finally overcame her fear of speaking in front of large groups.",
+   "ex_ko": "그녀는 마침내 많은 사람들 앞에서 말하는 두려움을 극복했다.",
+   "syn": [
+    "conquer",
+    "beat"
+   ]
+  },
+  {
+   "word": "suffer",
+   "pos": "동사",
+   "ko": "고통받다, (병을) 앓다",
+   "ipa": "/ˈsʌfɚ/",
+   "ex_en": "Millions of people suffer from headaches caused by daily stress.",
+   "ex_ko": "수백만 명의 사람들이 일상 스트레스로 인한 두통을 앓는다."
+  },
+  {
+   "word": "heal",
+   "pos": "동사",
+   "ko": "낫다, 치유하다",
+   "ipa": "/ˈhil/",
+   "ex_en": "The cut on my arm healed completely within two weeks.",
+   "ex_ko": "내 팔의 상처는 2주 안에 완전히 나았다.",
+   "syn": [
+    "recover",
+    "cure"
+   ]
+  },
+  {
+   "word": "diagnose",
+   "pos": "동사",
+   "ko": "진단하다",
+   "ipa": "/ˌdaɪəɡˈnoʊs/",
+   "ex_en": "The doctor diagnosed her illness after running several simple tests.",
+   "ex_ko": "의사는 몇 가지 간단한 검사를 한 후 그녀의 병을 진단했다.",
+   "syn": [
+    "identify"
+   ]
+  },
+  {
+   "word": "sore",
+   "pos": "형용사",
+   "ko": "아픈, 쓰린",
+   "ipa": "/ˈsɔr/",
+   "ex_en": "I woke up with a sore throat and a slight fever this morning.",
+   "ex_ko": "오늘 아침 목이 아프고 미열이 있는 채로 일어났다.",
+   "syn": [
+    "painful",
+    "aching"
+   ]
+  },
+  {
+   "word": "dizzy",
+   "pos": "형용사",
+   "ko": "어지러운",
+   "ipa": "/ˈdɪzi/",
+   "ex_en": "She felt dizzy after standing up too quickly from her chair.",
+   "ex_ko": "그녀는 의자에서 너무 빨리 일어난 후 어지러움을 느꼈다."
+  },
+  {
+   "word": "severe",
+   "pos": "형용사",
+   "ko": "심한, 극심한",
+   "ipa": "/səˈvɪr/",
+   "ex_en": "He went to the emergency room because of severe stomach pain.",
+   "ex_ko": "그는 극심한 복통 때문에 응급실에 갔다.",
+   "syn": [
+    "serious",
+    "intense"
+   ]
+  },
+  {
+   "word": "mild",
+   "pos": "형용사",
+   "ko": "가벼운, (맛이) 순한",
+   "ipa": "/ˈmaɪld/",
+   "ex_en": "The doctor said it was only a mild case of the flu.",
+   "ex_ko": "의사는 그것이 가벼운 독감일 뿐이라고 말했다.",
+   "syn": [
+    "slight",
+    "gentle"
+   ]
+  },
+  {
+   "word": "chronic",
+   "pos": "형용사",
+   "ko": "만성의",
+   "ipa": "/ˈkrɑnɪk/",
+   "ex_en": "My uncle has suffered from chronic back pain for over ten years.",
+   "ex_ko": "삼촌은 10년 넘게 만성 허리 통증을 앓아 왔다.",
+   "syn": [
+    "long-term"
+   ]
+  },
+  {
+   "word": "contagious",
+   "pos": "형용사",
+   "ko": "전염성의",
+   "ipa": "/kənˈteɪdʒəs/",
+   "ex_en": "The disease is highly contagious, so patients must stay away from others.",
+   "ex_ko": "그 병은 전염성이 강해서 환자는 다른 사람들과 떨어져 있어야 한다.",
+   "syn": [
+    "infectious"
+   ]
+  },
+  {
+   "word": "raw",
+   "pos": "형용사",
+   "ko": "날것의, 가공하지 않은",
+   "ipa": "/ˈrɔ/",
+   "ex_en": "Eating raw fish can be risky if it is not fresh.",
+   "ex_ko": "날생선을 먹는 것은 신선하지 않으면 위험할 수 있다.",
+   "syn": [
+    "uncooked"
+   ]
+  },
+  {
+   "word": "ripe",
+   "pos": "형용사",
+   "ko": "(과일이) 익은",
+   "ipa": "/ˈraɪp/",
+   "ex_en": "These bananas are not ripe yet, so wait a few more days.",
+   "ex_ko": "이 바나나들은 아직 익지 않았으니 며칠 더 기다려라."
+  },
+  {
+   "word": "overweight",
+   "pos": "형용사",
+   "ko": "과체중의",
+   "ipa": "/ˌoʊvɚˈweɪt/",
+   "ex_en": "The doctor warned him that he was overweight and needed more exercise.",
+   "ex_ko": "의사는 그에게 과체중이니 운동을 더 해야 한다고 경고했다."
+  },
+  {
+   "word": "mental",
+   "pos": "형용사",
+   "ko": "정신의, 마음의",
+   "ipa": "/ˈmɛntəl/",
+   "ex_en": "Getting enough rest is important for both physical and mental health.",
+   "ex_ko": "충분한 휴식은 신체 건강과 정신 건강 모두에 중요하다.",
+   "syn": [
+    "psychological"
+   ]
+  },
+  {
+   "word": "artificial",
+   "pos": "형용사",
+   "ko": "인공의",
+   "ipa": "/ˌɑrtəˈfɪʃəl/",
+   "ex_en": "This juice contains no artificial colors or flavors at all.",
+   "ex_ko": "이 주스에는 인공 색소나 인공 향료가 전혀 들어 있지 않다.",
+   "syn": [
+    "man-made",
+    "fake"
+   ]
+  },
+  {
+   "word": "come down with",
+   "pos": "구동사",
+   "ko": "(가벼운 병에) 걸리다",
+   "ipa": "/kʌm daʊn wɪθ/",
+   "ex_en": "I think I am coming down with a cold, so I will rest today.",
+   "ex_ko": "감기에 걸리는 것 같아서 오늘은 쉬려고 한다.",
+   "syn": [
+    "catch"
+   ]
+  },
+  {
+   "word": "work out",
+   "pos": "구동사",
+   "ko": "운동하다; (일이) 잘 풀리다",
+   "ipa": "/wɝk aʊt/",
+   "ex_en": "She works out at the gym three times a week to stay healthy.",
+   "ex_ko": "그녀는 건강을 유지하기 위해 일주일에 세 번 헬스장에서 운동한다.",
+   "syn": [
+    "exercise"
+   ]
+  },
+  {
+   "word": "cut down on",
+   "pos": "구동사",
+   "ko": "~을 줄이다",
+   "ipa": "/kʌt daʊn ɑn/",
+   "ex_en": "My doctor told me to cut down on fast food and soda.",
+   "ex_ko": "의사가 나에게 패스트푸드와 탄산음료를 줄이라고 말했다.",
+   "syn": [
+    "reduce"
+   ]
+  },
+  {
+   "word": "calm down",
+   "pos": "구동사",
+   "ko": "진정하다, 진정시키다",
+   "ipa": "/kɑm daʊn/",
+   "ex_en": "Take a deep breath and try to calm down before the interview.",
+   "ex_ko": "면접 전에 심호흡을 하고 진정하려고 노력해라.",
+   "syn": [
+    "relax"
+   ]
+  },
+  {
+   "word": "throw up",
+   "pos": "구동사",
+   "ko": "토하다",
+   "ipa": "/θroʊ ʌp/",
+   "ex_en": "The child threw up twice after eating the spoiled seafood.",
+   "ex_ko": "그 아이는 상한 해산물을 먹은 후 두 번 토했다.",
+   "syn": [
+    "vomit"
+   ]
+  },
+  {
+   "word": "citizen",
+   "pos": "명사",
+   "ko": "시민, 국민",
+   "ipa": "/ˈsɪtəzən/",
+   "ex_en": "Every citizen has the right to vote in national elections.",
+   "ex_ko": "모든 시민은 전국 선거에서 투표할 권리가 있다.",
+   "syn": [
+    "national",
+    "resident"
+   ]
+  },
+  {
+   "word": "government",
+   "pos": "명사",
+   "ko": "정부, 정권",
+   "ipa": "/ˈɡʌvɚnmənt/",
+   "ex_en": "The government announced a new policy to support small businesses.",
+   "ex_ko": "정부는 소상공인을 지원하기 위한 새로운 정책을 발표했다.",
+   "syn": [
+    "administration"
+   ]
+  },
+  {
+   "word": "policy",
+   "pos": "명사",
+   "ko": "정책, 방침",
+   "ipa": "/ˈpɑləsi/",
+   "ex_en": "The city's new parking policy will take effect next month.",
+   "ex_ko": "시의 새로운 주차 정책이 다음 달부터 시행된다."
+  },
+  {
+   "word": "election",
+   "pos": "명사",
+   "ko": "선거",
+   "ipa": "/ɪˈlɛkʃən/",
+   "ex_en": "The presidential election will be held in December this year.",
+   "ex_ko": "대통령 선거가 올해 12월에 치러질 것이다."
+  },
+  {
+   "word": "candidate",
+   "pos": "명사",
+   "ko": "후보자, 지원자",
+   "ipa": "/ˈkændəˌdeɪt/",
+   "ex_en": "Each candidate gave a short speech before the debate began.",
+   "ex_ko": "토론이 시작되기 전에 각 후보가 짧은 연설을 했다.",
+   "syn": [
+    "nominee",
+    "applicant"
+   ]
+  },
+  {
+   "word": "regulation",
+   "pos": "명사",
+   "ko": "규정, 규제",
+   "ipa": "/ˌrɛɡjəˈleɪʃən/",
+   "ex_en": "The new safety regulations apply to all public buildings.",
+   "ex_ko": "새 안전 규정은 모든 공공건물에 적용된다.",
+   "syn": [
+    "rule"
+   ]
+  },
+  {
+   "word": "authority",
+   "pos": "명사",
+   "ko": "당국, 권한",
+   "ipa": "/əˈθɔrəti/",
+   "ex_en": "Local authorities warned residents about the coming storm.",
+   "ex_ko": "지역 당국은 다가오는 폭풍에 대해 주민들에게 경고했다."
+  },
+  {
+   "word": "community",
+   "pos": "명사",
+   "ko": "지역 사회, 공동체",
+   "ipa": "/kəˈmjunəti/",
+   "ex_en": "The library offers free classes for members of the local community.",
+   "ex_ko": "그 도서관은 지역 사회 구성원들에게 무료 강좌를 제공한다."
+  },
+  {
+   "word": "heritage",
+   "pos": "명사",
+   "ko": "(문화)유산, 전통",
+   "ipa": "/ˈhɛrətɪdʒ/",
+   "ex_en": "The old palace is an important part of our cultural heritage.",
+   "ex_ko": "그 오래된 궁궐은 우리 문화유산의 중요한 부분이다.",
+   "syn": [
+    "legacy"
+   ]
+  },
+  {
+   "word": "tradition",
+   "pos": "명사",
+   "ko": "전통, 관습",
+   "ipa": "/trəˈdɪʃən/",
+   "ex_en": "Sharing food with neighbors is a long tradition in this village.",
+   "ex_ko": "이웃과 음식을 나누는 것은 이 마을의 오랜 전통이다.",
+   "syn": [
+    "custom"
+   ]
+  },
+  {
+   "word": "protest",
+   "pos": "명사",
+   "ko": "시위, 항의",
+   "ipa": "/ˈproʊtɛst/",
+   "ex_en": "Thousands joined a peaceful protest against the new tax law.",
+   "ex_ko": "수천 명이 새 세법에 반대하는 평화 시위에 참여했다.",
+   "syn": [
+    "demonstration"
+   ]
+  },
+  {
+   "word": "debate",
+   "pos": "명사",
+   "ko": "토론, 논쟁",
+   "ipa": "/dɪˈbeɪt/",
+   "ex_en": "The two candidates had a heated debate about education policy.",
+   "ex_ko": "두 후보는 교육 정책을 두고 열띤 토론을 벌였다.",
+   "syn": [
+    "discussion",
+    "argument"
+   ]
+  },
+  {
+   "word": "crime",
+   "pos": "명사",
+   "ko": "범죄",
+   "ipa": "/ˈkraɪm/",
+   "ex_en": "The crime rate in the city has dropped over the past decade.",
+   "ex_ko": "그 도시의 범죄율은 지난 10년 동안 떨어졌다.",
+   "syn": [
+    "offense"
+   ]
+  },
+  {
+   "word": "witness",
+   "pos": "명사",
+   "ko": "목격자, 증인",
+   "ipa": "/ˈwɪtnəs/",
+   "ex_en": "A witness told the police exactly what happened at the scene.",
+   "ex_ko": "한 목격자가 경찰에게 현장에서 일어난 일을 정확히 말했다."
+  },
+  {
+   "word": "trial",
+   "pos": "명사",
+   "ko": "재판; 시험",
+   "ipa": "/ˈtraɪəl/",
+   "ex_en": "The trial lasted three weeks before the jury reached a decision.",
+   "ex_ko": "배심원단이 결정을 내리기까지 재판은 3주 동안 계속되었다."
+  },
+  {
+   "word": "poll",
+   "pos": "명사",
+   "ko": "여론 조사; 투표",
+   "ipa": "/ˈpoʊl/",
+   "ex_en": "A recent poll shows that most voters support the new law.",
+   "ex_ko": "최근 여론 조사는 대부분의 유권자가 새 법을 지지함을 보여 준다.",
+   "syn": [
+    "survey"
+   ]
+  },
+  {
+   "word": "campaign",
+   "pos": "명사",
+   "ko": "(선거·홍보) 운동, 캠페인",
+   "ipa": "/kæmˈpeɪn/",
+   "ex_en": "The mayor started a campaign to keep the city streets clean.",
+   "ex_ko": "시장은 도시 거리를 깨끗하게 유지하기 위한 캠페인을 시작했다."
+  },
+  {
+   "word": "suspect",
+   "pos": "명사",
+   "ko": "용의자",
+   "ipa": "/ˈsʌspɛkt/",
+   "ex_en": "The police arrested a suspect near the station last night.",
+   "ex_ko": "경찰은 어젯밤 역 근처에서 용의자를 체포했다."
+  },
+  {
+   "word": "welfare",
+   "pos": "명사",
+   "ko": "복지, 안녕",
+   "ipa": "/ˈwɛlfɛr/",
+   "ex_en": "The city increased spending on welfare programs for elderly residents.",
+   "ex_ko": "시는 노인 주민을 위한 복지 프로그램 지출을 늘렸다.",
+   "syn": [
+    "well-being"
+   ]
+  },
+  {
+   "word": "exhibition",
+   "pos": "명사",
+   "ko": "전시회, 전시",
+   "ipa": "/ˌɛksəˈbɪʃən/",
+   "ex_en": "The museum is holding a special exhibition of traditional Korean art.",
+   "ex_ko": "그 박물관은 한국 전통 미술 특별 전시회를 열고 있다.",
+   "syn": [
+    "display",
+    "show"
+   ]
+  },
+  {
+   "word": "vote",
+   "pos": "동사",
+   "ko": "투표하다; 표",
+   "ipa": "/ˈvoʊt/",
+   "ex_en": "More young people voted in this election than ever before.",
+   "ex_ko": "이번 선거에서는 그 어느 때보다 많은 젊은이들이 투표했다."
+  },
+  {
+   "word": "announce",
+   "pos": "동사",
+   "ko": "발표하다, 알리다",
+   "ipa": "/əˈnaʊns/",
+   "ex_en": "The company announced that it will build a new factory downtown.",
+   "ex_ko": "그 회사는 시내에 새 공장을 지을 것이라고 발표했다.",
+   "syn": [
+    "declare"
+   ]
+  },
+  {
+   "word": "ban",
+   "pos": "동사",
+   "ko": "금지하다; 금지",
+   "ipa": "/ˈbæn/",
+   "ex_en": "The city decided to ban smoking in all public parks.",
+   "ex_ko": "시는 모든 공원에서 흡연을 금지하기로 결정했다.",
+   "syn": [
+    "prohibit",
+    "forbid"
+   ]
+  },
+  {
+   "word": "arrest",
+   "pos": "동사",
+   "ko": "체포하다; 체포",
+   "ipa": "/əˈrɛst/",
+   "ex_en": "The police arrested two men for stealing cars in the neighborhood.",
+   "ex_ko": "경찰은 동네에서 차를 훔친 혐의로 두 남자를 체포했다."
+  },
+  {
+   "word": "accuse",
+   "pos": "동사",
+   "ko": "고발하다, 비난하다",
+   "ipa": "/əˈkjuz/",
+   "ex_en": "The reporter was accused of spreading false information about the election.",
+   "ex_ko": "그 기자는 선거에 관한 거짓 정보를 퍼뜨린 혐의로 고발당했다.",
+   "syn": [
+    "charge",
+    "blame"
+   ]
+  },
+  {
+   "word": "release",
+   "pos": "동사",
+   "ko": "석방하다; 공개하다",
+   "ipa": "/rɪˈlis/",
+   "ex_en": "The suspect was released after the police found no clear proof.",
+   "ex_ko": "경찰이 명확한 증거를 찾지 못해 그 용의자는 석방되었다.",
+   "syn": [
+    "free",
+    "let go"
+   ]
+  },
+  {
+   "word": "publish",
+   "pos": "동사",
+   "ko": "출판하다, 게재하다",
+   "ipa": "/ˈpʌblɪʃ/",
+   "ex_en": "The newspaper published an article about the mayor's new plan.",
+   "ex_ko": "그 신문은 시장의 새 계획에 관한 기사를 실었다."
+  },
+  {
+   "word": "broadcast",
+   "pos": "동사",
+   "ko": "방송하다; 방송",
+   "ipa": "/ˈbrɔdkæst/",
+   "ex_en": "The debate will be broadcast live on national television tonight.",
+   "ex_ko": "그 토론은 오늘 밤 전국 텔레비전으로 생중계될 것이다.",
+   "syn": [
+    "air"
+   ]
+  },
+  {
+   "word": "donate",
+   "pos": "동사",
+   "ko": "기부하다, 기증하다",
+   "ipa": "/ˈdoʊneɪt/",
+   "ex_en": "Many people donated money to help the victims of the flood.",
+   "ex_ko": "많은 사람이 홍수 피해자들을 돕기 위해 돈을 기부했다.",
+   "syn": [
+    "contribute",
+    "give"
+   ]
+  },
+  {
+   "word": "violate",
+   "pos": "동사",
+   "ko": "위반하다, 침해하다",
+   "ipa": "/ˈvaɪəˌleɪt/",
+   "ex_en": "Drivers who violate traffic rules will pay a heavy fine.",
+   "ex_ko": "교통 법규를 위반하는 운전자는 무거운 벌금을 내게 된다.",
+   "syn": [
+    "break"
+   ]
+  },
+  {
+   "word": "oppose",
+   "pos": "동사",
+   "ko": "반대하다",
+   "ipa": "/əˈpoʊz/",
+   "ex_en": "Many residents oppose the plan to build a factory near the river.",
+   "ex_ko": "많은 주민이 강 근처에 공장을 짓는 계획에 반대한다.",
+   "syn": [
+    "object to",
+    "resist"
+   ]
+  },
+  {
+   "word": "appeal",
+   "pos": "동사",
+   "ko": "호소하다; 항소하다",
+   "ipa": "/əˈpil/",
+   "ex_en": "The lawyer decided to appeal the court's decision to a higher court.",
+   "ex_ko": "그 변호사는 법원의 판결에 대해 상급 법원에 항소하기로 했다."
+  },
+  {
+   "word": "adopt",
+   "pos": "동사",
+   "ko": "(정책 등을) 채택하다; 입양하다",
+   "ipa": "/əˈdɑpt/",
+   "ex_en": "The council adopted a new policy to protect the environment.",
+   "ex_ko": "의회는 환경을 보호하기 위한 새 정책을 채택했다."
+  },
+  {
+   "word": "approve",
+   "pos": "동사",
+   "ko": "승인하다, 찬성하다",
+   "ipa": "/əˈpruv/",
+   "ex_en": "The committee approved the plan to build a new community center.",
+   "ex_ko": "위원회는 새 주민 센터를 짓는 계획을 승인했다.",
+   "syn": [
+    "accept",
+    "permit"
+   ]
+  },
+  {
+   "word": "legal",
+   "pos": "형용사",
+   "ko": "합법적인; 법률의",
+   "ipa": "/ˈliɡəl/",
+   "ex_en": "It is not legal to park your car on this street.",
+   "ex_ko": "이 거리에 차를 주차하는 것은 합법이 아니다.",
+   "syn": [
+    "lawful"
+   ]
+  },
+  {
+   "word": "official",
+   "pos": "형용사",
+   "ko": "공식적인; 공무원",
+   "ipa": "/əˈfɪʃəl/",
+   "ex_en": "The government will make an official statement about the accident tomorrow.",
+   "ex_ko": "정부는 내일 그 사고에 대해 공식 발표를 할 것이다.",
+   "syn": [
+    "formal"
+   ]
+  },
+  {
+   "word": "public",
+   "pos": "형용사",
+   "ko": "공공의, 대중의",
+   "ipa": "/ˈpʌblɪk/",
+   "ex_en": "The new law will limit smoking in all public places.",
+   "ex_ko": "새 법은 모든 공공장소에서의 흡연을 제한할 것이다."
+  },
+  {
+   "word": "equal",
+   "pos": "형용사",
+   "ko": "평등한, 동등한",
+   "ipa": "/ˈikwəl/",
+   "ex_en": "All citizens deserve equal treatment under the law.",
+   "ex_ko": "모든 시민은 법 앞에서 평등한 대우를 받을 자격이 있다."
+  },
+  {
+   "word": "fair",
+   "pos": "형용사",
+   "ko": "공정한, 타당한",
+   "ipa": "/ˈfɛr/",
+   "ex_en": "Everyone agreed that the judge made a fair decision.",
+   "ex_ko": "판사가 공정한 판결을 내렸다는 데 모두가 동의했다.",
+   "syn": [
+    "just",
+    "impartial"
+   ]
+  },
+  {
+   "word": "national",
+   "pos": "형용사",
+   "ko": "국가의, 전국적인",
+   "ipa": "/ˈnæʃənəl/",
+   "ex_en": "The story about the missing child became national news overnight.",
+   "ex_ko": "실종된 아이에 관한 이야기는 하룻밤 사이에 전국적인 뉴스가 되었다."
+  },
+  {
+   "word": "strict",
+   "pos": "형용사",
+   "ko": "엄격한",
+   "ipa": "/ˈstrɪkt/",
+   "ex_en": "The school has strict rules about using cell phones in class.",
+   "ex_ko": "그 학교는 수업 중 휴대전화 사용에 관해 엄격한 규칙이 있다.",
+   "syn": [
+    "rigid",
+    "severe"
+   ]
+  },
+  {
+   "word": "guilty",
+   "pos": "형용사",
+   "ko": "유죄의; 죄책감이 드는",
+   "ipa": "/ˈɡɪlti/",
+   "ex_en": "The jury found the man guilty of stealing from the store.",
+   "ex_ko": "배심원단은 그 남자에게 가게에서 물건을 훔친 것에 대해 유죄 평결을 내렸다."
+  },
+  {
+   "word": "innocent",
+   "pos": "형용사",
+   "ko": "무죄의, 결백한",
+   "ipa": "/ˈɪnəsənt/",
+   "ex_en": "The lawyer argued that her client was innocent of the crime.",
+   "ex_ko": "그 변호사는 자신의 의뢰인이 그 범죄에 대해 무죄라고 주장했다."
+  },
+  {
+   "word": "widely",
+   "pos": "부사",
+   "ko": "널리, 폭넓게",
+   "ipa": "/ˈwaɪdli/",
+   "ex_en": "This traditional custom is still widely practiced across the country.",
+   "ex_ko": "이 전통 관습은 여전히 전국적으로 널리 행해지고 있다."
+  },
+  {
+   "word": "recently",
+   "pos": "부사",
+   "ko": "최근에",
+   "ipa": "/ˈrisəntli/",
+   "ex_en": "The city has recently opened a new cultural center for residents.",
+   "ex_ko": "시는 최근 주민들을 위한 새 문화 센터를 열었다.",
+   "syn": [
+    "lately"
+   ]
+  },
+  {
+   "word": "take part in",
+   "pos": "구동사",
+   "ko": "~에 참가하다, 참여하다",
+   "ipa": "/ˌteɪk ˈpɑrt ɪn/",
+   "ex_en": "More than a hundred students took part in the peace march.",
+   "ex_ko": "백 명이 넘는 학생들이 평화 행진에 참가했다.",
+   "syn": [
+    "participate in",
+    "join"
+   ]
+  },
+  {
+   "word": "carry out",
+   "pos": "구동사",
+   "ko": "수행하다, 실시하다",
+   "ipa": "/ˌkɛri ˈaʊt/",
+   "ex_en": "The government will carry out a survey on public transportation next month.",
+   "ex_ko": "정부는 다음 달 대중교통에 관한 조사를 실시할 것이다.",
+   "syn": [
+    "conduct",
+    "perform"
+   ]
+  },
+  {
+   "word": "point out",
+   "pos": "구동사",
+   "ko": "지적하다, 언급하다",
+   "ipa": "/ˌpɔɪnt ˈaʊt/",
+   "ex_en": "Critics pointed out that the new law ignores the rights of workers.",
+   "ex_ko": "비평가들은 새 법이 노동자의 권리를 무시한다고 지적했다.",
+   "syn": [
+    "indicate",
+    "mention"
+   ]
+  },
+  {
+   "word": "break out",
+   "pos": "구동사",
+   "ko": "(전쟁·화재 등이) 발발하다, 발생하다",
+   "ipa": "/ˌbreɪk ˈaʊt/",
+   "ex_en": "A fire broke out in the market, but no one was hurt.",
+   "ex_ko": "시장에서 화재가 발생했지만 다친 사람은 없었다."
+  },
+  {
+   "word": "pollution",
+   "pos": "명사",
+   "ko": "오염, 공해",
+   "ipa": "/pəˈluʃən/",
+   "ex_en": "Air pollution in the city has become much worse over the past decade.",
+   "ex_ko": "지난 10년 동안 도시의 대기 오염이 훨씬 심해졌다.",
+   "syn": [
+    "contamination"
+   ]
+  },
+  {
+   "word": "climate",
+   "pos": "명사",
+   "ko": "기후",
+   "ipa": "/ˈklaɪmət/",
+   "ex_en": "Scientists warn that climate change is already affecting crops around the world.",
+   "ex_ko": "과학자들은 기후 변화가 이미 전 세계 농작물에 영향을 주고 있다고 경고한다."
+  },
+  {
+   "word": "resource",
+   "pos": "명사",
+   "ko": "자원",
+   "ipa": "/ˈrisɔrs/",
+   "ex_en": "We must use natural resources more carefully before they run low.",
+   "ex_ko": "자원이 부족해지기 전에 천연자원을 더 신중하게 사용해야 한다.",
+   "syn": [
+    "supply"
+   ]
+  },
+  {
+   "word": "species",
+   "pos": "명사",
+   "ko": "(생물의) 종",
+   "ipa": "/ˈspiʃiz/",
+   "ex_en": "This island is home to several species found nowhere else on Earth.",
+   "ex_ko": "이 섬은 지구상 다른 어디에서도 볼 수 없는 여러 종의 서식지다."
+  },
+  {
+   "word": "device",
+   "pos": "명사",
+   "ko": "장치, 기기",
+   "ipa": "/dɪˈvaɪs/",
+   "ex_en": "This small device measures your heart rate while you exercise.",
+   "ex_ko": "이 작은 기기는 운동하는 동안 심박수를 측정한다.",
+   "syn": [
+    "gadget",
+    "instrument"
+   ]
+  },
+  {
+   "word": "temperature",
+   "pos": "명사",
+   "ko": "온도, 기온",
+   "ipa": "/ˈtɛmprətʃɚ/",
+   "ex_en": "The temperature dropped sharply after the sun went down last night.",
+   "ex_ko": "어젯밤 해가 진 뒤 기온이 급격히 떨어졌다."
+  },
+  {
+   "word": "atmosphere",
+   "pos": "명사",
+   "ko": "대기; 분위기",
+   "ipa": "/ˈætməˌsfɪr/",
+   "ex_en": "Burning fossil fuels releases harmful gases into the atmosphere.",
+   "ex_ko": "화석 연료를 태우면 유해 가스가 대기 중으로 방출된다."
+  },
+  {
+   "word": "drought",
+   "pos": "명사",
+   "ko": "가뭄",
+   "ipa": "/ˈdraʊt/",
+   "ex_en": "The long drought forced farmers to give up on this year's harvest.",
+   "ex_ko": "오랜 가뭄으로 농부들은 올해 수확을 포기해야 했다.",
+   "syn": [
+    "dry spell"
+   ]
+  },
+  {
+   "word": "fuel",
+   "pos": "명사",
+   "ko": "연료",
+   "ipa": "/ˈfjuəl/",
+   "ex_en": "Electric cars need no fuel, so they cost less to run.",
+   "ex_ko": "전기차는 연료가 필요 없어서 운행 비용이 적게 든다."
+  },
+  {
+   "word": "habitat",
+   "pos": "명사",
+   "ko": "서식지",
+   "ipa": "/ˈhæbəˌtæt/",
+   "ex_en": "Cutting down forests destroys the natural habitat of many wild animals.",
+   "ex_ko": "숲을 베어 내면 많은 야생 동물의 자연 서식지가 파괴된다."
+  },
+  {
+   "word": "phenomenon",
+   "pos": "명사",
+   "ko": "현상",
+   "ipa": "/fəˈnɑməˌnɑn/",
+   "ex_en": "The northern lights are a natural phenomenon best seen in winter.",
+   "ex_ko": "오로라는 겨울에 가장 잘 보이는 자연 현상이다."
+  },
+  {
+   "word": "surface",
+   "pos": "명사",
+   "ko": "표면, 수면",
+   "ipa": "/ˈsɝfəs/",
+   "ex_en": "About seventy percent of the Earth's surface is covered by water.",
+   "ex_ko": "지구 표면의 약 70퍼센트는 물로 덮여 있다."
+  },
+  {
+   "word": "disaster",
+   "pos": "명사",
+   "ko": "재해, 재난",
+   "ipa": "/dɪˈzæstɚ/",
+   "ex_en": "The town is still recovering from the natural disaster last summer.",
+   "ex_ko": "그 마을은 지난여름의 자연재해에서 아직 회복 중이다.",
+   "syn": [
+    "catastrophe"
+   ]
+  },
+  {
+   "word": "soil",
+   "pos": "명사",
+   "ko": "토양, 흙",
+   "ipa": "/ˈsɔɪl/",
+   "ex_en": "Rich soil and plenty of rain make this region perfect for farming.",
+   "ex_ko": "비옥한 토양과 풍부한 비 덕분에 이 지역은 농사에 안성맞춤이다."
+  },
+  {
+   "word": "substance",
+   "pos": "명사",
+   "ko": "물질",
+   "ipa": "/ˈsʌbstəns/",
+   "ex_en": "The factory was fined for dumping a dangerous substance into the river.",
+   "ex_ko": "그 공장은 위험 물질을 강에 버려서 벌금을 물었다.",
+   "syn": [
+    "material"
+   ]
+  },
+  {
+   "word": "absorb",
+   "pos": "동사",
+   "ko": "흡수하다",
+   "ipa": "/əbˈzɔrb/",
+   "ex_en": "Plants absorb water and nutrients from the soil through their roots.",
+   "ex_ko": "식물은 뿌리를 통해 토양에서 물과 양분을 흡수한다.",
+   "syn": [
+    "soak up"
+   ]
+  },
+  {
+   "word": "adapt",
+   "pos": "동사",
+   "ko": "적응하다; 개조하다",
+   "ipa": "/əˈdæpt/",
+   "ex_en": "Desert animals have adapted to survive with very little water.",
+   "ex_ko": "사막 동물들은 아주 적은 물로도 살아남도록 적응해 왔다.",
+   "syn": [
+    "adjust"
+   ]
+  },
+  {
+   "word": "predict",
+   "pos": "동사",
+   "ko": "예측하다",
+   "ipa": "/prɪˈdɪkt/",
+   "ex_en": "It is still difficult to predict exactly when an earthquake will strike.",
+   "ex_ko": "지진이 정확히 언제 일어날지 예측하는 것은 여전히 어렵다.",
+   "syn": [
+    "forecast",
+    "foresee"
+   ]
+  },
+  {
+   "word": "preserve",
+   "pos": "동사",
+   "ko": "보존하다, 지키다",
+   "ipa": "/prɪˈzɝv/",
+   "ex_en": "The government created the park to preserve the area's rare plants.",
+   "ex_ko": "정부는 그 지역의 희귀 식물을 보존하기 위해 공원을 만들었다.",
+   "syn": [
+    "protect",
+    "conserve"
+   ]
+  },
+  {
+   "word": "measure",
+   "pos": "동사",
+   "ko": "측정하다",
+   "ipa": "/ˈmɛʒɚ/",
+   "ex_en": "The app measures how far you walk and run each day.",
+   "ex_ko": "그 앱은 매일 얼마나 걷고 달리는지를 측정한다."
+  },
+  {
+   "word": "evaporate",
+   "pos": "동사",
+   "ko": "증발하다",
+   "ipa": "/ɪˈvæpəˌreɪt/",
+   "ex_en": "Water in the lake evaporates quickly during the hot summer months.",
+   "ex_ko": "더운 여름철에는 호수의 물이 빠르게 증발한다."
+  },
+  {
+   "word": "contaminate",
+   "pos": "동사",
+   "ko": "오염시키다",
+   "ipa": "/kənˈtæməˌneɪt/",
+   "ex_en": "Chemicals from the farm contaminated the drinking water in the village.",
+   "ex_ko": "농장에서 나온 화학 물질이 마을의 식수를 오염시켰다.",
+   "syn": [
+    "pollute"
+   ]
+  },
+  {
+   "word": "generate",
+   "pos": "동사",
+   "ko": "(전기 등을) 생산하다, 만들어 내다",
+   "ipa": "/ˈdʒɛnəˌreɪt/",
+   "ex_en": "Wind turbines generate enough electricity to power thousands of homes.",
+   "ex_ko": "풍력 터빈은 수천 가구에 전력을 공급할 만큼의 전기를 생산한다.",
+   "syn": [
+    "produce"
+   ]
+  },
+  {
+   "word": "invent",
+   "pos": "동사",
+   "ko": "발명하다",
+   "ipa": "/ɪnˈvɛnt/",
+   "ex_en": "The telephone was invented more than a hundred years ago.",
+   "ex_ko": "전화기는 100여 년 전에 발명되었다.",
+   "syn": [
+    "create",
+    "devise"
+   ]
+  },
+  {
+   "word": "threaten",
+   "pos": "동사",
+   "ko": "위협하다",
+   "ipa": "/ˈθrɛtən/",
+   "ex_en": "Rising sea levels threaten small islands across the Pacific Ocean.",
+   "ex_ko": "해수면 상승이 태평양의 작은 섬들을 위협하고 있다.",
+   "syn": [
+    "endanger"
+   ]
+  },
+  {
+   "word": "explore",
+   "pos": "동사",
+   "ko": "탐사하다, 탐구하다",
+   "ipa": "/ɪkˈsplɔr/",
+   "ex_en": "Scientists hope to explore deeper parts of the ocean with new robots.",
+   "ex_ko": "과학자들은 새로운 로봇으로 바다의 더 깊은 곳을 탐사하기를 기대한다.",
+   "syn": [
+    "investigate"
+   ]
+  },
+  {
+   "word": "extinct",
+   "pos": "형용사",
+   "ko": "멸종된",
+   "ipa": "/ɪkˈstɪŋkt/",
+   "ex_en": "Dinosaurs became extinct millions of years before humans appeared on Earth.",
+   "ex_ko": "공룡은 인류가 지구에 나타나기 수백만 년 전에 멸종했다."
+  },
+  {
+   "word": "harmful",
+   "pos": "형용사",
+   "ko": "해로운",
+   "ipa": "/ˈhɑrmfəl/",
+   "ex_en": "Too much screen time can be harmful to children's eyes.",
+   "ex_ko": "지나친 화면 시청은 아이들의 눈에 해로울 수 있다.",
+   "syn": [
+    "damaging"
+   ]
+  },
+  {
+   "word": "renewable",
+   "pos": "형용사",
+   "ko": "재생 가능한",
+   "ipa": "/rɪˈnuəbəl/",
+   "ex_en": "Solar power is a renewable source of energy that never runs out.",
+   "ex_ko": "태양광은 고갈되지 않는 재생 가능 에너지원이다.",
+   "syn": [
+    "sustainable"
+   ]
+  },
+  {
+   "word": "endangered",
+   "pos": "형용사",
+   "ko": "멸종 위기의",
+   "ipa": "/ɪnˈdeɪndʒɚd/",
+   "ex_en": "The organization works to protect endangered animals such as sea turtles.",
+   "ex_ko": "그 단체는 바다거북 같은 멸종 위기 동물을 보호하는 일을 한다."
+  },
+  {
+   "word": "toxic",
+   "pos": "형용사",
+   "ko": "유독한",
+   "ipa": "/ˈtɑksɪk/",
+   "ex_en": "The old factory left toxic waste buried under the ground.",
+   "ex_ko": "그 오래된 공장은 유독성 폐기물을 땅속에 묻어 두었다.",
+   "syn": [
+    "poisonous"
+   ]
+  },
+  {
+   "word": "fertile",
+   "pos": "형용사",
+   "ko": "비옥한",
+   "ipa": "/ˈfɝtəl/",
+   "ex_en": "Crops grow well in the fertile land along the river.",
+   "ex_ko": "강을 따라 펼쳐진 비옥한 땅에서는 농작물이 잘 자란다.",
+   "syn": [
+    "rich",
+    "productive"
+   ]
+  },
+  {
+   "word": "portable",
+   "pos": "형용사",
+   "ko": "휴대용의",
+   "ipa": "/ˈpɔrtəbəl/",
+   "ex_en": "This portable charger keeps your phone running all day outdoors.",
+   "ex_ko": "이 휴대용 충전기는 야외에서 온종일 휴대폰을 쓸 수 있게 해 준다."
+  },
+  {
+   "word": "annually",
+   "pos": "부사",
+   "ko": "매년, 연간",
+   "ipa": "/ˈænjuəli/",
+   "ex_en": "The city plants thousands of new trees annually to clean the air.",
+   "ex_ko": "그 도시는 공기를 깨끗하게 하기 위해 매년 수천 그루의 나무를 심는다.",
+   "syn": [
+    "yearly"
+   ]
+  },
+  {
+   "word": "roughly",
+   "pos": "부사",
+   "ko": "대략; 거칠게",
+   "ipa": "/ˈrʌfli/",
+   "ex_en": "The new bridge will take roughly two years to complete.",
+   "ex_ko": "새 다리는 완공까지 대략 2년이 걸릴 것이다.",
+   "syn": [
+    "about",
+    "around"
+   ]
+  },
+  {
+   "word": "die out",
+   "pos": "구동사",
+   "ko": "멸종하다, 사라지다",
+   "ipa": "/daɪ ˈaʊt/",
+   "ex_en": "Without protection, these rare frogs could die out within twenty years.",
+   "ex_ko": "보호하지 않으면 이 희귀 개구리들은 20년 안에 멸종할 수도 있다.",
+   "syn": [
+    "become extinct",
+    "disappear"
+   ]
+  },
+  {
+   "word": "use up",
+   "pos": "구동사",
+   "ko": "다 써 버리다",
+   "ipa": "/juz ˈʌp/",
+   "ex_en": "If we keep wasting water, we will use up our supplies soon.",
+   "ex_ko": "물을 계속 낭비하면 곧 저장량을 다 써 버릴 것이다.",
+   "syn": [
+    "exhaust"
+   ]
+  },
+  {
+   "word": "throw away",
+   "pos": "구동사",
+   "ko": "버리다",
+   "ipa": "/θroʊ əˈweɪ/",
+   "ex_en": "Do not throw away old batteries with your regular household trash.",
+   "ex_ko": "다 쓴 건전지를 일반 생활 쓰레기와 함께 버리지 마세요.",
+   "syn": [
+    "discard"
+   ]
+  },
+  {
+   "word": "result in",
+   "pos": "숙어",
+   "ko": "~을 초래하다",
+   "ipa": "/rɪˈzʌlt ɪn/",
+   "ex_en": "Cutting down too many trees can result in serious flooding.",
+   "ex_ko": "나무를 너무 많이 베면 심각한 홍수를 초래할 수 있다.",
+   "syn": [
+    "lead to",
+    "cause"
+   ]
   }
  ],
  "sentences": [
@@ -1815,6 +4790,2410 @@ window.TEPS_DATA.low = {
     {
      "en": "farming village",
      "ko": "농촌 마을"
+    }
+   ]
+  },
+  {
+   "en": "Could you save me a seat near the window?",
+   "ko": "창가 쪽에 자리 하나만 맡아 줄래요?",
+   "point": "Could you ~?는 정중한 부탁 표현. save me a seat는 「나에게 자리를 맡아 주다」라는 save A B(4형식) 어순을 잡는 것이 핵심.",
+   "keywords": [
+    {
+     "en": "Could you ~?",
+     "ko": "~해 줄래요? (정중한 부탁)"
+    },
+    {
+     "en": "save a seat",
+     "ko": "자리를 맡다"
+    },
+    {
+     "en": "near the window",
+     "ko": "창가 쪽에"
+    }
+   ]
+  },
+  {
+   "en": "The elevator will be out of service until Friday for repairs.",
+   "ko": "엘리베이터는 수리 관계로 금요일까지 운행이 중단됩니다.",
+   "point": "out of service는 「운행(작동) 중지」라는 안내문 단골 표현. until은 「~까지 계속」이라는 뜻으로 기한을 나타내는 by와 구별해야 한다.",
+   "keywords": [
+    {
+     "en": "out of service",
+     "ko": "운행이 중단된"
+    },
+    {
+     "en": "until",
+     "ko": "~까지 (계속)"
+    },
+    {
+     "en": "repair",
+     "ko": "수리"
+    }
+   ]
+  },
+  {
+   "en": "I'm writing to ask about the schedule for next week's meeting.",
+   "ko": "다음 주 회의 일정을 여쭤보려고 메일 드립니다.",
+   "point": "I'm writing to + 동사원형은 이메일 서두에서 용건을 밝히는 정형 표현. to ask는 목적을 나타내는 to부정사다.",
+   "keywords": [
+    {
+     "en": "I'm writing to ~",
+     "ko": "~하려고 (메일을) 씁니다"
+    },
+    {
+     "en": "ask about",
+     "ko": "~에 대해 문의하다"
+    },
+    {
+     "en": "schedule",
+     "ko": "일정"
+    }
+   ]
+  },
+  {
+   "en": "Please keep your voice down in the reading room.",
+   "ko": "열람실에서는 목소리를 낮춰 주세요.",
+   "point": "keep A down은 「A를 낮게 유지하다」. keep + 목적어 + 상태 구조를 한 덩어리로 잡으면 해석이 쉬워진다.",
+   "keywords": [
+    {
+     "en": "keep one's voice down",
+     "ko": "목소리를 낮추다"
+    },
+    {
+     "en": "reading room",
+     "ko": "열람실"
+    },
+    {
+     "en": "please + 명령문",
+     "ko": "~해 주세요"
+    }
+   ]
+  },
+  {
+   "en": "The last train to City Hall leaves at 11:40 tonight.",
+   "ko": "시청 방면 막차는 오늘 밤 11시 40분에 출발합니다.",
+   "point": "시간표·일정처럼 정해진 미래는 현재시제(leaves)로 표현한다. the last train to + 장소는 「~행 막차」.",
+   "keywords": [
+    {
+     "en": "the last train",
+     "ko": "막차"
+    },
+    {
+     "en": "leave",
+     "ko": "출발하다"
+    },
+    {
+     "en": "City Hall",
+     "ko": "시청"
+    }
+   ]
+  },
+  {
+   "en": "It's been a while since we last had lunch together.",
+   "ko": "우리 같이 점심 먹은 지도 꽤 됐네요.",
+   "point": "It's been a while since + 과거절은 「~한 지 오래되다」라는 관용 구문. since 뒤에는 과거시제가 온다는 점에 주의.",
+   "keywords": [
+    {
+     "en": "It's been a while since ~",
+     "ko": "~한 지 오래되다"
+    },
+    {
+     "en": "last",
+     "ko": "마지막으로"
+    },
+    {
+     "en": "have lunch",
+     "ko": "점심을 먹다"
+    }
+   ]
+  },
+  {
+   "en": "Keep the receipt in case you need to return the item.",
+   "ko": "물건을 반품해야 할 경우에 대비해 영수증을 보관하세요.",
+   "point": "in case + 주어 + 동사는 「~할 경우에 대비해서」. 단순 조건의 if(만약 ~라면)와 뉘앙스가 다르다는 점이 포인트.",
+   "keywords": [
+    {
+     "en": "receipt",
+     "ko": "영수증"
+    },
+    {
+     "en": "in case ~",
+     "ko": "~할 경우에 대비해"
+    },
+    {
+     "en": "return",
+     "ko": "반품하다"
+    },
+    {
+     "en": "item",
+     "ko": "물건, 상품"
+    }
+   ]
+  },
+  {
+   "en": "All visitors must sign in at the front desk before entering.",
+   "ko": "모든 방문객은 들어가기 전에 안내 데스크에서 방문 등록을 해야 합니다.",
+   "point": "must는 규정·의무를 나타낸다. sign in은 「방문 등록을 하다」라는 구동사이고, before entering은 before you enter를 줄인 형태.",
+   "keywords": [
+    {
+     "en": "sign in",
+     "ko": "방문 등록을 하다"
+    },
+    {
+     "en": "front desk",
+     "ko": "안내 데스크"
+    },
+    {
+     "en": "before -ing",
+     "ko": "~하기 전에"
+    }
+   ]
+  },
+  {
+   "en": "Do you mind if I open the window a little?",
+   "ko": "창문을 조금 열어도 괜찮을까요?",
+   "point": "Do you mind if ~?는 허락을 구하는 표현. mind는 「꺼리다」이므로 승낙할 때는 No(괜찮아요)로 답한다는 점이 핵심.",
+   "keywords": [
+    {
+     "en": "Do you mind if ~?",
+     "ko": "~해도 괜찮을까요?"
+    },
+    {
+     "en": "a little",
+     "ko": "조금"
+    },
+    {
+     "en": "open",
+     "ko": "열다"
+    }
+   ]
+  },
+  {
+   "en": "Thank you for getting back to me so quickly.",
+   "ko": "이렇게 빨리 답장해 주셔서 감사합니다.",
+   "point": "thank you for + -ing 구조로, 전치사 for 뒤에 동명사가 온다. get back to는 「~에게 회신하다」라는 필수 구동사.",
+   "keywords": [
+    {
+     "en": "get back to",
+     "ko": "~에게 회신하다"
+    },
+    {
+     "en": "thank you for -ing",
+     "ko": "~해 줘서 고맙다"
+    },
+    {
+     "en": "quickly",
+     "ko": "빨리"
+    }
+   ]
+  },
+  {
+   "en": "Due to heavy rain, today's outdoor concert has been canceled.",
+   "ko": "폭우로 인해 오늘 야외 콘서트가 취소되었습니다.",
+   "point": "due to + 명사는 「~ 때문에」. has been canceled는 현재완료 수동태로 「취소된 상태다」라는 결과를 전달한다.",
+   "keywords": [
+    {
+     "en": "due to",
+     "ko": "~ 때문에"
+    },
+    {
+     "en": "heavy rain",
+     "ko": "폭우"
+    },
+    {
+     "en": "outdoor",
+     "ko": "야외의"
+    },
+    {
+     "en": "cancel",
+     "ko": "취소하다"
+    }
+   ]
+  },
+  {
+   "en": "Take this medicine twice a day after meals.",
+   "ko": "이 약은 하루에 두 번 식후에 복용하세요.",
+   "point": "약을 복용할 때는 동사 take를 쓴다. twice a day의 a는 「~마다(per)」의 뜻으로 「하루에 두 번」이 된다.",
+   "keywords": [
+    {
+     "en": "take medicine",
+     "ko": "약을 먹다"
+    },
+    {
+     "en": "twice a day",
+     "ko": "하루에 두 번"
+    },
+    {
+     "en": "after meals",
+     "ko": "식후에"
+    }
+   ]
+  },
+  {
+   "en": "I'm afraid I can't make it to the party on Saturday.",
+   "ko": "죄송하지만 토요일 파티에는 못 갈 것 같아요.",
+   "point": "I'm afraid ~는 유감스러운 내용을 부드럽게 전하는 표현. make it (to)는 「(모임 등에) 가다, 참석하다」라는 관용 표현.",
+   "keywords": [
+    {
+     "en": "I'm afraid ~",
+     "ko": "유감이지만 ~인 것 같다"
+    },
+    {
+     "en": "make it to",
+     "ko": "~에 가다, 참석하다"
+    },
+    {
+     "en": "on Saturday",
+     "ko": "토요일에"
+    }
+   ]
+  },
+  {
+   "en": "Parking is free for the first thirty minutes.",
+   "ko": "주차는 처음 30분 동안 무료입니다.",
+   "point": "for + 기간은 「~ 동안」. the first thirty minutes처럼 서수 + 기간 표현을 한 덩어리로 읽는 것이 요령이다.",
+   "keywords": [
+    {
+     "en": "parking",
+     "ko": "주차"
+    },
+    {
+     "en": "free",
+     "ko": "무료인"
+    },
+    {
+     "en": "for the first ~",
+     "ko": "처음 ~ 동안"
+    }
+   ]
+  },
+  {
+   "en": "Please find the attached file for more details.",
+   "ko": "자세한 내용은 첨부 파일을 확인해 주세요.",
+   "point": "이메일 정형 표현. attached는 「첨부된」이라는 과거분사 수식어이고, for more details는 「더 자세한 사항은」으로 옮기면 자연스럽다.",
+   "keywords": [
+    {
+     "en": "attached file",
+     "ko": "첨부 파일"
+    },
+    {
+     "en": "details",
+     "ko": "세부 사항"
+    },
+    {
+     "en": "find",
+     "ko": "확인하다, 찾다"
+    }
+   ]
+  },
+  {
+   "en": "Why don't we grab a coffee after class?",
+   "ko": "수업 끝나고 커피 한잔 어때?",
+   "point": "Why don't we ~?는 「~하는 게 어때?」라는 제안 표현. grab은 「간단히 먹다/마시다」라는 캐주얼한 회화 표현.",
+   "keywords": [
+    {
+     "en": "Why don't we ~?",
+     "ko": "~하는 게 어때?"
+    },
+    {
+     "en": "grab a coffee",
+     "ko": "커피 한잔하다"
+    },
+    {
+     "en": "after class",
+     "ko": "수업 후에"
+    }
+   ]
+  },
+  {
+   "en": "The store will be closed on national holidays.",
+   "ko": "매장은 공휴일에 문을 닫습니다.",
+   "point": "will be closed는 미래 수동태지만 「(앞으로) 문을 닫는다」로 능동처럼 옮기면 자연스럽다. 특정 날짜·요일 앞의 전치사 on에 주의.",
+   "keywords": [
+    {
+     "en": "closed",
+     "ko": "문을 닫은"
+    },
+    {
+     "en": "national holiday",
+     "ko": "공휴일"
+    },
+    {
+     "en": "store",
+     "ko": "매장, 가게"
+    }
+   ]
+  },
+  {
+   "en": "If the light turns red, unplug the charger right away.",
+   "ko": "불이 빨간색으로 바뀌면 바로 충전기를 뽑으세요.",
+   "point": "조건절(if + 현재시제) 뒤에 명령문이 이어지는 실용문의 전형적 패턴. turn + 색깔은 「~색으로 변하다」.",
+   "keywords": [
+    {
+     "en": "turn red",
+     "ko": "빨간색으로 변하다"
+    },
+    {
+     "en": "unplug",
+     "ko": "플러그를 뽑다"
+    },
+    {
+     "en": "right away",
+     "ko": "즉시, 바로"
+    }
+   ]
+  },
+  {
+   "en": "It took me almost an hour to get here because of the traffic.",
+   "ko": "차가 막혀서 여기 오는 데 거의 한 시간 걸렸어요.",
+   "point": "It takes(took) + 사람 + 시간 + to부정사는 「~하는 데 시간이 걸리다」 구문. because of + 명사 구조도 함께 잡자.",
+   "keywords": [
+    {
+     "en": "It takes A B to ~",
+     "ko": "A가 ~하는 데 B만큼 걸리다"
+    },
+    {
+     "en": "traffic",
+     "ko": "교통량, 차량 정체"
+    },
+    {
+     "en": "almost",
+     "ko": "거의"
+    }
+   ]
+  },
+  {
+   "en": "I would appreciate it if you could reply by Wednesday.",
+   "ko": "수요일까지 회신해 주시면 감사하겠습니다.",
+   "point": "I would appreciate it if you could ~는 격식 있는 부탁 표현. by는 「늦어도 ~까지(완료 기한)」로 until(~까지 계속)과 구별한다.",
+   "keywords": [
+    {
+     "en": "appreciate",
+     "ko": "감사하다"
+    },
+    {
+     "en": "reply",
+     "ko": "회신하다"
+    },
+    {
+     "en": "by",
+     "ko": "~까지 (기한)"
+    }
+   ]
+  },
+  {
+   "en": "Lost items can be picked up at the information center on the first floor.",
+   "ko": "분실물은 1층 안내 센터에서 찾아가실 수 있습니다.",
+   "point": "can be picked up은 조동사 + 수동태 구조. pick up은 「찾아가다, 수령하다」라는 뜻의 구동사다.",
+   "keywords": [
+    {
+     "en": "lost item",
+     "ko": "분실물"
+    },
+    {
+     "en": "pick up",
+     "ko": "찾아가다, 수령하다"
+    },
+    {
+     "en": "information center",
+     "ko": "안내 센터"
+    }
+   ]
+  },
+  {
+   "en": "You'd better bring an umbrella; it looks like rain.",
+   "ko": "우산 챙기는 게 좋겠어. 비가 올 것 같아.",
+   "point": "had better + 동사원형은 「~하는 게 좋다」라는 강한 권고. look like + 명사는 「~할 것 같다」라는 추측 표현.",
+   "keywords": [
+    {
+     "en": "had better",
+     "ko": "~하는 게 좋다"
+    },
+    {
+     "en": "look like rain",
+     "ko": "비가 올 것 같다"
+    },
+    {
+     "en": "bring",
+     "ko": "가져가다, 챙기다"
+    }
+   ]
+  },
+  {
+   "en": "Boarding for Flight 302 will begin in ten minutes at Gate 7.",
+   "ko": "302편 탑승은 10분 후 7번 게이트에서 시작됩니다.",
+   "point": "in + 시간은 「(지금부터) ~ 후에」라는 뜻으로, 「~ 안에」로 오역하기 쉬운 포인트. boarding은 「탑승」이라는 명사화된 동명사.",
+   "keywords": [
+    {
+     "en": "boarding",
+     "ko": "탑승"
+    },
+    {
+     "en": "in ten minutes",
+     "ko": "10분 후에"
+    },
+    {
+     "en": "gate",
+     "ko": "탑승구, 게이트"
+    }
+   ]
+  },
+  {
+   "en": "This coupon cannot be used with any other discount.",
+   "ko": "이 쿠폰은 다른 할인과 중복 사용할 수 없습니다.",
+   "point": "cannot be used는 조동사 수동태로 「사용될 수 없다 → 사용할 수 없다」로 능동처럼 옮기면 자연스럽다. not ~ any other는 「다른 어떤 ~과도 안 된다」.",
+   "keywords": [
+    {
+     "en": "coupon",
+     "ko": "쿠폰"
+    },
+    {
+     "en": "discount",
+     "ko": "할인"
+    },
+    {
+     "en": "any other",
+     "ko": "다른 어떤 ~"
+    }
+   ]
+  },
+  {
+   "en": "I used to live near the station, so I know this area well.",
+   "ko": "예전에 역 근처에 살아서 이 동네를 잘 알아요.",
+   "point": "used to + 동사원형은 「예전에 ~했다(지금은 아니다)」. be used to -ing(~에 익숙하다)와 혼동하지 말 것.",
+   "keywords": [
+    {
+     "en": "used to ~",
+     "ko": "예전에 ~하곤 했다"
+    },
+    {
+     "en": "near",
+     "ko": "~ 근처에"
+    },
+    {
+     "en": "area",
+     "ko": "지역, 동네"
+    }
+   ]
+  },
+  {
+   "en": "I'm sorry for the late reply; I was out of the office all week.",
+   "ko": "답장이 늦어 죄송합니다. 일주일 내내 사무실을 비웠습니다.",
+   "point": "sorry for + 명사 구조로 사과하는 이메일 표현. out of the office는 「부재중인, 사무실을 비운」이라는 비즈니스 관용구.",
+   "keywords": [
+    {
+     "en": "late reply",
+     "ko": "늦은 답장"
+    },
+    {
+     "en": "out of the office",
+     "ko": "부재중인"
+    },
+    {
+     "en": "all week",
+     "ko": "일주일 내내"
+    }
+   ]
+  },
+  {
+   "en": "Children under seven must be accompanied by an adult.",
+   "ko": "7세 미만 어린이는 보호자를 동반해야 합니다.",
+   "point": "must be accompanied by는 「~를 동반해야 한다」라는 규정문 수동태. under + 숫자는 「~ 미만」이라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "under",
+     "ko": "~ 미만의"
+    },
+    {
+     "en": "be accompanied by",
+     "ko": "~를 동반하다"
+    },
+    {
+     "en": "adult",
+     "ko": "성인, 보호자"
+    }
+   ]
+  },
+  {
+   "en": "How long does it take to walk to the museum from here?",
+   "ko": "여기서 박물관까지 걸어서 얼마나 걸려요?",
+   "point": "How long does it take to ~?는 소요 시간을 묻는 필수 구문. walk to + 장소는 「~까지 걸어가다」.",
+   "keywords": [
+    {
+     "en": "How long ~?",
+     "ko": "얼마나 (오래) ~?"
+    },
+    {
+     "en": "take",
+     "ko": "(시간이) 걸리다"
+    },
+    {
+     "en": "museum",
+     "ko": "박물관"
+    }
+   ]
+  },
+  {
+   "en": "Our office will move to a new building at the end of the month.",
+   "ko": "저희 사무실은 이달 말에 새 건물로 이전합니다.",
+   "point": "move to는 「~로 이사·이전하다」. at the end of ~(~ 말에)를 by the end of ~(~ 말까지)와 구별해서 잡아야 한다.",
+   "keywords": [
+    {
+     "en": "move to",
+     "ko": "~로 이전하다"
+    },
+    {
+     "en": "at the end of",
+     "ko": "~의 말에"
+    },
+    {
+     "en": "building",
+     "ko": "건물"
+    }
+   ]
+  },
+  {
+   "en": "Press and hold the button for three seconds to turn off the device.",
+   "ko": "기기를 끄려면 버튼을 3초 동안 길게 누르세요.",
+   "point": "문장 끝의 to turn off는 목적(~하려면)을 나타내는 to부정사로, 우리말로는 앞으로 당겨 해석하면 자연스럽다. press and hold는 「길게 누르다」.",
+   "keywords": [
+    {
+     "en": "press and hold",
+     "ko": "길게 누르다"
+    },
+    {
+     "en": "turn off",
+     "ko": "(전원을) 끄다"
+    },
+    {
+     "en": "device",
+     "ko": "기기, 장치"
+    }
+   ]
+  },
+  {
+   "en": "Let me know as soon as you arrive at the airport.",
+   "ko": "공항에 도착하자마자 알려 줘.",
+   "point": "let me know는 「나에게 알려 주다」라는 사역 구조. as soon as절은 시간 부사절이므로 미래 대신 현재시제(arrive)를 쓴다.",
+   "keywords": [
+    {
+     "en": "let me know",
+     "ko": "나에게 알려 주다"
+    },
+    {
+     "en": "as soon as",
+     "ko": "~하자마자"
+    },
+    {
+     "en": "arrive at",
+     "ko": "~에 도착하다"
+    }
+   ]
+  },
+  {
+   "en": "Would it be possible to change my appointment to Friday morning?",
+   "ko": "예약을 금요일 오전으로 변경할 수 있을까요?",
+   "point": "Would it be possible to ~?는 매우 정중한 요청 표현. change A to B는 「A를 B로 바꾸다」 구조다.",
+   "keywords": [
+    {
+     "en": "Would it be possible to ~?",
+     "ko": "~하는 것이 가능할까요?"
+    },
+    {
+     "en": "appointment",
+     "ko": "예약, 약속"
+    },
+    {
+     "en": "change A to B",
+     "ko": "A를 B로 바꾸다"
+    }
+   ]
+  },
+  {
+   "en": "Smoking is not allowed anywhere inside the building.",
+   "ko": "건물 내에서는 어디서도 흡연할 수 없습니다.",
+   "point": "동명사 주어 smoking + 수동태 is not allowed 구조. not ~ anywhere는 「어디에서도 ~ 않다」라는 전체 부정.",
+   "keywords": [
+    {
+     "en": "be allowed",
+     "ko": "허용되다"
+    },
+    {
+     "en": "anywhere",
+     "ko": "(부정문에서) 어디에서도"
+    },
+    {
+     "en": "inside",
+     "ko": "~ 안에서"
+    }
+   ]
+  },
+  {
+   "en": "The movie wasn't as good as I expected.",
+   "ko": "그 영화는 기대만큼 재미있지는 않았어요.",
+   "point": "not as ~ as ...는 「…만큼 ~하지 않다」라는 동등 비교의 부정. as I expected는 「내가 기대한 만큼」으로 절이 온 형태다.",
+   "keywords": [
+    {
+     "en": "not as ~ as ...",
+     "ko": "…만큼 ~하지 않은"
+    },
+    {
+     "en": "expect",
+     "ko": "기대하다"
+    },
+    {
+     "en": "movie",
+     "ko": "영화"
+    }
+   ]
+  },
+  {
+   "en": "The library will stay open until midnight during exam week.",
+   "ko": "시험 기간에는 도서관이 자정까지 문을 엽니다.",
+   "point": "stay + 형용사는 「~한 상태를 유지하다」로, stay open은 「계속 열려 있다」. during + 명사(기간)와 until(~까지 계속)도 함께 잡자.",
+   "keywords": [
+    {
+     "en": "stay open",
+     "ko": "계속 열려 있다"
+    },
+    {
+     "en": "midnight",
+     "ko": "자정"
+    },
+    {
+     "en": "during",
+     "ko": "~ 동안"
+    },
+    {
+     "en": "exam week",
+     "ko": "시험 기간"
+    }
+   ]
+  },
+  {
+   "en": "To get a refund, bring the item back within seven days.",
+   "ko": "환불을 받으려면 7일 이내에 물건을 다시 가져오세요.",
+   "point": "문두의 to부정사(To get a refund)는 목적(~하려면)을 나타낸다. within은 「~ 이내에」라는 뜻으로 in과 구별한다.",
+   "keywords": [
+    {
+     "en": "refund",
+     "ko": "환불"
+    },
+    {
+     "en": "bring back",
+     "ko": "다시 가져오다"
+    },
+    {
+     "en": "within",
+     "ko": "~ 이내에"
+    }
+   ]
+  },
+  {
+   "en": "I'm looking forward to seeing you at the reunion.",
+   "ko": "동창회에서 만날 날을 기대하고 있어요.",
+   "point": "look forward to의 to는 전치사이므로 뒤에 동명사(seeing)가 온다. to부정사로 착각하기 쉬운 시험 단골 포인트.",
+   "keywords": [
+    {
+     "en": "look forward to -ing",
+     "ko": "~하기를 고대하다"
+    },
+    {
+     "en": "reunion",
+     "ko": "동창회, 모임"
+    },
+    {
+     "en": "see",
+     "ko": "만나다"
+    }
+   ]
+  },
+  {
+   "en": "I was wondering if you could send me the report by the end of the day.",
+   "ko": "오늘 안으로 보고서를 보내 주실 수 있을까 해서요.",
+   "point": "I was wondering if you could ~는 부담을 줄인 아주 정중한 부탁 표현으로, 과거형이지만 현재의 부탁이다. by the end of the day는 「오늘 안으로」.",
+   "keywords": [
+    {
+     "en": "I was wondering if ~",
+     "ko": "~해 주실 수 있을까 해서요"
+    },
+    {
+     "en": "report",
+     "ko": "보고서"
+    },
+    {
+     "en": "by the end of the day",
+     "ko": "오늘 안으로"
+    }
+   ]
+  },
+  {
+   "en": "Please note that the pool is closed for cleaning every Monday.",
+   "ko": "수영장은 매주 월요일 청소 관계로 문을 닫으니 참고해 주세요.",
+   "point": "Please note that ~은 공지문에서 「~에 유의해 주세요」라는 정형 표현. for cleaning은 이유·목적을 나타내는 전치사구다.",
+   "keywords": [
+    {
+     "en": "Please note that ~",
+     "ko": "~에 유의해 주세요"
+    },
+    {
+     "en": "pool",
+     "ko": "수영장"
+    },
+    {
+     "en": "every Monday",
+     "ko": "매주 월요일"
+    }
+   ]
+  },
+  {
+   "en": "There's nothing left in the fridge, so let's order something.",
+   "ko": "냉장고에 남은 게 하나도 없으니 뭐 좀 시켜 먹자.",
+   "point": "nothing left는 leave의 과거분사 left가 nothing을 뒤에서 수식해 「남은 것이 없다」가 된 형태. let's + 동사원형은 제안 표현.",
+   "keywords": [
+    {
+     "en": "nothing left",
+     "ko": "남은 것이 없음"
+    },
+    {
+     "en": "fridge",
+     "ko": "냉장고"
+    },
+    {
+     "en": "order",
+     "ko": "주문하다, 시키다"
+    }
+   ]
+  },
+  {
+   "en": "The price of fresh vegetables has risen sharply because of the long summer heat wave.",
+   "ko": "긴 여름 폭염 때문에 신선 채소 가격이 크게 올랐다.",
+   "point": "현재완료 has risen은 과거에 시작된 변화가 지금까지 이어짐을 나타낸다. because of 뒤에는 절이 아니라 명사(구)가 온다는 점을 잡아야 한다.",
+   "keywords": [
+    {
+     "en": "price",
+     "ko": "가격"
+    },
+    {
+     "en": "rise sharply",
+     "ko": "급격히 오르다"
+    },
+    {
+     "en": "because of",
+     "ko": "~ 때문에"
+    },
+    {
+     "en": "heat wave",
+     "ko": "폭염"
+    }
+   ]
+  },
+  {
+   "en": "According to a recent survey, more young people are choosing to live alone in big cities.",
+   "ko": "최근 설문조사에 따르면, 대도시에서 혼자 살기를 선택하는 젊은이들이 늘고 있다.",
+   "point": "According to는 '~에 따르면'으로 정보의 출처를 제시하는 기사체 단골 표현이다. 현재진행형 are choosing은 지금 진행 중인 추세를 나타낸다.",
+   "keywords": [
+    {
+     "en": "according to",
+     "ko": "~에 따르면"
+    },
+    {
+     "en": "recent survey",
+     "ko": "최근 설문조사"
+    },
+    {
+     "en": "choose to",
+     "ko": "~하기를 선택하다"
+    },
+    {
+     "en": "live alone",
+     "ko": "혼자 살다"
+    }
+   ]
+  },
+  {
+   "en": "The city government plans to build more public libraries next year.",
+   "ko": "시 정부는 내년에 공공 도서관을 더 지을 계획이다.",
+   "point": "plan to + 동사원형은 '~할 계획이다'라는 뜻으로 정책 기사에 자주 나온다. 미래의 일이지만 현재형 plans로 쓰는 것에 주의한다.",
+   "keywords": [
+    {
+     "en": "city government",
+     "ko": "시 정부"
+    },
+    {
+     "en": "plan to",
+     "ko": "~할 계획이다"
+    },
+    {
+     "en": "public library",
+     "ko": "공공 도서관"
+    }
+   ]
+  },
+  {
+   "en": "Many small business owners say that higher rents are their biggest problem.",
+   "ko": "많은 소상공인들이 오른 임대료가 가장 큰 문제라고 말한다.",
+   "point": "say that절 구조로, that 이하가 말한 내용 전체다. that절 안의 주어는 higher rents(오른 임대료)라는 점을 정확히 잡아야 한다.",
+   "keywords": [
+    {
+     "en": "small business owner",
+     "ko": "소상공인, 자영업자"
+    },
+    {
+     "en": "rent",
+     "ko": "임대료"
+    },
+    {
+     "en": "biggest problem",
+     "ko": "가장 큰 문제"
+    }
+   ]
+  },
+  {
+   "en": "The new museum, which opened last month, is already popular with families.",
+   "ko": "지난달 문을 연 새 박물관은 벌써 가족 단위 방문객들에게 인기다.",
+   "point": "콤마와 함께 쓰인 which는 계속적 용법의 관계대명사로, 앞의 박물관에 대한 부가 정보를 끼워 넣은 것이다. 삽입 부분을 괄호처럼 묶고 주어-동사(The new museum is)를 먼저 연결하면 쉽다.",
+   "keywords": [
+    {
+     "en": "museum",
+     "ko": "박물관"
+    },
+    {
+     "en": "open",
+     "ko": "문을 열다, 개관하다"
+    },
+    {
+     "en": "be popular with",
+     "ko": "~에게 인기가 있다"
+    }
+   ]
+  },
+  {
+   "en": "Experts warn that the country's birth rate may fall again this year.",
+   "ko": "전문가들은 올해 출산율이 다시 떨어질 수 있다고 경고한다.",
+   "point": "warn that절은 '~라고 경고하다'로, 기사에서 전문가 의견을 전할 때 자주 쓰인다. may는 '~일지도 모른다'는 추측을 나타낸다.",
+   "keywords": [
+    {
+     "en": "expert",
+     "ko": "전문가"
+    },
+    {
+     "en": "warn",
+     "ko": "경고하다"
+    },
+    {
+     "en": "birth rate",
+     "ko": "출산율"
+    },
+    {
+     "en": "fall",
+     "ko": "떨어지다"
+    }
+   ]
+  },
+  {
+   "en": "Bus fares will go up by ten percent starting next month.",
+   "ko": "다음 달부터 버스 요금이 10퍼센트 오른다.",
+   "point": "by + 수치는 '~만큼'이라는 변화 폭을 나타낸다. starting next month는 '다음 달부터'라는 뜻의 관용적 표현이다.",
+   "keywords": [
+    {
+     "en": "fare",
+     "ko": "(교통) 요금"
+    },
+    {
+     "en": "go up",
+     "ko": "오르다"
+    },
+    {
+     "en": "by ten percent",
+     "ko": "10퍼센트만큼"
+    },
+    {
+     "en": "starting",
+     "ko": "~부터"
+    }
+   ]
+  },
+  {
+   "en": "It is becoming harder for young workers to buy their first home.",
+   "ko": "젊은 직장인들이 첫 집을 사기가 점점 더 어려워지고 있다.",
+   "point": "It ~ for A to B 가주어 구문으로, 진짜 주어는 to buy 이하이고 for young workers가 그 행위의 주체다. becoming harder는 '점점 더 어려워지는' 변화를 나타낸다.",
+   "keywords": [
+    {
+     "en": "It is hard for A to B",
+     "ko": "A가 B하기 어렵다"
+    },
+    {
+     "en": "young worker",
+     "ko": "젊은 직장인"
+    },
+    {
+     "en": "first home",
+     "ko": "첫 집, 생애 첫 주택"
+    }
+   ]
+  },
+  {
+   "en": "The film festival attracted over 200,000 visitors despite the rainy weather.",
+   "ko": "그 영화제는 궂은 날씨에도 20만 명이 넘는 관람객을 끌어모았다.",
+   "point": "despite는 '~에도 불구하고'라는 뜻으로 뒤에 명사(구)가 온다. attract visitors는 '관람객을 끌어모으다'라는 기사 단골 표현이다.",
+   "keywords": [
+    {
+     "en": "film festival",
+     "ko": "영화제"
+    },
+    {
+     "en": "attract",
+     "ko": "끌어모으다"
+    },
+    {
+     "en": "despite",
+     "ko": "~에도 불구하고"
+    },
+    {
+     "en": "visitor",
+     "ko": "방문객, 관람객"
+    }
+   ]
+  },
+  {
+   "en": "Online shopping has grown quickly since the pandemic changed people's habits.",
+   "ko": "팬데믹이 사람들의 습관을 바꾼 이후로 온라인 쇼핑이 빠르게 성장했다.",
+   "point": "since + 과거 시제 절은 '~한 이후로'라는 기준점을 제시하고, 주절은 현재완료(has grown)로 그때부터 지금까지의 변화를 나타낸다.",
+   "keywords": [
+    {
+     "en": "grow",
+     "ko": "성장하다"
+    },
+    {
+     "en": "since",
+     "ko": "~한 이후로"
+    },
+    {
+     "en": "pandemic",
+     "ko": "팬데믹, 대유행"
+    },
+    {
+     "en": "habit",
+     "ko": "습관"
+    }
+   ]
+  },
+  {
+   "en": "The government will offer free flu shots to everyone over sixty-five.",
+   "ko": "정부는 65세 이상 모든 사람에게 무료 독감 예방주사를 제공할 예정이다.",
+   "point": "offer A to B는 'B에게 A를 제공하다'라는 구조다. everyone over sixty-five에서 over는 '~ 초과, ~이 넘는'이라는 뜻으로 명사를 뒤에서 수식한다.",
+   "keywords": [
+    {
+     "en": "offer A to B",
+     "ko": "B에게 A를 제공하다"
+    },
+    {
+     "en": "free",
+     "ko": "무료의"
+    },
+    {
+     "en": "flu shot",
+     "ko": "독감 예방주사"
+    },
+    {
+     "en": "over sixty-five",
+     "ko": "65세 이상의"
+    }
+   ]
+  },
+  {
+   "en": "A local charity is collecting winter coats for families in need.",
+   "ko": "한 지역 자선단체가 어려운 가정을 위해 겨울 코트를 모으고 있다.",
+   "point": "in need는 '어려움에 처한, 도움이 필요한'이라는 관용 표현으로 families를 뒤에서 꾸민다. 현재진행형은 지금 진행 중인 활동을 나타낸다.",
+   "keywords": [
+    {
+     "en": "charity",
+     "ko": "자선단체"
+    },
+    {
+     "en": "collect",
+     "ko": "모으다"
+    },
+    {
+     "en": "in need",
+     "ko": "어려움에 처한"
+    }
+   ]
+  },
+  {
+   "en": "Some schools have decided to start classes later so that students can sleep more.",
+   "ko": "일부 학교들은 학생들이 잠을 더 잘 수 있도록 수업을 더 늦게 시작하기로 결정했다.",
+   "point": "so that + 주어 + can은 '~가 …할 수 있도록'이라는 목적을 나타낸다. decide to + 동사원형 '~하기로 결정하다'도 함께 잡아야 한다.",
+   "keywords": [
+    {
+     "en": "decide to",
+     "ko": "~하기로 결정하다"
+    },
+    {
+     "en": "so that",
+     "ko": "~하도록"
+    },
+    {
+     "en": "later",
+     "ko": "더 늦게"
+    }
+   ]
+  },
+  {
+   "en": "The unemployment rate fell to its lowest level in five years.",
+   "ko": "실업률이 5년 만에 최저 수준으로 떨어졌다.",
+   "point": "fall to는 '~로 떨어지다'로, to 뒤가 도달점이다. 최상급 + in five years는 '5년 만에 가장 ~한'이라는 기사 단골 패턴이다.",
+   "keywords": [
+    {
+     "en": "unemployment rate",
+     "ko": "실업률"
+    },
+    {
+     "en": "fall to",
+     "ko": "~로 떨어지다"
+    },
+    {
+     "en": "lowest level",
+     "ko": "최저 수준"
+    },
+    {
+     "en": "in five years",
+     "ko": "5년 만에"
+    }
+   ]
+  },
+  {
+   "en": "More tourists are visiting the old town since the new subway line opened.",
+   "ko": "새 지하철 노선이 개통된 이후로 더 많은 관광객이 구시가지를 찾고 있다.",
+   "point": "since절의 opened는 과거의 시작점을, 주절의 현재진행형은 지금 이어지는 추세를 나타낸다. more tourists처럼 비교급이 주어에 붙으면 '더 많은 ~가'로 해석한다.",
+   "keywords": [
+    {
+     "en": "tourist",
+     "ko": "관광객"
+    },
+    {
+     "en": "old town",
+     "ko": "구시가지"
+    },
+    {
+     "en": "subway line",
+     "ko": "지하철 노선"
+    },
+    {
+     "en": "open",
+     "ko": "개통하다"
+    }
+   ]
+  },
+  {
+   "en": "The company announced that it will hire 500 new workers next spring.",
+   "ko": "그 회사는 내년 봄에 신입 직원 500명을 채용하겠다고 발표했다.",
+   "point": "announce that절은 '~라고 발표하다'로, that절 안에 발표 내용이 담긴다. that절 속의 it은 앞의 the company를 가리킨다.",
+   "keywords": [
+    {
+     "en": "announce",
+     "ko": "발표하다"
+    },
+    {
+     "en": "hire",
+     "ko": "채용하다"
+    },
+    {
+     "en": "worker",
+     "ko": "직원, 노동자"
+    }
+   ]
+  },
+  {
+   "en": "Recycling rates in the city have doubled over the past ten years.",
+   "ko": "그 도시의 재활용률은 지난 10년 동안 두 배로 늘었다.",
+   "point": "double은 여기서 '두 배가 되다'라는 동사다. over the past ten years는 현재완료와 함께 '지난 10년에 걸쳐'라는 기간을 나타낸다.",
+   "keywords": [
+    {
+     "en": "recycling rate",
+     "ko": "재활용률"
+    },
+    {
+     "en": "double",
+     "ko": "두 배가 되다"
+    },
+    {
+     "en": "over the past ten years",
+     "ko": "지난 10년 동안"
+    }
+   ]
+  },
+  {
+   "en": "Although the concert tickets were expensive, they sold out in one hour.",
+   "ko": "콘서트 표가 비쌌지만 한 시간 만에 매진되었다.",
+   "point": "Although는 '~이지만'이라는 양보의 접속사로 뒤에 절이 온다. sell out은 '매진되다'라는 뜻의 구동사다.",
+   "keywords": [
+    {
+     "en": "although",
+     "ko": "비록 ~이지만"
+    },
+    {
+     "en": "expensive",
+     "ko": "비싼"
+    },
+    {
+     "en": "sell out",
+     "ko": "매진되다"
+    },
+    {
+     "en": "in one hour",
+     "ko": "한 시간 만에"
+    }
+   ]
+  },
+  {
+   "en": "The mayor promised to fix the old bridge before winter comes.",
+   "ko": "시장은 겨울이 오기 전에 낡은 다리를 보수하겠다고 약속했다.",
+   "point": "promise to + 동사원형은 '~하겠다고 약속하다'이다. before가 이끄는 시간 부사절에서는 미래의 일이라도 현재형(comes)을 쓴다.",
+   "keywords": [
+    {
+     "en": "mayor",
+     "ko": "시장"
+    },
+    {
+     "en": "promise to",
+     "ko": "~하기로 약속하다"
+    },
+    {
+     "en": "fix",
+     "ko": "고치다, 보수하다"
+    },
+    {
+     "en": "bridge",
+     "ko": "다리"
+    }
+   ]
+  },
+  {
+   "en": "People who work from home often say they save both time and money.",
+   "ko": "재택근무를 하는 사람들은 시간과 돈을 모두 아낀다고 흔히 말한다.",
+   "point": "who work from home은 People을 꾸미는 주격 관계대명사절로, 진짜 동사는 say다. both A and B는 'A와 B 둘 다'라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "work from home",
+     "ko": "재택근무하다"
+    },
+    {
+     "en": "save",
+     "ko": "아끼다, 절약하다"
+    },
+    {
+     "en": "both A and B",
+     "ko": "A와 B 둘 다"
+    }
+   ]
+  },
+  {
+   "en": "The weak exchange rate makes traveling abroad more expensive this summer.",
+   "ko": "환율 약세로 올여름 해외여행 비용이 더 비싸졌다.",
+   "point": "make + 목적어 + 형용사는 '~를 …하게 만들다'라는 5형식 구조다. 동명사 traveling abroad(해외여행하는 것)가 목적어 자리에 온 점을 잡아야 한다.",
+   "keywords": [
+    {
+     "en": "exchange rate",
+     "ko": "환율"
+    },
+    {
+     "en": "make A B",
+     "ko": "A를 B하게 만들다"
+    },
+    {
+     "en": "travel abroad",
+     "ko": "해외여행하다"
+    },
+    {
+     "en": "expensive",
+     "ko": "비싼"
+    }
+   ]
+  },
+  {
+   "en": "A new law banning plastic bags will take effect in January.",
+   "ko": "비닐봉지 사용을 금지하는 새 법이 1월에 시행된다.",
+   "point": "현재분사 banning plastic bags가 law를 뒤에서 꾸며 '비닐봉지를 금지하는 법'이 된다. take effect는 '(법이) 시행되다, 발효되다'라는 관용 표현이다.",
+   "keywords": [
+    {
+     "en": "law",
+     "ko": "법"
+    },
+    {
+     "en": "ban",
+     "ko": "금지하다"
+    },
+    {
+     "en": "plastic bag",
+     "ko": "비닐봉지"
+    },
+    {
+     "en": "take effect",
+     "ko": "시행되다, 발효되다"
+    }
+   ]
+  },
+  {
+   "en": "Food delivery apps have changed the way many people eat dinner.",
+   "ko": "음식 배달 앱은 많은 사람들이 저녁을 먹는 방식을 바꿔 놓았다.",
+   "point": "the way + 주어 + 동사는 '~가 …하는 방식'이라는 뜻으로, the way 뒤에 관계부사 없이 바로 절이 붙는 구조다.",
+   "keywords": [
+    {
+     "en": "food delivery",
+     "ko": "음식 배달"
+    },
+    {
+     "en": "change",
+     "ko": "바꾸다"
+    },
+    {
+     "en": "the way",
+     "ko": "~하는 방식"
+    }
+   ]
+  },
+  {
+   "en": "The town holds a lantern festival every autumn to celebrate the harvest.",
+   "ko": "그 마을은 수확을 기념하기 위해 매년 가을 등불 축제를 연다.",
+   "point": "to celebrate는 '~하기 위해'라는 목적을 나타내는 to부정사다. hold a festival은 '축제를 열다'라는 뜻으로 hold의 쓰임에 주의한다.",
+   "keywords": [
+    {
+     "en": "hold",
+     "ko": "(행사를) 열다"
+    },
+    {
+     "en": "lantern festival",
+     "ko": "등불 축제"
+    },
+    {
+     "en": "celebrate",
+     "ko": "기념하다, 축하하다"
+    },
+    {
+     "en": "harvest",
+     "ko": "수확"
+    }
+   ]
+  },
+  {
+   "en": "Electric cars are becoming cheaper, but charging stations are still hard to find.",
+   "ko": "전기차는 점점 저렴해지고 있지만, 충전소는 여전히 찾기 어렵다.",
+   "point": "but으로 두 문장이 대조를 이룬다. hard to find는 '찾기 어려운'이라는 뜻으로, 형용사 + to부정사가 주어(charging stations)를 설명한다.",
+   "keywords": [
+    {
+     "en": "electric car",
+     "ko": "전기차"
+    },
+    {
+     "en": "charging station",
+     "ko": "충전소"
+    },
+    {
+     "en": "hard to find",
+     "ko": "찾기 어려운"
+    }
+   ]
+  },
+  {
+   "en": "Nearly half of the students surveyed said they read news only on their phones.",
+   "ko": "조사에 응한 학생들의 거의 절반이 뉴스를 휴대폰으로만 본다고 답했다.",
+   "point": "과거분사 surveyed가 students를 뒤에서 꾸며 '조사받은 학생들'이 된다. nearly half of ~는 '~의 거의 절반'이라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "nearly half of",
+     "ko": "~의 거의 절반"
+    },
+    {
+     "en": "survey",
+     "ko": "조사하다; 설문조사"
+    },
+    {
+     "en": "only",
+     "ko": "오직, ~만"
+    }
+   ]
+  },
+  {
+   "en": "The central bank kept interest rates the same for the third month in a row.",
+   "ko": "중앙은행이 3개월 연속으로 금리를 동결했다.",
+   "point": "keep + 목적어 + 보어는 '~를 …한 상태로 유지하다'라는 구조로, kept interest rates the same은 '금리를 그대로 두다(동결하다)'가 된다. in a row는 '연속으로'라는 관용 표현이다.",
+   "keywords": [
+    {
+     "en": "central bank",
+     "ko": "중앙은행"
+    },
+    {
+     "en": "interest rate",
+     "ko": "금리"
+    },
+    {
+     "en": "keep ~ the same",
+     "ko": "~를 그대로 유지하다"
+    },
+    {
+     "en": "in a row",
+     "ko": "연속으로"
+    }
+   ]
+  },
+  {
+   "en": "Volunteers cleaned up the beach after the storm left piles of trash.",
+   "ko": "폭풍이 쓰레기 더미를 남기고 간 뒤 자원봉사자들이 해변을 청소했다.",
+   "point": "clean up은 '깨끗이 치우다'라는 구동사다. after절의 left는 leave의 과거형으로 '~을 남겼다'라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "volunteer",
+     "ko": "자원봉사자"
+    },
+    {
+     "en": "clean up",
+     "ko": "청소하다, 치우다"
+    },
+    {
+     "en": "storm",
+     "ko": "폭풍"
+    },
+    {
+     "en": "piles of trash",
+     "ko": "쓰레기 더미"
+    }
+   ]
+  },
+  {
+   "en": "Housing prices in the capital are twice as high as those in smaller cities.",
+   "ko": "수도의 집값은 더 작은 도시들의 집값보다 두 배나 높다.",
+   "point": "twice as ~ as는 '두 배만큼 ~한'이라는 배수 비교 표현이다. those는 앞의 housing prices를 대신하는 대명사라는 점을 잡아야 한다.",
+   "keywords": [
+    {
+     "en": "housing prices",
+     "ko": "집값, 주택 가격"
+    },
+    {
+     "en": "capital",
+     "ko": "수도"
+    },
+    {
+     "en": "twice as high as",
+     "ko": "~보다 두 배 높은"
+    }
+   ]
+  },
+  {
+   "en": "The library added weekend hours because so many people asked for them.",
+   "ko": "너무 많은 사람들이 요청해서 도서관이 주말 운영 시간을 추가했다.",
+   "point": "because 뒤에는 절이 온다는 점에서 because of와 구별된다. ask for는 '~을 요청하다'이고 them은 weekend hours를 가리킨다.",
+   "keywords": [
+    {
+     "en": "add",
+     "ko": "추가하다"
+    },
+    {
+     "en": "weekend hours",
+     "ko": "주말 운영 시간"
+    },
+    {
+     "en": "ask for",
+     "ko": "~을 요청하다"
+    }
+   ]
+  },
+  {
+   "en": "Young people are spending less on clothes and more on travel experiences.",
+   "ko": "젊은이들은 옷에는 돈을 덜 쓰고 여행 경험에는 더 많이 쓰고 있다.",
+   "point": "spend less on A and more on B는 'A에는 덜 쓰고 B에는 더 쓴다'라는 대조 병렬 구조다. less와 more 뒤에 money가 생략되어 있다고 보면 쉽다.",
+   "keywords": [
+    {
+     "en": "spend on",
+     "ko": "~에 (돈을) 쓰다"
+    },
+    {
+     "en": "less",
+     "ko": "더 적게"
+    },
+    {
+     "en": "experience",
+     "ko": "경험"
+    }
+   ]
+  },
+  {
+   "en": "If the drought continues, fruit prices are likely to rise even higher.",
+   "ko": "가뭄이 계속되면 과일 가격이 훨씬 더 오를 가능성이 크다.",
+   "point": "if 조건절에서는 미래의 일이라도 현재형(continues)을 쓴다. be likely to는 '~할 가능성이 크다'이고, even은 비교급 higher를 강조해 '훨씬'으로 해석한다.",
+   "keywords": [
+    {
+     "en": "drought",
+     "ko": "가뭄"
+    },
+    {
+     "en": "continue",
+     "ko": "계속되다"
+    },
+    {
+     "en": "be likely to",
+     "ko": "~할 가능성이 크다"
+    },
+    {
+     "en": "even higher",
+     "ko": "훨씬 더 높이"
+    }
+   ]
+  },
+  {
+   "en": "The singer's new album topped the charts in more than ten countries.",
+   "ko": "그 가수의 새 앨범이 10개국이 넘는 나라에서 차트 1위를 차지했다.",
+   "point": "top이 여기서는 '1위를 차지하다'라는 동사로 쓰였다. more than ten countries는 '10개국이 넘는'이라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "album",
+     "ko": "앨범"
+    },
+    {
+     "en": "top the charts",
+     "ko": "차트 1위를 하다"
+    },
+    {
+     "en": "more than",
+     "ko": "~ 이상, ~이 넘는"
+    }
+   ]
+  },
+  {
+   "en": "City buses will run all night during the holiday season to reduce drunk driving.",
+   "ko": "연말연시 기간에는 음주운전을 줄이기 위해 시내버스가 밤새 운행된다.",
+   "point": "run은 여기서 '운행하다'라는 뜻이다. during + 명사는 '~ 동안'이고, to reduce는 목적을 나타내는 to부정사다.",
+   "keywords": [
+    {
+     "en": "run",
+     "ko": "운행하다"
+    },
+    {
+     "en": "all night",
+     "ko": "밤새"
+    },
+    {
+     "en": "holiday season",
+     "ko": "연말연시, 휴가철"
+    },
+    {
+     "en": "drunk driving",
+     "ko": "음주운전"
+    }
+   ]
+  },
+  {
+   "en": "Many parents worry that children spend too much time on social media.",
+   "ko": "많은 부모들이 아이들이 소셜 미디어에 너무 많은 시간을 쓴다고 걱정한다.",
+   "point": "worry that절은 '~라고 걱정하다'라는 구조다. spend time on은 '~에 시간을 쓰다'라는 표현으로 on 뒤에 대상이 온다.",
+   "keywords": [
+    {
+     "en": "worry that",
+     "ko": "~라고 걱정하다"
+    },
+    {
+     "en": "spend time on",
+     "ko": "~에 시간을 쓰다"
+    },
+    {
+     "en": "social media",
+     "ko": "소셜 미디어"
+    }
+   ]
+  },
+  {
+   "en": "The old market, once famous for fresh fish, is now full of coffee shops.",
+   "ko": "한때 신선한 생선으로 유명했던 그 오래된 시장은 이제 커피숍들로 가득하다.",
+   "point": "once famous for ~는 콤마 사이에 끼어든 삽입구로 '한때 ~으로 유명했던'이라는 부가 설명이다. 삽입구를 건너뛰고 주어(The old market)와 동사(is)를 먼저 연결한다.",
+   "keywords": [
+    {
+     "en": "once",
+     "ko": "한때"
+    },
+    {
+     "en": "be famous for",
+     "ko": "~으로 유명하다"
+    },
+    {
+     "en": "be full of",
+     "ko": "~로 가득하다"
+    }
+   ]
+  },
+  {
+   "en": "Airlines expect the number of summer travelers to reach a record high.",
+   "ko": "항공사들은 여름 여행객 수가 사상 최고치에 이를 것으로 예상한다.",
+   "point": "expect + 목적어 + to부정사는 '~가 …할 것으로 예상하다'라는 구조다. the number of는 '~의 수'라는 뜻이고, a record high는 '사상 최고치'라는 기사 단골 표현이다.",
+   "keywords": [
+    {
+     "en": "airline",
+     "ko": "항공사"
+    },
+    {
+     "en": "expect A to B",
+     "ko": "A가 B할 것으로 예상하다"
+    },
+    {
+     "en": "the number of",
+     "ko": "~의 수"
+    },
+    {
+     "en": "record high",
+     "ko": "사상 최고치"
+    }
+   ]
+  },
+  {
+   "en": "A power outage left thousands of homes without electricity for several hours.",
+   "ko": "정전으로 수천 가구가 몇 시간 동안 전기 없이 지냈다.",
+   "point": "leave + 목적어 + without ~은 '~를 … 없는 상태로 만들다'라는 구조로, 사고·재난 기사에 자주 나온다. thousands of는 '수천의'라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "power outage",
+     "ko": "정전"
+    },
+    {
+     "en": "leave A without B",
+     "ko": "A를 B 없는 상태로 만들다"
+    },
+    {
+     "en": "thousands of",
+     "ko": "수천의"
+    },
+    {
+     "en": "electricity",
+     "ko": "전기"
+    }
+   ]
+  },
+  {
+   "en": "The study found that people who walk daily feel less stress at work.",
+   "ko": "그 연구는 매일 걷는 사람들이 직장에서 스트레스를 덜 느낀다는 사실을 밝혀냈다.",
+   "point": "find that절 안에 who 관계절이 또 들어 있는 이중 구조다. that절의 주어는 people, 동사는 feel이며, who walk daily는 people을 꾸미는 수식어일 뿐이다.",
+   "keywords": [
+    {
+     "en": "study",
+     "ko": "연구"
+    },
+    {
+     "en": "find that",
+     "ko": "~라는 것을 밝혀내다"
+    },
+    {
+     "en": "daily",
+     "ko": "매일"
+    },
+    {
+     "en": "less stress",
+     "ko": "더 적은 스트레스"
+    }
+   ]
+  },
+  {
+   "en": "Local farmers sell their vegetables directly to customers through an online store.",
+   "ko": "지역 농부들은 온라인 상점을 통해 소비자에게 직접 채소를 판매한다.",
+   "point": "sell A to B는 'B에게 A를 팔다'라는 구조다. through는 '~을 통해'라는 수단을 나타내고, directly는 중간 단계 없이 '직접'이라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "local farmer",
+     "ko": "지역 농부"
+    },
+    {
+     "en": "directly",
+     "ko": "직접"
+    },
+    {
+     "en": "customer",
+     "ko": "소비자, 고객"
+    },
+    {
+     "en": "through",
+     "ko": "~을 통해"
+    }
+   ]
+  },
+  {
+   "en": "Honey never spoils because bacteria cannot grow in it.",
+   "ko": "꿀은 절대 상하지 않는데, 그 안에서 박테리아가 자랄 수 없기 때문이다.",
+   "point": "because가 이끄는 이유 부사절을 뒤에서 잡아 '~하기 때문에'로 연결한다. never는 '절대 ~않다'로 강한 부정을 나타낸다.",
+   "keywords": [
+    {
+     "en": "spoil",
+     "ko": "상하다, 부패하다"
+    },
+    {
+     "en": "bacteria",
+     "ko": "박테리아, 세균"
+    },
+    {
+     "en": "grow",
+     "ko": "자라다, 증식하다"
+    }
+   ]
+  },
+  {
+   "en": "The pyramids were built more than four thousand years ago.",
+   "ko": "피라미드는 4천 년도 더 전에 지어졌다.",
+   "point": "were built는 수동태 과거로 '지어졌다'로 해석한다. more than은 숫자 앞에서 '~보다 많은, ~ 이상'을 뜻한다.",
+   "keywords": [
+    {
+     "en": "be built",
+     "ko": "지어지다, 건설되다"
+    },
+    {
+     "en": "more than",
+     "ko": "~ 이상, ~보다 많이"
+    },
+    {
+     "en": "ago",
+     "ko": "~ 전에"
+    }
+   ]
+  },
+  {
+   "en": "Sleep helps the brain store new memories.",
+   "ko": "잠은 뇌가 새로운 기억을 저장하는 것을 돕는다.",
+   "point": "help + 목적어 + 동사원형 구조로, '(목적어)가 ~하도록 돕다'로 해석한다. store가 명사가 아니라 동사(저장하다)로 쓰인 점에 주의한다.",
+   "keywords": [
+    {
+     "en": "help + 목적어 + 동사원형",
+     "ko": "~가 …하도록 돕다"
+    },
+    {
+     "en": "store",
+     "ko": "저장하다"
+    },
+    {
+     "en": "memory",
+     "ko": "기억"
+    }
+   ]
+  },
+  {
+   "en": "Recycling one aluminum can saves enough energy to run a TV for three hours.",
+   "ko": "알루미늄 캔 하나를 재활용하면 TV를 세 시간 켤 수 있는 에너지가 절약된다.",
+   "point": "동명사구 Recycling one aluminum can이 통째로 주어이다. enough + 명사 + to부정사는 '~하기에 충분한 …'으로 해석한다.",
+   "keywords": [
+    {
+     "en": "recycle",
+     "ko": "재활용하다"
+    },
+    {
+     "en": "enough ~ to ...",
+     "ko": "…하기에 충분한 ~"
+    },
+    {
+     "en": "run",
+     "ko": "(기계를) 작동시키다"
+    },
+    {
+     "en": "save energy",
+     "ko": "에너지를 절약하다"
+    }
+   ]
+  },
+  {
+   "en": "An octopus has three hearts, and its blood is blue.",
+   "ko": "문어는 심장이 세 개이고, 피는 파란색이다.",
+   "point": "and로 두 개의 짧은 문장이 대등하게 이어진 기본 구조다. its는 '그것의'라는 소유격으로 앞의 octopus를 가리킨다.",
+   "keywords": [
+    {
+     "en": "octopus",
+     "ko": "문어"
+    },
+    {
+     "en": "heart",
+     "ko": "심장"
+    },
+    {
+     "en": "blood",
+     "ko": "피, 혈액"
+    }
+   ]
+  },
+  {
+   "en": "People in ancient Rome used salt as money.",
+   "ko": "고대 로마 사람들은 소금을 돈으로 사용했다.",
+   "point": "use A as B는 'A를 B로 사용하다'라는 뜻이다. People in ancient Rome처럼 전치사구가 주어를 뒤에서 꾸미는 형태에 익숙해지자.",
+   "keywords": [
+    {
+     "en": "ancient",
+     "ko": "고대의"
+    },
+    {
+     "en": "use A as B",
+     "ko": "A를 B로 사용하다"
+    },
+    {
+     "en": "salt",
+     "ko": "소금"
+    }
+   ]
+  },
+  {
+   "en": "When we feel stressed, our body produces a hormone called cortisol.",
+   "ko": "스트레스를 받으면 우리 몸은 코르티솔이라는 호르몬을 만들어 낸다.",
+   "point": "When절은 '~할 때/~하면'으로 해석한다. called cortisol은 과거분사구가 명사 hormone을 뒤에서 꾸며 '코르티솔이라고 불리는'이라는 뜻이 된다.",
+   "keywords": [
+    {
+     "en": "feel stressed",
+     "ko": "스트레스를 받다"
+    },
+    {
+     "en": "produce",
+     "ko": "만들어 내다, 분비하다"
+    },
+    {
+     "en": "called ~",
+     "ko": "~라고 불리는"
+    }
+   ]
+  },
+  {
+   "en": "Plastic bags take hundreds of years to break down in nature.",
+   "ko": "비닐봉지는 자연에서 분해되는 데 수백 년이 걸린다.",
+   "point": "A take + 시간 + to부정사는 'A가 ~하는 데 (시간)이 걸리다'로 해석한다. break down은 '분해되다'라는 구동사다.",
+   "keywords": [
+    {
+     "en": "take + 시간 + to",
+     "ko": "~하는 데 시간이 걸리다"
+    },
+    {
+     "en": "hundreds of",
+     "ko": "수백의"
+    },
+    {
+     "en": "break down",
+     "ko": "분해되다"
+    }
+   ]
+  },
+  {
+   "en": "Water is the only substance that exists naturally as a solid, a liquid, and a gas.",
+   "ko": "물은 고체, 액체, 기체로 자연 상태에서 모두 존재하는 유일한 물질이다.",
+   "point": "the only + 명사 + that절은 '~하는 유일한 …'으로 해석한다. that 이하가 substance를 꾸미는 주격 관계대명사절이다.",
+   "keywords": [
+    {
+     "en": "substance",
+     "ko": "물질"
+    },
+    {
+     "en": "exist",
+     "ko": "존재하다"
+    },
+    {
+     "en": "solid",
+     "ko": "고체"
+    },
+    {
+     "en": "liquid",
+     "ko": "액체"
+    }
+   ]
+  },
+  {
+   "en": "The Great Wall of China was built to protect the country from enemies.",
+   "ko": "만리장성은 적들로부터 나라를 지키기 위해 지어졌다.",
+   "point": "수동태 was built 뒤의 to부정사는 목적(~하기 위해)을 나타낸다. protect A from B는 'B로부터 A를 보호하다'라는 표현이다.",
+   "keywords": [
+    {
+     "en": "protect A from B",
+     "ko": "B로부터 A를 보호하다"
+    },
+    {
+     "en": "enemy",
+     "ko": "적"
+    },
+    {
+     "en": "the Great Wall",
+     "ko": "만리장성"
+    }
+   ]
+  },
+  {
+   "en": "Smiling can make you feel happier, even when you are sad.",
+   "ko": "미소를 짓는 것은 슬플 때조차 기분을 더 좋게 만들어 줄 수 있다.",
+   "point": "사역동사 make + 목적어 + 동사원형은 '~가 …하게 만들다'로 해석한다. even when은 '~할 때조차'라는 강조 표현이다.",
+   "keywords": [
+    {
+     "en": "make + 목적어 + 동사원형",
+     "ko": "~가 …하게 만들다"
+    },
+    {
+     "en": "even when",
+     "ko": "~할 때조차"
+    },
+    {
+     "en": "smile",
+     "ko": "미소 짓다"
+    }
+   ]
+  },
+  {
+   "en": "As the earth gets warmer, sea levels are slowly rising.",
+   "ko": "지구가 따뜻해지면서 해수면이 서서히 상승하고 있다.",
+   "point": "As절은 여기서 '~함에 따라, ~하면서'라는 비례·동시 진행의 의미다. get + 비교급은 '점점 ~해지다'로 해석한다.",
+   "keywords": [
+    {
+     "en": "as",
+     "ko": "~함에 따라"
+    },
+    {
+     "en": "get warmer",
+     "ko": "점점 따뜻해지다"
+    },
+    {
+     "en": "sea level",
+     "ko": "해수면"
+    },
+    {
+     "en": "rise",
+     "ko": "상승하다"
+    }
+   ]
+  },
+  {
+   "en": "A camel can survive for weeks without drinking any water.",
+   "ko": "낙타는 물을 전혀 마시지 않고도 몇 주를 버틸 수 있다.",
+   "point": "without + 동명사는 '~하지 않고'로 해석한다. for weeks는 '몇 주 동안'이라는 기간 표현이다.",
+   "keywords": [
+    {
+     "en": "survive",
+     "ko": "살아남다, 버티다"
+    },
+    {
+     "en": "without -ing",
+     "ko": "~하지 않고"
+    },
+    {
+     "en": "camel",
+     "ko": "낙타"
+    }
+   ]
+  },
+  {
+   "en": "Before paper was invented, people wrote on animal skins and stone.",
+   "ko": "종이가 발명되기 전에 사람들은 동물 가죽과 돌에 글을 썼다.",
+   "point": "Before절 안의 수동태 was invented는 '발명되기 전에'로 해석한다. write on은 '~ 위에 글을 쓰다'라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "invent",
+     "ko": "발명하다"
+    },
+    {
+     "en": "before",
+     "ko": "~하기 전에"
+    },
+    {
+     "en": "skin",
+     "ko": "가죽, 피부"
+    }
+   ]
+  },
+  {
+   "en": "It is easier to remember information when we connect it to a story.",
+   "ko": "정보를 이야기와 연결하면 더 쉽게 기억할 수 있다.",
+   "point": "It은 가주어이고 진짜 주어는 to remember 이하다. '~하는 것이 더 쉽다'로 해석한다. connect A to B는 'A를 B에 연결하다'라는 표현이다.",
+   "keywords": [
+    {
+     "en": "It is ~ to ...",
+     "ko": "…하는 것이 ~하다 (가주어)"
+    },
+    {
+     "en": "connect A to B",
+     "ko": "A를 B에 연결하다"
+    },
+    {
+     "en": "information",
+     "ko": "정보"
+    }
+   ]
+  },
+  {
+   "en": "More and more people are choosing to ride bikes instead of driving cars.",
+   "ko": "점점 더 많은 사람들이 자동차를 모는 대신 자전거를 타는 쪽을 택하고 있다.",
+   "point": "more and more는 '점점 더 많은'이라는 뜻이다. instead of + 동명사는 '~하는 대신에'로 해석한다.",
+   "keywords": [
+    {
+     "en": "more and more",
+     "ko": "점점 더 많은"
+    },
+    {
+     "en": "choose to",
+     "ko": "~하기로 선택하다"
+    },
+    {
+     "en": "instead of",
+     "ko": "~ 대신에"
+    }
+   ]
+  },
+  {
+   "en": "Sound travels much faster in water than in air.",
+   "ko": "소리는 공기 중에서보다 물속에서 훨씬 더 빨리 이동한다.",
+   "point": "비교급 faster ~ than 구조이며, much는 비교급을 강조해 '훨씬'이라는 뜻을 더한다. travel이 '이동하다, 전달되다'로 쓰인 점도 잡아 두자.",
+   "keywords": [
+    {
+     "en": "travel",
+     "ko": "이동하다, 전달되다"
+    },
+    {
+     "en": "much + 비교급",
+     "ko": "훨씬 더 ~한"
+    },
+    {
+     "en": "than",
+     "ko": "~보다"
+    }
+   ]
+  },
+  {
+   "en": "Ancient Egyptians believed that cats brought good luck.",
+   "ko": "고대 이집트인들은 고양이가 행운을 가져다준다고 믿었다.",
+   "point": "believe that절은 '~라고 믿다'로 해석한다. 주절이 과거(believed)라서 that절의 동사도 과거(brought)로 맞춘 시제 일치에 주의한다.",
+   "keywords": [
+    {
+     "en": "believe that",
+     "ko": "~라고 믿다"
+    },
+    {
+     "en": "bring good luck",
+     "ko": "행운을 가져오다"
+    },
+    {
+     "en": "Egyptian",
+     "ko": "이집트인"
+    }
+   ]
+  },
+  {
+   "en": "People who exercise regularly tend to feel less anxious.",
+   "ko": "규칙적으로 운동하는 사람들은 불안을 덜 느끼는 경향이 있다.",
+   "point": "who ~ regularly는 People을 꾸미는 주격 관계대명사절이다. tend to는 '~하는 경향이 있다', less + 형용사는 '덜 ~한'으로 해석한다.",
+   "keywords": [
+    {
+     "en": "tend to",
+     "ko": "~하는 경향이 있다"
+    },
+    {
+     "en": "regularly",
+     "ko": "규칙적으로"
+    },
+    {
+     "en": "anxious",
+     "ko": "불안한"
+    }
+   ]
+  },
+  {
+   "en": "If we plant more trees, cities will become cooler in summer.",
+   "ko": "나무를 더 많이 심으면 여름에 도시가 더 시원해질 것이다.",
+   "point": "If + 현재시제, will + 동사원형의 조건문 1형이다. 조건절은 현재형이지만 미래의 일을 나타내는 것에 주의한다.",
+   "keywords": [
+    {
+     "en": "plant",
+     "ko": "심다"
+    },
+    {
+     "en": "if",
+     "ko": "만약 ~하면"
+    },
+    {
+     "en": "become cooler",
+     "ko": "더 시원해지다"
+    }
+   ]
+  },
+  {
+   "en": "Although a tomato looks like a vegetable, it is actually a fruit.",
+   "ko": "토마토는 채소처럼 보이지만 사실은 과일이다.",
+   "point": "Although절은 '비록 ~이지만'이라는 양보의 의미다. look like + 명사는 '~처럼 보이다', actually는 '사실은'으로 반전을 이끈다.",
+   "keywords": [
+    {
+     "en": "although",
+     "ko": "비록 ~이지만"
+    },
+    {
+     "en": "look like",
+     "ko": "~처럼 보이다"
+    },
+    {
+     "en": "actually",
+     "ko": "사실은"
+    }
+   ]
+  },
+  {
+   "en": "The first Olympic Games were held in Greece almost three thousand years ago.",
+   "ko": "최초의 올림픽 경기는 거의 3천 년 전에 그리스에서 열렸다.",
+   "point": "were held는 hold(개최하다)의 수동태로 '열렸다'로 해석한다. almost는 숫자 앞에서 '거의'라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "be held",
+     "ko": "열리다, 개최되다"
+    },
+    {
+     "en": "almost",
+     "ko": "거의"
+    },
+    {
+     "en": "Greece",
+     "ko": "그리스"
+    }
+   ]
+  },
+  {
+   "en": "Listening to slow music can lower your heart rate and help you relax.",
+   "ko": "느린 음악을 들으면 심장 박동이 느려지고 긴장을 푸는 데 도움이 된다.",
+   "point": "동명사구 Listening to slow music이 주어다. 조동사 can 뒤에 lower와 help 두 동사가 and로 병렬 연결된 구조를 잡아야 한다.",
+   "keywords": [
+    {
+     "en": "lower",
+     "ko": "낮추다"
+    },
+    {
+     "en": "heart rate",
+     "ko": "심장 박동 수"
+    },
+    {
+     "en": "relax",
+     "ko": "긴장을 풀다"
+    }
+   ]
+  },
+  {
+   "en": "Many sea animals die each year because they mistake plastic for food.",
+   "ko": "많은 바다 동물이 플라스틱을 먹이로 착각해서 해마다 죽는다.",
+   "point": "mistake A for B는 'A를 B로 착각하다'라는 관용 표현이다. each year는 '해마다'라는 빈도 표현이다.",
+   "keywords": [
+    {
+     "en": "mistake A for B",
+     "ko": "A를 B로 착각하다"
+    },
+    {
+     "en": "each year",
+     "ko": "해마다"
+    },
+    {
+     "en": "plastic",
+     "ko": "플라스틱"
+    }
+   ]
+  },
+  {
+   "en": "The human body is made up of about sixty percent water.",
+   "ko": "인체는 약 60퍼센트가 물로 이루어져 있다.",
+   "point": "be made up of는 '~로 구성되다, 이루어지다'라는 수동태 관용 표현이다. about은 숫자 앞에서 '약, 대략'을 뜻한다.",
+   "keywords": [
+    {
+     "en": "be made up of",
+     "ko": "~로 이루어져 있다"
+    },
+    {
+     "en": "human body",
+     "ko": "인체"
+    },
+    {
+     "en": "about",
+     "ko": "약, 대략"
+    }
+   ]
+  },
+  {
+   "en": "Coffee was first discovered in Africa, not in Europe.",
+   "ko": "커피가 처음 발견된 곳은 유럽이 아니라 아프리카였다.",
+   "point": "was discovered는 수동태로 '발견되었다'로 해석한다. 'A, not B'는 'B가 아니라 A'라는 뜻으로, 뒤의 not부터 뒤집어 해석하면 자연스럽다.",
+   "keywords": [
+    {
+     "en": "discover",
+     "ko": "발견하다"
+    },
+    {
+     "en": "A, not B",
+     "ko": "B가 아니라 A"
+    },
+    {
+     "en": "first",
+     "ko": "처음으로"
+    }
+   ]
+  },
+  {
+   "en": "The more you practice a skill, the easier it becomes.",
+   "ko": "기술은 연습하면 할수록 더 쉬워진다.",
+   "point": "the 비교급 ~, the 비교급 ... 구문으로 '~하면 할수록 더 …하다'로 해석한다. 뒤 절의 it은 앞의 a skill을 가리킨다.",
+   "keywords": [
+    {
+     "en": "the 비교급, the 비교급",
+     "ko": "~할수록 더 …하다"
+    },
+    {
+     "en": "practice",
+     "ko": "연습하다"
+    },
+    {
+     "en": "skill",
+     "ko": "기술, 능력"
+    }
+   ]
+  },
+  {
+   "en": "Turning off the lights when you leave a room is a simple way to save energy.",
+   "ko": "방을 나갈 때 불을 끄는 것은 에너지를 아끼는 간단한 방법이다.",
+   "point": "Turning off ~ a room까지가 통째로 주어인 동명사구다. a way to부정사는 '~하는 방법'으로 해석한다.",
+   "keywords": [
+    {
+     "en": "turn off",
+     "ko": "끄다"
+    },
+    {
+     "en": "a way to",
+     "ko": "~하는 방법"
+    },
+    {
+     "en": "save",
+     "ko": "아끼다, 절약하다"
+    }
+   ]
+  },
+  {
+   "en": "Some plants eat insects to get the nutrients they need.",
+   "ko": "어떤 식물들은 필요한 영양분을 얻으려고 곤충을 잡아먹는다.",
+   "point": "to get은 목적(~하기 위해)의 to부정사다. the nutrients (that) they need에서 목적격 관계대명사 that이 생략되어 '그들이 필요로 하는 영양분'으로 해석한다.",
+   "keywords": [
+    {
+     "en": "insect",
+     "ko": "곤충"
+    },
+    {
+     "en": "nutrient",
+     "ko": "영양분"
+    },
+    {
+     "en": "to + 동사원형",
+     "ko": "~하기 위해 (목적)"
+    }
+   ]
+  },
+  {
+   "en": "During the Middle Ages, most people never traveled far from their homes.",
+   "ko": "중세 시대에 대부분의 사람들은 집에서 멀리 떠나 본 적이 없었다.",
+   "point": "During + 명사는 '~ 동안, ~ 시대에'로 해석한다. far from은 '~에서 멀리'라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "during",
+     "ko": "~ 동안"
+    },
+    {
+     "en": "the Middle Ages",
+     "ko": "중세 시대"
+    },
+    {
+     "en": "far from",
+     "ko": "~에서 멀리"
+    }
+   ]
+  },
+  {
+   "en": "Getting enough sleep is just as important as eating healthy food.",
+   "ko": "충분히 자는 것은 건강한 음식을 먹는 것만큼이나 중요하다.",
+   "point": "as + 형용사 + as는 '~만큼 …한'이라는 원급 비교다. just는 이를 강조해 '꼭 ~만큼'의 뉘앙스를 더한다. 양쪽 모두 동명사구인 것도 확인하자.",
+   "keywords": [
+    {
+     "en": "as ~ as",
+     "ko": "…만큼 ~한"
+    },
+    {
+     "en": "get enough sleep",
+     "ko": "충분히 자다"
+    },
+    {
+     "en": "healthy",
+     "ko": "건강한, 건강에 좋은"
+    }
+   ]
+  },
+  {
+   "en": "Scientists warn that many animal species could disappear within our lifetime.",
+   "ko": "과학자들은 많은 동물 종이 우리가 사는 동안에 사라질 수도 있다고 경고한다.",
+   "point": "warn that절은 '~라고 경고하다'로 해석한다. could는 '~할 수도 있다'는 가능성, within은 '~ 이내에'라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "warn that",
+     "ko": "~라고 경고하다"
+    },
+    {
+     "en": "species",
+     "ko": "종(생물 분류)"
+    },
+    {
+     "en": "disappear",
+     "ko": "사라지다"
+    },
+    {
+     "en": "within",
+     "ko": "~ 이내에"
+    }
+   ]
+  },
+  {
+   "en": "Unlike most fish, sharks do not have any bones in their bodies.",
+   "ko": "대부분의 물고기와 달리 상어는 몸에 뼈가 하나도 없다.",
+   "point": "문장 앞의 Unlike + 명사는 '~와 달리'라는 대조 표현이다. not ~ any는 '하나도 없다'는 완전 부정으로 해석한다.",
+   "keywords": [
+    {
+     "en": "unlike",
+     "ko": "~와 달리"
+    },
+    {
+     "en": "shark",
+     "ko": "상어"
+    },
+    {
+     "en": "bone",
+     "ko": "뼈"
+    }
+   ]
+  },
+  {
+   "en": "The printing press made it possible for ordinary people to read books.",
+   "ko": "인쇄기 덕분에 평범한 사람들도 책을 읽을 수 있게 되었다.",
+   "point": "make it possible for A to B는 'A가 B하는 것을 가능하게 하다'라는 구문으로, it은 가목적어이고 진짜 목적어는 to read books다. '~ 덕분에 …할 수 있게 되었다'로 풀면 자연스럽다.",
+   "keywords": [
+    {
+     "en": "printing press",
+     "ko": "인쇄기"
+    },
+    {
+     "en": "make it possible",
+     "ko": "가능하게 하다"
+    },
+    {
+     "en": "ordinary",
+     "ko": "평범한, 보통의"
+    }
+   ]
+  },
+  {
+   "en": "We often remember the beginning and end of an event better than the middle.",
+   "ko": "우리는 흔히 어떤 일의 처음과 끝을 중간보다 더 잘 기억한다.",
+   "point": "remember A better than B는 'B보다 A를 더 잘 기억하다'라는 비교 구조다. the beginning and end of ~를 한 덩어리로 묶어 해석한다.",
+   "keywords": [
+    {
+     "en": "beginning",
+     "ko": "처음, 시작"
+    },
+    {
+     "en": "better than",
+     "ko": "~보다 더 잘"
+    },
+    {
+     "en": "event",
+     "ko": "일, 사건"
+    }
+   ]
+  },
+  {
+   "en": "One of the biggest causes of air pollution is the burning of fossil fuels.",
+   "ko": "대기 오염의 가장 큰 원인 중 하나는 화석 연료를 태우는 것이다.",
+   "point": "one of the + 최상급 + 복수명사는 '가장 ~한 것들 중 하나'로 해석한다. 주어가 길어도 핵심 주어는 One이므로 동사가 단수 is인 점에 주의한다.",
+   "keywords": [
+    {
+     "en": "one of the + 최상급",
+     "ko": "가장 ~한 것 중 하나"
+    },
+    {
+     "en": "air pollution",
+     "ko": "대기 오염"
+    },
+    {
+     "en": "fossil fuel",
+     "ko": "화석 연료"
+    },
+    {
+     "en": "cause",
+     "ko": "원인"
+    }
+   ]
+  },
+  {
+   "en": "Bees communicate with each other by dancing in special patterns.",
+   "ko": "벌들은 특별한 모양으로 춤을 춰서 서로 의사소통을 한다.",
+   "point": "by + 동명사는 '~함으로써, ~해서'라는 수단·방법을 나타낸다. communicate with each other는 '서로 의사소통하다'라는 표현이다.",
+   "keywords": [
+    {
+     "en": "communicate",
+     "ko": "의사소통하다"
+    },
+    {
+     "en": "each other",
+     "ko": "서로"
+    },
+    {
+     "en": "by -ing",
+     "ko": "~함으로써"
+    },
+    {
+     "en": "pattern",
+     "ko": "모양, 패턴"
+    }
+   ]
+  },
+  {
+   "en": "It took workers more than twenty years to complete the famous cathedral.",
+   "ko": "일꾼들이 그 유명한 대성당을 완성하는 데는 20년이 넘게 걸렸다.",
+   "point": "It takes A + 시간 + to부정사는 'A가 ~하는 데 (시간)이 걸리다'라는 구문이다. 여기서 It은 해석하지 않는 비인칭 주어다.",
+   "keywords": [
+    {
+     "en": "It takes A 시간 to",
+     "ko": "A가 ~하는 데 시간이 걸리다"
+    },
+    {
+     "en": "complete",
+     "ko": "완성하다"
+    },
+    {
+     "en": "cathedral",
+     "ko": "대성당"
+    }
+   ]
+  },
+  {
+   "en": "Writing down your worries before bed may help you fall asleep faster.",
+   "ko": "자기 전에 걱정거리를 적어 두면 더 빨리 잠드는 데 도움이 될 수 있다.",
+   "point": "동명사구 Writing down ~ bed가 주어다. may는 '~일 수 있다'는 약한 추측이고, help + 목적어 + 동사원형(fall)은 '~가 …하도록 돕다'로 해석한다.",
+   "keywords": [
+    {
+     "en": "write down",
+     "ko": "적어 두다"
+    },
+    {
+     "en": "worry",
+     "ko": "걱정, 걱정거리"
+    },
+    {
+     "en": "fall asleep",
+     "ko": "잠들다"
+    }
+   ]
+  },
+  {
+   "en": "Small changes in our daily habits can have a big effect on the planet.",
+   "ko": "일상 습관의 작은 변화가 지구에 큰 영향을 미칠 수 있다.",
+   "point": "have an effect on은 '~에 영향을 미치다'라는 관용 표현이다. changes in ~은 '~에서의 변화'로, 전치사구가 주어를 꾸미는 구조다.",
+   "keywords": [
+    {
+     "en": "have an effect on",
+     "ko": "~에 영향을 미치다"
+    },
+    {
+     "en": "daily habit",
+     "ko": "일상 습관"
+    },
+    {
+     "en": "planet",
+     "ko": "지구, 행성"
     }
    ]
   }

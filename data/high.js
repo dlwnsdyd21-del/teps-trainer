@@ -10,7 +10,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "improve",
     "alleviate"
-   ]
+   ],
+   "ipa": "/əˈmiljəˌreɪt/"
   },
   {
    "word": "exonerate",
@@ -21,7 +22,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "acquit",
     "absolve"
-   ]
+   ],
+   "ipa": "/ɪɡˈzɑnəˌreɪt/"
   },
   {
    "word": "obviate",
@@ -32,7 +34,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "preclude",
     "forestall"
-   ]
+   ],
+   "ipa": "/ˈɑbviˌeɪt/"
   },
   {
    "word": "vindicate",
@@ -43,7 +46,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "justify",
     "exculpate"
-   ]
+   ],
+   "ipa": "/ˈvɪndɪˌkeɪt/"
   },
   {
    "word": "exacerbate",
@@ -54,7 +58,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "aggravate",
     "worsen"
-   ]
+   ],
+   "ipa": "/ɪɡˈzæsɚˌbeɪt/"
   },
   {
    "word": "corroborate",
@@ -65,7 +70,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "confirm",
     "substantiate"
-   ]
+   ],
+   "ipa": "/kəˈrɑbəˌreɪt/"
   },
   {
    "word": "extrapolate",
@@ -76,7 +82,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "infer",
     "project"
-   ]
+   ],
+   "ipa": "/ɪkˈstræpəˌleɪt/"
   },
   {
    "word": "disseminate",
@@ -87,7 +94,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "spread",
     "circulate"
-   ]
+   ],
+   "ipa": "/dɪˈsɛməˌneɪt/"
   },
   {
    "word": "circumvent",
@@ -98,7 +106,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "bypass",
     "evade"
-   ]
+   ],
+   "ipa": "/ˌsɜrkəmˈvɛnt/"
   },
   {
    "word": "galvanize",
@@ -109,7 +118,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "spur",
     "prompt"
-   ]
+   ],
+   "ipa": "/ˈɡælvəˌnaɪz/"
   },
   {
    "word": "abrogate",
@@ -120,7 +130,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "repeal",
     "annul"
-   ]
+   ],
+   "ipa": "/ˈæbrəˌɡeɪt/"
   },
   {
    "word": "assuage",
@@ -131,7 +142,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "soothe",
     "allay"
-   ]
+   ],
+   "ipa": "/əˈsweɪdʒ/"
   },
   {
    "word": "proliferate",
@@ -142,7 +154,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "multiply",
     "mushroom"
-   ]
+   ],
+   "ipa": "/prəˈlɪfəˌreɪt/"
   },
   {
    "word": "relinquish",
@@ -153,7 +166,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "surrender",
     "cede"
-   ]
+   ],
+   "ipa": "/rɪˈlɪŋkwɪʃ/"
   },
   {
    "word": "denigrate",
@@ -164,7 +178,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "belittle",
     "disparage"
-   ]
+   ],
+   "ipa": "/ˈdɛnɪˌɡreɪt/"
   },
   {
    "word": "eschew",
@@ -175,7 +190,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "avoid",
     "shun"
-   ]
+   ],
+   "ipa": "/ɛsˈtʃu/"
   },
   {
    "word": "exhort",
@@ -186,7 +202,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "urge",
     "implore"
-   ]
+   ],
+   "ipa": "/ɪɡˈzɔrt/"
   },
   {
    "word": "squander",
@@ -197,7 +214,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "waste",
     "fritter away"
-   ]
+   ],
+   "ipa": "/ˈskwɑndɚ/"
   },
   {
    "word": "capitulate",
@@ -208,7 +226,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "surrender",
     "yield"
-   ]
+   ],
+   "ipa": "/kəˈpɪtʃəˌleɪt/"
   },
   {
    "word": "burgeon",
@@ -219,7 +238,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "flourish",
     "boom"
-   ]
+   ],
+   "ipa": "/ˈbɜrdʒən/"
   },
   {
    "word": "repudiate",
@@ -230,7 +250,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "reject",
     "disavow"
-   ]
+   ],
+   "ipa": "/rɪˈpjudiˌeɪt/"
   },
   {
    "word": "mitigate",
@@ -241,7 +262,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "lessen",
     "temper"
-   ]
+   ],
+   "ipa": "/ˈmɪtɪˌɡeɪt/"
   },
   {
    "word": "engender",
@@ -252,7 +274,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "generate",
     "provoke"
-   ]
+   ],
+   "ipa": "/ɪnˈdʒɛndɚ/"
   },
   {
    "word": "ubiquitous",
@@ -263,7 +286,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "omnipresent",
     "pervasive"
-   ]
+   ],
+   "ipa": "/juˈbɪkwɪtəs/"
   },
   {
    "word": "precarious",
@@ -274,7 +298,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "unstable",
     "insecure"
-   ]
+   ],
+   "ipa": "/prɪˈkɛriəs/"
   },
   {
    "word": "recalcitrant",
@@ -285,7 +310,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "defiant",
     "unruly"
-   ]
+   ],
+   "ipa": "/rɪˈkælsɪtrənt/"
   },
   {
    "word": "tenuous",
@@ -296,7 +322,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "flimsy",
     "weak"
-   ]
+   ],
+   "ipa": "/ˈtɛnjuəs/"
   },
   {
    "word": "spurious",
@@ -307,7 +334,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "false",
     "bogus"
-   ]
+   ],
+   "ipa": "/ˈspjʊriəs/"
   },
   {
    "word": "innocuous",
@@ -318,7 +346,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "harmless",
     "inoffensive"
-   ]
+   ],
+   "ipa": "/ɪˈnɑkjuəs/"
   },
   {
    "word": "scrupulous",
@@ -329,7 +358,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "meticulous",
     "conscientious"
-   ]
+   ],
+   "ipa": "/ˈskrupjələs/"
   },
   {
    "word": "clandestine",
@@ -340,7 +370,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "covert",
     "surreptitious"
-   ]
+   ],
+   "ipa": "/klænˈdɛstɪn/"
   },
   {
    "word": "intransigent",
@@ -351,7 +382,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "uncompromising",
     "inflexible"
-   ]
+   ],
+   "ipa": "/ɪnˈtrænsɪdʒənt/"
   },
   {
    "word": "ephemeral",
@@ -362,7 +394,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "fleeting",
     "transient"
-   ]
+   ],
+   "ipa": "/ɪˈfɛmərəl/"
   },
   {
    "word": "ostentatious",
@@ -373,7 +406,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "showy",
     "flamboyant"
-   ]
+   ],
+   "ipa": "/ˌɑstənˈteɪʃəs/"
   },
   {
    "word": "pernicious",
@@ -384,7 +418,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "harmful",
     "insidious"
-   ]
+   ],
+   "ipa": "/pɚˈnɪʃəs/"
   },
   {
    "word": "astute",
@@ -395,7 +430,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "shrewd",
     "perceptive"
-   ]
+   ],
+   "ipa": "/əˈstut/"
   },
   {
    "word": "indigent",
@@ -406,7 +442,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "destitute",
     "impoverished"
-   ]
+   ],
+   "ipa": "/ˈɪndɪdʒənt/"
   },
   {
    "word": "prodigious",
@@ -417,7 +454,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "enormous",
     "phenomenal"
-   ]
+   ],
+   "ipa": "/prəˈdɪdʒəs/"
   },
   {
    "word": "arcane",
@@ -428,7 +466,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "esoteric",
     "obscure"
-   ]
+   ],
+   "ipa": "/ɑrˈkeɪn/"
   },
   {
    "word": "salient",
@@ -439,7 +478,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "prominent",
     "notable"
-   ]
+   ],
+   "ipa": "/ˈseɪliənt/"
   },
   {
    "word": "parsimonious",
@@ -450,7 +490,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "stingy",
     "miserly"
-   ]
+   ],
+   "ipa": "/ˌpɑrsəˈmoʊniəs/"
   },
   {
    "word": "lucid",
@@ -461,7 +502,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "clear",
     "coherent"
-   ]
+   ],
+   "ipa": "/ˈlusɪd/"
   },
   {
    "word": "volatile",
@@ -472,7 +514,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "unstable",
     "erratic"
-   ]
+   ],
+   "ipa": "/ˈvɑlətəl/"
   },
   {
    "word": "impervious",
@@ -483,7 +526,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "immune",
     "resistant"
-   ]
+   ],
+   "ipa": "/ɪmˈpɜrviəs/"
   },
   {
    "word": "sporadic",
@@ -494,7 +538,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "intermittent",
     "occasional"
-   ]
+   ],
+   "ipa": "/spəˈrædɪk/"
   },
   {
    "word": "egregious",
@@ -505,7 +550,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "flagrant",
     "glaring"
-   ]
+   ],
+   "ipa": "/ɪˈɡridʒəs/"
   },
   {
    "word": "tantamount",
@@ -515,7 +561,8 @@ window.TEPS_DATA.high = {
    "ex_ko": "증언을 거부하는 것은 유죄를 인정하는 것이나 다름없다고 변호사는 경고했다.",
    "syn": [
     "equivalent"
-   ]
+   ],
+   "ipa": "/ˈtæntəˌmaʊnt/"
   },
   {
    "word": "conundrum",
@@ -526,7 +573,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "puzzle",
     "dilemma"
-   ]
+   ],
+   "ipa": "/kəˈnʌndrəm/"
   },
   {
    "word": "propensity",
@@ -537,7 +585,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "tendency",
     "inclination"
-   ]
+   ],
+   "ipa": "/prəˈpɛnsɪti/"
   },
   {
    "word": "quandary",
@@ -548,7 +597,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "dilemma",
     "predicament"
-   ]
+   ],
+   "ipa": "/ˈkwɑndəri/"
   },
   {
    "word": "panacea",
@@ -558,7 +608,8 @@ window.TEPS_DATA.high = {
    "ex_ko": "기술은 흔히 교육 불평등의 만능 해결책인 양 선전된다.",
    "syn": [
     "cure-all"
-   ]
+   ],
+   "ipa": "/ˌpænəˈsiə/"
   },
   {
    "word": "paucity",
@@ -569,7 +620,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "scarcity",
     "dearth"
-   ]
+   ],
+   "ipa": "/ˈpɔsɪti/"
   },
   {
    "word": "plethora",
@@ -580,7 +632,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "excess",
     "abundance"
-   ]
+   ],
+   "ipa": "/ˈplɛθərə/"
   },
   {
    "word": "demise",
@@ -591,7 +644,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "downfall",
     "collapse"
-   ]
+   ],
+   "ipa": "/dɪˈmaɪz/"
   },
   {
    "word": "impasse",
@@ -602,7 +656,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "deadlock",
     "stalemate"
-   ]
+   ],
+   "ipa": "/ˈɪmpæs/"
   },
   {
    "word": "reprisal",
@@ -613,7 +668,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "retaliation",
     "retribution"
-   ]
+   ],
+   "ipa": "/rɪˈpraɪzəl/"
   },
   {
    "word": "conjecture",
@@ -624,7 +680,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "speculation",
     "guesswork"
-   ]
+   ],
+   "ipa": "/kənˈdʒɛktʃɚ/"
   },
   {
    "word": "acumen",
@@ -635,7 +692,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "shrewdness",
     "insight"
-   ]
+   ],
+   "ipa": "/əˈkjumən/"
   },
   {
    "word": "duplicity",
@@ -646,7 +704,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "deceit",
     "double-dealing"
-   ]
+   ],
+   "ipa": "/duˈplɪsɪti/"
   },
   {
    "word": "austerity",
@@ -657,7 +716,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "frugality",
     "belt-tightening"
-   ]
+   ],
+   "ipa": "/ɔˈstɛrɪti/"
   },
   {
    "word": "anomaly",
@@ -668,7 +728,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "irregularity",
     "aberration"
-   ]
+   ],
+   "ipa": "/əˈnɑməli/"
   },
   {
    "word": "debacle",
@@ -679,7 +740,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "fiasco",
     "disaster"
-   ]
+   ],
+   "ipa": "/dɪˈbɑkəl/"
   },
   {
    "word": "vicissitude",
@@ -689,7 +751,8 @@ window.TEPS_DATA.high = {
    "ex_ko": "그 소설은 3대에 걸친 한 가족의 흥망성쇠를 그린다.",
    "syn": [
     "ups and downs"
-   ]
+   ],
+   "ipa": "/vɪˈsɪsɪˌtud/"
   },
   {
    "word": "harbinger",
@@ -700,7 +763,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "precursor",
     "omen"
-   ]
+   ],
+   "ipa": "/ˈhɑrbɪndʒɚ/"
   },
   {
    "word": "ostensibly",
@@ -711,7 +775,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "seemingly",
     "apparently"
-   ]
+   ],
+   "ipa": "/ɑˈstɛnsəbli/"
   },
   {
    "word": "inadvertently",
@@ -722,7 +787,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "accidentally",
     "unintentionally"
-   ]
+   ],
+   "ipa": "/ˌɪnədˈvɜrtəntli/"
   },
   {
    "word": "unequivocally",
@@ -733,7 +799,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "unambiguously",
     "categorically"
-   ]
+   ],
+   "ipa": "/ˌʌnɪˈkwɪvəkəli/"
   },
   {
    "word": "surreptitiously",
@@ -744,7 +811,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "secretly",
     "furtively"
-   ]
+   ],
+   "ipa": "/ˌsɜrəpˈtɪʃəsli/"
   },
   {
    "word": "invariably",
@@ -755,7 +823,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "always",
     "without exception"
-   ]
+   ],
+   "ipa": "/ɪnˈvɛriəbli/"
   },
   {
    "word": "incessantly",
@@ -766,7 +835,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "constantly",
     "ceaselessly"
-   ]
+   ],
+   "ipa": "/ɪnˈsɛsəntli/"
   },
   {
    "word": "purportedly",
@@ -777,7 +847,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "allegedly",
     "supposedly"
-   ]
+   ],
+   "ipa": "/pɚˈpɔrtɪdli/"
   },
   {
    "word": "vehemently",
@@ -788,7 +859,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "fiercely",
     "adamantly"
-   ]
+   ],
+   "ipa": "/ˈviəməntli/"
   },
   {
    "word": "phase out",
@@ -798,7 +870,8 @@ window.TEPS_DATA.high = {
    "ex_ko": "정부는 2040년까지 석탄 화력 발전소를 단계적으로 폐쇄할 계획이다.",
    "syn": [
     "discontinue"
-   ]
+   ],
+   "ipa": "/feɪz aʊt/"
   },
   {
    "word": "iron out",
@@ -809,7 +882,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "resolve",
     "settle"
-   ]
+   ],
+   "ipa": "/ˈaɪɚn aʊt/"
   },
   {
    "word": "fall through",
@@ -820,7 +894,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "collapse",
     "fail"
-   ]
+   ],
+   "ipa": "/fɔl θru/"
   },
   {
    "word": "weather the storm",
@@ -831,7 +906,8 @@ window.TEPS_DATA.high = {
    "syn": [
     "ride out",
     "survive"
-   ]
+   ],
+   "ipa": "/ˈwɛðɚ ðə stɔrm/"
   },
   {
    "word": "take something with a grain of salt",
@@ -841,7 +917,8 @@ window.TEPS_DATA.high = {
    "ex_ko": "그의 성공담은 걸러서 들어라. 그는 과장하는 버릇이 있으니까.",
    "syn": [
     "be skeptical of"
-   ]
+   ],
+   "ipa": "/teɪk ˈsʌmθɪŋ wɪð ə ɡreɪn əv sɔlt/"
   },
   {
    "word": "on the fence",
@@ -851,7 +928,8 @@ window.TEPS_DATA.high = {
    "ex_ko": "많은 유권자가 어느 후보를 지지할지 아직 마음을 정하지 못했다.",
    "syn": [
     "undecided"
-   ]
+   ],
+   "ipa": "/ɑn ðə fɛns/"
   },
   {
    "word": "run the gamut",
@@ -861,7 +939,8 @@ window.TEPS_DATA.high = {
    "ex_ko": "판결에 대한 반응은 안도에서 분노까지 각양각색이었다.",
    "syn": [
     "cover the full range"
-   ]
+   ],
+   "ipa": "/rʌn ðə ˈɡæmət/"
   },
   {
    "word": "get to the bottom of",
@@ -872,6 +951,3251 @@ window.TEPS_DATA.high = {
    "syn": [
     "uncover",
     "unravel"
+   ],
+   "ipa": "/ɡɛt tə ðə ˈbɑtəm əv/"
+  },
+  {
+   "word": "haggle",
+   "pos": "동사",
+   "ko": "값을 흥정하다",
+   "ipa": "/ˈhæɡəl/",
+   "ex_en": "Tourists often haggle with street vendors over the price of souvenirs.",
+   "ex_ko": "관광객들은 흔히 기념품 가격을 놓고 노점상과 흥정한다.",
+   "syn": [
+    "bargain",
+    "negotiate"
+   ]
+  },
+  {
+   "word": "splurge",
+   "pos": "동사",
+   "ko": "(돈을) 펑펑 쓰다, 큰맘 먹고 사다",
+   "ipa": "/ˈsplɝdʒ/",
+   "ex_en": "After months of saving, she decided to splurge on a luxury hotel suite.",
+   "ex_ko": "몇 달간 저축한 끝에 그녀는 큰맘 먹고 고급 호텔 스위트룸에 돈을 쓰기로 했다.",
+   "syn": [
+    "lavish"
+   ]
+  },
+  {
+   "word": "reimburse",
+   "pos": "동사",
+   "ko": "(비용을) 환급하다, 배상하다",
+   "ipa": "/ˌriɪmˈbɝs/",
+   "ex_en": "The airline promised to reimburse passengers for expenses caused by the cancellation.",
+   "ex_ko": "항공사는 결항으로 발생한 비용을 승객들에게 환급해 주겠다고 약속했다.",
+   "syn": [
+    "repay",
+    "compensate"
+   ]
+  },
+  {
+   "word": "rescind",
+   "pos": "동사",
+   "ko": "(계약·결정을) 철회하다, 취소하다",
+   "ipa": "/rɪˈsɪnd/",
+   "ex_en": "The landlord rescinded the lease offer after discovering errors in the application.",
+   "ex_ko": "집주인은 신청서에서 오류를 발견한 뒤 임대 제안을 철회했다.",
+   "syn": [
+    "revoke",
+    "annul",
+    "repeal"
+   ]
+  },
+  {
+   "word": "refurbish",
+   "pos": "동사",
+   "ko": "재단장하다, 개조하다",
+   "ipa": "/riˈfɝbɪʃ/",
+   "ex_en": "The historic hotel was completely refurbished to attract a younger generation of travelers.",
+   "ex_ko": "그 유서 깊은 호텔은 젊은 세대 여행객을 끌기 위해 완전히 재단장되었다.",
+   "syn": [
+    "renovate",
+    "revamp"
+   ]
+  },
+  {
+   "word": "expedite",
+   "pos": "동사",
+   "ko": "신속히 처리하다",
+   "ipa": "/ˈɛkspəˌdaɪt/",
+   "ex_en": "For an extra fee, the agency will expedite your passport renewal.",
+   "ex_ko": "추가 요금을 내면 그 기관이 여권 갱신을 신속히 처리해 준다.",
+   "syn": [
+    "accelerate",
+    "hasten"
+   ]
+  },
+  {
+   "word": "waive",
+   "pos": "동사",
+   "ko": "(요금·권리를) 면제하다, 포기하다",
+   "ipa": "/ˈweɪv/",
+   "ex_en": "The bank agreed to waive the overdraft fee as a onetime courtesy.",
+   "ex_ko": "은행은 일회성 배려 차원에서 초과 인출 수수료를 면제해 주기로 했다.",
+   "syn": [
+    "forgo",
+    "exempt"
+   ]
+  },
+  {
+   "word": "incur",
+   "pos": "동사",
+   "ko": "(비용·손실을) 물게 되다, 입다",
+   "ipa": "/ɪnˈkɝ/",
+   "ex_en": "Guests who cancel within 24 hours will incur a hefty penalty charge.",
+   "ex_ko": "24시간 이내에 취소하는 투숙객은 상당한 위약금을 물게 된다.",
+   "syn": [
+    "sustain"
+   ]
+  },
+  {
+   "word": "evict",
+   "pos": "동사",
+   "ko": "(세입자를) 퇴거시키다",
+   "ipa": "/ɪˈvɪkt/",
+   "ex_en": "The landlord threatened to evict tenants who repeatedly failed to pay rent.",
+   "ex_ko": "집주인은 임대료를 거듭 내지 않은 세입자들을 퇴거시키겠다고 위협했다.",
+   "syn": [
+    "expel",
+    "oust"
+   ]
+  },
+  {
+   "word": "sublet",
+   "pos": "동사",
+   "ko": "(집을) 전대하다, 다시 세놓다",
+   "ipa": "/ˌsʌbˈlɛt/",
+   "ex_en": "Our lease explicitly forbids tenants to sublet the apartment without written consent.",
+   "ex_ko": "우리 임대 계약서는 서면 동의 없이 아파트를 전대하는 것을 명시적으로 금지한다.",
+   "syn": [
+    "sublease"
+   ]
+  },
+  {
+   "word": "appraise",
+   "pos": "동사",
+   "ko": "(가치를) 감정하다, 평가하다",
+   "ipa": "/əˈpreɪz/",
+   "ex_en": "Have the property professionally appraised before you make a final offer.",
+   "ex_ko": "최종 매수 제안을 하기 전에 그 부동산을 전문가에게 감정받아라.",
+   "syn": [
+    "evaluate",
+    "assess"
+   ]
+  },
+  {
+   "word": "stipulate",
+   "pos": "동사",
+   "ko": "(계약서 등에) 명기하다, 규정하다",
+   "ipa": "/ˈstɪpjəˌleɪt/",
+   "ex_en": "The rental contract stipulates that pets are strictly prohibited on the premises.",
+   "ex_ko": "임대 계약서에는 구내에서 반려동물이 엄격히 금지된다고 명시되어 있다.",
+   "syn": [
+    "specify",
+    "prescribe"
+   ]
+  },
+  {
+   "word": "rectify",
+   "pos": "동사",
+   "ko": "바로잡다, 시정하다",
+   "ipa": "/ˈrɛktəˌfaɪ/",
+   "ex_en": "The store manager apologized and moved quickly to rectify the billing error.",
+   "ex_ko": "매장 관리자는 사과하고 청구 오류를 바로잡기 위해 신속히 조치했다.",
+   "syn": [
+    "correct",
+    "remedy"
+   ]
+  },
+  {
+   "word": "patronize",
+   "pos": "동사",
+   "ko": "단골로 이용하다; 가르치려 들다",
+   "ipa": "/ˈpeɪtrəˌnaɪz/",
+   "ex_en": "Locals refuse to patronize businesses that treat their customers rudely.",
+   "ex_ko": "지역 주민들은 고객을 무례하게 대하는 업체를 이용하지 않으려 한다.",
+   "syn": [
+    "frequent"
+   ]
+  },
+  {
+   "word": "replenish",
+   "pos": "동사",
+   "ko": "다시 채우다, 보충하다",
+   "ipa": "/rɪˈplɛnɪʃ/",
+   "ex_en": "The housekeeping staff replenish the minibar and toiletries every single morning.",
+   "ex_ko": "객실 관리 직원들은 매일 아침 미니바와 세면용품을 다시 채워 넣는다.",
+   "syn": [
+    "refill",
+    "restock"
+   ]
+  },
+  {
+   "word": "exorbitant",
+   "pos": "형용사",
+   "ko": "(가격이) 터무니없는, 과도한",
+   "ipa": "/ɪɡˈzɔrbɪtənt/",
+   "ex_en": "Tourists complained about the exorbitant prices charged by restaurants near the landmark.",
+   "ex_ko": "관광객들은 명소 근처 식당들이 매기는 터무니없는 가격에 불평했다.",
+   "syn": [
+    "extortionate",
+    "steep"
+   ]
+  },
+  {
+   "word": "counterfeit",
+   "pos": "형용사",
+   "ko": "위조의, 가짜의",
+   "ipa": "/ˈkaʊntɚˌfɪt/",
+   "ex_en": "Customs officials seized thousands of counterfeit designer handbags at the airport.",
+   "ex_ko": "세관 직원들은 공항에서 수천 개의 위조 명품 핸드백을 압수했다.",
+   "syn": [
+    "fake",
+    "forged",
+    "bogus"
+   ]
+  },
+  {
+   "word": "shoddy",
+   "pos": "형용사",
+   "ko": "조잡한, 부실한",
+   "ipa": "/ˈʃɑdi/",
+   "ex_en": "The inspector blamed the leaky roof on shoddy workmanship and cheap materials.",
+   "ex_ko": "조사관은 지붕 누수를 부실 시공과 값싼 자재 탓으로 돌렸다.",
+   "syn": [
+    "inferior",
+    "slipshod"
+   ]
+  },
+  {
+   "word": "frugal",
+   "pos": "형용사",
+   "ko": "절약하는, 검소한",
+   "ipa": "/ˈfruɡəl/",
+   "ex_en": "Being frugal by nature, he compares prices carefully before every major purchase.",
+   "ex_ko": "천성이 검소한 그는 큰 물건을 살 때마다 가격을 꼼꼼히 비교한다.",
+   "syn": [
+    "thrifty",
+    "economical"
+   ]
+  },
+  {
+   "word": "dilapidated",
+   "pos": "형용사",
+   "ko": "다 허물어져 가는, 황폐한",
+   "ipa": "/dɪˈlæpɪˌdeɪtɪd/",
+   "ex_en": "The couple bought a dilapidated farmhouse and spent years restoring it.",
+   "ex_ko": "그 부부는 다 허물어져 가는 농가를 사서 수년에 걸쳐 복원했다.",
+   "syn": [
+    "run-down",
+    "decrepit"
+   ]
+  },
+  {
+   "word": "squalid",
+   "pos": "형용사",
+   "ko": "지저분한, 불결한",
+   "ipa": "/ˈskwɑlɪd/",
+   "ex_en": "Inspectors found migrant workers living in squalid conditions without proper sanitation.",
+   "ex_ko": "조사관들은 이주 노동자들이 제대로 된 위생 시설도 없는 불결한 환경에서 사는 것을 발견했다.",
+   "syn": [
+    "filthy",
+    "sordid"
+   ]
+  },
+  {
+   "word": "immaculate",
+   "pos": "형용사",
+   "ko": "티끌 하나 없는, 흠 없이 완벽한",
+   "ipa": "/ɪˈmækjələt/",
+   "ex_en": "The rooms were immaculate, and the staff greeted every guest by name.",
+   "ex_ko": "객실은 티끌 하나 없이 깨끗했고 직원들은 모든 투숙객을 이름으로 맞이했다.",
+   "syn": [
+    "spotless",
+    "pristine"
+   ]
+  },
+  {
+   "word": "secluded",
+   "pos": "형용사",
+   "ko": "한적한, 외딴",
+   "ipa": "/sɪˈkludɪd/",
+   "ex_en": "They spent their honeymoon at a secluded resort accessible only by boat.",
+   "ex_ko": "그들은 배로만 갈 수 있는 외딴 리조트에서 신혼여행을 보냈다.",
+   "syn": [
+    "isolated",
+    "remote"
+   ]
+  },
+  {
+   "word": "quaint",
+   "pos": "형용사",
+   "ko": "고풍스러운, 예스러워 정겨운",
+   "ipa": "/ˈkweɪnt/",
+   "ex_en": "The tour winds through quaint villages famous for their cobblestone streets.",
+   "ex_ko": "그 투어는 자갈길로 유명한 고풍스러운 마을들을 굽이굽이 지나간다.",
+   "syn": [
+    "charming",
+    "old-fashioned"
+   ]
+  },
+  {
+   "word": "impeccable",
+   "pos": "형용사",
+   "ko": "흠잡을 데 없는",
+   "ipa": "/ɪmˈpɛkəbəl/",
+   "ex_en": "The restaurant earned its reputation through impeccable service and consistent quality.",
+   "ex_ko": "그 식당은 흠잡을 데 없는 서비스와 한결같은 품질로 명성을 얻었다.",
+   "syn": [
+    "flawless",
+    "faultless"
+   ]
+  },
+  {
+   "word": "brusque",
+   "pos": "형용사",
+   "ko": "무뚝뚝한, 퉁명스러운",
+   "ipa": "/ˈbrʌsk/",
+   "ex_en": "Several reviews criticized the receptionist for her brusque manner with guests.",
+   "ex_ko": "여러 후기에서 투숙객을 대하는 접수 직원의 퉁명스러운 태도를 비판했다.",
+   "syn": [
+    "curt",
+    "abrupt"
+   ]
+  },
+  {
+   "word": "perishable",
+   "pos": "형용사",
+   "ko": "(식품이) 상하기 쉬운",
+   "ipa": "/ˈpɛrɪʃəbəl/",
+   "ex_en": "Perishable items such as dairy products should be refrigerated immediately after purchase.",
+   "ex_ko": "유제품 같은 상하기 쉬운 식품은 구매 후 즉시 냉장 보관해야 한다."
+  },
+  {
+   "word": "delinquent",
+   "pos": "형용사",
+   "ko": "(대금이) 연체된; 비행의",
+   "ipa": "/dɪˈlɪŋkwənt/",
+   "ex_en": "The utility company cuts off service when accounts remain delinquent for sixty days.",
+   "ex_ko": "그 공익 기업은 요금이 60일간 연체되면 서비스를 중단한다.",
+   "syn": [
+    "overdue",
+    "unpaid"
+   ]
+  },
+  {
+   "word": "mundane",
+   "pos": "형용사",
+   "ko": "일상적인, 단조로운",
+   "ipa": "/mʌnˈdeɪn/",
+   "ex_en": "Weekend getaways offer a welcome escape from mundane household routines.",
+   "ex_ko": "주말 여행은 단조로운 집안일 일과에서 벗어나게 해 주는 반가운 탈출구다.",
+   "syn": [
+    "ordinary",
+    "humdrum"
+   ]
+  },
+  {
+   "word": "itinerary",
+   "pos": "명사",
+   "ko": "여행 일정표",
+   "ipa": "/aɪˈtɪnəˌrɛri/",
+   "ex_en": "Our itinerary includes a two-day stopover in Lisbon before reaching Madrid.",
+   "ex_ko": "우리 일정표에는 마드리드에 도착하기 전 리스본에서의 2일 체류가 포함되어 있다.",
+   "syn": [
+    "schedule"
+   ]
+  },
+  {
+   "word": "gratuity",
+   "pos": "명사",
+   "ko": "팁, 사례금",
+   "ipa": "/ɡrəˈtuəti/",
+   "ex_en": "A fifteen percent gratuity is automatically added to bills for large parties.",
+   "ex_ko": "단체 손님 계산서에는 15퍼센트의 봉사료가 자동으로 추가된다.",
+   "syn": [
+    "tip"
+   ]
+  },
+  {
+   "word": "amenity",
+   "pos": "명사",
+   "ko": "(호텔·주거지의) 편의 시설",
+   "ipa": "/əˈmɛnəti/",
+   "ex_en": "The apartment complex boasts amenities like a gym, pool, and rooftop lounge.",
+   "ex_ko": "그 아파트 단지는 체육관, 수영장, 옥상 라운지 같은 편의 시설을 자랑한다.",
+   "syn": [
+    "facility",
+    "convenience"
+   ]
+  },
+  {
+   "word": "sojourn",
+   "pos": "명사",
+   "ko": "(일시적인) 체류",
+   "ipa": "/ˈsoʊdʒɝn/",
+   "ex_en": "During his brief sojourn in Kyoto, he stayed at a traditional inn.",
+   "ex_ko": "교토에 잠시 체류하는 동안 그는 전통 여관에 묵었다.",
+   "syn": [
+    "stay",
+    "stopover"
+   ]
+  },
+  {
+   "word": "foreclosure",
+   "pos": "명사",
+   "ko": "(주택) 압류, 담보권 행사",
+   "ipa": "/fɔrˈkloʊʒɚ/",
+   "ex_en": "Thousands of families faced foreclosure when they could no longer afford their mortgages.",
+   "ex_ko": "수천 가구가 더는 주택 담보 대출금을 감당하지 못해 압류에 직면했다.",
+   "syn": [
+    "repossession"
+   ]
+  },
+  {
+   "word": "arrears",
+   "pos": "명사",
+   "ko": "연체금, 밀린 돈",
+   "ipa": "/əˈrɪrz/",
+   "ex_en": "The tenant was three months in arrears and risked losing the apartment.",
+   "ex_ko": "그 세입자는 석 달 치 임대료가 밀려 아파트를 잃을 위기에 처했다."
+  },
+  {
+   "word": "infestation",
+   "pos": "명사",
+   "ko": "(해충 등이) 들끓음, 만연",
+   "ipa": "/ˌɪnfɛˈsteɪʃən/",
+   "ex_en": "The health department shut down the restaurant after confirming a cockroach infestation.",
+   "ex_ko": "보건 당국은 바퀴벌레가 들끓는 것을 확인한 뒤 그 식당을 폐쇄했다."
+  },
+  {
+   "word": "gentrification",
+   "pos": "명사",
+   "ko": "젠트리피케이션, 둥지 내몰림",
+   "ipa": "/ˌdʒɛntrəfɪˈkeɪʃən/",
+   "ex_en": "Rapid gentrification has driven longtime residents out of the once-affordable neighborhood.",
+   "ex_ko": "급속한 젠트리피케이션이 한때 집값이 저렴했던 동네에서 오랜 주민들을 몰아냈다."
+  },
+  {
+   "word": "clientele",
+   "pos": "명사",
+   "ko": "고객층, 단골손님들",
+   "ipa": "/ˌklaɪənˈtɛl/",
+   "ex_en": "The boutique caters to a wealthy clientele willing to pay for exclusivity.",
+   "ex_ko": "그 부티크는 희소성에 기꺼이 돈을 내는 부유한 고객층을 상대한다.",
+   "syn": [
+    "customers",
+    "patrons"
+   ]
+  },
+  {
+   "word": "grievance",
+   "pos": "명사",
+   "ko": "불만 사항, 고충",
+   "ipa": "/ˈɡrivəns/",
+   "ex_en": "Tenants filed a formal grievance over the building's chronic heating problems.",
+   "ex_ko": "세입자들은 건물의 고질적인 난방 문제에 대해 공식적으로 고충을 제기했다.",
+   "syn": [
+    "complaint"
+   ]
+  },
+  {
+   "word": "recourse",
+   "pos": "명사",
+   "ko": "구제 수단, 의지할 대상",
+   "ipa": "/ˈrikɔrs/",
+   "ex_en": "Consumers have little legal recourse when overseas online retailers refuse refunds.",
+   "ex_ko": "해외 온라인 판매자가 환불을 거부할 때 소비자가 기댈 법적 구제 수단은 거의 없다.",
+   "syn": [
+    "remedy",
+    "resort"
+   ]
+  },
+  {
+   "word": "surcharge",
+   "pos": "명사",
+   "ko": "추가 요금, 할증료",
+   "ipa": "/ˈsɝˌtʃɑrdʒ/",
+   "ex_en": "The airline imposes a fuel surcharge on all long-haul international flights.",
+   "ex_ko": "그 항공사는 모든 장거리 국제선에 유류 할증료를 부과한다.",
+   "syn": [
+    "extra fee"
+   ]
+  },
+  {
+   "word": "respite",
+   "pos": "명사",
+   "ko": "(일시적인) 휴식, 한숨 돌릴 틈",
+   "ipa": "/ˈrɛspɪt/",
+   "ex_en": "The quiet garden offered a brief respite from the city's relentless noise.",
+   "ex_ko": "그 조용한 정원은 도시의 끊임없는 소음에서 잠시 벗어날 휴식을 주었다.",
+   "syn": [
+    "break",
+    "reprieve"
+   ]
+  },
+  {
+   "word": "premises",
+   "pos": "명사",
+   "ko": "(건물이 딸린) 부지, 구내",
+   "ipa": "/ˈprɛmɪsɪz/",
+   "ex_en": "Smoking is strictly prohibited anywhere on the hotel premises at all times.",
+   "ex_ko": "호텔 구내 어디에서든 흡연은 항시 엄격히 금지된다.",
+   "syn": [
+    "property",
+    "grounds"
+   ]
+  },
+  {
+   "word": "sparingly",
+   "pos": "부사",
+   "ko": "아껴서, 조금씩",
+   "ipa": "/ˈspɛrɪŋli/",
+   "ex_en": "Use the detergent sparingly, as a small amount goes a long way.",
+   "ex_ko": "소량으로도 충분하니 세제를 아껴서 사용해라.",
+   "syn": [
+    "frugally",
+    "moderately"
+   ]
+  },
+  {
+   "word": "inordinately",
+   "pos": "부사",
+   "ko": "과도하게, 지나치게",
+   "ipa": "/ɪnˈɔrdənətli/",
+   "ex_en": "Housing in the capital has become inordinately expensive for first-time buyers.",
+   "ex_ko": "수도의 주택은 생애 첫 구매자들에게 지나치게 비싸졌다.",
+   "syn": [
+    "excessively",
+    "unduly"
+   ]
+  },
+  {
+   "word": "intermittently",
+   "pos": "부사",
+   "ko": "간헐적으로, 이따금",
+   "ipa": "/ˌɪntɚˈmɪtəntli/",
+   "ex_en": "The building's elevator has been working only intermittently for the past week.",
+   "ex_ko": "그 건물의 엘리베이터는 지난 일주일 동안 간헐적으로만 작동하고 있다.",
+   "syn": [
+    "periodically",
+    "fitfully"
+   ]
+  },
+  {
+   "word": "foot the bill",
+   "pos": "숙어",
+   "ko": "비용을 부담하다",
+   "ipa": "/ˌfʊt ðə ˈbɪl/",
+   "ex_en": "My company will foot the bill for the entire business trip abroad.",
+   "ex_ko": "회사가 이번 해외 출장 비용 전부를 부담할 것이다.",
+   "syn": [
+    "cover the cost",
+    "pay"
+   ]
+  },
+  {
+   "word": "make ends meet",
+   "pos": "숙어",
+   "ko": "겨우 먹고살다, 수지를 맞추다",
+   "ipa": "/ˌmeɪk ˌɛndz ˈmit/",
+   "ex_en": "With rent soaring, many young couples struggle to make ends meet.",
+   "ex_ko": "임대료가 치솟으면서 많은 젊은 부부들이 생계를 꾸리기도 벅차다.",
+   "syn": [
+    "get by"
+   ]
+  },
+  {
+   "word": "shell out",
+   "pos": "구동사",
+   "ko": "(마지못해) 거금을 내다",
+   "ipa": "/ˌʃɛl ˈaʊt/",
+   "ex_en": "We had to shell out nearly three hundred dollars for a last-minute room.",
+   "ex_ko": "우리는 막판에 방을 구하느라 300달러 가까이 내야 했다.",
+   "syn": [
+    "fork over"
+   ]
+  },
+  {
+   "word": "off the beaten path",
+   "pos": "숙어",
+   "ko": "인적이 드문, 잘 알려지지 않은",
+   "ipa": "/ˌɔf ðə ˈbitən ˈpæθ/",
+   "ex_en": "Seasoned travelers prefer destinations off the beaten path to crowded tourist spots.",
+   "ex_ko": "노련한 여행자들은 붐비는 관광지보다 잘 알려지지 않은 여행지를 선호한다."
+  },
+  {
+   "word": "remunerate",
+   "pos": "동사",
+   "ko": "보수를 지급하다, 보상하다",
+   "ipa": "/rɪˈmjunəˌreɪt/",
+   "ex_en": "The firm remunerates its consultants handsomely for their expertise in emerging markets.",
+   "ex_ko": "그 회사는 신흥 시장에 대한 전문성에 대해 컨설턴트들에게 후한 보수를 지급한다.",
+   "syn": [
+    "compensate",
+    "pay",
+    "reward"
+   ]
+  },
+  {
+   "word": "divest",
+   "pos": "동사",
+   "ko": "(사업·자산을) 매각하다, 처분하다",
+   "ipa": "/daɪˈvɛst/",
+   "ex_en": "The conglomerate decided to divest its unprofitable retail division to focus on core businesses.",
+   "ex_ko": "그 대기업은 핵심 사업에 집중하기 위해 수익성 없는 소매 부문을 매각하기로 결정했다.",
+   "syn": [
+    "sell off",
+    "dispose of"
+   ]
+  },
+  {
+   "word": "underwrite",
+   "pos": "동사",
+   "ko": "(증권 발행을) 인수하다; (비용·위험을) 보증하다",
+   "ipa": "/ˌʌndɚˈraɪt/",
+   "ex_en": "Several investment banks agreed to underwrite the company's initial public offering next quarter.",
+   "ex_ko": "여러 투자 은행이 다음 분기에 그 회사의 기업 공개를 인수하기로 합의했다.",
+   "syn": [
+    "guarantee",
+    "insure",
+    "sponsor"
+   ]
+  },
+  {
+   "word": "amortize",
+   "pos": "동사",
+   "ko": "(부채를) 분할 상환하다; (자산을) 상각하다",
+   "ipa": "/ˈæmɚˌtaɪz/",
+   "ex_en": "The company plans to amortize the loan over a period of fifteen years.",
+   "ex_ko": "그 회사는 15년에 걸쳐 대출금을 분할 상환할 계획이다.",
+   "syn": [
+    "pay off",
+    "write down"
+   ]
+  },
+  {
+   "word": "recoup",
+   "pos": "동사",
+   "ko": "(손실을) 만회하다, 회수하다",
+   "ipa": "/rɪˈkup/",
+   "ex_en": "Investors hope to recoup their initial losses once the housing market finally rebounds.",
+   "ex_ko": "투자자들은 주택 시장이 마침내 반등하면 초기 손실을 만회하기를 바란다.",
+   "syn": [
+    "recover",
+    "regain"
+   ]
+  },
+  {
+   "word": "procure",
+   "pos": "동사",
+   "ko": "(어렵게) 조달하다, 확보하다",
+   "ipa": "/proʊˈkjʊr/",
+   "ex_en": "The manufacturer struggled to procure raw materials amid the global supply chain disruption.",
+   "ex_ko": "그 제조업체는 세계적인 공급망 붕괴 속에서 원자재를 조달하는 데 어려움을 겪었다.",
+   "syn": [
+    "obtain",
+    "acquire",
+    "secure"
+   ]
+  },
+  {
+   "word": "defray",
+   "pos": "동사",
+   "ko": "(비용을) 부담하다, 충당하다",
+   "ipa": "/dɪˈfreɪ/",
+   "ex_en": "The government offered subsidies to defray the costs of retraining laid-off factory workers.",
+   "ex_ko": "정부는 해고된 공장 노동자들의 재교육 비용을 충당하기 위해 보조금을 제공했다.",
+   "syn": [
+    "cover",
+    "pay"
+   ]
+  },
+  {
+   "word": "embezzle",
+   "pos": "동사",
+   "ko": "횡령하다",
+   "ipa": "/ɪmˈbɛzəl/",
+   "ex_en": "The accountant was convicted of embezzling millions from the pension fund over a decade.",
+   "ex_ko": "그 회계사는 10년에 걸쳐 연기금에서 수백만 달러를 횡령한 혐의로 유죄 판결을 받았다.",
+   "syn": [
+    "misappropriate",
+    "defraud"
+   ]
+  },
+  {
+   "word": "liquidate",
+   "pos": "동사",
+   "ko": "(회사를) 청산하다; (자산을) 현금화하다",
+   "ipa": "/ˈlɪkwɪˌdeɪt/",
+   "ex_en": "Facing mounting debts, the retailer was forced to liquidate its assets and close down.",
+   "ex_ko": "늘어나는 부채에 직면하여 그 소매업체는 자산을 청산하고 폐업할 수밖에 없었다.",
+   "syn": [
+    "wind up",
+    "sell off"
+   ]
+  },
+  {
+   "word": "collude",
+   "pos": "동사",
+   "ko": "담합하다, 공모하다",
+   "ipa": "/kəˈlud/",
+   "ex_en": "Regulators accused the two airlines of colluding to fix ticket prices on international routes.",
+   "ex_ko": "규제 당국은 두 항공사가 국제 노선의 항공권 가격을 담합했다고 비난했다.",
+   "syn": [
+    "conspire",
+    "connive"
+   ]
+  },
+  {
+   "word": "renege",
+   "pos": "동사",
+   "ko": "(약속·계약을) 어기다, 저버리다",
+   "ipa": "/rɪˈnɪɡ/",
+   "ex_en": "The supplier reneged on the contract, leaving the factory without essential components.",
+   "ex_ko": "공급업체가 계약을 어기는 바람에 공장은 필수 부품을 확보하지 못하게 되었다.",
+   "syn": [
+    "back out",
+    "default"
+   ]
+  },
+  {
+   "word": "accrue",
+   "pos": "동사",
+   "ko": "(이자·이익이) 발생하다, 누적되다",
+   "ipa": "/əˈkru/",
+   "ex_en": "Interest will accrue daily on any balance remaining after the payment due date.",
+   "ex_ko": "납부 기한 이후 남아 있는 잔액에는 이자가 매일 발생한다.",
+   "syn": [
+    "accumulate",
+    "amass"
+   ]
+  },
+  {
+   "word": "curtail",
+   "pos": "동사",
+   "ko": "축소하다, 삭감하다",
+   "ipa": "/kɚˈteɪl/",
+   "ex_en": "Management decided to curtail travel expenses in response to the projected budget shortfall.",
+   "ex_ko": "경영진은 예상되는 예산 부족에 대응하여 출장 경비를 삭감하기로 결정했다.",
+   "syn": [
+    "reduce",
+    "cut back",
+    "trim"
+   ]
+  },
+  {
+   "word": "windfall",
+   "pos": "명사",
+   "ko": "뜻밖의 소득, 횡재",
+   "ipa": "/ˈwɪndˌfɔl/",
+   "ex_en": "The energy company reported a massive windfall from the sudden spike in oil prices.",
+   "ex_ko": "그 에너지 회사는 유가 급등으로 인한 막대한 뜻밖의 수익을 보고했다.",
+   "syn": [
+    "bonanza",
+    "godsend"
+   ]
+  },
+  {
+   "word": "collateral",
+   "pos": "명사",
+   "ko": "담보(물)",
+   "ipa": "/kəˈlætərəl/",
+   "ex_en": "The bank required the couple to put up their house as collateral for the loan.",
+   "ex_ko": "은행은 그 부부에게 대출 담보로 집을 제공할 것을 요구했다.",
+   "syn": [
+    "security",
+    "guarantee"
+   ]
+  },
+  {
+   "word": "attrition",
+   "pos": "명사",
+   "ko": "(인력의) 자연 감소; 소모",
+   "ipa": "/əˈtrɪʃən/",
+   "ex_en": "The firm plans to reduce its workforce through attrition rather than outright layoffs.",
+   "ex_ko": "그 회사는 정리 해고 대신 자연 감소를 통해 인력을 줄일 계획이다.",
+   "syn": [
+    "turnover",
+    "wastage"
+   ]
+  },
+  {
+   "word": "retrenchment",
+   "pos": "명사",
+   "ko": "경비 절감, 긴축; 인원 삭감",
+   "ipa": "/rɪˈtrɛntʃmənt/",
+   "ex_en": "The airline announced sweeping retrenchment measures, including pay freezes and route cancellations.",
+   "ex_ko": "그 항공사는 임금 동결과 노선 폐지를 포함한 전면적인 긴축 조치를 발표했다.",
+   "syn": [
+    "cutback",
+    "downsizing"
+   ]
+  },
+  {
+   "word": "conglomerate",
+   "pos": "명사",
+   "ko": "복합 기업, 대기업",
+   "ipa": "/kənˈɡlɑmərət/",
+   "ex_en": "The sprawling conglomerate owns businesses ranging from shipbuilding to insurance and hotels.",
+   "ex_ko": "그 거대 복합 기업은 조선업부터 보험, 호텔에 이르는 사업체를 소유하고 있다.",
+   "syn": [
+    "corporation",
+    "multinational"
+   ]
+  },
+  {
+   "word": "oligopoly",
+   "pos": "명사",
+   "ko": "과점 (소수 기업의 시장 지배)",
+   "ipa": "/ˌɑləˈɡɑpəli/",
+   "ex_en": "The telecommunications market has become an oligopoly dominated by just three major carriers.",
+   "ex_ko": "통신 시장은 단 세 개의 주요 통신사가 지배하는 과점 체제가 되었다."
+  },
+  {
+   "word": "remittance",
+   "pos": "명사",
+   "ko": "송금(액)",
+   "ipa": "/rɪˈmɪtəns/",
+   "ex_en": "Millions of migrant workers send monthly remittances to support their families back home.",
+   "ex_ko": "수백만 명의 이주 노동자들이 고국의 가족을 부양하기 위해 매달 송금을 한다.",
+   "syn": [
+    "transfer",
+    "payment"
+   ]
+  },
+  {
+   "word": "levy",
+   "pos": "명사",
+   "ko": "부과금, 추가 세금; (세금) 부과",
+   "ipa": "/ˈlɛvi/",
+   "ex_en": "The government imposed a levy on imported luxury goods to protect domestic producers.",
+   "ex_ko": "정부는 국내 생산자를 보호하기 위해 수입 사치품에 부과금을 매겼다.",
+   "syn": [
+    "tax",
+    "duty",
+    "tariff"
+   ]
+  },
+  {
+   "word": "glut",
+   "pos": "명사",
+   "ko": "공급 과잉",
+   "ipa": "/ˈɡlʌt/",
+   "ex_en": "A glut of unsold apartments has driven property prices down across the region.",
+   "ex_ko": "팔리지 않은 아파트의 공급 과잉으로 그 지역 전체의 부동산 가격이 하락했다.",
+   "syn": [
+    "oversupply",
+    "surplus"
+   ]
+  },
+  {
+   "word": "moratorium",
+   "pos": "명사",
+   "ko": "(지불) 유예, 일시적 중단",
+   "ipa": "/ˌmɔrəˈtɔriəm/",
+   "ex_en": "The government declared a moratorium on debt repayments for businesses hit by the disaster.",
+   "ex_ko": "정부는 재해 피해를 입은 기업들에 대해 채무 상환 유예를 선언했다.",
+   "syn": [
+    "suspension",
+    "freeze"
+   ]
+  },
+  {
+   "word": "embargo",
+   "pos": "명사",
+   "ko": "금수 조치, 통상 금지",
+   "ipa": "/ɪmˈbɑrɡoʊ/",
+   "ex_en": "The trade embargo on the country crippled its export-driven economy within months.",
+   "ex_ko": "그 나라에 대한 금수 조치는 몇 달 만에 수출 주도 경제를 마비시켰다.",
+   "syn": [
+    "ban",
+    "sanction"
+   ]
+  },
+  {
+   "word": "arbitration",
+   "pos": "명사",
+   "ko": "중재",
+   "ipa": "/ˌɑrbɪˈtreɪʃən/",
+   "ex_en": "The wage dispute was finally settled through binding arbitration rather than a strike.",
+   "ex_ko": "임금 분쟁은 파업 대신 구속력 있는 중재를 통해 마침내 해결되었다.",
+   "syn": [
+    "mediation",
+    "adjudication"
+   ]
+  },
+  {
+   "word": "severance",
+   "pos": "명사",
+   "ko": "퇴직금; (관계) 단절",
+   "ipa": "/ˈsɛvərəns/",
+   "ex_en": "Laid-off employees received six months' severance along with assistance in finding new jobs.",
+   "ex_ko": "정리 해고된 직원들은 새 일자리를 찾는 지원과 함께 6개월치 퇴직금을 받았다.",
+   "syn": [
+    "compensation",
+    "termination pay"
+   ]
+  },
+  {
+   "word": "clout",
+   "pos": "명사",
+   "ko": "영향력, 발언권",
+   "ipa": "/ˈklaʊt/",
+   "ex_en": "The retail giant wields enormous clout in negotiations with its smaller suppliers.",
+   "ex_ko": "그 거대 소매업체는 소규모 공급업체들과의 협상에서 막강한 영향력을 행사한다.",
+   "syn": [
+    "influence",
+    "leverage",
+    "sway"
+   ]
+  },
+  {
+   "word": "lucrative",
+   "pos": "형용사",
+   "ko": "수익성이 좋은",
+   "ipa": "/ˈlukrətɪv/",
+   "ex_en": "She abandoned a lucrative career in banking to launch her own nonprofit organization.",
+   "ex_ko": "그녀는 자신의 비영리 단체를 설립하기 위해 수익성 좋은 은행업계 경력을 포기했다.",
+   "syn": [
+    "profitable",
+    "rewarding"
+   ]
+  },
+  {
+   "word": "insolvent",
+   "pos": "형용사",
+   "ko": "지급 불능의, 파산 상태의",
+   "ipa": "/ɪnˈsɑlvənt/",
+   "ex_en": "The auditors declared the firm insolvent after its liabilities far exceeded its assets.",
+   "ex_ko": "부채가 자산을 훨씬 초과하자 감사인들은 그 회사가 지급 불능 상태라고 선언했다.",
+   "syn": [
+    "bankrupt",
+    "broke"
+   ]
+  },
+  {
+   "word": "defunct",
+   "pos": "형용사",
+   "ko": "현존하지 않는, 폐업한",
+   "ipa": "/dɪˈfʌŋkt/",
+   "ex_en": "Creditors are still trying to recover funds from the now defunct investment firm.",
+   "ex_ko": "채권자들은 지금은 사라진 그 투자 회사로부터 여전히 자금을 회수하려 애쓰고 있다.",
+   "syn": [
+    "extinct",
+    "obsolete"
+   ]
+  },
+  {
+   "word": "lackluster",
+   "pos": "형용사",
+   "ko": "부진한, 활기 없는",
+   "ipa": "/ˈlækˌlʌstɚ/",
+   "ex_en": "The company's lackluster quarterly earnings sent its stock price tumbling ten percent.",
+   "ex_ko": "그 회사의 부진한 분기 실적으로 주가가 10퍼센트 급락했다.",
+   "syn": [
+    "dull",
+    "mediocre",
+    "uninspired"
+   ]
+  },
+  {
+   "word": "cutthroat",
+   "pos": "형용사",
+   "ko": "(경쟁이) 치열한, 무자비한",
+   "ipa": "/ˈkʌtˌθroʊt/",
+   "ex_en": "Startups struggle to survive in the cutthroat competition of the smartphone industry.",
+   "ex_ko": "스타트업들은 스마트폰 업계의 치열한 경쟁 속에서 살아남기 위해 고군분투한다.",
+   "syn": [
+    "ruthless",
+    "fierce"
+   ]
+  },
+  {
+   "word": "fraudulent",
+   "pos": "형용사",
+   "ko": "사기의, 부정한",
+   "ipa": "/ˈfrɔdʒələnt/",
+   "ex_en": "The executive was indicted for filing fraudulent financial statements to deceive investors.",
+   "ex_ko": "그 임원은 투자자들을 속이기 위해 허위 재무제표를 제출한 혐의로 기소되었다.",
+   "syn": [
+    "deceitful",
+    "bogus"
+   ]
+  },
+  {
+   "word": "affluent",
+   "pos": "형용사",
+   "ko": "부유한",
+   "ipa": "/ˈæfluənt/",
+   "ex_en": "The luxury brand primarily targets affluent consumers in rapidly growing Asian markets.",
+   "ex_ko": "그 명품 브랜드는 주로 빠르게 성장하는 아시아 시장의 부유한 소비자들을 겨냥한다.",
+   "syn": [
+    "wealthy",
+    "prosperous"
+   ]
+  },
+  {
+   "word": "stagnant",
+   "pos": "형용사",
+   "ko": "침체된, 정체된",
+   "ipa": "/ˈstæɡnənt/",
+   "ex_en": "Wages have remained stagnant for a decade even as living costs soared.",
+   "ex_ko": "생활비가 치솟는 동안에도 임금은 10년째 정체되어 있다.",
+   "syn": [
+    "sluggish",
+    "dormant"
+   ]
+  },
+  {
+   "word": "meager",
+   "pos": "형용사",
+   "ko": "(양·수입이) 빈약한, 얼마 안 되는",
+   "ipa": "/ˈmiɡɚ/",
+   "ex_en": "Many interns can barely cover rent on the meager stipend the company provides.",
+   "ex_ko": "많은 인턴들이 회사가 주는 얼마 안 되는 수당으로는 집세를 대기도 벅차다.",
+   "syn": [
+    "paltry",
+    "scanty"
+   ]
+  },
+  {
+   "word": "retroactively",
+   "pos": "부사",
+   "ko": "소급하여",
+   "ipa": "/ˌrɛtroʊˈæktɪvli/",
+   "ex_en": "The pay raise will be applied retroactively to the beginning of the fiscal year.",
+   "ex_ko": "임금 인상은 회계 연도 초로 소급하여 적용될 것이다."
+  },
+  {
+   "word": "exponentially",
+   "pos": "부사",
+   "ko": "기하급수적으로",
+   "ipa": "/ˌɛkspəˈnɛnʃəli/",
+   "ex_en": "Demand for cloud services has grown exponentially since businesses shifted to remote work.",
+   "ex_ko": "기업들이 원격 근무로 전환한 이후 클라우드 서비스 수요가 기하급수적으로 증가했다.",
+   "syn": [
+    "rapidly",
+    "dramatically"
+   ]
+  },
+  {
+   "word": "unilaterally",
+   "pos": "부사",
+   "ko": "일방적으로",
+   "ipa": "/ˌjunəˈlætərəli/",
+   "ex_en": "The management unilaterally changed the overtime policy without consulting the labor union.",
+   "ex_ko": "경영진은 노동조합과 협의 없이 일방적으로 초과 근무 정책을 변경했다."
+  },
+  {
+   "word": "write off",
+   "pos": "구동사",
+   "ko": "(부채를) 손실 처리하다, 탕감하다; 가망 없다고 보다",
+   "ipa": "/ˌraɪt ˈɔf/",
+   "ex_en": "The bank was forced to write off millions in loans to the bankrupt developer.",
+   "ex_ko": "그 은행은 파산한 개발업체에 대한 수백만 달러의 대출을 손실 처리할 수밖에 없었다.",
+   "syn": [
+    "cancel",
+    "forgive"
+   ]
+  },
+  {
+   "word": "bail out",
+   "pos": "구동사",
+   "ko": "(재정적으로) 구제하다",
+   "ipa": "/ˌbeɪl ˈaʊt/",
+   "ex_en": "The government spent billions to bail out struggling banks during the financial crisis.",
+   "ex_ko": "정부는 금융 위기 동안 어려움에 처한 은행들을 구제하기 위해 수십억 달러를 썼다.",
+   "syn": [
+    "rescue",
+    "salvage"
+   ]
+  },
+  {
+   "word": "go under",
+   "pos": "구동사",
+   "ko": "도산하다, 파산하다",
+   "ipa": "/ˌɡoʊ ˈʌndɚ/",
+   "ex_en": "Dozens of small restaurants went under when the pandemic dragged on for months.",
+   "ex_ko": "팬데믹이 몇 달간 지속되자 수십 개의 작은 식당들이 도산했다.",
+   "syn": [
+    "go bankrupt",
+    "fold"
+   ]
+  },
+  {
+   "word": "across the board",
+   "pos": "숙어",
+   "ko": "전면적으로, 일괄적으로",
+   "ipa": "/əˌkrɔs ðə ˈbɔrd/",
+   "ex_en": "The struggling automaker announced pay cuts across the board, from executives to assembly workers.",
+   "ex_ko": "경영난에 처한 그 자동차 회사는 임원부터 조립 노동자까지 전면적인 임금 삭감을 발표했다.",
+   "syn": [
+    "universally",
+    "comprehensively"
+   ]
+  },
+  {
+   "word": "expound",
+   "pos": "동사",
+   "ko": "상세히 설명하다, 자세히 논하다",
+   "ipa": "/ɪkˈspaʊnd/",
+   "ex_en": "The professor expounded on his theory of language acquisition during the seminar.",
+   "ex_ko": "그 교수는 세미나에서 자신의 언어 습득 이론을 상세히 설명했다.",
+   "syn": [
+    "elaborate",
+    "explicate"
+   ]
+  },
+  {
+   "word": "postulate",
+   "pos": "동사",
+   "ko": "(사실로) 상정하다, 가정하다",
+   "ipa": "/ˈpɑːstʃəˌleɪt/",
+   "ex_en": "Researchers postulate that early exposure to reading enhances cognitive development in children.",
+   "ex_ko": "연구자들은 이른 독서 노출이 아동의 인지 발달을 향상시킨다고 상정한다.",
+   "syn": [
+    "hypothesize",
+    "posit",
+    "assume"
+   ]
+  },
+  {
+   "word": "delineate",
+   "pos": "동사",
+   "ko": "상세히 기술하다; 경계를 명확히 하다",
+   "ipa": "/dɪˈlɪniˌeɪt/",
+   "ex_en": "The dissertation clearly delineates the boundaries between applied linguistics and psychology.",
+   "ex_ko": "그 박사 논문은 응용언어학과 심리학 사이의 경계를 명확히 기술한다.",
+   "syn": [
+    "outline",
+    "describe",
+    "depict"
+   ]
+  },
+  {
+   "word": "substantiate",
+   "pos": "동사",
+   "ko": "(증거로) 입증하다, 실증하다",
+   "ipa": "/səbˈstænʃiˌeɪt/",
+   "ex_en": "The scholar failed to substantiate her claims with sufficient experimental evidence.",
+   "ex_ko": "그 학자는 자신의 주장을 충분한 실험적 증거로 입증하지 못했다.",
+   "syn": [
+    "verify",
+    "validate",
+    "confirm"
+   ]
+  },
+  {
+   "word": "scrutinize",
+   "pos": "동사",
+   "ko": "면밀히 조사하다, 세심히 살피다",
+   "ipa": "/ˈskruːtənˌaɪz/",
+   "ex_en": "Peer reviewers scrutinize every manuscript before it is accepted for publication.",
+   "ex_ko": "동료 심사자들은 게재가 승인되기 전에 모든 원고를 면밀히 검토한다.",
+   "syn": [
+    "examine",
+    "inspect"
+   ]
+  },
+  {
+   "word": "synthesize",
+   "pos": "동사",
+   "ko": "(정보·연구를) 종합하다; 합성하다",
+   "ipa": "/ˈsɪnθəˌsaɪz/",
+   "ex_en": "A good literature review synthesizes findings from dozens of previous studies.",
+   "ex_ko": "좋은 문헌 검토는 수십 편의 선행 연구 결과를 종합한다.",
+   "syn": [
+    "integrate",
+    "combine"
+   ]
+  },
+  {
+   "word": "inculcate",
+   "pos": "동사",
+   "ko": "(사상·습관을) 주입하다, 심어 주다",
+   "ipa": "/ɪnˈkʌlˌkeɪt/",
+   "ex_en": "The academy strives to inculcate critical thinking habits in its students.",
+   "ex_ko": "그 학교는 학생들에게 비판적 사고 습관을 심어 주려고 노력한다.",
+   "syn": [
+    "instill",
+    "implant"
+   ]
+  },
+  {
+   "word": "plagiarize",
+   "pos": "동사",
+   "ko": "표절하다",
+   "ipa": "/ˈpleɪdʒəˌraɪz/",
+   "ex_en": "The student was expelled after he plagiarized large portions of his thesis.",
+   "ex_ko": "그 학생은 졸업 논문의 상당 부분을 표절한 후 퇴학당했다.",
+   "syn": [
+    "copy",
+    "pirate"
+   ]
+  },
+  {
+   "word": "peruse",
+   "pos": "동사",
+   "ko": "정독하다, 꼼꼼히 읽다",
+   "ipa": "/pəˈruːz/",
+   "ex_en": "She perused the journal article carefully before citing it in her paper.",
+   "ex_ko": "그녀는 자신의 논문에 인용하기 전에 그 학술지 논문을 꼼꼼히 정독했다.",
+   "syn": [
+    "study",
+    "examine"
+   ]
+  },
+  {
+   "word": "glean",
+   "pos": "동사",
+   "ko": "(정보를) 조금씩 수집하다, 얻어 내다",
+   "ipa": "/ˈɡliːn/",
+   "ex_en": "Historians glean valuable insights from letters, diaries, and other primary sources.",
+   "ex_ko": "역사가들은 편지, 일기 및 기타 1차 사료에서 귀중한 통찰을 얻어 낸다.",
+   "syn": [
+    "gather",
+    "extract"
+   ]
+  },
+  {
+   "word": "refute",
+   "pos": "동사",
+   "ko": "반박하다, 논박하다",
+   "ipa": "/rɪˈfjuːt/",
+   "ex_en": "New archaeological evidence refutes the long-held theory about the site's origin.",
+   "ex_ko": "새로운 고고학적 증거는 그 유적의 기원에 대한 오랜 이론을 반박한다.",
+   "syn": [
+    "rebut",
+    "disprove"
+   ]
+  },
+  {
+   "word": "debunk",
+   "pos": "동사",
+   "ko": "(잘못된 통념·주장의) 오류를 밝히다",
+   "ipa": "/ˌdiːˈbʌŋk/",
+   "ex_en": "The linguist's research debunked the myth that bilingualism confuses young children.",
+   "ex_ko": "그 언어학자의 연구는 이중 언어 사용이 어린아이를 혼란스럽게 한다는 통념을 논파했다.",
+   "syn": [
+    "discredit",
+    "disprove"
+   ]
+  },
+  {
+   "word": "espouse",
+   "pos": "동사",
+   "ko": "(사상·주의를) 지지하다, 신봉하다",
+   "ipa": "/ɪˈspaʊz/",
+   "ex_en": "Many educators now espouse a student-centered approach to classroom instruction.",
+   "ex_ko": "많은 교육자들이 이제 학생 중심의 수업 방식을 지지한다.",
+   "syn": [
+    "advocate",
+    "embrace"
+   ]
+  },
+  {
+   "word": "juxtapose",
+   "pos": "동사",
+   "ko": "나란히 놓다, 병치하다",
+   "ipa": "/ˈdʒʌkstəˌpoʊz/",
+   "ex_en": "The lecture juxtaposed medieval teaching methods with modern classroom practices for comparison.",
+   "ex_ko": "그 강의는 비교를 위해 중세의 교수법과 현대의 교실 관행을 병치했다.",
+   "syn": [
+    "compare"
+   ]
+  },
+  {
+   "word": "matriculate",
+   "pos": "동사",
+   "ko": "대학에 입학(등록)하다",
+   "ipa": "/məˈtrɪkjəˌleɪt/",
+   "ex_en": "Over three thousand freshmen matriculated at the university this fall semester.",
+   "ex_ko": "올가을 학기에 3천 명이 넘는 신입생이 그 대학에 입학했다.",
+   "syn": [
+    "enroll",
+    "register"
+   ]
+  },
+  {
+   "word": "assimilate",
+   "pos": "동사",
+   "ko": "(지식을) 소화하다, 흡수하다; 동화되다",
+   "ipa": "/əˈsɪməˌleɪt/",
+   "ex_en": "Students need adequate time to assimilate complex concepts introduced in lectures.",
+   "ex_ko": "학생들은 강의에서 소개된 복잡한 개념을 소화할 충분한 시간이 필요하다.",
+   "syn": [
+    "absorb",
+    "digest"
+   ]
+  },
+  {
+   "word": "pedagogy",
+   "pos": "명사",
+   "ko": "교육학, 교수법",
+   "ipa": "/ˈpɛdəˌɡoʊdʒi/",
+   "ex_en": "Her innovative pedagogy transformed how the department teaches introductory science courses.",
+   "ex_ko": "그녀의 혁신적인 교수법은 학과가 과학 입문 과목을 가르치는 방식을 바꾸어 놓았다.",
+   "syn": [
+    "instruction",
+    "teaching"
+   ]
+  },
+  {
+   "word": "treatise",
+   "pos": "명사",
+   "ko": "(학술) 논문, 논고",
+   "ipa": "/ˈtriːtɪs/",
+   "ex_en": "The philosopher's lengthy treatise on education is still widely read today.",
+   "ex_ko": "교육에 관한 그 철학자의 방대한 논고는 오늘날에도 널리 읽힌다.",
+   "syn": [
+    "dissertation",
+    "monograph"
+   ]
+  },
+  {
+   "word": "vernacular",
+   "pos": "명사",
+   "ko": "일상어, 지방 고유어",
+   "ipa": "/vɚˈnækjəlɚ/",
+   "ex_en": "The novel was written in the vernacular rather than in formal literary language.",
+   "ex_ko": "그 소설은 격식 있는 문어체가 아니라 일상어로 쓰였다.",
+   "syn": [
+    "dialect",
+    "idiom"
+   ]
+  },
+  {
+   "word": "lexicon",
+   "pos": "명사",
+   "ko": "어휘 (체계), 사전",
+   "ipa": "/ˈlɛksəˌkɑːn/",
+   "ex_en": "Technological change constantly adds new terms to the English lexicon.",
+   "ex_ko": "기술 변화는 끊임없이 영어 어휘에 새로운 용어를 추가한다.",
+   "syn": [
+    "vocabulary",
+    "glossary"
+   ]
+  },
+  {
+   "word": "etymology",
+   "pos": "명사",
+   "ko": "어원; 어원학",
+   "ipa": "/ˌɛtəˈmɑːlədʒi/",
+   "ex_en": "The dictionary traces the etymology of each word back to its Latin roots.",
+   "ex_ko": "그 사전은 각 단어의 어원을 라틴어 어근까지 거슬러 추적한다.",
+   "syn": [
+    "derivation",
+    "origin"
+   ]
+  },
+  {
+   "word": "rhetoric",
+   "pos": "명사",
+   "ko": "수사학; 미사여구",
+   "ipa": "/ˈrɛtɚɪk/",
+   "ex_en": "Classical rhetoric remains a required subject for students of law and politics.",
+   "ex_ko": "고전 수사학은 법학과 정치학 전공 학생들의 필수 과목으로 남아 있다.",
+   "syn": [
+    "oratory",
+    "eloquence"
+   ]
+  },
+  {
+   "word": "sabbatical",
+   "pos": "명사",
+   "ko": "(교수의) 안식년, 연구 휴가",
+   "ipa": "/səˈbætɪkəl/",
+   "ex_en": "The professor spent her sabbatical conducting field research in rural Mongolia.",
+   "ex_ko": "그 교수는 안식년을 몽골 시골 지역에서 현장 연구를 하며 보냈다.",
+   "syn": [
+    "leave"
+   ]
+  },
+  {
+   "word": "tenure",
+   "pos": "명사",
+   "ko": "(교수) 종신 재직권; 재임 기간",
+   "ipa": "/ˈtɛnjɚ/",
+   "ex_en": "After publishing two acclaimed books, she was finally granted tenure at Harvard.",
+   "ex_ko": "호평받은 저서 두 권을 출간한 후 그녀는 마침내 하버드에서 종신 재직권을 받았다.",
+   "syn": [
+    "permanence"
+   ]
+  },
+  {
+   "word": "caveat",
+   "pos": "명사",
+   "ko": "단서, 주의 사항",
+   "ipa": "/ˈkæviˌɑːt/",
+   "ex_en": "The researchers added a caveat that their sample size was relatively small.",
+   "ex_ko": "연구자들은 표본 크기가 비교적 작았다는 단서를 덧붙였다.",
+   "syn": [
+    "proviso",
+    "qualification"
+   ]
+  },
+  {
+   "word": "connotation",
+   "pos": "명사",
+   "ko": "함축(된 의미), 언외의 뜻",
+   "ipa": "/ˌkɑːnəˈteɪʃən/",
+   "ex_en": "The word carries a negative connotation that its dictionary definition fails to capture.",
+   "ex_ko": "그 단어는 사전적 정의로는 담아내지 못하는 부정적 함축을 지닌다.",
+   "syn": [
+    "implication",
+    "undertone"
+   ]
+  },
+  {
+   "word": "aptitude",
+   "pos": "명사",
+   "ko": "적성, 소질",
+   "ipa": "/ˈæptəˌtuːd/",
+   "ex_en": "The entrance exam measures each applicant's aptitude for abstract mathematical reasoning.",
+   "ex_ko": "그 입학시험은 각 지원자의 추상적 수학 추론 적성을 측정한다.",
+   "syn": [
+    "talent",
+    "flair"
+   ]
+  },
+  {
+   "word": "stipend",
+   "pos": "명사",
+   "ko": "(연구) 장학금, 수당",
+   "ipa": "/ˈstaɪpɛnd/",
+   "ex_en": "Graduate students receive a modest stipend in exchange for their teaching duties.",
+   "ex_ko": "대학원생들은 강의 업무의 대가로 소정의 장학금을 받는다.",
+   "syn": [
+    "allowance",
+    "grant"
+   ]
+  },
+  {
+   "word": "rote",
+   "pos": "명사",
+   "ko": "기계적 암기",
+   "ipa": "/ˈroʊt/",
+   "ex_en": "Critics argue that learning by rote discourages genuine understanding of concepts.",
+   "ex_ko": "비평가들은 기계적 암기 학습이 개념에 대한 진정한 이해를 저해한다고 주장한다.",
+   "syn": [
+    "memorization"
+   ]
+  },
+  {
+   "word": "erudite",
+   "pos": "형용사",
+   "ko": "박식한, 학식 있는",
+   "ipa": "/ˈɛrəˌdaɪt/",
+   "ex_en": "The erudite lecturer quoted effortlessly from philosophy, history, and classical literature.",
+   "ex_ko": "그 박식한 강연자는 철학, 역사, 고전 문학을 막힘없이 인용했다.",
+   "syn": [
+    "learned",
+    "scholarly"
+   ]
+  },
+  {
+   "word": "pedantic",
+   "pos": "형용사",
+   "ko": "현학적인, 지나치게 세세히 따지는",
+   "ipa": "/pəˈdæntɪk/",
+   "ex_en": "His pedantic insistence on obscure grammar rules made the seminar tedious.",
+   "ex_ko": "잘 알려지지 않은 문법 규칙에 대한 그의 현학적인 고집은 세미나를 지루하게 만들었다.",
+   "syn": [
+    "bookish",
+    "nitpicking"
+   ]
+  },
+  {
+   "word": "didactic",
+   "pos": "형용사",
+   "ko": "교훈적인; 가르치려 드는",
+   "ipa": "/daɪˈdæktɪk/",
+   "ex_en": "The fable's didactic tone makes its moral lesson unmistakably clear to readers.",
+   "ex_ko": "그 우화의 교훈적인 어조는 독자에게 도덕적 교훈을 분명하게 전달한다.",
+   "syn": [
+    "instructive",
+    "moralizing"
+   ]
+  },
+  {
+   "word": "empirical",
+   "pos": "형용사",
+   "ko": "경험적인, 실증적인",
+   "ipa": "/ɪmˈpɪrɪkəl/",
+   "ex_en": "The theory lacks empirical support despite its popularity among social scientists.",
+   "ex_ko": "그 이론은 사회과학자들 사이에서 인기가 있음에도 실증적 근거가 부족하다.",
+   "syn": [
+    "observational",
+    "experimental"
+   ]
+  },
+  {
+   "word": "cogent",
+   "pos": "형용사",
+   "ko": "설득력 있는, 조리 있는",
+   "ipa": "/ˈkoʊdʒənt/",
+   "ex_en": "She presented a cogent argument for reforming the national standardized testing system.",
+   "ex_ko": "그녀는 국가 표준화 시험 제도 개혁에 대한 설득력 있는 논거를 제시했다.",
+   "syn": [
+    "compelling",
+    "convincing"
+   ]
+  },
+  {
+   "word": "seminal",
+   "pos": "형용사",
+   "ko": "(후대에) 중대한 영향을 미친, 획기적인",
+   "ipa": "/ˈsɛmənəl/",
+   "ex_en": "Chomsky's seminal work on syntax revolutionized the entire field of linguistics.",
+   "ex_ko": "촘스키의 통사론에 관한 획기적인 연구는 언어학 분야 전체에 혁명을 일으켰다.",
+   "syn": [
+    "groundbreaking",
+    "influential"
+   ]
+  },
+  {
+   "word": "esoteric",
+   "pos": "형용사",
+   "ko": "난해한, 소수만 이해하는",
+   "ipa": "/ˌɛsəˈtɛrɪk/",
+   "ex_en": "The journal publishes esoteric research accessible only to specialists in the field.",
+   "ex_ko": "그 학술지는 해당 분야 전문가들만 이해할 수 있는 난해한 연구를 게재한다.",
+   "syn": [
+    "obscure",
+    "recondite"
+   ]
+  },
+  {
+   "word": "cursory",
+   "pos": "형용사",
+   "ko": "대충 하는, 피상적인",
+   "ipa": "/ˈkɝsəri/",
+   "ex_en": "Even a cursory reading of the report reveals serious flaws in its methodology.",
+   "ex_ko": "그 보고서를 대충 훑어보기만 해도 방법론상의 심각한 결함이 드러난다.",
+   "syn": [
+    "superficial",
+    "hasty"
+   ]
+  },
+  {
+   "word": "succinct",
+   "pos": "형용사",
+   "ko": "간결한",
+   "ipa": "/səkˈsɪŋkt/",
+   "ex_en": "The abstract provides a succinct summary of the study's methods and findings.",
+   "ex_ko": "초록은 연구의 방법과 결과를 간결하게 요약해 준다.",
+   "syn": [
+    "concise",
+    "terse"
+   ]
+  },
+  {
+   "word": "anecdotal",
+   "pos": "형용사",
+   "ko": "일화적인, (과학적으로) 입증되지 않은",
+   "ipa": "/ˌænɪkˈdoʊtəl/",
+   "ex_en": "Anecdotal evidence suggests the tutoring program works, but rigorous studies are needed.",
+   "ex_ko": "일화적 증거는 그 개인 지도 프로그램이 효과가 있음을 시사하지만, 엄밀한 연구가 필요하다.",
+   "syn": [
+    "unverified"
+   ]
+  },
+  {
+   "word": "perfunctory",
+   "pos": "형용사",
+   "ko": "형식적인, 건성으로 하는",
+   "ipa": "/pɚˈfʌŋktəri/",
+   "ex_en": "The committee gave the proposal only a perfunctory review before rejecting it.",
+   "ex_ko": "위원회는 그 제안서를 형식적으로만 검토한 뒤 기각했다.",
+   "syn": [
+    "mechanical",
+    "halfhearted"
+   ]
+  },
+  {
+   "word": "voracious",
+   "pos": "형용사",
+   "ko": "(독서욕 등이) 왕성한; 게걸스러운",
+   "ipa": "/vəˈreɪʃəs/",
+   "ex_en": "A voracious reader since childhood, she devoured every book in the library.",
+   "ex_ko": "어릴 때부터 독서광이었던 그녀는 도서관의 모든 책을 탐독했다.",
+   "syn": [
+    "insatiable",
+    "avid"
+   ]
+  },
+  {
+   "word": "verbose",
+   "pos": "형용사",
+   "ko": "장황한, 말이 많은",
+   "ipa": "/vɚˈboʊs/",
+   "ex_en": "The editor trimmed the verbose introduction down to two concise paragraphs.",
+   "ex_ko": "편집자는 장황한 서론을 간결한 두 단락으로 줄였다.",
+   "syn": [
+    "wordy",
+    "long-winded"
+   ]
+  },
+  {
+   "word": "verbatim",
+   "pos": "부사",
+   "ko": "말 그대로, 한 글자도 틀리지 않게",
+   "ipa": "/vɚˈbeɪtəm/",
+   "ex_en": "The stenographer transcribed the entire lecture verbatim for the university archives.",
+   "ex_ko": "속기사는 대학 기록 보관소를 위해 강의 전체를 한 마디도 빠뜨리지 않고 그대로 받아 적었다.",
+   "syn": [
+    "word-for-word"
+   ]
+  },
+  {
+   "word": "tacitly",
+   "pos": "부사",
+   "ko": "암묵적으로",
+   "ipa": "/ˈtæsətli/",
+   "ex_en": "By remaining silent, the faculty tacitly approved the controversial curriculum changes.",
+   "ex_ko": "침묵을 지킴으로써 교수진은 논란이 된 교육과정 개편을 암묵적으로 승인했다.",
+   "syn": [
+    "implicitly"
+   ]
+  },
+  {
+   "word": "painstakingly",
+   "pos": "부사",
+   "ko": "공들여, 심혈을 기울여",
+   "ipa": "/ˈpeɪnzˌteɪkɪŋli/",
+   "ex_en": "The archaeologists painstakingly catalogued thousands of fragments unearthed at the site.",
+   "ex_ko": "고고학자들은 그 유적지에서 출토된 수천 개의 파편을 공들여 목록화했다.",
+   "syn": [
+    "meticulously",
+    "laboriously"
+   ]
+  },
+  {
+   "word": "pore over",
+   "pos": "구동사",
+   "ko": "자세히 살피다, 정독하다",
+   "ipa": "/pɔːr ˈoʊvɚ/",
+   "ex_en": "She pored over ancient manuscripts in the archive for weeks before her discovery.",
+   "ex_ko": "그녀는 발견에 앞서 몇 주 동안 기록 보관소에서 고문서를 자세히 살펴보았다.",
+   "syn": [
+    "scrutinize",
+    "study"
+   ]
+  },
+  {
+   "word": "brush up on",
+   "pos": "구동사",
+   "ko": "(실력을) 다시 갈고닦다, 복습하다",
+   "ipa": "/brʌʃ ˈʌp ɑːn/",
+   "ex_en": "I need to brush up on my French before attending the conference in Paris.",
+   "ex_ko": "파리에서 열리는 학회에 참석하기 전에 프랑스어 실력을 다시 다듬어야 한다.",
+   "syn": [
+    "review",
+    "refresh"
+   ]
+  },
+  {
+   "word": "flesh out",
+   "pos": "구동사",
+   "ko": "(계획·개요를) 구체화하다, 살을 붙이다",
+   "ipa": "/flɛʃ ˈaʊt/",
+   "ex_en": "The advisor asked her to flesh out the outline into a full research proposal.",
+   "ex_ko": "지도교수는 그녀에게 개요를 완전한 연구 계획서로 구체화하라고 요청했다.",
+   "syn": [
+    "elaborate",
+    "develop"
+   ]
+  },
+  {
+   "word": "burn the midnight oil",
+   "pos": "숙어",
+   "ko": "밤늦게까지 공부하다(일하다)",
+   "ipa": "/bɝn ðə ˈmɪdˌnaɪt ˈɔɪl/",
+   "ex_en": "Students burned the midnight oil all week preparing for their final examinations.",
+   "ex_ko": "학생들은 기말시험을 준비하느라 일주일 내내 밤늦게까지 공부했다.",
+   "syn": [
+    "cram"
+   ]
+  },
+  {
+   "word": "prognosis",
+   "pos": "명사",
+   "ko": "(병의) 예후, 예측",
+   "ipa": "/prɑɡˈnoʊsɪs/",
+   "ex_en": "The doctor gave a favorable prognosis after reviewing the patient's latest test results.",
+   "ex_ko": "의사는 환자의 최근 검사 결과를 검토한 후 좋은 예후를 제시했다.",
+   "syn": [
+    "outlook",
+    "forecast"
+   ]
+  },
+  {
+   "word": "remission",
+   "pos": "명사",
+   "ko": "(병세의) 차도, 완화",
+   "ipa": "/rɪˈmɪʃən/",
+   "ex_en": "Her cancer has been in remission for five years since the intensive treatment ended.",
+   "ex_ko": "집중 치료가 끝난 이후 그녀의 암은 5년째 차도를 보이고 있다.",
+   "syn": [
+    "abatement"
+   ]
+  },
+  {
+   "word": "relapse",
+   "pos": "명사",
+   "ko": "(병의) 재발",
+   "ipa": "/ˈriˌlæps/",
+   "ex_en": "Patients who stop taking medication too early often suffer a relapse within months.",
+   "ex_ko": "약 복용을 너무 일찍 중단한 환자들은 흔히 몇 달 안에 재발을 겪는다.",
+   "syn": [
+    "recurrence",
+    "setback"
+   ]
+  },
+  {
+   "word": "contagion",
+   "pos": "명사",
+   "ko": "전염(병); (감정 등의) 전파",
+   "ipa": "/kənˈteɪdʒən/",
+   "ex_en": "Strict hygiene protocols were enforced in hospitals to prevent the contagion from spreading further.",
+   "ex_ko": "전염병이 더 퍼지는 것을 막기 위해 병원에서는 엄격한 위생 수칙이 시행되었다.",
+   "syn": [
+    "infection",
+    "epidemic"
+   ]
+  },
+  {
+   "word": "ailment",
+   "pos": "명사",
+   "ko": "(가벼운) 질환, 병",
+   "ipa": "/ˈeɪlmənt/",
+   "ex_en": "Many elderly people rely on herbal remedies to treat minor ailments like indigestion.",
+   "ex_ko": "많은 노인들이 소화불량 같은 가벼운 질환을 치료하기 위해 약초 요법에 의존한다.",
+   "syn": [
+    "illness",
+    "malady",
+    "disorder"
+   ]
+  },
+  {
+   "word": "placebo",
+   "pos": "명사",
+   "ko": "위약, 가짜 약",
+   "ipa": "/pləˈsiboʊ/",
+   "ex_en": "Half the participants received a placebo instead of the actual drug during the clinical trial.",
+   "ex_ko": "임상 시험에서 참가자 절반은 실제 약 대신 위약을 받았다."
+  },
+  {
+   "word": "sedative",
+   "pos": "명사",
+   "ko": "진정제",
+   "ipa": "/ˈsɛdətɪv/",
+   "ex_en": "The nurse administered a mild sedative to calm the patient before the operation.",
+   "ex_ko": "간호사는 수술 전에 환자를 진정시키기 위해 약한 진정제를 투여했다.",
+   "syn": [
+    "tranquilizer"
+   ]
+  },
+  {
+   "word": "antidote",
+   "pos": "명사",
+   "ko": "해독제; 해결책",
+   "ipa": "/ˈæntiˌdoʊt/",
+   "ex_en": "Doctors injected the antidote immediately after identifying the type of snake venom involved.",
+   "ex_ko": "의사들은 뱀독의 종류를 확인한 직후 해독제를 주사했다.",
+   "syn": [
+    "remedy",
+    "antitoxin"
+   ]
+  },
+  {
+   "word": "onset",
+   "pos": "명사",
+   "ko": "(질병 등의) 발병, 시작",
+   "ipa": "/ˈɑnˌsɛt/",
+   "ex_en": "Early detection of symptoms can delay the onset of degenerative diseases like Alzheimer's.",
+   "ex_ko": "증상의 조기 발견은 알츠하이머 같은 퇴행성 질환의 발병을 늦출 수 있다.",
+   "syn": [
+    "outbreak",
+    "beginning"
+   ]
+  },
+  {
+   "word": "atrophy",
+   "pos": "명사",
+   "ko": "(근육 등의) 위축; 쇠퇴",
+   "ipa": "/ˈætrəfi/",
+   "ex_en": "Prolonged bed rest can cause muscle atrophy in patients recovering from major surgery.",
+   "ex_ko": "장기간의 침상 안정은 큰 수술에서 회복 중인 환자에게 근육 위축을 일으킬 수 있다.",
+   "syn": [
+    "degeneration",
+    "wasting"
+   ]
+  },
+  {
+   "word": "satiety",
+   "pos": "명사",
+   "ko": "포만감",
+   "ipa": "/səˈtaɪəti/",
+   "ex_en": "Foods rich in protein and fiber promote satiety and help prevent overeating.",
+   "ex_ko": "단백질과 섬유질이 풍부한 음식은 포만감을 촉진하여 과식을 막는 데 도움이 된다.",
+   "syn": [
+    "fullness",
+    "satiation"
+   ]
+  },
+  {
+   "word": "apathy",
+   "pos": "명사",
+   "ko": "무관심, 무기력",
+   "ipa": "/ˈæpəθi/",
+   "ex_en": "Chronic stress at work can lead to apathy and a loss of motivation.",
+   "ex_ko": "직장에서의 만성 스트레스는 무기력과 의욕 상실로 이어질 수 있다.",
+   "syn": [
+    "indifference",
+    "lethargy"
+   ]
+  },
+  {
+   "word": "delusion",
+   "pos": "명사",
+   "ko": "망상; 착각",
+   "ipa": "/dɪˈluʒən/",
+   "ex_en": "The patient suffered from the delusion that strangers were constantly monitoring his every move.",
+   "ex_ko": "그 환자는 낯선 사람들이 자신의 일거수일투족을 감시하고 있다는 망상에 시달렸다.",
+   "syn": [
+    "misconception",
+    "fallacy"
+   ]
+  },
+  {
+   "word": "resilience",
+   "pos": "명사",
+   "ko": "회복력, 복원력",
+   "ipa": "/rɪˈzɪljəns/",
+   "ex_en": "Psychologists emphasize that emotional resilience can be strengthened through supportive relationships and practice.",
+   "ex_ko": "심리학자들은 정서적 회복력이 지지적인 관계와 훈련을 통해 강화될 수 있다고 강조한다.",
+   "syn": [
+    "hardiness",
+    "toughness"
+   ]
+  },
+  {
+   "word": "stigma",
+   "pos": "명사",
+   "ko": "낙인, 오명",
+   "ipa": "/ˈstɪɡmə/",
+   "ex_en": "The social stigma surrounding mental illness discourages many people from seeking professional help.",
+   "ex_ko": "정신 질환을 둘러싼 사회적 낙인은 많은 사람들이 전문가의 도움을 구하는 것을 꺼리게 만든다.",
+   "syn": [
+    "disgrace",
+    "shame"
+   ]
+  },
+  {
+   "word": "convalesce",
+   "pos": "동사",
+   "ko": "요양하다, 회복하다",
+   "ipa": "/ˌkɑnvəˈlɛs/",
+   "ex_en": "After the operation, she went to the countryside to convalesce for several weeks.",
+   "ex_ko": "수술 후 그녀는 몇 주간 요양하기 위해 시골로 갔다.",
+   "syn": [
+    "recuperate",
+    "recover"
+   ]
+  },
+  {
+   "word": "resuscitate",
+   "pos": "동사",
+   "ko": "소생시키다, 되살리다",
+   "ipa": "/rɪˈsʌsɪˌteɪt/",
+   "ex_en": "Paramedics managed to resuscitate the drowning victim after several minutes of CPR.",
+   "ex_ko": "구급대원들은 몇 분간의 심폐소생술 끝에 익수 환자를 소생시키는 데 성공했다.",
+   "syn": [
+    "revive"
+   ]
+  },
+  {
+   "word": "inoculate",
+   "pos": "동사",
+   "ko": "예방접종하다",
+   "ipa": "/ɪˈnɑkjəˌleɪt/",
+   "ex_en": "Health authorities launched a campaign to inoculate children against measles before the school year.",
+   "ex_ko": "보건 당국은 학기 시작 전에 아이들에게 홍역 예방접종을 하기 위한 캠페인을 시작했다.",
+   "syn": [
+    "vaccinate",
+    "immunize"
+   ]
+  },
+  {
+   "word": "administer",
+   "pos": "동사",
+   "ko": "(약을) 투여하다; 관리하다",
+   "ipa": "/ədˈmɪnɪstɚ/",
+   "ex_en": "Only trained medical staff are authorized to administer this medication intravenously.",
+   "ex_ko": "훈련받은 의료진만이 이 약물을 정맥으로 투여할 권한이 있다.",
+   "syn": [
+    "dispense",
+    "give"
+   ]
+  },
+  {
+   "word": "alleviate",
+   "pos": "동사",
+   "ko": "(고통 등을) 완화하다, 덜다",
+   "ipa": "/əˈliviˌeɪt/",
+   "ex_en": "The new painkiller was developed to alleviate chronic back pain without causing drowsiness.",
+   "ex_ko": "그 새 진통제는 졸음을 유발하지 않으면서 만성 요통을 완화하기 위해 개발되었다.",
+   "syn": [
+    "relieve",
+    "ease",
+    "soothe"
+   ]
+  },
+  {
+   "word": "aggravate",
+   "pos": "동사",
+   "ko": "악화시키다; 짜증나게 하다",
+   "ipa": "/ˈæɡrəˌveɪt/",
+   "ex_en": "Skipping meals and sleeping poorly can aggravate existing digestive problems considerably.",
+   "ex_ko": "식사를 거르고 잠을 잘 못 자면 기존의 소화 문제가 상당히 악화될 수 있다.",
+   "syn": [
+    "worsen",
+    "compound"
+   ]
+  },
+  {
+   "word": "succumb",
+   "pos": "동사",
+   "ko": "굴복하다; (병으로) 쓰러지다",
+   "ipa": "/səˈkʌm/",
+   "ex_en": "Despite months of aggressive treatment, the patient eventually succumbed to the rare infection.",
+   "ex_ko": "몇 달간의 적극적인 치료에도 불구하고 그 환자는 결국 희귀 감염으로 사망했다.",
+   "syn": [
+    "yield",
+    "give in"
+   ]
+  },
+  {
+   "word": "impair",
+   "pos": "동사",
+   "ko": "(기능을) 손상시키다, 해치다",
+   "ipa": "/ɪmˈpɛr/",
+   "ex_en": "Excessive alcohol consumption can permanently impair liver function and cognitive abilities.",
+   "ex_ko": "과도한 음주는 간 기능과 인지 능력을 영구적으로 손상시킬 수 있다.",
+   "syn": [
+    "damage",
+    "weaken",
+    "undermine"
+   ]
+  },
+  {
+   "word": "ingest",
+   "pos": "동사",
+   "ko": "섭취하다, 삼키다",
+   "ipa": "/ɪnˈdʒɛst/",
+   "ex_en": "Children who accidentally ingest household chemicals should be taken to the emergency room immediately.",
+   "ex_ko": "가정용 화학물질을 실수로 삼킨 아이는 즉시 응급실로 데려가야 한다.",
+   "syn": [
+    "consume",
+    "swallow"
+   ]
+  },
+  {
+   "word": "adulterate",
+   "pos": "동사",
+   "ko": "(음식 등에) 불순물을 섞다",
+   "ipa": "/əˈdʌltəˌreɪt/",
+   "ex_en": "The company was fined for adulterating its olive oil with cheaper vegetable oils.",
+   "ex_ko": "그 회사는 올리브유에 더 싼 식물성 기름을 섞은 혐의로 벌금을 부과받았다.",
+   "syn": [
+    "contaminate",
+    "taint"
+   ]
+  },
+  {
+   "word": "abstain",
+   "pos": "동사",
+   "ko": "삼가다, 절제하다; 기권하다",
+   "ipa": "/əbˈsteɪn/",
+   "ex_en": "His doctor advised him to abstain from caffeine and alcohol until his blood pressure stabilized.",
+   "ex_ko": "의사는 혈압이 안정될 때까지 카페인과 술을 삼가라고 그에게 조언했다.",
+   "syn": [
+    "refrain",
+    "forgo"
+   ]
+  },
+  {
+   "word": "invigorate",
+   "pos": "동사",
+   "ko": "활력을 북돋우다",
+   "ipa": "/ɪnˈvɪɡəˌreɪt/",
+   "ex_en": "A brisk morning walk can invigorate both the body and the mind.",
+   "ex_ko": "아침의 활기찬 산책은 몸과 마음 모두에 활력을 줄 수 있다.",
+   "syn": [
+    "energize",
+    "stimulate"
+   ]
+  },
+  {
+   "word": "rejuvenate",
+   "pos": "동사",
+   "ko": "활기를 되찾게 하다, 회춘시키다",
+   "ipa": "/rɪˈdʒuvəˌneɪt/",
+   "ex_en": "The spa's treatments claim to rejuvenate tired skin and restore its natural glow.",
+   "ex_ko": "그 스파의 관리는 지친 피부에 활기를 되찾아 주고 자연스러운 윤기를 회복시켜 준다고 주장한다.",
+   "syn": [
+    "revitalize",
+    "refresh"
+   ]
+  },
+  {
+   "word": "debilitating",
+   "pos": "형용사",
+   "ko": "심신을 쇠약하게 하는",
+   "ipa": "/dɪˈbɪlɪˌteɪtɪŋ/",
+   "ex_en": "Migraines can be so debilitating that sufferers are unable to work for days.",
+   "ex_ko": "편두통은 너무 심신을 쇠약하게 해서 환자들이 며칠 동안 일을 못 할 수도 있다.",
+   "syn": [
+    "crippling",
+    "incapacitating"
+   ]
+  },
+  {
+   "word": "congenital",
+   "pos": "형용사",
+   "ko": "선천적인, 타고난",
+   "ipa": "/kənˈdʒɛnɪtl̩/",
+   "ex_en": "The infant was born with a congenital heart defect requiring immediate surgery.",
+   "ex_ko": "그 아기는 즉각적인 수술이 필요한 선천성 심장 결함을 갖고 태어났다.",
+   "syn": [
+    "inborn",
+    "innate"
+   ]
+  },
+  {
+   "word": "benign",
+   "pos": "형용사",
+   "ko": "(종양이) 양성의; 온화한",
+   "ipa": "/bɪˈnaɪn/",
+   "ex_en": "The biopsy confirmed that the tumor was benign and required no further treatment.",
+   "ex_ko": "조직 검사 결과 그 종양은 양성이며 추가 치료가 필요 없는 것으로 확인되었다.",
+   "syn": [
+    "harmless",
+    "mild"
+   ]
+  },
+  {
+   "word": "malignant",
+   "pos": "형용사",
+   "ko": "(종양이) 악성의; 악의적인",
+   "ipa": "/məˈlɪɡnənt/",
+   "ex_en": "If left untreated, malignant cells can spread rapidly to other organs.",
+   "ex_ko": "치료하지 않고 방치하면 악성 세포는 다른 장기로 빠르게 퍼질 수 있다.",
+   "syn": [
+    "cancerous",
+    "deadly"
+   ]
+  },
+  {
+   "word": "dormant",
+   "pos": "형용사",
+   "ko": "잠복해 있는, 휴면기의",
+   "ipa": "/ˈdɔrmənt/",
+   "ex_en": "The virus can remain dormant in nerve cells for decades before reactivating.",
+   "ex_ko": "그 바이러스는 재활성화되기 전까지 수십 년 동안 신경 세포에 잠복해 있을 수 있다.",
+   "syn": [
+    "latent",
+    "inactive"
+   ]
+  },
+  {
+   "word": "virulent",
+   "pos": "형용사",
+   "ko": "독성이 강한, 치명적인",
+   "ipa": "/ˈvɪrjələnt/",
+   "ex_en": "A particularly virulent strain of influenza swept through the region last winter.",
+   "ex_ko": "지난겨울 특히 독성이 강한 인플루엔자 변종이 그 지역을 휩쓸었다.",
+   "syn": [
+    "deadly",
+    "lethal"
+   ]
+  },
+  {
+   "word": "susceptible",
+   "pos": "형용사",
+   "ko": "(~에) 걸리기 쉬운, 취약한",
+   "ipa": "/səˈsɛptəbl̩/",
+   "ex_en": "People with weakened immune systems are highly susceptible to opportunistic infections.",
+   "ex_ko": "면역 체계가 약화된 사람들은 기회 감염에 매우 취약하다.",
+   "syn": [
+    "vulnerable",
+    "prone"
+   ]
+  },
+  {
+   "word": "palliative",
+   "pos": "형용사",
+   "ko": "(병세·통증을) 완화하는",
+   "ipa": "/ˈpæliˌeɪtɪv/",
+   "ex_en": "Palliative care focuses on relieving pain rather than curing the underlying disease.",
+   "ex_ko": "완화 치료는 근본 질환을 치료하기보다 통증을 덜어 주는 데 초점을 맞춘다.",
+   "syn": [
+    "soothing"
+   ]
+  },
+  {
+   "word": "rancid",
+   "pos": "형용사",
+   "ko": "(기름·음식이) 산패한, 악취 나는",
+   "ipa": "/ˈrænsɪd/",
+   "ex_en": "The butter had turned rancid after being left out in the summer heat.",
+   "ex_ko": "그 버터는 여름 더위에 방치된 후 산패해 버렸다.",
+   "syn": [
+    "spoiled",
+    "sour"
+   ]
+  },
+  {
+   "word": "despondent",
+   "pos": "형용사",
+   "ko": "낙담한, 의기소침한",
+   "ipa": "/dɪˈspɑndənt/",
+   "ex_en": "He grew increasingly despondent after months of failed treatments and mounting medical bills.",
+   "ex_ko": "그는 몇 달간의 치료 실패와 늘어나는 병원비에 점점 더 낙담했다.",
+   "syn": [
+    "dejected",
+    "disheartened"
+   ]
+  },
+  {
+   "word": "lethargic",
+   "pos": "형용사",
+   "ko": "무기력한, 나른한",
+   "ipa": "/ləˈθɑrdʒɪk/",
+   "ex_en": "Patients often feel lethargic for weeks after recovering from a severe viral infection.",
+   "ex_ko": "환자들은 심한 바이러스 감염에서 회복한 후에도 몇 주 동안 무기력함을 느끼는 경우가 많다.",
+   "syn": [
+    "sluggish",
+    "listless"
+   ]
+  },
+  {
+   "word": "detrimental",
+   "pos": "형용사",
+   "ko": "해로운, 불리한",
+   "ipa": "/ˌdɛtrəˈmɛntl̩/",
+   "ex_en": "Researchers warned that prolonged screen time is detrimental to children's sleep quality.",
+   "ex_ko": "연구자들은 장시간의 화면 사용이 아이들의 수면의 질에 해롭다고 경고했다.",
+   "syn": [
+    "harmful",
+    "damaging"
+   ]
+  },
+  {
+   "word": "adversely",
+   "pos": "부사",
+   "ko": "불리하게, 부정적으로",
+   "ipa": "/ædˈvɝsli/",
+   "ex_en": "Poor air quality can adversely affect respiratory health, especially among the elderly.",
+   "ex_ko": "나쁜 대기 질은 특히 노년층의 호흡기 건강에 악영향을 미칠 수 있다.",
+   "syn": [
+    "negatively",
+    "unfavorably"
+   ]
+  },
+  {
+   "word": "markedly",
+   "pos": "부사",
+   "ko": "현저히, 눈에 띄게",
+   "ipa": "/ˈmɑrkɪdli/",
+   "ex_en": "The patient's condition improved markedly within days of starting the new antibiotic.",
+   "ex_ko": "새 항생제를 시작한 지 며칠 만에 환자의 상태가 현저하게 호전되었다.",
+   "syn": [
+    "noticeably",
+    "significantly"
+   ]
+  },
+  {
+   "word": "come down with",
+   "pos": "구동사",
+   "ko": "(병에) 걸리다",
+   "ipa": "/kʌm ˈdaʊn wɪθ/",
+   "ex_en": "I think I'm coming down with the flu, so I'd better rest today.",
+   "ex_ko": "독감에 걸리는 것 같아서 오늘은 쉬는 게 좋겠어.",
+   "syn": [
+    "catch",
+    "contract"
+   ]
+  },
+  {
+   "word": "wear off",
+   "pos": "구동사",
+   "ko": "(약효·효과가) 사라지다",
+   "ipa": "/wɛr ˈɔf/",
+   "ex_en": "The anesthetic will wear off in a few hours, so take painkillers as needed.",
+   "ex_ko": "마취는 몇 시간 후에 풀릴 테니 필요하면 진통제를 복용하세요.",
+   "syn": [
+    "fade",
+    "subside"
+   ]
+  },
+  {
+   "word": "flare up",
+   "pos": "구동사",
+   "ko": "(병·증상이) 재발하다, 도지다",
+   "ipa": "/flɛr ˈʌp/",
+   "ex_en": "His arthritis tends to flare up whenever the weather turns cold and damp.",
+   "ex_ko": "그의 관절염은 날씨가 춥고 습해질 때마다 도지는 경향이 있다.",
+   "syn": [
+    "recur",
+    "worsen"
+   ]
+  },
+  {
+   "word": "on the mend",
+   "pos": "숙어",
+   "ko": "(병·부상에서) 회복 중인",
+   "ipa": "/ɑn ðə ˈmɛnd/",
+   "ex_en": "After a week of rest and antibiotics, she is finally on the mend.",
+   "ex_ko": "일주일간의 휴식과 항생제 치료 끝에 그녀는 마침내 회복 중이다.",
+   "syn": [
+    "recovering",
+    "improving"
+   ]
+  },
+  {
+   "word": "under the weather",
+   "pos": "숙어",
+   "ko": "몸이 안 좋은, 컨디션이 나쁜",
+   "ipa": "/ˈʌndɚ ðə ˈwɛðɚ/",
+   "ex_en": "He skipped the meeting because he was feeling a bit under the weather.",
+   "ex_ko": "그는 몸이 좀 안 좋아서 회의에 불참했다.",
+   "syn": [
+    "unwell",
+    "sick"
+   ]
+  },
+  {
+   "word": "hegemony",
+   "pos": "명사",
+   "ko": "패권, 주도권",
+   "ipa": "/hɪˈdʒɛməni/",
+   "ex_en": "The summit addressed growing concerns about one nation's economic hegemony over the region.",
+   "ex_ko": "정상회담은 한 국가의 역내 경제 패권에 대한 커지는 우려를 다루었다.",
+   "syn": [
+    "dominance",
+    "supremacy"
+   ]
+  },
+  {
+   "word": "suffrage",
+   "pos": "명사",
+   "ko": "참정권, 선거권",
+   "ipa": "/ˈsʌfrɪdʒ/",
+   "ex_en": "The movement fought for decades before women finally won suffrage in 1920.",
+   "ex_ko": "그 운동은 1920년 여성이 마침내 참정권을 얻기까지 수십 년간 투쟁했다.",
+   "syn": [
+    "franchise"
+   ]
+  },
+  {
+   "word": "clemency",
+   "pos": "명사",
+   "ko": "관용; 감형",
+   "ipa": "/ˈklɛmənsi/",
+   "ex_en": "The governor granted clemency to the prisoner after new evidence emerged.",
+   "ex_ko": "새로운 증거가 나오자 주지사는 그 수감자에게 감형을 허가했다.",
+   "syn": [
+    "mercy",
+    "leniency"
+   ]
+  },
+  {
+   "word": "impunity",
+   "pos": "명사",
+   "ko": "처벌받지 않음, 면책",
+   "ipa": "/ɪmˈpjunəti/",
+   "ex_en": "Corrupt officials acted with impunity because prosecutors rarely pursued high-profile cases.",
+   "ex_ko": "검찰이 유명 사건을 좀처럼 기소하지 않아 부패 관리들은 처벌받지 않고 행동했다.",
+   "syn": [
+    "exemption"
+   ]
+  },
+  {
+   "word": "recidivism",
+   "pos": "명사",
+   "ko": "재범, 상습적 범행",
+   "ipa": "/rɪˈsɪdəˌvɪzəm/",
+   "ex_en": "Job training programs in prisons have significantly reduced recidivism among young offenders.",
+   "ex_ko": "교도소 내 직업 훈련 프로그램은 젊은 범죄자들의 재범을 크게 줄였다.",
+   "syn": [
+    "reoffending"
+   ]
+  },
+  {
+   "word": "nepotism",
+   "pos": "명사",
+   "ko": "족벌주의, 친족 등용",
+   "ipa": "/ˈnɛpəˌtɪzəm/",
+   "ex_en": "The CEO faced accusations of nepotism after appointing his son as vice president.",
+   "ex_ko": "그 CEO는 아들을 부사장으로 임명한 뒤 족벌주의라는 비난에 직면했다.",
+   "syn": [
+    "favoritism",
+    "cronyism"
+   ]
+  },
+  {
+   "word": "malfeasance",
+   "pos": "명사",
+   "ko": "(공직자의) 부정행위, 배임",
+   "ipa": "/ˌmælˈfizəns/",
+   "ex_en": "The audit uncovered widespread malfeasance among senior officials in the ministry.",
+   "ex_ko": "감사 결과 그 부처 고위 관리들 사이의 광범위한 부정행위가 드러났다.",
+   "syn": [
+    "misconduct",
+    "wrongdoing"
+   ]
+  },
+  {
+   "word": "collusion",
+   "pos": "명사",
+   "ko": "공모, 담합",
+   "ipa": "/kəˈluʒən/",
+   "ex_en": "Regulators fined the two firms for collusion in fixing consumer prices.",
+   "ex_ko": "규제 당국은 소비자 가격 담합 공모 혐의로 두 회사에 벌금을 부과했다.",
+   "syn": [
+    "conspiracy",
+    "connivance"
+   ]
+  },
+  {
+   "word": "injunction",
+   "pos": "명사",
+   "ko": "(법원의) 금지 명령",
+   "ipa": "/ɪnˈdʒʌŋkʃən/",
+   "ex_en": "The court issued an injunction blocking the construction of the new dam.",
+   "ex_ko": "법원은 새 댐 건설을 막는 금지 명령을 내렸다.",
+   "syn": [
+    "court order"
+   ]
+  },
+  {
+   "word": "plebiscite",
+   "pos": "명사",
+   "ko": "국민투표",
+   "ipa": "/ˈplɛbəˌsaɪt/",
+   "ex_en": "The territory's future status will be decided by a plebiscite next spring.",
+   "ex_ko": "그 영토의 미래 지위는 내년 봄 국민투표로 결정될 것이다.",
+   "syn": [
+    "referendum"
+   ]
+  },
+  {
+   "word": "demagogue",
+   "pos": "명사",
+   "ko": "선동 정치가",
+   "ipa": "/ˈdɛməˌɡɑɡ/",
+   "ex_en": "The demagogue exploited economic anxieties to win support from frustrated voters.",
+   "ex_ko": "그 선동 정치가는 경제적 불안을 이용해 불만에 찬 유권자들의 지지를 얻었다.",
+   "syn": [
+    "rabble-rouser",
+    "agitator"
+   ]
+  },
+  {
+   "word": "dissident",
+   "pos": "명사",
+   "ko": "반체제 인사",
+   "ipa": "/ˈdɪsədənt/",
+   "ex_en": "The regime imprisoned several dissidents who had criticized its human rights record.",
+   "ex_ko": "그 정권은 인권 실태를 비판한 반체제 인사 여러 명을 투옥했다.",
+   "syn": [
+    "dissenter"
+   ]
+  },
+  {
+   "word": "constituency",
+   "pos": "명사",
+   "ko": "선거구; 지지층",
+   "ipa": "/kənˈstɪtʃuənsi/",
+   "ex_en": "The senator returned to her constituency to explain her controversial vote.",
+   "ex_ko": "그 상원의원은 논란이 된 표결을 설명하기 위해 지역구로 돌아갔다.",
+   "syn": [
+    "electorate",
+    "district"
+   ]
+  },
+  {
+   "word": "probity",
+   "pos": "명사",
+   "ko": "청렴, 정직",
+   "ipa": "/ˈproʊbəti/",
+   "ex_en": "The judge's reputation for probity made her an ideal candidate for the commission.",
+   "ex_ko": "그 판사는 청렴하다는 평판 덕분에 위원회의 이상적인 후보가 되었다.",
+   "syn": [
+    "integrity",
+    "rectitude"
+   ]
+  },
+  {
+   "word": "promulgate",
+   "pos": "동사",
+   "ko": "(법령을) 공포하다; 널리 알리다",
+   "ipa": "/ˈprɑməlˌɡeɪt/",
+   "ex_en": "The government promulgated new regulations governing the use of personal data.",
+   "ex_ko": "정부는 개인 정보 이용을 규율하는 새 규정을 공포했다.",
+   "syn": [
+    "proclaim",
+    "publicize"
+   ]
+  },
+  {
+   "word": "adjudicate",
+   "pos": "동사",
+   "ko": "판결하다, 심판하다",
+   "ipa": "/əˈdʒudɪˌkeɪt/",
+   "ex_en": "An independent panel was appointed to adjudicate disputes between the two parties.",
+   "ex_ko": "양측 간의 분쟁을 판결하기 위해 독립적인 위원단이 임명되었다.",
+   "syn": [
+    "arbitrate",
+    "judge"
+   ]
+  },
+  {
+   "word": "indict",
+   "pos": "동사",
+   "ko": "기소하다",
+   "ipa": "/ɪnˈdaɪt/",
+   "ex_en": "The grand jury voted to indict the former minister on bribery charges.",
+   "ex_ko": "대배심은 전직 장관을 뇌물 혐의로 기소하기로 결정했다.",
+   "syn": [
+    "charge",
+    "prosecute"
+   ]
+  },
+  {
+   "word": "impeach",
+   "pos": "동사",
+   "ko": "탄핵하다",
+   "ipa": "/ɪmˈpitʃ/",
+   "ex_en": "Lawmakers moved to impeach the president over allegations of abuse of power.",
+   "ex_ko": "의원들은 권력 남용 혐의로 대통령 탄핵 절차에 착수했다.",
+   "syn": [
+    "accuse"
+   ]
+  },
+  {
+   "word": "ratify",
+   "pos": "동사",
+   "ko": "비준하다, 승인하다",
+   "ipa": "/ˈrætəˌfaɪ/",
+   "ex_en": "The senate refused to ratify the treaty without stronger environmental safeguards.",
+   "ex_ko": "상원은 더 강력한 환경 보호 조항 없이는 그 조약의 비준을 거부했다.",
+   "syn": [
+    "approve",
+    "endorse"
+   ]
+  },
+  {
+   "word": "nullify",
+   "pos": "동사",
+   "ko": "무효로 하다",
+   "ipa": "/ˈnʌləˌfaɪ/",
+   "ex_en": "The supreme court nullified the election results, citing widespread voting irregularities.",
+   "ex_ko": "대법원은 광범위한 투표 부정을 이유로 선거 결과를 무효화했다.",
+   "syn": [
+    "invalidate",
+    "void"
+   ]
+  },
+  {
+   "word": "incarcerate",
+   "pos": "동사",
+   "ko": "투옥하다, 감금하다",
+   "ipa": "/ɪnˈkɑrsəˌreɪt/",
+   "ex_en": "The state incarcerates more people per capita than almost any other democracy.",
+   "ex_ko": "그 주는 거의 어떤 민주주의 국가보다 1인당 더 많은 사람을 투옥한다.",
+   "syn": [
+    "imprison",
+    "jail"
+   ]
+  },
+  {
+   "word": "extradite",
+   "pos": "동사",
+   "ko": "(범죄인을) 인도하다",
+   "ipa": "/ˈɛkstrəˌdaɪt/",
+   "ex_en": "The suspect will be extradited to face fraud charges in his home country.",
+   "ex_ko": "그 용의자는 본국에서 사기 혐의로 재판받기 위해 인도될 것이다.",
+   "syn": [
+    "hand over"
+   ]
+  },
+  {
+   "word": "acquit",
+   "pos": "동사",
+   "ko": "무죄를 선고하다",
+   "ipa": "/əˈkwɪt/",
+   "ex_en": "The jury acquitted the defendant after only two hours of deliberation.",
+   "ex_ko": "배심원단은 겨우 두 시간의 심의 끝에 피고에게 무죄를 선고했다.",
+   "syn": [
+    "clear",
+    "absolve"
+   ]
+  },
+  {
+   "word": "ostracize",
+   "pos": "동사",
+   "ko": "배척하다, 따돌리다",
+   "ipa": "/ˈɑstrəˌsaɪz/",
+   "ex_en": "He was ostracized by colleagues after exposing the company's accounting fraud.",
+   "ex_ko": "그는 회사의 회계 부정을 폭로한 뒤 동료들에게 따돌림을 당했다.",
+   "syn": [
+    "shun",
+    "exclude"
+   ]
+  },
+  {
+   "word": "quell",
+   "pos": "동사",
+   "ko": "진압하다; (불안을) 가라앉히다",
+   "ipa": "/kwɛl/",
+   "ex_en": "The government deployed troops to quell the riots spreading through the capital.",
+   "ex_ko": "정부는 수도 전역으로 번지는 폭동을 진압하기 위해 군대를 투입했다.",
+   "syn": [
+    "suppress",
+    "subdue"
+   ]
+  },
+  {
+   "word": "foment",
+   "pos": "동사",
+   "ko": "(소요·불화를) 조장하다, 선동하다",
+   "ipa": "/foʊˈmɛnt/",
+   "ex_en": "Authorities accused foreign agents of fomenting unrest ahead of the election.",
+   "ex_ko": "당국은 외국 요원들이 선거를 앞두고 소요를 조장했다고 비난했다.",
+   "syn": [
+    "incite",
+    "instigate"
+   ]
+  },
+  {
+   "word": "flout",
+   "pos": "동사",
+   "ko": "(법·규칙을) 공공연히 어기다",
+   "ipa": "/flaʊt/",
+   "ex_en": "Several factories continue to flout environmental regulations despite repeated warnings.",
+   "ex_ko": "여러 공장이 거듭된 경고에도 환경 규제를 공공연히 어기고 있다.",
+   "syn": [
+    "defy",
+    "disregard"
+   ]
+  },
+  {
+   "word": "bipartisan",
+   "pos": "형용사",
+   "ko": "초당적인, 양당의",
+   "ipa": "/ˌbaɪˈpɑrtəzən/",
+   "ex_en": "The bill passed with rare bipartisan support in both chambers of Congress.",
+   "ex_ko": "그 법안은 의회 양원에서 보기 드문 초당적 지지를 받아 통과되었다."
+  },
+  {
+   "word": "draconian",
+   "pos": "형용사",
+   "ko": "가혹한, 지나치게 엄격한",
+   "ipa": "/drəˈkoʊniən/",
+   "ex_en": "Human rights groups condemned the draconian penalties imposed on peaceful protesters.",
+   "ex_ko": "인권 단체들은 평화 시위대에 부과된 가혹한 처벌을 규탄했다.",
+   "syn": [
+    "harsh",
+    "severe"
+   ]
+  },
+  {
+   "word": "punitive",
+   "pos": "형용사",
+   "ko": "징벌적인",
+   "ipa": "/ˈpjunətɪv/",
+   "ex_en": "Economists warned that punitive tariffs would ultimately hurt domestic consumers.",
+   "ex_ko": "경제학자들은 징벌적 관세가 결국 국내 소비자에게 피해를 줄 것이라고 경고했다.",
+   "syn": [
+    "retaliatory",
+    "disciplinary"
+   ]
+  },
+  {
+   "word": "litigious",
+   "pos": "형용사",
+   "ko": "소송을 일삼는",
+   "ipa": "/lɪˈtɪdʒəs/",
+   "ex_en": "In such a litigious society, hospitals buy extensive insurance against malpractice claims.",
+   "ex_ko": "그처럼 소송이 잦은 사회에서 병원들은 의료 과실 소송에 대비해 광범위한 보험에 가입한다.",
+   "syn": [
+    "contentious"
+   ]
+  },
+  {
+   "word": "culpable",
+   "pos": "형용사",
+   "ko": "과실이 있는, 비난받아 마땅한",
+   "ipa": "/ˈkʌlpəbəl/",
+   "ex_en": "The inquiry found the manufacturer culpable for concealing known safety defects.",
+   "ex_ko": "조사 결과 그 제조사가 알려진 안전 결함을 은폐한 데 책임이 있는 것으로 드러났다.",
+   "syn": [
+    "blameworthy",
+    "guilty"
+   ]
+  },
+  {
+   "word": "illicit",
+   "pos": "형용사",
+   "ko": "불법의, 부정한",
+   "ipa": "/ɪˈlɪsɪt/",
+   "ex_en": "Customs officials seized a shipment of illicit weapons at the border.",
+   "ex_ko": "세관 직원들은 국경에서 불법 무기 수송품을 압수했다.",
+   "syn": [
+    "illegal",
+    "unlawful"
+   ]
+  },
+  {
+   "word": "incendiary",
+   "pos": "형용사",
+   "ko": "선동적인; 방화의",
+   "ipa": "/ɪnˈsɛndiˌɛri/",
+   "ex_en": "The politician's incendiary remarks about immigrants sparked protests across the country.",
+   "ex_ko": "이민자에 대한 그 정치인의 선동적 발언은 전국적으로 시위를 촉발했다.",
+   "syn": [
+    "inflammatory",
+    "provocative"
+   ]
+  },
+  {
+   "word": "egalitarian",
+   "pos": "형용사",
+   "ko": "평등주의의",
+   "ipa": "/ɪˌɡæləˈtɛriən/",
+   "ex_en": "The party promotes an egalitarian vision in which wealth is shared more fairly.",
+   "ex_ko": "그 정당은 부가 더 공정하게 분배되는 평등주의적 비전을 표방한다."
+  },
+  {
+   "word": "sectarian",
+   "pos": "형용사",
+   "ko": "종파적인, 파벌적인",
+   "ipa": "/sɛkˈtɛriən/",
+   "ex_en": "Sectarian violence erupted between the two religious communities after the disputed election.",
+   "ex_ko": "논란이 된 선거 이후 두 종교 공동체 사이에 종파 간 폭력이 발발했다.",
+   "syn": [
+    "factional"
+   ]
+  },
+  {
+   "word": "incumbent",
+   "pos": "형용사",
+   "ko": "현직의; (책무가) 지워진",
+   "ipa": "/ɪnˈkʌmbənt/",
+   "ex_en": "The incumbent mayor faces a strong challenge from a young reform candidate.",
+   "ex_ko": "현직 시장은 젊은 개혁 성향 후보의 강력한 도전에 직면해 있다.",
+   "syn": [
+    "sitting",
+    "current"
+   ]
+  },
+  {
+   "word": "totalitarian",
+   "pos": "형용사",
+   "ko": "전체주의의",
+   "ipa": "/toʊˌtæləˈtɛriən/",
+   "ex_en": "The novel depicts life under a totalitarian regime that monitors every citizen.",
+   "ex_ko": "그 소설은 모든 시민을 감시하는 전체주의 정권 아래의 삶을 그린다.",
+   "syn": [
+    "authoritarian",
+    "despotic"
+   ]
+  },
+  {
+   "word": "summarily",
+   "pos": "부사",
+   "ko": "즉결로, 약식으로",
+   "ipa": "/səˈmɛrəli/",
+   "ex_en": "The whistle-blower was summarily dismissed without any formal hearing or explanation.",
+   "ex_ko": "그 내부 고발자는 어떤 공식 청문이나 설명도 없이 즉결로 해고되었다."
+  },
+  {
+   "word": "crack down on",
+   "pos": "구동사",
+   "ko": "~을 엄중 단속하다",
+   "ipa": "/ˌkræk ˈdaʊn ɑn/",
+   "ex_en": "The government vowed to crack down on tax evasion by multinational corporations.",
+   "ex_ko": "정부는 다국적 기업의 탈세를 엄중 단속하겠다고 다짐했다.",
+   "syn": [
+    "clamp down on"
+   ]
+  },
+  {
+   "word": "hand down",
+   "pos": "구동사",
+   "ko": "(판결을) 내리다; 물려주다",
+   "ipa": "/ˌhænd ˈdaʊn/",
+   "ex_en": "The appeals court is expected to hand down its ruling next month.",
+   "ex_ko": "항소 법원은 다음 달 판결을 내릴 것으로 예상된다.",
+   "syn": [
+    "deliver",
+    "pass down"
+   ]
+  },
+  {
+   "word": "turn a blind eye to",
+   "pos": "숙어",
+   "ko": "~을 눈감아 주다, 못 본 척하다",
+   "ipa": "/ˌtɝn ə ˌblaɪnd ˈaɪ tu/",
+   "ex_en": "Regulators turned a blind eye to the bank's risky lending practices for years.",
+   "ex_ko": "규제 당국은 수년간 그 은행의 위험한 대출 관행을 눈감아 주었다.",
+   "syn": [
+    "overlook",
+    "ignore"
+   ]
+  },
+  {
+   "word": "toe the line",
+   "pos": "숙어",
+   "ko": "방침을 따르다, 규칙에 순종하다",
+   "ipa": "/ˌtoʊ ðə ˈlaɪn/",
+   "ex_en": "Party members who refuse to toe the line risk losing their committee positions.",
+   "ex_ko": "당의 방침을 따르지 않는 의원들은 위원회 직책을 잃을 위험이 있다.",
+   "syn": [
+    "conform",
+    "comply"
+   ]
+  },
+  {
+   "word": "at loggerheads",
+   "pos": "숙어",
+   "ko": "대립하여, 옥신각신하는",
+   "ipa": "/ˌæt ˈlɔɡɚˌhɛdz/",
+   "ex_en": "The two parties remain at loggerheads over the proposed immigration reform bill.",
+   "ex_ko": "양당은 제안된 이민 개혁 법안을 두고 여전히 대립하고 있다.",
+   "syn": [
+    "at odds",
+    "in conflict"
+   ]
+  },
+  {
+   "word": "deplete",
+   "pos": "동사",
+   "ko": "고갈시키다, 격감시키다",
+   "ipa": "/dɪˈplit/",
+   "ex_en": "Decades of overfishing have severely depleted fish stocks in the North Atlantic.",
+   "ex_ko": "수십 년간의 남획이 북대서양의 어족 자원을 심각하게 고갈시켰다.",
+   "syn": [
+    "exhaust",
+    "drain"
+   ]
+  },
+  {
+   "word": "sequester",
+   "pos": "동사",
+   "ko": "격리하다; (탄소를) 격리 저장하다",
+   "ipa": "/sɪˈkwɛstɚ/",
+   "ex_en": "New technologies aim to sequester carbon dioxide deep beneath the ocean floor.",
+   "ex_ko": "신기술들은 이산화탄소를 해저 깊은 곳에 격리 저장하는 것을 목표로 한다.",
+   "syn": [
+    "isolate",
+    "seclude"
+   ]
+  },
+  {
+   "word": "calibrate",
+   "pos": "동사",
+   "ko": "(계기를) 보정하다, 조정하다",
+   "ipa": "/ˈkæləˌbreɪt/",
+   "ex_en": "Scientists must calibrate their instruments carefully before measuring atmospheric ozone levels.",
+   "ex_ko": "과학자들은 대기 오존 농도를 측정하기 전에 기기를 신중히 보정해야 한다.",
+   "syn": [
+    "adjust",
+    "fine-tune"
+   ]
+  },
+  {
+   "word": "attenuate",
+   "pos": "동사",
+   "ko": "약화시키다, 감쇠시키다",
+   "ipa": "/əˈtɛnjuˌeɪt/",
+   "ex_en": "The dense forest canopy attenuates sunlight before it reaches the forest floor.",
+   "ex_ko": "울창한 숲의 수관은 햇빛이 숲 바닥에 닿기 전에 그 세기를 약화시킨다.",
+   "syn": [
+    "weaken",
+    "diminish"
+   ]
+  },
+  {
+   "word": "coalesce",
+   "pos": "동사",
+   "ko": "합쳐지다, 하나로 뭉치다",
+   "ipa": "/ˌkoʊəˈlɛs/",
+   "ex_en": "Tiny water droplets coalesce around dust particles to form rain clouds.",
+   "ex_ko": "미세한 물방울들이 먼지 입자 주위로 합쳐져 비구름을 형성한다.",
+   "syn": [
+    "merge",
+    "unite",
+    "fuse"
+   ]
+  },
+  {
+   "word": "supplant",
+   "pos": "동사",
+   "ko": "대체하다, 자리를 빼앗다",
+   "ipa": "/səˈplænt/",
+   "ex_en": "Renewable energy sources may eventually supplant fossil fuels in electricity generation.",
+   "ex_ko": "재생 에너지원이 결국 발전 분야에서 화석 연료를 대체할지도 모른다.",
+   "syn": [
+    "replace",
+    "displace",
+    "supersede"
+   ]
+  },
+  {
+   "word": "permeate",
+   "pos": "동사",
+   "ko": "스며들다, 침투하다; (사상이) 퍼지다",
+   "ipa": "/ˈpɝmiˌeɪt/",
+   "ex_en": "Toxic chemicals from the landfill gradually permeated the surrounding soil and groundwater.",
+   "ex_ko": "매립지에서 나온 유독 화학물질이 주변 토양과 지하수에 서서히 스며들었다.",
+   "syn": [
+    "pervade",
+    "infiltrate"
+   ]
+  },
+  {
+   "word": "propagate",
+   "pos": "동사",
+   "ko": "번식시키다; (사상·정보를) 전파하다",
+   "ipa": "/ˈprɑpəˌɡeɪt/",
+   "ex_en": "Some plants propagate through underground stems rather than by producing seeds.",
+   "ex_ko": "어떤 식물들은 씨앗을 만드는 대신 지하 줄기를 통해 번식한다.",
+   "syn": [
+    "reproduce",
+    "spread",
+    "disseminate"
+   ]
+  },
+  {
+   "word": "leach",
+   "pos": "동사",
+   "ko": "(화학물질이) 침출되다, 스며 나오다",
+   "ipa": "/ˈlitʃ/",
+   "ex_en": "Pesticides can leach from farmland into nearby rivers after heavy rainfall.",
+   "ex_ko": "폭우가 내린 뒤 농경지의 살충제가 인근 강으로 침출될 수 있다.",
+   "syn": [
+    "seep",
+    "drain"
+   ]
+  },
+  {
+   "word": "desiccate",
+   "pos": "동사",
+   "ko": "바싹 말리다, 건조시키다",
+   "ipa": "/ˈdɛsɪˌkeɪt/",
+   "ex_en": "Prolonged drought has desiccated the wetlands, threatening countless migratory bird species.",
+   "ex_ko": "장기 가뭄이 습지를 바싹 말려 수많은 철새 종을 위협하고 있다.",
+   "syn": [
+    "dry out",
+    "dehydrate",
+    "parch"
+   ]
+  },
+  {
+   "word": "inundate",
+   "pos": "동사",
+   "ko": "침수시키다; (요청 등이) 쇄도하다",
+   "ipa": "/ˈɪnənˌdeɪt/",
+   "ex_en": "Rising sea levels could inundate low-lying coastal cities within a few decades.",
+   "ex_ko": "해수면 상승은 수십 년 안에 저지대 해안 도시들을 침수시킬 수 있다.",
+   "syn": [
+    "flood",
+    "submerge",
+    "swamp"
+   ]
+  },
+  {
+   "word": "decimate",
+   "pos": "동사",
+   "ko": "떼죽음시키다, 대폭 파괴하다",
+   "ipa": "/ˈdɛsəˌmeɪt/",
+   "ex_en": "An invasive fungus has decimated amphibian populations across Central America in recent years.",
+   "ex_ko": "최근 몇 년간 침입성 곰팡이가 중앙아메리카 전역의 양서류 개체군을 떼죽음시켰다.",
+   "syn": [
+    "devastate",
+    "ravage",
+    "wipe out"
+   ]
+  },
+  {
+   "word": "harness",
+   "pos": "동사",
+   "ko": "(자연력을) 이용하다, 동력화하다",
+   "ipa": "/ˈhɑrnəs/",
+   "ex_en": "Engineers are developing turbines to harness the immense power of ocean tides.",
+   "ex_ko": "엔지니어들은 조수의 막대한 힘을 이용하기 위한 터빈을 개발하고 있다.",
+   "syn": [
+    "exploit",
+    "utilize"
+   ]
+  },
+  {
+   "word": "pathogen",
+   "pos": "명사",
+   "ko": "병원체, 병원균",
+   "ipa": "/ˈpæθədʒən/",
+   "ex_en": "The newly identified pathogen spreads rapidly through contaminated water supplies.",
+   "ex_ko": "새로 확인된 병원체는 오염된 상수도를 통해 빠르게 퍼진다.",
+   "syn": [
+    "germ",
+    "microbe"
+   ]
+  },
+  {
+   "word": "equilibrium",
+   "pos": "명사",
+   "ko": "평형, 균형 상태",
+   "ipa": "/ˌikwəˈlɪbriəm/",
+   "ex_en": "Removing a top predator can disrupt the delicate equilibrium of an entire ecosystem.",
+   "ex_ko": "최상위 포식자를 제거하면 생태계 전체의 미묘한 평형이 깨질 수 있다.",
+   "syn": [
+    "balance",
+    "stability"
+   ]
+  },
+  {
+   "word": "catalyst",
+   "pos": "명사",
+   "ko": "촉매; (변화의) 기폭제",
+   "ipa": "/ˈkætəlɪst/",
+   "ex_en": "The enzyme acts as a catalyst, dramatically accelerating the chemical reaction.",
+   "ex_ko": "그 효소는 촉매로 작용하여 화학 반응을 극적으로 가속한다.",
+   "syn": [
+    "stimulus",
+    "impetus"
+   ]
+  },
+  {
+   "word": "trajectory",
+   "pos": "명사",
+   "ko": "궤도, 궤적; (변화의) 추이",
+   "ipa": "/trəˈdʒɛktəri/",
+   "ex_en": "Current emissions data suggest an alarming trajectory for global temperature rise.",
+   "ex_ko": "현재의 배출량 데이터는 지구 기온 상승의 우려스러운 추이를 시사한다.",
+   "syn": [
+    "path",
+    "course"
+   ]
+  },
+  {
+   "word": "threshold",
+   "pos": "명사",
+   "ko": "임계점, 문턱",
+   "ipa": "/ˈθrɛʃˌhoʊld/",
+   "ex_en": "Scientists warn the climate is nearing a threshold beyond which recovery becomes impossible.",
+   "ex_ko": "과학자들은 기후가 회복이 불가능해지는 임계점에 다가가고 있다고 경고한다.",
+   "syn": [
+    "limit",
+    "tipping point"
+   ]
+  },
+  {
+   "word": "repercussion",
+   "pos": "명사",
+   "ko": "(부정적) 여파, 영향",
+   "ipa": "/ˌripɚˈkʌʃən/",
+   "ex_en": "The dam's construction had serious repercussions for downstream fish populations.",
+   "ex_ko": "그 댐의 건설은 하류 어류 개체군에 심각한 여파를 미쳤다.",
+   "syn": [
+    "consequence",
+    "aftermath",
+    "fallout"
+   ]
+  },
+  {
+   "word": "blight",
+   "pos": "명사",
+   "ko": "마름병, 병충해; (도시의) 황폐",
+   "ipa": "/ˈblaɪt/",
+   "ex_en": "A devastating blight wiped out nearly the entire potato harvest that year.",
+   "ex_ko": "그해 파괴적인 마름병이 감자 수확량 거의 전부를 휩쓸어 버렸다.",
+   "syn": [
+    "disease",
+    "scourge"
+   ]
+  },
+  {
+   "word": "effluent",
+   "pos": "명사",
+   "ko": "(공장·하수) 폐수, 오수",
+   "ipa": "/ˈɛfluənt/",
+   "ex_en": "The factory was fined for discharging untreated effluent into the river.",
+   "ex_ko": "그 공장은 처리되지 않은 폐수를 강에 방류하여 벌금을 부과받았다.",
+   "syn": [
+    "wastewater",
+    "sewage"
+   ]
+  },
+  {
+   "word": "aquifer",
+   "pos": "명사",
+   "ko": "대수층(지하수를 품은 지층)",
+   "ipa": "/ˈækwəfɚ/",
+   "ex_en": "Excessive irrigation is draining the underground aquifer faster than rainfall can recharge it.",
+   "ex_ko": "과도한 관개가 강우로 다시 채워지는 속도보다 빠르게 지하 대수층을 고갈시키고 있다."
+  },
+  {
+   "word": "carcinogen",
+   "pos": "명사",
+   "ko": "발암 물질",
+   "ipa": "/kɑrˈsɪnədʒən/",
+   "ex_en": "Regulators banned the additive after studies identified it as a potent carcinogen.",
+   "ex_ko": "연구에서 그 첨가물이 강력한 발암 물질로 확인되자 규제 당국은 이를 금지했다."
+  },
+  {
+   "word": "deluge",
+   "pos": "명사",
+   "ko": "대홍수, 폭우; (문의 등의) 쇄도",
+   "ipa": "/ˈdɛljudʒ/",
+   "ex_en": "The unexpected deluge overwhelmed the city's drainage system within a few hours.",
+   "ex_ko": "예상치 못한 폭우가 몇 시간 만에 도시의 배수 체계를 마비시켰다.",
+   "syn": [
+    "downpour",
+    "torrent"
+   ]
+  },
+  {
+   "word": "inertia",
+   "pos": "명사",
+   "ko": "관성; 타성, 무기력",
+   "ipa": "/ɪˈnɝʃə/",
+   "ex_en": "Bureaucratic inertia has delayed the adoption of stricter environmental standards for years.",
+   "ex_ko": "관료적 타성이 수년간 더 엄격한 환경 기준의 도입을 지연시켜 왔다.",
+   "syn": [
+    "inaction",
+    "sluggishness"
+   ]
+  },
+  {
+   "word": "ramification",
+   "pos": "명사",
+   "ko": "(예상 밖의) 파급 효과, 영향",
+   "ipa": "/ˌræməfəˈkeɪʃən/",
+   "ex_en": "Genetic engineering of crops carries ethical ramifications that scientists cannot ignore.",
+   "ex_ko": "작물 유전자 조작은 과학자들이 무시할 수 없는 윤리적 파급 효과를 수반한다.",
+   "syn": [
+    "consequence",
+    "implication"
+   ]
+  },
+  {
+   "word": "permafrost",
+   "pos": "명사",
+   "ko": "영구 동토층",
+   "ipa": "/ˈpɝməˌfrɔst/",
+   "ex_en": "Thawing permafrost releases methane, a greenhouse gas far more potent than carbon dioxide.",
+   "ex_ko": "녹아내리는 영구 동토층은 이산화탄소보다 훨씬 강력한 온실가스인 메탄을 방출한다."
+  },
+  {
+   "word": "arable",
+   "pos": "형용사",
+   "ko": "경작 가능한, 농경에 알맞은",
+   "ipa": "/ˈærəbəl/",
+   "ex_en": "Soil erosion is steadily reducing the amount of arable land available for farming.",
+   "ex_ko": "토양 침식이 농사에 이용할 수 있는 경작지 면적을 꾸준히 줄이고 있다.",
+   "syn": [
+    "cultivable",
+    "fertile"
+   ]
+  },
+  {
+   "word": "arid",
+   "pos": "형용사",
+   "ko": "매우 건조한, 불모의",
+   "ipa": "/ˈærɪd/",
+   "ex_en": "Few plant species can survive in the arid conditions of the desert interior.",
+   "ex_ko": "사막 내륙의 건조한 환경에서 살아남을 수 있는 식물 종은 거의 없다.",
+   "syn": [
+    "dry",
+    "barren",
+    "parched"
+   ]
+  },
+  {
+   "word": "inexorable",
+   "pos": "형용사",
+   "ko": "멈출 수 없는, 거침없는",
+   "ipa": "/ɪnˈɛksɚəbəl/",
+   "ex_en": "The inexorable retreat of the glaciers provides stark evidence of global warming.",
+   "ex_ko": "빙하의 거침없는 후퇴는 지구 온난화의 명백한 증거를 제공한다.",
+   "syn": [
+    "relentless",
+    "unstoppable"
+   ]
+  },
+  {
+   "word": "pristine",
+   "pos": "형용사",
+   "ko": "자연 그대로의, 오염되지 않은",
+   "ipa": "/prɪˈstin/",
+   "ex_en": "The remote island remains one of the few pristine ecosystems left on Earth.",
+   "ex_ko": "그 외딴섬은 지구에 남은 몇 안 되는 오염되지 않은 생태계 중 하나이다.",
+   "syn": [
+    "unspoiled",
+    "untouched",
+    "immaculate"
+   ]
+  },
+  {
+   "word": "inert",
+   "pos": "형용사",
+   "ko": "비활성의; 움직이지 않는",
+   "ipa": "/ɪˈnɝt/",
+   "ex_en": "Argon is an inert gas that rarely reacts with other chemical elements.",
+   "ex_ko": "아르곤은 다른 화학 원소와 거의 반응하지 않는 비활성 기체이다.",
+   "syn": [
+    "inactive",
+    "unreactive"
+   ]
+  },
+  {
+   "word": "noxious",
+   "pos": "형용사",
+   "ko": "유독한, 해로운",
+   "ipa": "/ˈnɑkʃəs/",
+   "ex_en": "Residents complained about noxious fumes drifting from the nearby chemical plant.",
+   "ex_ko": "주민들은 인근 화학 공장에서 흘러오는 유독 가스에 대해 항의했다.",
+   "syn": [
+    "toxic",
+    "harmful",
+    "poisonous"
+   ]
+  },
+  {
+   "word": "potable",
+   "pos": "형용사",
+   "ko": "마실 수 있는, 음용에 적합한",
+   "ipa": "/ˈpoʊtəbəl/",
+   "ex_en": "After the flood, the town struggled to secure enough potable water for residents.",
+   "ex_ko": "홍수 이후 그 마을은 주민들을 위한 충분한 식수를 확보하는 데 애를 먹었다.",
+   "syn": [
+    "drinkable"
+   ]
+  },
+  {
+   "word": "obsolete",
+   "pos": "형용사",
+   "ko": "구식의, 더 이상 쓰이지 않는",
+   "ipa": "/ˌɑbsəˈlit/",
+   "ex_en": "Rapid advances in technology render most electronic devices obsolete within a few years.",
+   "ex_ko": "급속한 기술 발전은 대부분의 전자 기기를 몇 년 안에 구식으로 만든다.",
+   "syn": [
+    "outdated",
+    "antiquated"
+   ]
+  },
+  {
+   "word": "invasive",
+   "pos": "형용사",
+   "ko": "(생물이) 침입성의; (수술이) 침습적인",
+   "ipa": "/ɪnˈveɪsɪv/",
+   "ex_en": "Invasive species often outcompete native wildlife for food and habitat.",
+   "ex_ko": "침입종은 종종 먹이와 서식지를 두고 토착 야생동물과의 경쟁에서 우위를 점한다.",
+   "syn": [
+    "intrusive",
+    "encroaching"
+   ]
+  },
+  {
+   "word": "negligible",
+   "pos": "형용사",
+   "ko": "무시해도 될 정도의, 하찮은",
+   "ipa": "/ˈnɛɡlɪdʒəbəl/",
+   "ex_en": "The new filter reduces harmful emissions to negligible levels at minimal cost.",
+   "ex_ko": "새 필터는 최소한의 비용으로 유해 배출물을 무시할 만한 수준으로 줄여 준다.",
+   "syn": [
+    "insignificant",
+    "trivial"
+   ]
+  },
+  {
+   "word": "irrevocably",
+   "pos": "부사",
+   "ko": "돌이킬 수 없이",
+   "ipa": "/ɪˈrɛvəkəbli/",
+   "ex_en": "Unchecked deforestation could irrevocably alter the region's climate and rainfall patterns.",
+   "ex_ko": "방치된 삼림 벌채는 그 지역의 기후와 강우 패턴을 돌이킬 수 없이 바꿔 놓을 수 있다.",
+   "syn": [
+    "permanently",
+    "irreversibly"
+   ]
+  },
+  {
+   "word": "imperceptibly",
+   "pos": "부사",
+   "ko": "감지할 수 없을 만큼 서서히",
+   "ipa": "/ˌɪmpɚˈsɛptəbli/",
+   "ex_en": "The coastline is eroding imperceptibly, losing only a few centimeters each year.",
+   "ex_ko": "해안선은 매년 몇 센티미터씩 감지할 수 없을 만큼 서서히 침식되고 있다.",
+   "syn": [
+    "subtly",
+    "gradually"
+   ]
+  },
+  {
+   "word": "wreak havoc on",
+   "pos": "숙어",
+   "ko": "~에 막대한 피해를 입히다",
+   "ipa": "/rik ˈhævək ɑn/",
+   "ex_en": "The prolonged heat wave wreaked havoc on crops across the entire region.",
+   "ex_ko": "장기간의 폭염이 지역 전체의 농작물에 막대한 피해를 입혔다.",
+   "syn": [
+    "devastate",
+    "ravage"
+   ]
+  },
+  {
+   "word": "take a toll on",
+   "pos": "숙어",
+   "ko": "~에 타격을 주다, 피해를 입히다",
+   "ipa": "/teɪk ə ˈtoʊl ɑn/",
+   "ex_en": "Years of acid rain have taken a heavy toll on the ancient forest.",
+   "ex_ko": "수년간의 산성비가 그 오래된 숲에 큰 타격을 주었다.",
+   "syn": [
+    "damage",
+    "harm"
+   ]
+  },
+  {
+   "word": "tap into",
+   "pos": "구동사",
+   "ko": "~을 활용하다, 개발해 이용하다",
+   "ipa": "/tæp ˈɪntu/",
+   "ex_en": "Iceland taps into geothermal energy to heat most of its homes.",
+   "ex_ko": "아이슬란드는 지열 에너지를 활용해 대부분의 가정에 난방을 공급한다.",
+   "syn": [
+    "utilize",
+    "exploit",
+    "draw on"
+   ]
+  },
+  {
+   "word": "peter out",
+   "pos": "구동사",
+   "ko": "점차 잦아들다, 흐지부지되다",
+   "ipa": "/ˈpitɚ aʊt/",
+   "ex_en": "Public enthusiasm for the recycling campaign gradually petered out within a year.",
+   "ex_ko": "재활용 캠페인에 대한 대중의 열의는 1년 안에 점차 사그라들었다.",
+   "syn": [
+    "fade",
+    "dwindle",
+    "fizzle out"
    ]
   }
  ],
@@ -1953,6 +5277,2818 @@ window.TEPS_DATA.high = {
     {
      "en": "chiefly",
      "ko": "주로"
+    }
+   ]
+  },
+  {
+   "en": "Under no circumstances should residents prop open the stairwell fire doors, however tempting it may be during the summer months, as doing so compromises the very containment system on which the building's evacuation plan depends.",
+   "ko": "여름철에 아무리 그러고 싶더라도 입주민께서는 어떤 경우에도 계단실 방화문을 열어 두어서는 안 됩니다. 그렇게 하면 건물 대피 계획의 근간이 되는 화재 차단 시스템 자체가 무력화되기 때문입니다.",
+   "point": "부정어구 Under no circumstances가 문두에 와서 should residents prop으로 도치된 구조다. however tempting it may be는 '아무리 ~하고 싶더라도'의 양보 삽입구다.",
+   "keywords": [
+    {
+     "en": "prop open",
+     "ko": "괴어서 열어 두다"
+    },
+    {
+     "en": "compromise",
+     "ko": "훼손하다, 무력화하다"
+    },
+    {
+     "en": "containment",
+     "ko": "차단, 봉쇄"
+    },
+    {
+     "en": "evacuation plan",
+     "ko": "대피 계획"
+    }
+   ]
+  },
+  {
+   "en": "While we recognize that the revised departure time—now fully three hours earlier than originally scheduled—may cause considerable inconvenience, we trust you will appreciate that the change was made solely in the interest of passenger safety.",
+   "ko": "변경된 출발 시각이 당초 일정보다 무려 세 시간이나 앞당겨져 상당한 불편을 드릴 수 있다는 점은 잘 알고 있습니다만, 이번 변경이 오로지 승객 안전을 위해 이루어졌다는 점을 이해해 주시리라 믿습니다.",
+   "point": "While 양보절 안에 대시(—)로 동격 보충 정보가 삽입된 구조다. in the interest of는 '~을 위하여'라는 격식 관용 표현이다.",
+   "keywords": [
+    {
+     "en": "revised",
+     "ko": "변경된, 수정된"
+    },
+    {
+     "en": "considerable inconvenience",
+     "ko": "상당한 불편"
+    },
+    {
+     "en": "solely",
+     "ko": "오로지"
+    },
+    {
+     "en": "in the interest of",
+     "ko": "~을 위하여"
+    }
+   ]
+  },
+  {
+   "en": "It is imperative that every employee intending to work remotely on a regular basis submit a formal request to human resources, without which no such arrangement, however informal it has been to date, can be recognized.",
+   "ko": "정기적으로 재택근무를 하려는 직원은 반드시 인사팀에 정식 신청서를 제출해야 하며, 이것이 없으면 지금까지 아무리 비공식적으로 이루어져 왔더라도 그러한 근무 형태는 인정될 수 없습니다.",
+   "point": "It is imperative that 뒤에는 가정법 현재(동사원형 submit)가 온다. without which는 앞의 request를 받아 '그것이 없으면'으로 잇는 계속적 용법 관계사다.",
+   "keywords": [
+    {
+     "en": "imperative",
+     "ko": "반드시 해야 하는"
+    },
+    {
+     "en": "on a regular basis",
+     "ko": "정기적으로"
+    },
+    {
+     "en": "human resources",
+     "ko": "인사팀"
+    },
+    {
+     "en": "arrangement",
+     "ko": "합의된 방식, 근무 형태"
+    }
+   ]
+  },
+  {
+   "en": "Owing to renovations scheduled to run through late March, the periodicals section will be relocated to the basement annex, where, admittedly at some cost to convenience, all current issues will remain available.",
+   "ko": "3월 말까지 이어질 보수 공사로 인해 정기간행물 코너는 지하 별관으로 이전되며, 다소 불편해지는 것은 사실이지만 그곳에서도 최신 호는 모두 열람하실 수 있습니다.",
+   "point": "Owing to는 because of와 같은 이유의 전치사구다. where 계속적 용법 관계부사절 안에 admittedly at some cost to convenience라는 양보성 삽입구가 끼어 있는 구조를 잡아야 한다.",
+   "keywords": [
+    {
+     "en": "owing to",
+     "ko": "~ 때문에"
+    },
+    {
+     "en": "periodicals",
+     "ko": "정기간행물"
+    },
+    {
+     "en": "annex",
+     "ko": "별관"
+    },
+    {
+     "en": "admittedly",
+     "ko": "~인 것은 사실이지만"
+    }
+   ]
+  },
+  {
+   "en": "Should the item arrive damaged or otherwise fail to conform to the description on our website, you are entitled to a full refund, provided that you notify us within seven days of delivery.",
+   "ko": "상품이 파손된 상태로 도착하거나 웹사이트의 설명과 다른 경우, 배송일로부터 7일 이내에 알려 주시면 전액 환불을 받으실 수 있습니다.",
+   "point": "Should the item arrive는 If the item should arrive에서 if가 생략되고 도치된 조건문이다. provided that은 '~라는 조건하에'라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "conform to",
+     "ko": "~에 부합하다"
+    },
+    {
+     "en": "be entitled to",
+     "ko": "~을 받을 자격이 있다"
+    },
+    {
+     "en": "full refund",
+     "ko": "전액 환불"
+    },
+    {
+     "en": "provided that",
+     "ko": "~라는 조건으로"
+    }
+   ]
+  },
+  {
+   "en": "Much as we would love to accommodate every guest who has expressed interest in attending, the venue's capacity obliges us, with genuine reluctance, to limit the reception to immediate family and close friends.",
+   "ko": "참석 의사를 밝혀 주신 모든 분을 모시고 싶은 마음은 굴뚝같지만, 예식장 수용 인원 때문에 정말 아쉽게도 피로연은 직계 가족과 가까운 친구분들로 제한할 수밖에 없게 되었습니다.",
+   "point": "Much as는 '몹시 ~하고 싶지만'이라는 양보 표현이다. oblige A to B는 'A가 B하지 않을 수 없게 만들다'로, 무생물 주어(capacity)를 이유처럼 풀어 해석해야 자연스럽다.",
+   "keywords": [
+    {
+     "en": "much as",
+     "ko": "~하고 싶은 마음은 크지만"
+    },
+    {
+     "en": "accommodate",
+     "ko": "수용하다"
+    },
+    {
+     "en": "oblige",
+     "ko": "부득이 ~하게 하다"
+    },
+    {
+     "en": "immediate family",
+     "ko": "직계 가족"
+    }
+   ]
+  },
+  {
+   "en": "With maintenance crews slated to replace the aging water mains throughout next week, residents are advised to store an adequate supply of drinking water, as service interruptions, though intermittent, are all but inevitable.",
+   "ko": "다음 주 내내 보수반이 노후 상수도관을 교체할 예정이므로, 주민 여러분께서는 식수를 충분히 받아 두시기 바랍니다. 단수가 간헐적이기는 하겠지만 사실상 피할 수 없기 때문입니다.",
+   "point": "With + 명사 + 분사(slated to ~)의 부대상황 구문이 이유를 나타낸다. all but은 '거의, 사실상'이라는 뜻으로 '전혀 ~아닌'으로 오역하기 쉬운 표현이다.",
+   "keywords": [
+    {
+     "en": "slated to",
+     "ko": "~할 예정인"
+    },
+    {
+     "en": "water mains",
+     "ko": "상수도 본관"
+    },
+    {
+     "en": "intermittent",
+     "ko": "간헐적인"
+    },
+    {
+     "en": "all but",
+     "ko": "사실상, 거의"
+    }
+   ]
+  },
+  {
+   "en": "We regret to inform you that, owing to circumstances entirely beyond our control, the artisan workshop you registered for has been called off, though every participant will, as a matter of course, receive a full refund within five business days.",
+   "ko": "전적으로 저희가 어찌할 수 없는 사정으로 인해 신청하신 공예 워크숍이 취소되었음을 알려 드리게 되어 유감입니다. 다만 모든 참가자께는 당연한 절차로서 영업일 기준 5일 이내에 전액 환불해 드립니다.",
+   "point": "regret to inform은 '유감스럽게도 ~을 알리다'라는 공식 서한의 상투구다. call off는 cancel의 구동사이고, as a matter of course는 '당연한 수순으로'라는 관용구다.",
+   "keywords": [
+    {
+     "en": "beyond one's control",
+     "ko": "~가 어찌할 수 없는"
+    },
+    {
+     "en": "call off",
+     "ko": "취소하다"
+    },
+    {
+     "en": "as a matter of course",
+     "ko": "당연한 절차로"
+    },
+    {
+     "en": "business day",
+     "ko": "영업일"
+    }
+   ]
+  },
+  {
+   "en": "Members whose contracts predate the January revision remain, for the time being, exempt from the newly introduced facility surcharge, though the exemption will lapse automatically upon renewal.",
+   "ko": "1월 약관 개정 이전에 계약하신 회원은 당분간 새로 도입된 시설 추가 요금이 면제되지만, 계약을 갱신하는 시점에 그 면제 혜택은 자동으로 소멸됩니다.",
+   "point": "소유격 관계대명사 whose와 predate(~보다 앞서다)의 의미를 정확히 잡아야 한다. exempt from은 '~이 면제된', lapse는 '(효력이) 소멸하다'라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "predate",
+     "ko": "~보다 앞서다"
+    },
+    {
+     "en": "exempt from",
+     "ko": "~이 면제된"
+    },
+    {
+     "en": "surcharge",
+     "ko": "추가 요금"
+    },
+    {
+     "en": "lapse",
+     "ko": "효력을 잃다"
+    }
+   ]
+  },
+  {
+   "en": "That barely a dozen homeowners bothered to attend last month's general meeting has prompted the board, not without misgivings, to move all future votes to an online platform.",
+   "ko": "지난달 총회에 참석한 입주민이 겨우 열두어 명에 불과했다는 사실에, 이사회는 우려가 없지는 않지만 앞으로의 모든 표결을 온라인으로 전환하기로 했습니다.",
+   "point": "That절 전체가 문장의 주어인 구조로 '~라는 사실이'로 해석한다. not without misgivings는 이중 부정으로 '우려가 없지 않은 채'라는 뜻의 삽입구다.",
+   "keywords": [
+    {
+     "en": "bother to",
+     "ko": "수고스럽게 ~하다"
+    },
+    {
+     "en": "prompt",
+     "ko": "~하게 만들다"
+    },
+    {
+     "en": "misgivings",
+     "ko": "불안, 우려"
+    },
+    {
+     "en": "board",
+     "ko": "이사회"
+    }
+   ]
+  },
+  {
+   "en": "Customers in possession of the affected model are strongly urged to discontinue use at once and arrange a free repair, lest a fault that has so far caused only minor overheating develop into a genuine safety hazard.",
+   "ko": "해당 모델을 보유하신 고객께서는 즉시 사용을 중단하고 무상 수리를 신청하시기 바랍니다. 지금까지는 경미한 과열에 그친 결함이 자칫 실제 안전사고로 이어질 수 있기 때문입니다.",
+   "point": "lest + 주어 + (should) 동사원형은 '~하지 않도록'이라는 뜻으로, develop이 원형인 이유를 파악해야 한다. in possession of는 '~을 보유한'이라는 격식 표현이다.",
+   "keywords": [
+    {
+     "en": "in possession of",
+     "ko": "~을 보유한"
+    },
+    {
+     "en": "discontinue",
+     "ko": "중단하다"
+    },
+    {
+     "en": "lest",
+     "ko": "~하지 않도록"
+    },
+    {
+     "en": "safety hazard",
+     "ko": "안전 위험 요소"
+    }
+   ]
+  },
+  {
+   "en": "No sooner had registration opened than every hands-on workshop filled to capacity, which is why we are now compiling a waiting list and, should demand warrant it, exploring the possibility of additional sessions.",
+   "ko": "등록이 시작되자마자 모든 실습형 워크숍이 정원을 채웠고, 그래서 현재 대기자 명단을 작성하는 한편 수요가 충분하다고 판단되면 추가 세션 개설도 검토하고 있습니다.",
+   "point": "No sooner had A than B는 'A하자마자 B했다'의 도치 구문이다. should demand warrant it 역시 if demand should warrant it의 if 생략 도치 조건절이다.",
+   "keywords": [
+    {
+     "en": "no sooner ~ than",
+     "ko": "~하자마자"
+    },
+    {
+     "en": "fill to capacity",
+     "ko": "정원이 차다"
+    },
+    {
+     "en": "compile",
+     "ko": "작성하다, 취합하다"
+    },
+    {
+     "en": "warrant",
+     "ko": "~을 정당화하다"
+    }
+   ]
+  },
+  {
+   "en": "Parents are kindly reminded that, barring truly inclement weather, the annual sports day will go ahead as planned, and that students should therefore come equipped for a full day outdoors.",
+   "ko": "학부모님께 다시 한번 안내드립니다. 날씨가 정말로 궂지 않는 한 연례 운동회는 예정대로 진행되며, 따라서 학생들은 온종일 야외 활동에 대비해 준비물을 갖추고 등교해야 합니다.",
+   "point": "barring은 '~이 없는 한'이라는 전치사다. remind 뒤의 that절이 and that으로 병렬 연결되어 두 가지 안내 사항을 전달하는 구조를 잡아야 한다.",
+   "keywords": [
+    {
+     "en": "barring",
+     "ko": "~이 없는 한"
+    },
+    {
+     "en": "inclement weather",
+     "ko": "궂은 날씨"
+    },
+    {
+     "en": "go ahead",
+     "ko": "예정대로 진행되다"
+    },
+    {
+     "en": "equipped for",
+     "ko": "~에 대비를 갖춘"
+    }
+   ]
+  },
+  {
+   "en": "Guests availing themselves of the late checkout option should bear in mind that the privilege, generous though it is, extends only until two in the afternoon, beyond which standard hourly charges apply.",
+   "ko": "레이트 체크아웃을 이용하시는 투숙객께서는 이 혜택이 후하기는 해도 오후 2시까지만 적용되며, 그 이후로는 표준 시간당 요금이 부과된다는 점을 유념하시기 바랍니다.",
+   "point": "avail oneself of는 '~을 이용하다'라는 격식 표현이다. generous though it is는 though it is generous의 도치형 양보절이고, beyond which는 '그 시각을 넘어서면'으로 푼다.",
+   "keywords": [
+    {
+     "en": "avail oneself of",
+     "ko": "~을 이용하다"
+    },
+    {
+     "en": "bear in mind",
+     "ko": "유념하다"
+    },
+    {
+     "en": "privilege",
+     "ko": "특전, 혜택"
+    },
+    {
+     "en": "apply",
+     "ko": "적용되다"
+    }
+   ]
+  },
+  {
+   "en": "Effective the first of next month, any account left dormant for twelve consecutive months will incur a maintenance fee, a measure the bank maintains is necessary to offset rising administrative costs.",
+   "ko": "다음 달 1일부터 12개월 연속 거래가 없는 계좌에는 계좌 유지 수수료가 부과됩니다. 은행 측은 이것이 증가하는 관리 비용을 상쇄하기 위해 불가피한 조치라는 입장입니다.",
+   "point": "a measure (which) the bank maintains is necessary는 관계사절 안에 the bank maintains가 삽입된 연쇄 관계사절로, '은행이 필요하다고 주장하는 조치'로 해석한다.",
+   "keywords": [
+    {
+     "en": "effective",
+     "ko": "~부로 시행되는"
+    },
+    {
+     "en": "dormant",
+     "ko": "휴면 상태의"
+    },
+    {
+     "en": "incur",
+     "ko": "(비용을) 물게 되다"
+    },
+    {
+     "en": "offset",
+     "ko": "상쇄하다"
+    }
+   ]
+  },
+  {
+   "en": "Employees who have yet to update their credentials—a step the security team deems nothing short of indispensable—will find themselves locked out of the network come Monday morning, with no grace period to speak of.",
+   "ko": "보안팀이 그야말로 필수라고 보는 절차인 계정 정보 갱신을 아직 하지 않은 직원은 월요일 아침이 되면 이렇다 할 유예 기간도 없이 사내 네트워크 접속이 차단됩니다.",
+   "point": "have yet to는 '아직 ~하지 않았다'는 뜻이다. come Monday morning은 '월요일 아침이 오면'이라는 관용적 표현이고, nothing short of는 '그야말로 ~인'이라는 강조 표현이다.",
+   "keywords": [
+    {
+     "en": "have yet to",
+     "ko": "아직 ~하지 않다"
+    },
+    {
+     "en": "nothing short of",
+     "ko": "그야말로 ~인"
+    },
+    {
+     "en": "grace period",
+     "ko": "유예 기간"
+    },
+    {
+     "en": "lock out",
+     "ko": "접속을 차단하다"
+    }
+   ]
+  },
+  {
+   "en": "In an effort to alleviate rush-hour congestion, the transit authority will, as of Monday, be running express services at ten-minute intervals, a frequency hitherto reserved for holiday schedules.",
+   "ko": "출퇴근 시간대 혼잡을 완화하기 위해 교통공사는 월요일부터 급행열차를 10분 간격으로 운행합니다. 이는 지금까지 연휴 시간표에만 적용되던 배차 간격입니다.",
+   "point": "In an effort to는 '~하기 위한 노력의 일환으로', as of는 '~부로'라는 뜻이다. a frequency 이하는 앞 내용을 부연하는 동격 명사구이며 hitherto는 '지금까지'라는 격식 부사다.",
+   "keywords": [
+    {
+     "en": "alleviate",
+     "ko": "완화하다"
+    },
+    {
+     "en": "congestion",
+     "ko": "혼잡"
+    },
+    {
+     "en": "as of",
+     "ko": "~부로"
+    },
+    {
+     "en": "hitherto",
+     "ko": "지금까지"
+    }
+   ]
+  },
+  {
+   "en": "However inconvenient it may prove, parcels requiring a signature cannot, under the policy now in force, be left unattended at the door, nor can they be released to anyone other than the named recipient.",
+   "ko": "아무리 불편하시더라도 현행 규정상 서명이 필요한 소포는 문 앞에 두고 갈 수 없으며, 수취인 본인이 아닌 다른 사람에게 전달할 수도 없습니다.",
+   "point": "However + 형용사 + it may ~는 '아무리 ~하더라도'의 양보 구문이다. nor can they는 부정어 nor 뒤에서 주어와 조동사가 도치된 형태다.",
+   "keywords": [
+    {
+     "en": "in force",
+     "ko": "시행 중인"
+    },
+    {
+     "en": "unattended",
+     "ko": "지켜보는 사람 없이 방치된"
+    },
+    {
+     "en": "release",
+     "ko": "내어주다, 인도하다"
+    },
+    {
+     "en": "named recipient",
+     "ko": "지정 수취인"
+    }
+   ]
+  },
+  {
+   "en": "Enclosed you will find a revised statement reflecting the premium adjustment we discussed, along with a leaflet explaining, in what we hope is plain language, how the new deductible works.",
+   "ko": "말씀 나눈 보험료 조정 내역이 반영된 수정 명세서를 동봉하오니 확인하시기 바랍니다. 아울러 새로운 자기부담금 제도가 어떻게 운영되는지를 최대한 쉬운 말로 풀어 쓴 안내문도 함께 넣었습니다.",
+   "point": "Enclosed you will find는 보어 Enclosed가 문두로 나온 격식 서한의 관용적 도치다. in what we hope is plain language의 what절 안에 we hope가 삽입된 구조도 눈여겨봐야 한다.",
+   "keywords": [
+    {
+     "en": "enclosed",
+     "ko": "동봉된"
+    },
+    {
+     "en": "premium",
+     "ko": "보험료"
+    },
+    {
+     "en": "deductible",
+     "ko": "자기부담금"
+    },
+    {
+     "en": "leaflet",
+     "ko": "안내문, 전단"
+    }
+   ]
+  },
+  {
+   "en": "Residents who notice anything out of the ordinary—an unfamiliar vehicle idling at odd hours, say, or a door left ajar—are encouraged to err on the side of caution and alert the patrol rather than investigate on their own.",
+   "ko": "이를테면 이상한 시간에 시동을 건 채 서 있는 낯선 차량이나 반쯤 열려 있는 현관문처럼 평소와 다른 낌새를 발견한 주민께서는, 직접 확인하려 하지 마시고 신중을 기해 순찰대에 알려 주시기 바랍니다.",
+   "point": "err on the side of caution은 '신중한 쪽을 택하다'라는 관용구다. 대시 사이의 say는 '이를테면'이라는 뜻의 예시 삽입어로, 주어와 동사를 멀리 떨어뜨려 놓는다.",
+   "keywords": [
+    {
+     "en": "out of the ordinary",
+     "ko": "심상치 않은"
+    },
+    {
+     "en": "idle",
+     "ko": "(차가) 공회전하다"
+    },
+    {
+     "en": "ajar",
+     "ko": "조금 열린"
+    },
+    {
+     "en": "err on the side of caution",
+     "ko": "신중을 기하다"
+    }
+   ]
+  },
+  {
+   "en": "Impressive as your qualifications are by any measure, we have, after much deliberation, resolved to move forward with candidates whose experience aligns more closely with the demands of the role, and we do so with genuine regret.",
+   "ko": "귀하의 자질은 어느 모로 보나 훌륭하지만, 저희는 오랜 숙고 끝에 직무 요건에 경력이 더 부합하는 후보들과 절차를 진행하기로 결정했으며, 진심으로 아쉬운 마음을 전합니다.",
+   "point": "Impressive as your qualifications are는 형용사가 문두로 나온 양보 도치 구문으로 '~이기는 하지만'으로 해석한다. align with는 '~에 부합하다'라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "by any measure",
+     "ko": "어느 모로 보나"
+    },
+    {
+     "en": "deliberation",
+     "ko": "숙고"
+    },
+    {
+     "en": "resolve to",
+     "ko": "~하기로 결정하다"
+    },
+    {
+     "en": "align with",
+     "ko": "~에 부합하다"
+    }
+   ]
+  },
+  {
+   "en": "Vehicles found occupying spaces reserved for permit holders will be towed at the owner's expense, no exception being made for deliveries, visitors, or, for that matter, residents whose permits have expired.",
+   "ko": "허가증 소지자 전용 구역에 주차된 차량은 소유주 부담으로 견인되며, 배송 차량이든 방문객이든, 심지어 허가증이 만료된 입주민이라 해도 예외는 없습니다.",
+   "point": "no exception being made는 독립분사구문으로 '예외가 인정되지 않은 채'라는 뜻이다. for that matter는 '그 점에서라면 ~도 마찬가지'라는 관용구다.",
+   "keywords": [
+    {
+     "en": "at one's expense",
+     "ko": "~의 비용 부담으로"
+    },
+    {
+     "en": "tow",
+     "ko": "견인하다"
+    },
+    {
+     "en": "permit holder",
+     "ko": "허가증 소지자"
+    },
+    {
+     "en": "for that matter",
+     "ko": "그 점에선 ~도 마찬가지"
+    }
+   ]
+  },
+  {
+   "en": "Visitors are asked to refrain from flash photography, which, harmless as it may seem, accelerates the fading of pigments to a degree that decades of careful conservation cannot undo.",
+   "ko": "관람객께서는 플래시 촬영을 삼가 주시기 바랍니다. 무해해 보일지 몰라도 플래시는 수십 년의 정성 어린 보존 작업으로도 되돌릴 수 없을 만큼 안료의 퇴색을 앞당깁니다.",
+   "point": "harmless as it may seem은 양보 도치 삽입구다. to a degree that은 '~할 정도로'라는 뜻으로, 뒤의 cannot undo까지 이어지는 수식 범위를 잡아야 한다.",
+   "keywords": [
+    {
+     "en": "refrain from",
+     "ko": "삼가다"
+    },
+    {
+     "en": "pigment",
+     "ko": "안료"
+    },
+    {
+     "en": "conservation",
+     "ko": "보존"
+    },
+    {
+     "en": "undo",
+     "ko": "되돌리다"
+    }
+   ]
+  },
+  {
+   "en": "Should you wish to cancel before the renewal date, you need only visit the account settings page; there is, contrary to what some subscribers assume, no phone call to make, no form to fill out, and no fee to pay.",
+   "ko": "갱신일 전에 해지하고 싶으시면 계정 설정 페이지에 들어가시기만 하면 됩니다. 일부 구독자들의 짐작과 달리 전화를 걸 필요도, 서식을 작성할 필요도, 수수료를 낼 필요도 없습니다.",
+   "point": "Should you wish는 if 생략 도치 조건문이고, need only는 '~하기만 하면 된다'는 뜻이다. no A to do, no B to do, no C to do의 삼중 병렬 구조도 포인트다.",
+   "keywords": [
+    {
+     "en": "renewal",
+     "ko": "갱신"
+    },
+    {
+     "en": "need only",
+     "ko": "~하기만 하면 된다"
+    },
+    {
+     "en": "contrary to",
+     "ko": "~와 달리"
+    },
+    {
+     "en": "fill out",
+     "ko": "작성하다"
+    }
+   ]
+  },
+  {
+   "en": "So overwhelming was the response to our appeal for volunteers that we have been obliged to institute a waiting list—a predicament, if it can be called that, we are only too happy to find ourselves in.",
+   "ko": "자원봉사자 모집에 대한 호응이 어찌나 뜨거웠던지 부득이 대기자 명단까지 만들게 되었습니다. 이것을 곤경이라 부를 수 있다면, 저희로서는 더없이 반가운 곤경입니다.",
+   "point": "So + 형용사 + was + 주어 + that은 so ~ that 구문의 도치형이다. only too는 '더없이, 매우'라는 뜻으로 too를 부정적 의미로 오역하지 않아야 한다.",
+   "keywords": [
+    {
+     "en": "appeal",
+     "ko": "호소, 모집 공고"
+    },
+    {
+     "en": "institute",
+     "ko": "마련하다, 도입하다"
+    },
+    {
+     "en": "predicament",
+     "ko": "곤경"
+    },
+    {
+     "en": "only too",
+     "ko": "더없이"
+    }
+   ]
+  },
+  {
+   "en": "Patients are reminded that prescriptions phoned in after six in the evening will not, as a rule, be ready for collection until noon the following day, urgent cases excepted.",
+   "ko": "저녁 6시 이후 전화로 접수된 처방전은 원칙적으로 다음 날 정오는 되어야 수령하실 수 있다는 점을 다시 안내드립니다. 다만 긴급한 경우는 예외입니다.",
+   "point": "as a rule은 '원칙적으로, 대개'라는 관용구다. 문말의 urgent cases excepted는 '긴급 사례는 제외하고'라는 뜻의 분사구문식 축약 표현이다.",
+   "keywords": [
+    {
+     "en": "prescription",
+     "ko": "처방전"
+    },
+    {
+     "en": "phone in",
+     "ko": "전화로 접수하다"
+    },
+    {
+     "en": "as a rule",
+     "ko": "원칙적으로"
+    },
+    {
+     "en": "excepted",
+     "ko": "~은 제외하고"
+    }
+   ]
+  },
+  {
+   "en": "It is with no small measure of pride that we announce the establishment of a scholarship fund endowed entirely by alumni contributions, the first of its kind in the college's hundred-year history.",
+   "ko": "동문 기부만으로 조성된 장학 기금의 설립을 알려 드리게 되어 여간 자랑스럽지 않습니다. 이는 본교 100년 역사상 최초의 일입니다.",
+   "point": "It is ~ that 강조 구문이 with no small measure of pride라는 부사구를 강조하고 있다. no small은 '결코 작지 않은'이라는 완서법(이중부정) 표현이다.",
+   "keywords": [
+    {
+     "en": "no small",
+     "ko": "적지 않은"
+    },
+    {
+     "en": "endow",
+     "ko": "기금을 출연하다"
+    },
+    {
+     "en": "alumni",
+     "ko": "동문"
+    },
+    {
+     "en": "the first of its kind",
+     "ko": "그런 종류로는 최초"
+    }
+   ]
+  },
+  {
+   "en": "Tenants intending to renew are requested to give written notice no later than sixty days before the lease expires, failing which the unit will be deemed vacant and listed accordingly.",
+   "ko": "재계약을 원하시는 세입자께서는 늦어도 임대차 만료 60일 전까지 서면으로 통지해 주시기 바랍니다. 그렇지 않으면 해당 세대는 공실로 간주되어 그에 따라 매물로 등록됩니다.",
+   "point": "failing which는 '그렇게 하지 않으면'이라는 격식 표현으로, 앞 문장 전체를 조건으로 받는다. deem은 '~로 간주하다'라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "no later than",
+     "ko": "늦어도 ~까지"
+    },
+    {
+     "en": "failing which",
+     "ko": "그렇지 않으면"
+    },
+    {
+     "en": "deem",
+     "ko": "간주하다"
+    },
+    {
+     "en": "vacant",
+     "ko": "비어 있는"
+    }
+   ]
+  },
+  {
+   "en": "With a severe storm forecast to make landfall overnight, residents of low-lying districts would do well to move their vehicles to higher ground now rather than wait for an evacuation order that may come too late to act on.",
+   "ko": "밤사이 강력한 폭풍이 상륙할 것으로 예보된 만큼, 저지대 주민께서는 대응하기에 너무 늦게 내려질지도 모를 대피령을 기다리기보다 지금 차량을 고지대로 옮겨 두시는 편이 좋겠습니다.",
+   "point": "would do well to는 '~하는 것이 현명하다'는 완곡한 권고 표현이다. too late to act on은 to부정사의 의미상 목적어가 앞의 order인 구조까지 잡아야 한다.",
+   "keywords": [
+    {
+     "en": "make landfall",
+     "ko": "(폭풍이) 상륙하다"
+    },
+    {
+     "en": "low-lying",
+     "ko": "저지대의"
+    },
+    {
+     "en": "would do well to",
+     "ko": "~하는 게 좋다"
+    },
+    {
+     "en": "evacuation order",
+     "ko": "대피령"
+    }
+   ]
+  },
+  {
+   "en": "Regrettably, the open-air concert has been postponed until further notice, ticket holders being entitled either to a full refund or to priority seating at the rescheduled performance, whichever they prefer.",
+   "ko": "아쉽게도 야외 음악회는 추후 공지가 있을 때까지 연기되었습니다. 입장권 소지자께서는 전액 환불과 변경 공연 우선 좌석 배정 중 원하시는 쪽을 선택하실 수 있습니다.",
+   "point": "ticket holders being entitled는 독립분사구문으로 뒤에 부가 설명을 잇는 구조다. whichever they prefer는 '어느 쪽이든 원하는 대로'라는 복합관계사 표현이다.",
+   "keywords": [
+    {
+     "en": "until further notice",
+     "ko": "추후 공지가 있을 때까지"
+    },
+    {
+     "en": "postpone",
+     "ko": "연기하다"
+    },
+    {
+     "en": "priority seating",
+     "ko": "우선 좌석 배정"
+    },
+    {
+     "en": "whichever",
+     "ko": "어느 쪽이든"
+    }
+   ]
+  },
+  {
+   "en": "Please be advised that, unless you indicate otherwise by the end of the billing cycle, your current plan will convert automatically to the new tariff, the terms of which are set out in the attached schedule.",
+   "ko": "이번 청구 주기가 끝나기 전까지 별도의 의사를 밝히지 않으시면 현재 요금제는 새 요금 체계로 자동 전환됩니다. 새 요금제의 조건은 첨부된 약관표에 명시되어 있습니다.",
+   "point": "Please be advised that은 '~을 알려 드립니다'라는 공지문 상투구다. the terms of which는 앞의 tariff를 받아 '그것의 조건들'로 해석하는 소유격 관계사 구문이다.",
+   "keywords": [
+    {
+     "en": "indicate otherwise",
+     "ko": "다른 의사를 밝히다"
+    },
+    {
+     "en": "billing cycle",
+     "ko": "청구 주기"
+    },
+    {
+     "en": "tariff",
+     "ko": "요금표, 요금제"
+    },
+    {
+     "en": "set out",
+     "ko": "명시하다"
+    }
+   ]
+  },
+  {
+   "en": "Tenants wishing to keep a pet must first secure the landlord's written consent, a requirement that, routinely overlooked though it is, the management enforces to the letter whenever a complaint arises.",
+   "ko": "반려동물을 기르려는 세입자는 먼저 임대인의 서면 동의를 받아야 합니다. 이 요건은 흔히 간과되곤 하지만, 민원이 접수되는 순간 관리사무소는 이를 글자 그대로 엄격하게 적용합니다.",
+   "point": "routinely overlooked though it is는 though it is routinely overlooked의 도치형 양보 삽입절이다. to the letter는 '글자 그대로, 엄격히'라는 관용구다.",
+   "keywords": [
+    {
+     "en": "secure",
+     "ko": "확보하다, 받아 내다"
+    },
+    {
+     "en": "written consent",
+     "ko": "서면 동의"
+    },
+    {
+     "en": "overlook",
+     "ko": "간과하다"
+    },
+    {
+     "en": "to the letter",
+     "ko": "글자 그대로 엄격히"
+    }
+   ]
+  },
+  {
+   "en": "Items left unclaimed for thirty days will be donated to a local charity, the proceeds of which go toward the shelter's winter outreach program, so do check the lost-and-found cabinet before the month is out.",
+   "ko": "30일간 찾아가지 않은 물품은 지역 자선 단체에 기부되며, 그 수익금은 보호소의 겨울 지원 사업에 쓰입니다. 그러니 이달이 가기 전에 분실물 보관함을 꼭 확인해 보세요.",
+   "point": "the proceeds of which는 '그것의 수익금'이라는 소유격 관계사 구문이다. do check의 do는 동사를 강조하는 조동사로 '꼭 확인하라'는 어감을 만든다.",
+   "keywords": [
+    {
+     "en": "unclaimed",
+     "ko": "주인이 찾아가지 않은"
+    },
+    {
+     "en": "proceeds",
+     "ko": "수익금"
+    },
+    {
+     "en": "outreach",
+     "ko": "지원 활동"
+    },
+    {
+     "en": "before the month is out",
+     "ko": "이달이 가기 전에"
+    }
+   ]
+  },
+  {
+   "en": "Those keen to join the newly launched carpool scheme should register with the facilities office by Friday at the latest, on the understanding that routes, once finalized, cannot readily be redrawn to accommodate latecomers.",
+   "ko": "새로 도입된 카풀 제도에 참여하고 싶은 분은 늦어도 금요일까지 총무팀에 등록해 주시기 바랍니다. 다만 노선은 한번 확정되면 뒤늦게 신청한 분들에 맞춰 쉽게 조정할 수 없다는 점을 전제로 합니다.",
+   "point": "on the understanding that은 '~라는 전제하에'라는 관용 표현이다. once finalized는 once they are finalized의 주어와 be동사가 생략된 축약 분사구문이다.",
+   "keywords": [
+    {
+     "en": "keen to",
+     "ko": "~하고 싶어 하는"
+    },
+    {
+     "en": "on the understanding that",
+     "ko": "~라는 전제로"
+    },
+    {
+     "en": "at the latest",
+     "ko": "늦어도"
+    },
+    {
+     "en": "latecomer",
+     "ko": "뒤늦게 합류한 사람"
+    }
+   ]
+  },
+  {
+   "en": "We would be honored if you could join us in celebrating Ms. Park, who, over three decades of quietly exemplary service, has shaped this firm more profoundly than any title on her door ever suggested.",
+   "ko": "박 이사님을 축하하는 자리에 함께해 주신다면 더없는 영광이겠습니다. 이사님은 30년간 묵묵히 모범을 보이시며, 직함이 말해 주는 것 이상으로 깊이 이 회사를 만들어 오신 분입니다.",
+   "point": "would be honored if는 정중한 초대에 쓰이는 가정법 표현이다. who 계속적 용법 관계사절 안에 over three decades ~ 부사구가 삽입되어 주어와 동사 has shaped가 멀리 떨어져 있다.",
+   "keywords": [
+    {
+     "en": "be honored",
+     "ko": "영광이다"
+    },
+    {
+     "en": "exemplary",
+     "ko": "모범적인"
+    },
+    {
+     "en": "profoundly",
+     "ko": "깊이"
+    },
+    {
+     "en": "decade",
+     "ko": "10년"
+    }
+   ]
+  },
+  {
+   "en": "Hardly had the crews finished repairing the burst main when a second leak surfaced two blocks away, which is why, to our considerable embarrassment, the water supply must be shut off yet again on Thursday.",
+   "ko": "보수반이 파열된 본관 수리를 마치기가 무섭게 두 블록 떨어진 곳에서 또 다른 누수가 발견되었습니다. 대단히 송구하게도 목요일에 다시 한번 단수를 해야 하는 것은 이 때문입니다.",
+   "point": "Hardly had A when B는 'A하자마자 B했다'의 도치 구문이다. which is why는 앞 문장 전체를 받아 '그것이 ~한 이유다'로 잇는 계속적 용법이다.",
+   "keywords": [
+    {
+     "en": "hardly ~ when",
+     "ko": "~하자마자"
+    },
+    {
+     "en": "burst",
+     "ko": "파열된"
+    },
+    {
+     "en": "surface",
+     "ko": "드러나다, 발견되다"
+    },
+    {
+     "en": "shut off",
+     "ko": "차단하다"
+    }
+   ]
+  },
+  {
+   "en": "Plots left untended for two consecutive months will be reassigned, priority being given to applicants on the waiting list, many of whom have waited the better part of a year for a patch of their own.",
+   "ko": "두 달 연속 방치된 텃밭은 다른 분께 재배정되며, 대기 명단의 신청자들에게 우선권이 주어집니다. 이분들 중 상당수는 자기 텃밭 한 뙈기를 얻으려고 근 일 년을 기다려 왔습니다.",
+   "point": "priority being given은 독립분사구문이다. many of whom은 '그들 중 다수'라는 관계사 표현이고, the better part of는 '~의 대부분'이라는 관용구다.",
+   "keywords": [
+    {
+     "en": "untended",
+     "ko": "돌보지 않은"
+    },
+    {
+     "en": "reassign",
+     "ko": "재배정하다"
+    },
+    {
+     "en": "many of whom",
+     "ko": "그중 다수는"
+    },
+    {
+     "en": "the better part of",
+     "ko": "~의 대부분"
+    }
+   ]
+  },
+  {
+   "en": "The warranty extends to manufacturing defects alone; damage arising from misuse, however unintentional, falls squarely outside its scope, as does any repair attempted by an unauthorized technician.",
+   "ko": "품질 보증은 제조상 결함에만 적용됩니다. 사용상 부주의로 인한 손상은 고의가 아니었더라도 명백히 보증 범위 밖이며, 비공인 기사가 시도한 수리 역시 마찬가지입니다.",
+   "point": "however unintentional은 '아무리 고의가 아니었더라도'의 양보 삽입구다. as does any repair는 as + 조동사 + 주어의 도치로 '~도 마찬가지다'라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "warranty",
+     "ko": "품질 보증"
+    },
+    {
+     "en": "manufacturing defect",
+     "ko": "제조 결함"
+    },
+    {
+     "en": "squarely",
+     "ko": "명백히, 정면으로"
+    },
+    {
+     "en": "unauthorized",
+     "ko": "비공인의"
+    }
+   ]
+  },
+  {
+   "en": "Given that the private dining room seats no more than twelve, parties exceeding that number will be accommodated in the main hall, where, we should note, the set menu remains available but the chef's tasting course does not.",
+   "ko": "프라이빗 다이닝룸은 최대 12명까지만 수용할 수 있으므로, 이를 초과하는 일행은 메인 홀로 안내해 드립니다. 다만 메인 홀에서는 세트 메뉴는 주문 가능하지만 셰프 테이스팅 코스는 제공되지 않는다는 점을 말씀드립니다.",
+   "point": "Given that은 '~임을 감안하면'이라는 접속사구다. 문말의 but the chef's tasting course does not은 remains available의 반복을 피한 대동사 생략 구문이다.",
+   "keywords": [
+    {
+     "en": "given that",
+     "ko": "~임을 감안하면"
+    },
+    {
+     "en": "seat",
+     "ko": "(몇 명을) 수용하다"
+    },
+    {
+     "en": "accommodate",
+     "ko": "수용하다, 모시다"
+    },
+    {
+     "en": "no more than",
+     "ko": "~에 불과한, 최대 ~"
+    }
+   ]
+  },
+  {
+   "en": "Inconvenient though the week-long shutdown will undoubtedly prove, the elevators—both of them well past their intended service life—must be overhauled now if we are to avoid the far costlier prospect of an emergency failure.",
+   "ko": "일주일간의 운행 중단이 몹시 불편하리라는 것은 분명하지만, 두 대 모두 설계 수명을 훌쩍 넘긴 엘리베이터를 지금 전면 정비하지 않으면 훨씬 더 큰 비용이 드는 비상 고장 사태를 피할 수 없습니다.",
+   "point": "Inconvenient though ~ prove는 형용사가 문두로 나온 도치형 양보절이다. if we are to avoid는 '~을 피하려면'이라는 의도를 나타내는 be to 용법이다.",
+   "keywords": [
+    {
+     "en": "overhaul",
+     "ko": "전면 정비하다"
+    },
+    {
+     "en": "service life",
+     "ko": "사용 수명"
+    },
+    {
+     "en": "prospect",
+     "ko": "가능성, 전망"
+    },
+    {
+     "en": "be to do",
+     "ko": "~하려면, ~하기로 되어 있다"
+    }
+   ]
+  },
+  {
+   "en": "Only when the central bank conceded that inflation had become entrenched—an admission it had studiously avoided for the better part of a year—did markets begin to price in the prospect of prolonged monetary tightening.",
+   "ko": "물가 상승이 고착화됐다는 사실을 중앙은행이 인정하고 나서야—거의 1년 가까이 애써 피해 온 시인이었다—시장은 비로소 장기 긴축 가능성을 가격에 반영하기 시작했다.",
+   "point": "Only when절이 문두에 와서 주절이 did markets begin으로 도치된 구조. 대시 사이의 an admission은 앞 절 전체를 받는 동격 삽입구다.",
+   "keywords": [
+    {
+     "en": "entrenched",
+     "ko": "고착화된"
+    },
+    {
+     "en": "studiously avoid",
+     "ko": "애써 피하다"
+    },
+    {
+     "en": "price in",
+     "ko": "(시장이) 가격에 반영하다"
+    },
+    {
+     "en": "monetary tightening",
+     "ko": "통화 긴축"
+    }
+   ]
+  },
+  {
+   "en": "Far from alleviating the housing crunch, the government's latest package of subsidies has, in the view of many economists, merely inflated demand while leaving the chronic shortage of supply untouched.",
+   "ko": "정부의 최신 보조금 대책은 주택난을 완화하기는커녕, 많은 경제학자들이 보기에 만성적인 공급 부족은 그대로 둔 채 수요만 부풀려 놓았다.",
+   "point": "Far from -ing는 '~하기는커녕'의 뜻. has와 merely inflated 사이에 in the view of many economists가 삽입되어 동사구가 끊겨 있는 점에 유의한다.",
+   "keywords": [
+    {
+     "en": "far from -ing",
+     "ko": "~하기는커녕"
+    },
+    {
+     "en": "alleviate",
+     "ko": "완화하다"
+    },
+    {
+     "en": "housing crunch",
+     "ko": "주택난"
+    },
+    {
+     "en": "chronic shortage",
+     "ko": "만성적 부족"
+    }
+   ]
+  },
+  {
+   "en": "However well-intentioned the reform may be, its architects have yet to explain how a means-tested benefit can reach the very households that, by definition, are least equipped to navigate bureaucratic paperwork.",
+   "ko": "그 개혁의 취지가 아무리 좋다 한들, 설계자들은 선별 복지 급여가 정작 행정 서류를 처리할 능력이 가장 부족한 가구들에 어떻게 닿을 수 있는지 아직 설명하지 못하고 있다.",
+   "point": "However + 형용사 + 주어 + 동사는 '아무리 ~하더라도'의 양보 구문. the very households의 very는 '바로 그'라는 강조이며, have yet to는 '아직 ~하지 못했다'는 뜻이다.",
+   "keywords": [
+    {
+     "en": "well-intentioned",
+     "ko": "선의의, 취지가 좋은"
+    },
+    {
+     "en": "means-tested",
+     "ko": "(소득·자산) 선별 심사 방식의"
+    },
+    {
+     "en": "have yet to",
+     "ko": "아직 ~하지 않았다"
+    },
+    {
+     "en": "navigate",
+     "ko": "(복잡한 절차를) 헤쳐 나가다"
+    }
+   ]
+  },
+  {
+   "en": "It is not the technology itself but the opacity with which it is deployed that has provoked calls for regulation, since even the engineers who build these systems concede that their inner workings defy straightforward explanation.",
+   "ko": "규제 요구를 불러온 것은 기술 그 자체가 아니라 기술이 도입되는 과정의 불투명성이다. 이 시스템을 만드는 엔지니어들조차 그 내부 작동 방식은 명쾌한 설명이 불가능하다고 인정하기 때문이다.",
+   "point": "It is not A but B that... 강조 구문. the opacity with which it is deployed는 전치사+관계대명사 구조로, 원래 deploy it with opacity가 변형된 형태다.",
+   "keywords": [
+    {
+     "en": "opacity",
+     "ko": "불투명성"
+    },
+    {
+     "en": "deploy",
+     "ko": "배치하다, 도입하다"
+    },
+    {
+     "en": "provoke",
+     "ko": "촉발하다"
+    },
+    {
+     "en": "defy explanation",
+     "ko": "설명을 불허하다"
+    }
+   ]
+  },
+  {
+   "en": "Were it not for the remittances that migrant workers send home—flows that now dwarf official development aid—several developing economies would find their balance of payments in far more precarious shape.",
+   "ko": "이주 노동자들이 본국으로 보내는 송금—이제는 공적 개발 원조를 훨씬 웃도는 자금 흐름—이 없다면, 여러 개발도상국의 국제수지는 훨씬 더 위태로운 상황에 놓일 것이다.",
+   "point": "Were it not for는 If it were not for에서 if가 생략되며 도치된 가정법 과거 구문. dwarf는 동사로 '~을 왜소해 보이게 하다, 압도하다'라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "remittance",
+     "ko": "송금"
+    },
+    {
+     "en": "dwarf",
+     "ko": "~을 압도하다"
+    },
+    {
+     "en": "balance of payments",
+     "ko": "국제수지"
+    },
+    {
+     "en": "precarious",
+     "ko": "위태로운"
+    }
+   ]
+  },
+  {
+   "en": "Gig workers, the self-employed in name but dependent laborers in practice, occupy a legal gray zone that courts across the world are only now beginning to map with any consistency.",
+   "ko": "이름뿐인 자영업자일 뿐 실제로는 종속 노동자인 플랫폼 노동자들은 법의 사각지대에 놓여 있으며, 세계 각국 법원은 이제야 그 경계를 일관성 있게 그려 나가기 시작했다.",
+   "point": "주어 Gig workers 뒤 콤마 삽입구는 동격으로, in name(명목상)과 in practice(실제로)의 대비가 핵심이다. only now beginning은 '이제서야 비로소 시작한다'는 뉘앙스.",
+   "keywords": [
+    {
+     "en": "in name / in practice",
+     "ko": "명목상 / 실제로"
+    },
+    {
+     "en": "gray zone",
+     "ko": "사각지대, 회색 지대"
+    },
+    {
+     "en": "self-employed",
+     "ko": "자영업자"
+    },
+    {
+     "en": "consistency",
+     "ko": "일관성"
+    }
+   ]
+  },
+  {
+   "en": "So deeply has the rhetoric of meritocracy penetrated public discourse that policies favoring the already privileged are routinely defended as rewards for talent rather than accidents of birth.",
+   "ko": "능력주의 수사가 공론장에 워낙 깊숙이 스며든 탓에, 이미 특권을 가진 이들에게 유리한 정책들이 출생의 우연이 아니라 재능에 대한 보상이라며 으레 옹호되곤 한다.",
+   "point": "so ~ that 구문의 so deeply가 문두로 나오면서 has the rhetoric penetrated로 조동사 도치가 일어났다. A rather than B(B가 아니라 A)의 대비도 놓치지 말 것.",
+   "keywords": [
+    {
+     "en": "meritocracy",
+     "ko": "능력주의"
+    },
+    {
+     "en": "penetrate",
+     "ko": "스며들다, 침투하다"
+    },
+    {
+     "en": "public discourse",
+     "ko": "공론장, 공적 담론"
+    },
+    {
+     "en": "accident of birth",
+     "ko": "출생의 우연"
+    }
+   ]
+  },
+  {
+   "en": "Having saturated their domestic markets, the major streaming platforms are now locked in a costly scramble for overseas subscribers, bankrolling local productions whose appeal, they hope, will transcend borders.",
+   "ko": "국내 시장이 포화 상태에 이르자, 주요 스트리밍 플랫폼들은 이제 해외 구독자를 잡기 위한 값비싼 쟁탈전에 갇힌 채, 국경을 넘어 통하기를 바라며 현지 제작 콘텐츠에 돈을 쏟아붓고 있다.",
+   "point": "Having saturated는 주절보다 앞선 시점을 나타내는 완료형 분사구문. whose appeal과 will transcend 사이에 they hope가 삽입된 구조에 유의한다.",
+   "keywords": [
+    {
+     "en": "saturate",
+     "ko": "포화시키다"
+    },
+    {
+     "en": "scramble",
+     "ko": "쟁탈전"
+    },
+    {
+     "en": "bankroll",
+     "ko": "자금을 대다"
+    },
+    {
+     "en": "transcend",
+     "ko": "초월하다, 뛰어넘다"
+    }
+   ]
+  },
+  {
+   "en": "Not until insurers began withdrawing coverage from flood-prone regions did the financial costs of climate change register with a public long accustomed to treating it as a distant abstraction.",
+   "ko": "보험사들이 침수 위험 지역에서 보장을 철회하기 시작하고 나서야, 기후변화를 먼 나라 이야기쯤으로 여기는 데 익숙해 있던 대중에게 그 금전적 비용이 실감되기 시작했다.",
+   "point": "Not until A did B는 'A하고 나서야 비로소 B했다'는 도치 구문. a public long accustomed to -ing에서 long은 '오랫동안'이라는 부사다.",
+   "keywords": [
+    {
+     "en": "withdraw coverage",
+     "ko": "(보험) 보장을 철회하다"
+    },
+    {
+     "en": "flood-prone",
+     "ko": "침수가 잦은"
+    },
+    {
+     "en": "register with",
+     "ko": "~에게 실감되다, 와닿다"
+    },
+    {
+     "en": "abstraction",
+     "ko": "추상적 관념"
+    }
+   ]
+  },
+  {
+   "en": "What critics of gentrification frequently overlook is that the displacement they lament stems less from the arrival of affluent newcomers than from decades of zoning rules that choked off new construction.",
+   "ko": "젠트리피케이션 비판론자들이 자주 간과하는 것은, 그들이 개탄하는 원주민 밀려남 현상이 부유한 신규 유입층의 등장보다는 수십 년간 신규 건설을 옥죄어 온 용도지역 규제에서 비롯된다는 점이다.",
+   "point": "What절이 주어인 'What ... overlook is that ...' 구조. stems less from A than from B는 '(원인이) A라기보다 B'라는 비교 구문이다.",
+   "keywords": [
+    {
+     "en": "displacement",
+     "ko": "(원주민의) 밀려남, 이주"
+    },
+    {
+     "en": "lament",
+     "ko": "개탄하다"
+    },
+    {
+     "en": "stem from",
+     "ko": "~에서 비롯되다"
+    },
+    {
+     "en": "choke off",
+     "ko": "옥죄어 막다"
+    },
+    {
+     "en": "zoning",
+     "ko": "용도지역 규제"
+    }
+   ]
+  },
+  {
+   "en": "The tariffs, ostensibly imposed to shield domestic manufacturers, have in practice raised input costs for the very firms they were meant to protect, a paradox that trade economists had predicted from the outset.",
+   "ko": "명목상으로는 국내 제조업체 보호를 위해 부과된 관세가 실제로는 보호 대상이던 바로 그 기업들의 원가 부담만 키웠는데, 이는 무역 경제학자들이 처음부터 예견했던 역설이다.",
+   "point": "ostensibly(표면상)와 in practice(실제로)의 대비가 문장의 축이다. 문미의 a paradox 이하는 앞 절 전체를 받는 동격 명사구.",
+   "keywords": [
+    {
+     "en": "ostensibly",
+     "ko": "표면상으로는"
+    },
+    {
+     "en": "tariff",
+     "ko": "관세"
+    },
+    {
+     "en": "input costs",
+     "ko": "투입 비용, 원가"
+    },
+    {
+     "en": "from the outset",
+     "ko": "처음부터"
+    }
+   ]
+  },
+  {
+   "en": "Policymakers are treading carefully lest an abrupt withdrawal of stimulus tip the fragile recovery into outright recession, though their caution carries risks of its own, inflation chief among them.",
+   "ko": "정책 당국은 경기부양책을 갑작스레 거둬들였다가 취약한 회복세가 본격적인 침체로 곤두박질칠까 조심스럽게 움직이고 있지만, 그런 신중함에도 나름의 위험이 따르며 그중 으뜸은 인플레이션이다.",
+   "point": "lest + 주어 + (should) 동사원형은 '~하지 않도록'의 뜻으로, tip이 원형인 이유가 여기에 있다. inflation chief among them은 '그중 으뜸은 인플레이션'이라는 압축 삽입구.",
+   "keywords": [
+    {
+     "en": "tread carefully",
+     "ko": "신중하게 움직이다"
+    },
+    {
+     "en": "lest",
+     "ko": "~하지 않도록"
+    },
+    {
+     "en": "tip A into B",
+     "ko": "A를 B로 기울게 하다"
+    },
+    {
+     "en": "outright",
+     "ko": "전면적인, 완전한"
+    },
+    {
+     "en": "chief among them",
+     "ko": "그중 으뜸은"
+    }
+   ]
+  },
+  {
+   "en": "As is often the case with moral panics, the alarm over online misinformation has outpaced the evidence, with researchers still divided over whether falsehoods change minds or merely harden convictions already held.",
+   "ko": "도덕적 공황이 으레 그렇듯, 온라인 허위 정보를 둘러싼 경보음은 근거를 앞질러 버렸다. 거짓 정보가 실제로 생각을 바꾸는지, 아니면 이미 갖고 있던 신념을 굳힐 뿐인지를 두고 연구자들의 견해는 여전히 갈린다.",
+   "point": "As is often the case with는 '~가 흔히 그렇듯'이라는 관용 표현. with researchers still divided는 부대상황을 나타내는 with 구문이다.",
+   "keywords": [
+    {
+     "en": "as is often the case with",
+     "ko": "~가 흔히 그렇듯"
+    },
+    {
+     "en": "moral panic",
+     "ko": "도덕적 공황"
+    },
+    {
+     "en": "outpace",
+     "ko": "앞지르다"
+    },
+    {
+     "en": "harden convictions",
+     "ko": "신념을 굳히다"
+    }
+   ]
+  },
+  {
+   "en": "The repatriation debate is not so much a quarrel over particular artifacts as a reckoning with the colonial provenance of entire collections, which is why piecemeal returns have done little to quiet it.",
+   "ko": "문화재 반환 논쟁은 개별 유물을 둘러싼 다툼이라기보다 소장품 전체의 식민지적 출처를 청산하는 문제이며, 바로 그렇기에 찔끔찔끔 이루어지는 반환으로는 논란이 좀처럼 가라앉지 않는 것이다.",
+   "point": "not so much A as B는 'A라기보다는 B'라는 관용 구문. which is why는 앞 내용 전체를 선행사로 받아 '바로 그 때문에 ~'로 이어진다.",
+   "keywords": [
+    {
+     "en": "repatriation",
+     "ko": "(문화재) 반환, 송환"
+    },
+    {
+     "en": "reckoning",
+     "ko": "청산, 결산"
+    },
+    {
+     "en": "provenance",
+     "ko": "출처, 유래"
+    },
+    {
+     "en": "piecemeal",
+     "ko": "단편적인, 찔끔찔끔의"
+    }
+   ]
+  },
+  {
+   "en": "Hardly had regulators finished drafting rules for one corner of the crypto market when innovation—or, as skeptics would have it, regulatory arbitrage—rendered their framework obsolete.",
+   "ko": "규제 당국이 가상자산 시장 한 귀퉁이에 대한 규정 초안을 마무리하기가 무섭게, 혁신이—회의론자들 말대로라면 규제 회피가—그 규제 틀을 무용지물로 만들어 버렸다.",
+   "point": "Hardly had A when B는 'A하자마자 B했다'는 과거완료 도치 구문. as skeptics would have it은 '회의론자들의 표현을 빌리면'이라는 삽입 관용구다.",
+   "keywords": [
+    {
+     "en": "regulatory arbitrage",
+     "ko": "규제 차익 거래, 규제 회피"
+    },
+    {
+     "en": "render obsolete",
+     "ko": "무용지물로 만들다"
+    },
+    {
+     "en": "as ~ would have it",
+     "ko": "~의 말을 빌리면"
+    },
+    {
+     "en": "draft",
+     "ko": "초안을 작성하다"
+    }
+   ]
+  },
+  {
+   "en": "The country's factories increasingly depend on workers past retirement age, many of whom, their pensions eroded by inflation, have little choice but to stay on the assembly line well into their seventies.",
+   "ko": "이 나라 공장들은 갈수록 정년을 넘긴 노동자들에게 의존하고 있는데, 그들 중 상당수는 연금이 인플레이션에 잠식된 탓에 일흔이 넘도록 조립 라인에 남는 것 외에 달리 선택지가 없다.",
+   "point": "many of whom은 전치사+관계대명사의 계속적 용법. their pensions eroded by inflation은 이유를 나타내는 독립분사구문(절대구문)이다.",
+   "keywords": [
+    {
+     "en": "past retirement age",
+     "ko": "정년을 넘긴"
+    },
+    {
+     "en": "erode",
+     "ko": "잠식하다, 갉아먹다"
+    },
+    {
+     "en": "have little choice but to",
+     "ko": "~하는 수밖에 없다"
+    },
+    {
+     "en": "well into one's seventies",
+     "ko": "일흔을 훌쩍 넘겨서까지"
+    }
+   ]
+  },
+  {
+   "en": "Such is the concentration of wealth at the very top that the fortunes of a few hundred individuals now sway philanthropy, politics, and even the direction of scientific research.",
+   "ko": "최상위층으로의 부의 쏠림이 어찌나 심한지, 이제 수백 명의 재산이 자선사업과 정치, 심지어 과학 연구의 방향까지 좌우한다.",
+   "point": "Such is A that B는 'A가 어찌나 대단한지 B하다'는 도치 구문으로 So great is A that B와 같은 뜻. sway는 타동사로 '좌우하다'.",
+   "keywords": [
+    {
+     "en": "concentration of wealth",
+     "ko": "부의 집중"
+    },
+    {
+     "en": "fortune",
+     "ko": "재산"
+    },
+    {
+     "en": "sway",
+     "ko": "좌우하다"
+    },
+    {
+     "en": "philanthropy",
+     "ko": "자선사업"
+    }
+   ]
+  },
+  {
+   "en": "Granted, a universal basic income would be ruinously expensive as conventionally costed, but its advocates counter that such estimates ignore the savings from dismantling overlapping welfare bureaucracies.",
+   "ko": "물론 기본소득은 통상적인 방식으로 비용을 계산하면 감당 못 할 만큼 비싸지만, 옹호론자들은 그런 추산이 중복된 복지 행정을 정리해서 얻는 절감분을 무시한 것이라고 반박한다.",
+   "point": "문두의 Granted는 '물론 ~임을 인정하지만'이라는 양보 표현. as conventionally costed는 as it is conventionally costed의 축약형이다.",
+   "keywords": [
+    {
+     "en": "granted",
+     "ko": "물론 ~이지만"
+    },
+    {
+     "en": "ruinously expensive",
+     "ko": "감당 못 할 만큼 비싼"
+    },
+    {
+     "en": "counter",
+     "ko": "반박하다"
+    },
+    {
+     "en": "dismantle",
+     "ko": "해체하다, 정리하다"
+    }
+   ]
+  },
+  {
+   "en": "No sooner had the scandal broken than sponsors began severing ties, a reflex that says less about corporate conscience than about the actuarial logic of brand management.",
+   "ko": "스캔들이 터지기가 무섭게 후원사들이 줄줄이 손을 끊기 시작했는데, 이 반사적인 움직임은 기업의 양심보다는 브랜드 관리라는 계산적 논리를 보여 줄 뿐이다.",
+   "point": "No sooner had A than B는 'A하자마자 B했다'는 도치 구문. says less about A than about B는 'A보다 B를 더 잘 말해 준다'는 비교 표현이다.",
+   "keywords": [
+    {
+     "en": "break (of a scandal)",
+     "ko": "(스캔들이) 터지다"
+    },
+    {
+     "en": "sever ties",
+     "ko": "관계를 끊다"
+    },
+    {
+     "en": "reflex",
+     "ko": "반사적 반응"
+    },
+    {
+     "en": "actuarial",
+     "ko": "보험계리적인, 계산적인"
+    }
+   ]
+  },
+  {
+   "en": "That serious journalism should now depend on the patronage of billionaires is an irony not lost on reporters whose beat includes scrutinizing those very benefactors.",
+   "ko": "진지한 저널리즘이 이제 억만장자들의 후원에 기대야 한다는 사실은, 바로 그 후원자들을 감시하는 일이 취재 영역인 기자들로서는 모를 리 없는 아이러니다.",
+   "point": "That절 전체가 주어이며, should는 놀라움·유감을 담는 감정의 should. not lost on은 '~가 놓치지 않는, ~도 잘 아는'이라는 관용 표현이다.",
+   "keywords": [
+    {
+     "en": "patronage",
+     "ko": "후원"
+    },
+    {
+     "en": "not lost on",
+     "ko": "~도 모르지 않는"
+    },
+    {
+     "en": "beat",
+     "ko": "(기자의) 담당 취재 분야"
+    },
+    {
+     "en": "scrutinize",
+     "ko": "면밀히 감시하다"
+    },
+    {
+     "en": "benefactor",
+     "ko": "후원자"
+    }
+   ]
+  },
+  {
+   "en": "With just-in-time logistics having proved brittle under stress, manufacturers are quietly rebuilding inventories and reshoring production, efficiency yielding, for the first time in decades, to resilience.",
+   "ko": "적기 공급 물류가 위기 상황에서 얼마나 취약한지 드러나자, 제조업체들은 조용히 재고를 다시 쌓고 생산 시설을 본국으로 되돌리고 있다. 수십 년 만에 처음으로 효율이 회복탄력성에 자리를 내주고 있는 것이다.",
+   "point": "With + 명사 + having p.p.는 이유·배경을 나타내는 부대상황 구문. 문미의 efficiency yielding ... to resilience는 독립분사구문으로, yield to는 '~에 자리를 내주다'.",
+   "keywords": [
+    {
+     "en": "just-in-time",
+     "ko": "적기 공급(JIT) 방식의"
+    },
+    {
+     "en": "brittle",
+     "ko": "잘 부서지는, 취약한"
+    },
+    {
+     "en": "reshore",
+     "ko": "(생산을) 본국으로 되돌리다"
+    },
+    {
+     "en": "yield to",
+     "ko": "~에 자리를 내주다"
+    },
+    {
+     "en": "resilience",
+     "ko": "회복탄력성"
+    }
+   ]
+  },
+  {
+   "en": "Fears that remote work would gut productivity have largely failed to materialize; if anything, the data suggest that the greater casualty has been the informal mentoring on which junior employees once relied.",
+   "ko": "재택근무가 생산성을 무너뜨릴 것이라는 우려는 대체로 현실화되지 않았다. 오히려 데이터를 보면 더 큰 희생양은 신입 직원들이 기대 온 비공식적 멘토링이었음이 드러난다.",
+   "point": "if anything은 '오히려, 굳이 말하자면'이라는 삽입 표현. on which junior employees once relied는 rely on의 전치사가 관계대명사 앞으로 이동한 구조다.",
+   "keywords": [
+    {
+     "en": "gut",
+     "ko": "속을 도려내다, 무너뜨리다"
+    },
+    {
+     "en": "materialize",
+     "ko": "현실화되다"
+    },
+    {
+     "en": "if anything",
+     "ko": "오히려"
+    },
+    {
+     "en": "casualty",
+     "ko": "희생(자), 피해"
+    }
+   ]
+  },
+  {
+   "en": "Much as local economies crave the revenue that mass tourism brings, residents of Europe's most-visited cities have begun to ask whether the crowds are hollowing out the very neighborhoods visitors come to see.",
+   "ko": "지역 경제가 대중 관광이 가져다주는 수입을 간절히 원하는 것은 사실이지만, 유럽에서 관광객이 가장 많이 찾는 도시들의 주민들은 그 인파가 정작 관광객들이 보러 오는 동네들을 텅 비게 만들고 있는 것은 아닌지 묻기 시작했다.",
+   "point": "Much as는 '~이긴 하지만'이라는 양보 접속사. hollow out은 '속을 비게 하다, 공동화시키다'이며 the very neighborhoods의 very는 강조 용법이다.",
+   "keywords": [
+    {
+     "en": "much as",
+     "ko": "~이긴 하지만"
+    },
+    {
+     "en": "crave",
+     "ko": "갈망하다"
+    },
+    {
+     "en": "hollow out",
+     "ko": "공동화시키다"
+    },
+    {
+     "en": "mass tourism",
+     "ko": "대중 관광"
+    }
+   ]
+  },
+  {
+   "en": "Only by overhauling permitting rules, grid infrastructure, and storage capacity in tandem can governments hope to translate their headline renewable-energy pledges into electrons actually delivered.",
+   "ko": "인허가 제도와 송전망 인프라, 저장 용량을 동시에 손봐야만 각국 정부는 요란하게 내건 재생에너지 공약을 실제로 공급되는 전기로 바꿔 낼 수 있다.",
+   "point": "Only by -ing가 문두에 와서 can governments hope로 도치가 일어났다. in tandem은 '동시에, 나란히'라는 관용구.",
+   "keywords": [
+    {
+     "en": "overhaul",
+     "ko": "전면 개편하다"
+    },
+    {
+     "en": "in tandem",
+     "ko": "동시에, 나란히"
+    },
+    {
+     "en": "headline pledge",
+     "ko": "간판으로 내건 공약"
+    },
+    {
+     "en": "translate A into B",
+     "ko": "A를 B로 바꿔 내다"
+    }
+   ]
+  },
+  {
+   "en": "It is tempting to read the antitrust crackdown as a return to trust-busting tradition, but today's regulators confront platforms whose services are free, complicating the consumer-harm standard on which a century of doctrine rests.",
+   "ko": "이번 반독점 단속을 과거 독점 해체 전통으로의 회귀로 읽고 싶어지지만, 오늘날 규제 당국이 상대하는 플랫폼들은 서비스가 무료여서, 한 세기 동안 법리가 기대 온 소비자 피해 기준 자체가 꼬여 버린다.",
+   "point": "It is tempting to read A as B는 'A를 B로 해석하고 싶어진다'는 표현. complicating 이하는 앞 절 전체를 의미상 주어로 하는 분사구문이다.",
+   "keywords": [
+    {
+     "en": "antitrust crackdown",
+     "ko": "반독점 단속"
+    },
+    {
+     "en": "trust-busting",
+     "ko": "독점 해체"
+    },
+    {
+     "en": "doctrine",
+     "ko": "법리, 원칙"
+    },
+    {
+     "en": "rest on",
+     "ko": "~에 기초하다"
+    }
+   ]
+  },
+  {
+   "en": "The admissions overhaul introduces a lottery whereby applicants clearing a baseline threshold are selected at random, a mechanism designed to blunt the advantages that expensive private tutoring confers.",
+   "ko": "이번 입시 개편은 기준선을 통과한 지원자들을 무작위로 뽑는 추첨제를 도입하는데, 이는 고액 사교육이 안겨 주는 이점을 무디게 하려고 고안된 장치다.",
+   "point": "whereby는 by which와 같은 뜻으로 '그것을 통해 ~하는'. a mechanism 이하는 앞의 추첨제 전체를 받는 동격 명사구다.",
+   "keywords": [
+    {
+     "en": "whereby",
+     "ko": "그것을 통해 ~하는"
+    },
+    {
+     "en": "threshold",
+     "ko": "기준선, 문턱"
+    },
+    {
+     "en": "blunt",
+     "ko": "무디게 하다"
+    },
+    {
+     "en": "confer",
+     "ko": "(이점 등을) 부여하다"
+    },
+    {
+     "en": "private tutoring",
+     "ko": "사교육"
+    }
+   ]
+  },
+  {
+   "en": "Street food, at once humble in origin and newly fashionable among gastronomes, has become a battleground where debates over authenticity, hygiene regulation, and cultural ownership converge.",
+   "ko": "출신은 소박하지만 미식가들 사이에서 새삼 각광받는 길거리 음식은, 정통성과 위생 규제, 문화적 소유권을 둘러싼 논쟁이 한데 모이는 각축장이 되었다.",
+   "point": "at once A and B는 'A이면서 동시에 B'라는 관용 표현으로 주어 뒤에 삽입돼 있다. where 이하는 battleground를 꾸미는 관계부사절.",
+   "keywords": [
+    {
+     "en": "at once A and B",
+     "ko": "A이면서 동시에 B인"
+    },
+    {
+     "en": "gastronome",
+     "ko": "미식가"
+    },
+    {
+     "en": "authenticity",
+     "ko": "정통성, 진정성"
+    },
+    {
+     "en": "converge",
+     "ko": "한데 모이다"
+    }
+   ]
+  },
+  {
+   "en": "For all its promise of connection, social media has, by most credible measures, coincided with a documented rise in adolescent loneliness—a correlation that researchers hasten to add is not yet proof of causation.",
+   "ko": "연결을 약속했음에도 불구하고, 신뢰할 만한 지표 대부분에서 소셜미디어의 확산은 청소년 외로움의 뚜렷한 증가와 맞물려 왔다. 다만 연구자들은 이 상관관계가 아직 인과관계의 증거는 아니라고 서둘러 덧붙인다.",
+   "point": "For all은 '~에도 불구하고'라는 전치사구. that researchers hasten to add is not...은 관계대명사절 안에 researchers hasten to add가 삽입된 이중 구조다.",
+   "keywords": [
+    {
+     "en": "for all",
+     "ko": "~에도 불구하고"
+    },
+    {
+     "en": "coincide with",
+     "ko": "~와 맞물리다"
+    },
+    {
+     "en": "correlation",
+     "ko": "상관관계"
+    },
+    {
+     "en": "causation",
+     "ko": "인과관계"
+    },
+    {
+     "en": "hasten to add",
+     "ko": "서둘러 덧붙이다"
+    }
+   ]
+  },
+  {
+   "en": "Young couples are postponing parenthood less because they disdain family life than because housing, childcare, and job security—the tripod on which such decisions rest—have all grown wobblier at once.",
+   "ko": "젊은 부부들이 출산을 미루는 것은 가정을 꾸리기 싫어서라기보다, 그런 결정을 떠받치는 세 다리인 주거와 보육, 고용 안정이 한꺼번에 흔들리고 있기 때문이다.",
+   "point": "less because A than because B는 '이유가 A라기보다 B'라는 비교 구문. 대시 사이의 the tripod on which such decisions rest는 앞의 세 명사를 받는 은유적 동격이다.",
+   "keywords": [
+    {
+     "en": "postpone",
+     "ko": "미루다"
+    },
+    {
+     "en": "disdain",
+     "ko": "경멸하다, 꺼리다"
+    },
+    {
+     "en": "tripod",
+     "ko": "삼각대, 세 축"
+    },
+    {
+     "en": "wobbly",
+     "ko": "흔들리는, 불안정한"
+    }
+   ]
+  },
+  {
+   "en": "Nowhere is the widening gulf between rich and poor more visible than in the capital's skyline, where luxury towers rise beside aging tenements whose residents fear the wrecking ball more than the landlord.",
+   "ko": "빈부 격차의 확대가 수도의 스카이라인에서보다 더 또렷이 보이는 곳은 없다. 그곳에서는 호화 타워들이 낡은 연립주택들 옆에 솟아 있고, 그 주민들은 집주인보다 철거를 더 두려워한다.",
+   "point": "Nowhere is A more visible than B는 부정어 문두 도치로, 'B에서만큼 A가 잘 보이는 곳은 없다'는 최상급 의미를 만든다. whose residents는 소유격 관계대명사.",
+   "keywords": [
+    {
+     "en": "gulf",
+     "ko": "(큰) 격차"
+    },
+    {
+     "en": "tenement",
+     "ko": "(낡은) 공동주택"
+    },
+    {
+     "en": "wrecking ball",
+     "ko": "철거용 쇳덩이, 철거"
+    },
+    {
+     "en": "nowhere ~ more ~ than",
+     "ko": "~에서보다 더 ~한 곳은 없다"
+    }
+   ]
+  },
+  {
+   "en": "Union membership is climbing again, albeit from a historic low, as a generation raised on precarious contracts discovers that collective bargaining, long dismissed as a relic, retains its old leverage.",
+   "ko": "노조 가입률이 다시 오르고 있다. 역대 최저치에서 출발한 반등이긴 하지만, 불안정한 계약에 길들여진 세대가 한물간 유물로 치부되던 단체교섭이 여전히 예전의 협상력을 지니고 있음을 깨달으면서다.",
+   "point": "albeit는 '비록 ~이긴 하지만'으로 구를 이끄는 양보 표현. long dismissed as a relic은 collective bargaining을 꾸미는 과거분사구 삽입이다.",
+   "keywords": [
+    {
+     "en": "albeit",
+     "ko": "비록 ~이긴 하지만"
+    },
+    {
+     "en": "precarious",
+     "ko": "불안정한"
+    },
+    {
+     "en": "collective bargaining",
+     "ko": "단체교섭"
+    },
+    {
+     "en": "relic",
+     "ko": "유물, 시대에 뒤떨어진 것"
+    },
+    {
+     "en": "leverage",
+     "ko": "협상력, 지렛대"
+    }
+   ]
+  },
+  {
+   "en": "Should the pension fund's returns fall short of projections for a third consecutive year, the government will face an unenviable choice between raising contributions, curbing benefits, and quietly deferring the reckoning to future taxpayers.",
+   "ko": "연기금 수익률이 3년 연속 목표치에 못 미친다면, 정부는 보험료 인상과 급여 삭감, 아니면 그 청구서를 미래 납세자들에게 슬그머니 미루는 것 사이에서 달갑지 않은 선택을 해야 할 것이다.",
+   "point": "Should the ... fall은 If the ... should fall에서 if가 생략되고 도치된 가정법 구문. unenviable은 '부러워할 수 없는', 즉 '달갑지 않은'이라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "fall short of",
+     "ko": "~에 못 미치다"
+    },
+    {
+     "en": "unenviable",
+     "ko": "달갑지 않은"
+    },
+    {
+     "en": "curb",
+     "ko": "억제하다, 줄이다"
+    },
+    {
+     "en": "defer",
+     "ko": "미루다"
+    },
+    {
+     "en": "reckoning",
+     "ko": "청산의 순간, 심판"
+    }
+   ]
+  },
+  {
+   "en": "The charge of cultural appropriation is persuasive insofar as it targets profiteering that bypasses the source community, but it grows harder to sustain when leveled at the ordinary borrowing through which cultures have always renewed themselves.",
+   "ko": "문화 전유라는 비판은 원류 공동체를 배제한 채 이윤만 챙기는 행태를 겨냥할 때는 설득력이 있지만, 문화가 언제나 스스로를 새롭게 해 온 일상적인 차용에까지 들이대면 유지되기 어려워진다.",
+   "point": "insofar as는 '~하는 한에서는'이라는 한정 표현. when leveled at은 when it is leveled at의 축약으로, level A at B(비판 A를 B에 겨누다)의 수동형이다.",
+   "keywords": [
+    {
+     "en": "cultural appropriation",
+     "ko": "문화 전유"
+    },
+    {
+     "en": "insofar as",
+     "ko": "~하는 한에서는"
+    },
+    {
+     "en": "profiteering",
+     "ko": "부당 이득 취하기"
+    },
+    {
+     "en": "level (a charge) at",
+     "ko": "(비판을) ~에 겨누다"
+    }
+   ]
+  },
+  {
+   "en": "The extent to which hiring algorithms merely automate the prejudices buried in their training data, rather than transcend them, remains an open question that vendors have little commercial incentive to answer honestly.",
+   "ko": "채용 알고리즘이 편견을 뛰어넘기는커녕 학습 데이터에 묻힌 편견을 그대로 자동화하는 데 그치는 정도가 어디까지인지는 여전히 풀리지 않은 문제이며, 판매 업체들로서는 이에 솔직히 답할 상업적 유인이 거의 없다.",
+   "point": "The extent to which ...가 통째로 주어이고 동사는 remains. rather than transcend them이 중간에 삽입되어 주어부가 길어진 점에 유의한다.",
+   "keywords": [
+    {
+     "en": "the extent to which",
+     "ko": "~하는 정도"
+    },
+    {
+     "en": "prejudice",
+     "ko": "편견"
+    },
+    {
+     "en": "open question",
+     "ko": "미해결 문제"
+    },
+    {
+     "en": "incentive",
+     "ko": "유인, 동기"
+    }
+   ]
+  },
+  {
+   "en": "Central to the city's success in curbing the outbreak was an unglamorous investment in contact tracing, proof that public health victories are won less by breakthroughs than by logistics.",
+   "ko": "이 도시가 감염병 확산을 잡는 데 성공한 비결의 중심에는 화려할 것 없는 접촉자 추적 투자가 있었다. 공중보건의 승리는 획기적 발견보다 실행 체계로 얻어진다는 사실을 보여 주는 증거다.",
+   "point": "Central to A was B는 보어가 문두로 나온 도치 구문으로 'A의 중심에는 B가 있었다'. proof that 이하는 앞 내용 전체를 받는 동격이다.",
+   "keywords": [
+    {
+     "en": "central to",
+     "ko": "~의 중심에 있는"
+    },
+    {
+     "en": "curb",
+     "ko": "억제하다"
+    },
+    {
+     "en": "unglamorous",
+     "ko": "화려하지 않은"
+    },
+    {
+     "en": "contact tracing",
+     "ko": "접촉자 추적"
+    },
+    {
+     "en": "breakthrough",
+     "ko": "획기적 발전"
+    }
+   ]
+  },
+  {
+   "en": "Not only have semiconductor subsidies blurred the line between industrial policy and national security, but they have also triggered a subsidy race that smaller economies, whatever their technical prowess, simply cannot afford to join.",
+   "ko": "반도체 보조금은 산업 정책과 국가 안보의 경계를 흐려 놓았을 뿐 아니라, 기술력이 아무리 뛰어나도 규모가 작은 경제로서는 도저히 뛰어들 여력이 없는 보조금 경쟁까지 촉발했다.",
+   "point": "Not only가 문두에 와서 have semiconductor subsidies blurred로 도치가 일어났다. whatever their technical prowess는 '기술력이 어떻든 간에'라는 양보 삽입구.",
+   "keywords": [
+    {
+     "en": "blur the line",
+     "ko": "경계를 흐리다"
+    },
+    {
+     "en": "industrial policy",
+     "ko": "산업 정책"
+    },
+    {
+     "en": "prowess",
+     "ko": "뛰어난 역량"
+    },
+    {
+     "en": "cannot afford to",
+     "ko": "~할 여력이 없다"
+    }
+   ]
+  },
+  {
+   "en": "What with rents resetting at post-pandemic highs, wages climbing, and foot traffic yet to recover, small retailers are being squeezed from every direction at once, and many are quietly folding.",
+   "ko": "임대료는 팬데믹 이후 최고 수준으로 다시 뛰고 임금은 오르는데 유동 인구는 아직 회복되지 않은 터라, 소규모 소매점들은 사방에서 동시에 압박당하고 있으며 상당수가 소리 소문 없이 문을 닫고 있다.",
+   "point": "what with A, B, and C는 여러 이유가 겹쳤음을 나타내는 관용 구문. yet to recover는 '아직 회복되지 않은', fold는 자동사로 '폐업하다'라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "what with A and B",
+     "ko": "A에다 B까지 겹쳐"
+    },
+    {
+     "en": "foot traffic",
+     "ko": "유동 인구, 도보 손님"
+    },
+    {
+     "en": "squeeze",
+     "ko": "압박하다, 쥐어짜다"
+    },
+    {
+     "en": "fold",
+     "ko": "폐업하다"
+    }
+   ]
+  },
+  {
+   "en": "In the art market, price has become, as it were, the message itself: a canvas fetching nine figures at auction acquires an aura of significance that no critic's verdict could confer or, for that matter, revoke.",
+   "ko": "미술 시장에서는 말하자면 가격 자체가 메시지가 되었다. 경매에서 아홉 자리 값에 팔리는 그림은 어떤 평론가의 평가로도 부여할 수 없고, 마찬가지로 거둬 갈 수도 없는 중요성의 후광을 얻는다.",
+   "point": "as it were는 '말하자면'이라는 삽입 관용구. fetch는 '(경매 등에서) ~의 값에 팔리다', for that matter는 '그 점에서는 ~도 마찬가지'라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "as it were",
+     "ko": "말하자면"
+    },
+    {
+     "en": "fetch",
+     "ko": "~의 값에 팔리다"
+    },
+    {
+     "en": "nine figures",
+     "ko": "아홉 자리 수(1억 단위 금액)"
+    },
+    {
+     "en": "for that matter",
+     "ko": "그 점에서는 ~도 마찬가지"
+    },
+    {
+     "en": "revoke",
+     "ko": "거둬들이다, 철회하다"
+    }
+   ]
+  },
+  {
+   "en": "Whatever one makes of the jury's choices, the prize's real influence lies downstream, in the translation deals, syllabus placements, and reprint runs that follow the announcement as surely as thunder follows lightning.",
+   "ko": "심사위원단의 선택을 어떻게 평가하든, 이 상의 진짜 영향력은 그 후에 온다. 수상 발표 뒤에는 번개 뒤에 천둥이 따르듯 번역 판권 계약과 교과 과정 채택, 증쇄가 어김없이 이어지기 때문이다.",
+   "point": "Whatever one makes of A는 'A를 어떻게 생각하든'이라는 양보 표현으로, make of는 '~을 판단하다'. as surely as는 '~만큼이나 확실하게'라는 직유적 비교다.",
+   "keywords": [
+    {
+     "en": "make of",
+     "ko": "~을 판단하다, 이해하다"
+    },
+    {
+     "en": "downstream",
+     "ko": "그 이후 단계에서"
+    },
+    {
+     "en": "syllabus",
+     "ko": "강의 계획서, 교과 과정"
+    },
+    {
+     "en": "reprint run",
+     "ko": "증쇄"
+    }
+   ]
+  },
+  {
+   "en": "It is no accident that the countries most successful at exporting their popular culture are also those that once absorbed outside influences most voraciously, cultural confidence being, in the end, a product of exchange rather than isolation.",
+   "ko": "대중문화 수출에 가장 성공한 나라들이 한때 외부의 영향을 가장 왕성하게 흡수했던 나라들이기도 하다는 사실은 우연이 아니다. 문화적 자신감이란 결국 고립이 아니라 교류의 산물이기 때문이다.",
+   "point": "It is no accident that은 '~은 우연이 아니다'라는 강조 표현. cultural confidence being 이하는 이유를 나타내는 독립분사구문이다.",
+   "keywords": [
+    {
+     "en": "it is no accident that",
+     "ko": "~은 우연이 아니다"
+    },
+    {
+     "en": "voraciously",
+     "ko": "왕성하게, 게걸스럽게"
+    },
+    {
+     "en": "absorb",
+     "ko": "흡수하다"
+    },
+    {
+     "en": "isolation",
+     "ko": "고립"
+    }
+   ]
+  },
+  {
+   "en": "Far from being a gradual and uniform process, the retreat of the world's glaciers has unfolded in fits and starts, punctuated by periods of deceptively stable ice cover that lulled early researchers into underestimating the pace of change.",
+   "ko": "전 세계 빙하의 후퇴는 점진적이고 균일한 과정이기는커녕 단속적으로 진행되어 왔으며, 그 사이사이 끼어든 겉보기에 안정된 빙하 상태의 시기들은 초기 연구자들이 변화 속도를 과소평가하도록 방심하게 만들었다.",
+   "point": "문두의 Far from being ~은 '~이기는커녕'이라는 강한 부정의 관용구. punctuated by 이하의 과거분사구가 앞 절 전체를 부연 수식하는 구조를 잡아야 한다.",
+   "keywords": [
+    {
+     "en": "far from ~ing",
+     "ko": "~이기는커녕"
+    },
+    {
+     "en": "in fits and starts",
+     "ko": "단속적으로, 띄엄띄엄"
+    },
+    {
+     "en": "punctuated by",
+     "ko": "~이 사이사이 끼어드는"
+    },
+    {
+     "en": "lull A into B",
+     "ko": "A를 방심시켜 B하게 하다"
+    }
+   ]
+  },
+  {
+   "en": "What distinguishes expertise from mere experience, cognitive psychologists have long maintained, is not the sheer accumulation of hours but the deliberate, effortful refinement of skills at the very edge of one's competence.",
+   "ko": "인지심리학자들이 오랫동안 주장해 온 바에 따르면, 전문성과 단순한 경험을 가르는 것은 시간의 축적 그 자체가 아니라 자기 능력의 한계 지점에서 이루어지는 의도적이고 고된 기술 연마다.",
+   "point": "What ~ is ... 의사분열문 한가운데에 cognitive psychologists have long maintained가 삽입절로 끼어 있다. not A but B 구조로 초점은 B에 있다.",
+   "keywords": [
+    {
+     "en": "distinguish A from B",
+     "ko": "A와 B를 구별하다"
+    },
+    {
+     "en": "sheer accumulation",
+     "ko": "순전한 축적"
+    },
+    {
+     "en": "deliberate",
+     "ko": "의도적인"
+    },
+    {
+     "en": "at the edge of one's competence",
+     "ko": "능력의 한계 지점에서"
+    }
+   ]
+  },
+  {
+   "en": "Only after the decipherment of the Rosetta Stone in 1822 did scholars gain systematic access to the intellectual world of ancient Egypt, a civilization that had, until then, spoken to posterity in symbols no one could read.",
+   "ko": "1822년 로제타석이 해독되고 나서야 학자들은 고대 이집트의 지적 세계에 체계적으로 접근할 수 있게 되었는데, 그때까지 이 문명은 아무도 읽을 수 없는 기호로 후대에 말을 건네고 있었던 셈이다.",
+   "point": "Only after ~ 부사구가 문두에 나와 did scholars gain으로 도치되었다. 콤마 뒤 a civilization은 ancient Egypt를 받는 동격 명사구.",
+   "keywords": [
+    {
+     "en": "decipherment",
+     "ko": "해독"
+    },
+    {
+     "en": "gain access to",
+     "ko": "~에 접근하게 되다"
+    },
+    {
+     "en": "posterity",
+     "ko": "후대, 후세"
+    },
+    {
+     "en": "until then",
+     "ko": "그때까지"
+    }
+   ]
+  },
+  {
+   "en": "However elegant Darwin's theory appeared on paper, it faced a formidable obstacle in the absence of any known mechanism of inheritance, a gap that would not be filled until Mendel's work was rediscovered decades later.",
+   "ko": "다윈의 이론이 지면상으로는 아무리 우아해 보였어도, 알려진 유전 메커니즘이 전혀 없다는 만만치 않은 난관에 부딪혔고, 이 공백은 수십 년 뒤 멘델의 연구가 재발견되고 나서야 메워졌다.",
+   "point": "However + 형용사 + 주어 + 동사는 '아무리 ~해도'라는 양보 구문. a gap 이하는 앞 내용 전체를 받아 풀어 주는 동격 명사구다.",
+   "keywords": [
+    {
+     "en": "however + 형용사",
+     "ko": "아무리 ~해도"
+    },
+    {
+     "en": "formidable",
+     "ko": "만만치 않은, 어마어마한"
+    },
+    {
+     "en": "inheritance",
+     "ko": "유전, 상속"
+    },
+    {
+     "en": "rediscover",
+     "ko": "재발견하다"
+    }
+   ]
+  },
+  {
+   "en": "Its watershed stripped of vegetation by decades of logging, the river now carries so heavy a load of sediment that entire fisheries downstream have collapsed within a single generation.",
+   "ko": "수십 년에 걸친 벌목으로 유역의 식생이 벗겨져 나간 탓에, 이 강은 이제 어마어마한 양의 퇴적물을 실어 나르고 있으며, 그 결과 하류의 어장 전체가 한 세대 만에 붕괴하고 말았다.",
+   "point": "문두의 Its watershed stripped ~는 이유를 나타내는 독립분사구문. so heavy a load ~ that에서 'so + 형용사 + a + 명사' 어순에 주의.",
+   "keywords": [
+    {
+     "en": "watershed",
+     "ko": "유역, 분수령"
+    },
+    {
+     "en": "strip A of B",
+     "ko": "A에게서 B를 벗겨 내다"
+    },
+    {
+     "en": "sediment",
+     "ko": "퇴적물"
+    },
+    {
+     "en": "logging",
+     "ko": "벌목"
+    },
+    {
+     "en": "collapse",
+     "ko": "붕괴하다"
+    }
+   ]
+  },
+  {
+   "en": "It was not until the germ theory of disease gained widespread acceptance in the late nineteenth century that hospitals, long reservoirs of infection rather than sanctuaries of healing, began systematically sterilizing their instruments.",
+   "ko": "질병 세균설이 19세기 후반 널리 받아들여지고 나서야, 오랫동안 치유의 안식처라기보다 감염의 온상이었던 병원들이 기구를 체계적으로 소독하기 시작했다.",
+   "point": "It was not until A that B는 'A하고 나서야 비로소 B했다'는 강조 구문. long reservoirs of ~는 hospitals를 설명하는 동격 삽입구다.",
+   "keywords": [
+    {
+     "en": "it was not until A that B",
+     "ko": "A하고 나서야 비로소 B했다"
+    },
+    {
+     "en": "germ theory",
+     "ko": "세균설"
+    },
+    {
+     "en": "reservoir",
+     "ko": "온상, 저장소"
+    },
+    {
+     "en": "sterilize",
+     "ko": "소독하다, 살균하다"
+    }
+   ]
+  },
+  {
+   "en": "The James Webb telescope has detected galaxies that formed, astonishingly, within a few hundred million years of the Big Bang — an epoch so early that their very existence strains prevailing models of cosmic evolution.",
+   "ko": "제임스 웹 망원경은 놀랍게도 빅뱅 이후 불과 수억 년 만에 형성된 은하들을 포착했는데, 이는 너무나 이른 시기여서 그런 은하가 존재한다는 사실 자체가 기존의 우주 진화 모형을 한계까지 밀어붙이고 있다.",
+   "point": "대시 뒤 an epoch는 앞의 시점 전체를 받는 동격 명사구. their very existence의 very는 '바로 그 ~ 자체'라는 강조 용법이다.",
+   "keywords": [
+    {
+     "en": "detect",
+     "ko": "포착하다, 감지하다"
+    },
+    {
+     "en": "epoch",
+     "ko": "시대, 시기"
+    },
+    {
+     "en": "strain",
+     "ko": "한계까지 밀어붙이다, 무리를 주다"
+    },
+    {
+     "en": "prevailing",
+     "ko": "지배적인, 널리 퍼진"
+    }
+   ]
+  },
+  {
+   "en": "So immense are the forces locked within subduction zones that a single rupture can release, in a matter of minutes, energy equivalent to thousands of nuclear detonations.",
+   "ko": "섭입대 안에 갇혀 있는 힘은 실로 어마어마해서, 단 한 번의 파열로도 수천 발의 핵폭발에 맞먹는 에너지가 불과 몇 분 사이에 방출될 수 있다.",
+   "point": "So + 형용사가 문두로 나가면서 are the forces로 도치된 'so ~ that' 구문. in a matter of minutes는 동사와 목적어 사이에 낀 삽입구다.",
+   "keywords": [
+    {
+     "en": "subduction zone",
+     "ko": "섭입대"
+    },
+    {
+     "en": "rupture",
+     "ko": "파열, 균열"
+    },
+    {
+     "en": "in a matter of minutes",
+     "ko": "불과 몇 분 만에"
+    },
+    {
+     "en": "equivalent to",
+     "ko": "~에 맞먹는"
+    }
+   ]
+  },
+  {
+   "en": "The persistence of superstition in technologically advanced societies reflects not so much a failure of education as the mind's deep-seated craving for a sense of control over an unpredictable world.",
+   "ko": "기술적으로 발전한 사회에서도 미신이 사라지지 않는 것은 교육의 실패라기보다는, 예측 불가능한 세계를 통제하고 있다는 느낌을 향한 인간 정신의 뿌리 깊은 갈망을 보여 준다.",
+   "point": "not so much A as B는 'A라기보다는 B'. reflects의 목적어가 이 대조 구조 전체라는 점을 잡아야 한다.",
+   "keywords": [
+    {
+     "en": "superstition",
+     "ko": "미신"
+    },
+    {
+     "en": "not so much A as B",
+     "ko": "A라기보다는 B"
+    },
+    {
+     "en": "deep-seated",
+     "ko": "뿌리 깊은"
+    },
+    {
+     "en": "craving",
+     "ko": "갈망"
+    }
+   ]
+  },
+  {
+   "en": "Buried beneath layers of volcanic ash for nearly two millennia, the streets of Pompeii preserve, with almost photographic fidelity, the texture of everyday Roman life that written sources scarcely bother to record.",
+   "ko": "화산재 층 아래 거의 2천 년 동안 묻혀 있던 폼페이의 거리들은, 문헌 자료가 굳이 기록하려 들지 않는 로마인의 일상적 삶의 결을 거의 사진에 가까운 정확도로 보존하고 있다.",
+   "point": "문두의 Buried ~는 주어 the streets를 수식하는 과거분사구. with almost photographic fidelity가 동사 preserve와 목적어 사이에 삽입되어 있다.",
+   "keywords": [
+    {
+     "en": "millennia",
+     "ko": "천 년(millennium의 복수)"
+    },
+    {
+     "en": "fidelity",
+     "ko": "충실도, 정확도"
+    },
+    {
+     "en": "scarcely",
+     "ko": "거의 ~않다"
+    },
+    {
+     "en": "bother to",
+     "ko": "굳이 ~하다"
+    }
+   ]
+  },
+  {
+   "en": "Were it not for the nightly vertical migration of zooplankton — the largest coordinated movement of biomass on the planet — the ocean's capacity to sequester carbon in its depths would be drastically diminished.",
+   "ko": "지구상에서 가장 규모가 큰 생물량의 일사불란한 이동인 동물플랑크톤의 야간 수직 이동이 없다면, 심해에 탄소를 격리하는 바다의 능력은 크게 줄어들 것이다.",
+   "point": "Were it not for ~는 If it were not for의 도치형으로 '~이 없다면'이라는 가정법. 대시 사이 삽입구는 앞 명사구를 설명하는 동격이다.",
+   "keywords": [
+    {
+     "en": "were it not for",
+     "ko": "~이 없다면"
+    },
+    {
+     "en": "sequester",
+     "ko": "격리하다"
+    },
+    {
+     "en": "biomass",
+     "ko": "생물량"
+    },
+    {
+     "en": "diminish",
+     "ko": "줄어들다, 약화되다"
+    }
+   ]
+  },
+  {
+   "en": "Nowhere is the collision between economic development and ecological preservation more starkly visible than in the Amazon basin, where each newly paved road ushers in a predictable sequence of logging, ranching, and irreversible forest loss.",
+   "ko": "경제 개발과 생태 보전의 충돌이 아마존 유역에서만큼 극명하게 드러나는 곳은 없다. 그곳에서는 새로 포장되는 도로 하나하나가 벌목, 목축, 그리고 돌이킬 수 없는 산림 소실이라는 예정된 수순을 불러들인다.",
+   "point": "Nowhere is A more ~ than in B는 부정어 문두 도치로 사실상 최상급 의미('B에서만큼 ~한 곳은 없다'). usher in은 '~을 불러들이다'.",
+   "keywords": [
+    {
+     "en": "starkly",
+     "ko": "극명하게"
+    },
+    {
+     "en": "usher in",
+     "ko": "~을 불러들이다, 개막하다"
+    },
+    {
+     "en": "irreversible",
+     "ko": "돌이킬 수 없는"
+    },
+    {
+     "en": "ranching",
+     "ko": "목축"
+    }
+   ]
+  },
+  {
+   "en": "It is not uncommon for a pathogen to circulate silently in animal populations for decades before a chance mutation — trivial in itself, perhaps — grants it the ability to breach the species barrier and infect humans.",
+   "ko": "병원체가 수십 년간 동물 집단 속에서 소리 없이 돌다가, 그 자체로는 어쩌면 사소할 우연한 돌연변이 하나로 종간 장벽을 넘어 인간을 감염시키는 능력을 얻는 일은 드물지 않다.",
+   "point": "It is not uncommon for A to B는 이중부정으로 'A가 B하는 일이 드물지 않다'. 대시 삽입구 trivial in itself는 mutation을 보충 설명한다.",
+   "keywords": [
+    {
+     "en": "pathogen",
+     "ko": "병원체"
+    },
+    {
+     "en": "not uncommon",
+     "ko": "드물지 않은"
+    },
+    {
+     "en": "breach",
+     "ko": "뚫다, 넘다"
+    },
+    {
+     "en": "species barrier",
+     "ko": "종간 장벽"
+    }
+   ]
+  },
+  {
+   "en": "As is often the case with transformative technologies, the printing press enriched few of its pioneers; Gutenberg himself died in relative obscurity while others reaped the fortunes his invention made possible.",
+   "ko": "변혁적 기술이 흔히 그렇듯, 인쇄기는 그 선구자들에게는 별 부를 안겨 주지 못했다. 구텐베르크 자신은 비교적 무명으로 생을 마감했고, 그의 발명이 가능케 한 부는 다른 이들이 거두어 갔다.",
+   "point": "As is often the case with ~는 '~이 흔히 그렇듯'이라는 관용 표현으로, 여기서 as는 뒤 문장 전체를 받는 유사관계대명사다.",
+   "keywords": [
+    {
+     "en": "as is often the case with",
+     "ko": "~이 흔히 그렇듯"
+    },
+    {
+     "en": "obscurity",
+     "ko": "무명, 잊힘"
+    },
+    {
+     "en": "reap",
+     "ko": "거두다, 수확하다"
+    },
+    {
+     "en": "transformative",
+     "ko": "변혁적인"
+    }
+   ]
+  },
+  {
+   "en": "The extent to which language shapes thought — a question that has vexed philosophers and linguists alike since the days of Humboldt — remains unresolved, though modern experiments suggest an influence far subtler than early proponents claimed.",
+   "ko": "언어가 사고를 어느 정도까지 규정하는가 하는 문제는 훔볼트 시대 이래로 철학자와 언어학자 모두를 괴롭혀 온 물음인데, 여전히 결론이 나지 않았다. 다만 현대의 실험들은 그 영향이 초기 주창자들의 주장보다 훨씬 미묘한 수준임을 시사한다.",
+   "point": "The extent to which ~ 명사구 전체가 주어이며, 대시 삽입구를 건너뛰고 remains가 본동사임을 잡아야 한다. far subtler than은 비교급 강조.",
+   "keywords": [
+    {
+     "en": "the extent to which",
+     "ko": "~하는 정도"
+    },
+    {
+     "en": "vex",
+     "ko": "괴롭히다"
+    },
+    {
+     "en": "proponent",
+     "ko": "주창자, 지지자"
+    },
+    {
+     "en": "unresolved",
+     "ko": "미해결의"
+    }
+   ]
+  },
+  {
+   "en": "However counterintuitive it may seem, time literally passes more slowly at sea level than on a mountaintop, a prediction of general relativity now confirmed by atomic clocks sensitive enough to register a change in elevation of a single centimeter.",
+   "ko": "아무리 직관에 어긋나 보여도, 시간은 산꼭대기보다 해수면에서 말 그대로 더 느리게 흐른다. 이는 일반상대성이론의 예측으로, 이제는 단 1센티미터의 고도 차이까지 감지할 만큼 정밀한 원자시계로 확인된 사실이다.",
+   "point": "However counterintuitive it may seem은 양보의 삽입절. 콤마 뒤 a prediction 이하는 앞 문장 전체를 받는 동격 명사구다.",
+   "keywords": [
+    {
+     "en": "counterintuitive",
+     "ko": "직관에 반하는"
+    },
+    {
+     "en": "general relativity",
+     "ko": "일반상대성이론"
+    },
+    {
+     "en": "register",
+     "ko": "감지하다, 기록하다"
+    },
+    {
+     "en": "elevation",
+     "ko": "고도"
+    }
+   ]
+  },
+  {
+   "en": "Hardly had the armistice of 1918 been signed when an influenza pandemic, moving along the very rail lines and shipping routes that had carried soldiers to the front, began claiming more lives than the war itself.",
+   "ko": "1918년 휴전 협정의 잉크가 마르기도 전에, 병사들을 전선으로 실어 날랐던 바로 그 철로와 항로를 타고 독감 팬데믹이 번지며 전쟁 자체보다 더 많은 목숨을 앗아 가기 시작했다.",
+   "point": "Hardly had A p.p. when B는 'A하자마자 B했다'의 도치 구문. the very ~ that은 '바로 그 ~'라는 강조 표현이다.",
+   "keywords": [
+    {
+     "en": "armistice",
+     "ko": "휴전 (협정)"
+    },
+    {
+     "en": "claim lives",
+     "ko": "목숨을 앗아 가다"
+    },
+    {
+     "en": "pandemic",
+     "ko": "팬데믹, 대유행"
+    },
+    {
+     "en": "the very ~ that",
+     "ko": "바로 그 ~"
+    }
+   ]
+  },
+  {
+   "en": "Such is the thermal inertia of the oceans that even if greenhouse gas emissions ceased tomorrow, sea levels would continue their upward creep for centuries, a sobering reminder that some consequences of past choices are already locked in.",
+   "ko": "바다의 열적 관성은 실로 커서, 설령 온실가스 배출이 내일 당장 멈춘다 해도 해수면은 수백 년 동안 계속 슬금슬금 오를 것이다. 과거 선택의 결과 중 일부는 이미 돌이킬 수 없게 정해져 있다는 서늘한 경고인 셈이다.",
+   "point": "Such is A that B는 'A가 실로 대단해서 B하다'의 도치 강조 구문. locked in은 '이미 확정되어 되돌릴 수 없는'이라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "such is A that B",
+     "ko": "A가 실로 대단해서 B하다"
+    },
+    {
+     "en": "thermal inertia",
+     "ko": "열적 관성"
+    },
+    {
+     "en": "sobering",
+     "ko": "정신이 번쩍 들게 하는"
+    },
+    {
+     "en": "locked in",
+     "ko": "이미 확정된"
+    }
+   ]
+  },
+  {
+   "en": "That natural selection operates without foresight, few biologists would dispute; what remains contentious is how such a blind process could assemble structures of seemingly irreducible complexity, from the vertebrate eye to the bacterial flagellum.",
+   "ko": "자연선택이 앞을 내다보지 않고 작동한다는 데 이의를 제기할 생물학자는 거의 없다. 여전히 논쟁이 되는 것은, 그런 맹목적 과정이 척추동물의 눈에서 세균의 편모에 이르기까지 겉보기에 환원 불가능해 보이는 복잡한 구조들을 어떻게 조립해 낼 수 있었는가 하는 점이다.",
+   "point": "목적어인 That절이 문두로 나가고 few biologists would dispute가 뒤따르는 도치 구조. 세미콜론 뒤 what절은 의사분열문의 주어다.",
+   "keywords": [
+    {
+     "en": "foresight",
+     "ko": "선견, 앞을 내다봄"
+    },
+    {
+     "en": "dispute",
+     "ko": "이의를 제기하다"
+    },
+    {
+     "en": "contentious",
+     "ko": "논쟁적인"
+    },
+    {
+     "en": "flagellum",
+     "ko": "편모"
+    }
+   ]
+  },
+  {
+   "en": "Seed banks around the world now store duplicates of their most precious specimens in the Arctic vault at Svalbard, lest war, disaster, or simple neglect should erase in a moment genetic diversity that took millennia to accumulate.",
+   "ko": "전 세계의 종자은행들은 이제 가장 귀중한 표본의 복제본을 스발바르의 북극 저장고에 보관한다. 전쟁이나 재해, 혹은 단순한 관리 소홀로 수천 년에 걸쳐 축적된 유전적 다양성이 한순간에 사라지는 일이 없도록 하기 위해서다.",
+   "point": "lest A (should) B는 'A가 B하지 않도록'이라는 부정의 목적. erase의 목적어 genetic diversity가 부사구 in a moment 뒤로 밀려난 어순에 주의.",
+   "keywords": [
+    {
+     "en": "lest",
+     "ko": "~하지 않도록"
+    },
+    {
+     "en": "vault",
+     "ko": "(지하) 저장고, 금고"
+    },
+    {
+     "en": "specimen",
+     "ko": "표본"
+    },
+    {
+     "en": "neglect",
+     "ko": "방치, 소홀"
+    }
+   ]
+  },
+  {
+   "en": "The adolescent brain — its prefrontal cortex still under construction while its reward circuitry runs at full throttle — is biologically primed for the very risk-taking that so alarms parents and educators.",
+   "ko": "청소년의 뇌는 보상 회로가 전속력으로 돌아가는 동안 전전두엽 피질은 아직 공사 중인 상태라서, 부모와 교사들을 그토록 불안하게 만드는 바로 그 위험 감수 행동을 하도록 생물학적으로 준비되어 있다.",
+   "point": "대시 사이의 독립분사구문식 삽입이 주어와 동사 is를 멀리 떨어뜨려 놓았다. primed for는 '~하도록 준비된', the very ~ that은 강조 표현.",
+   "keywords": [
+    {
+     "en": "prefrontal cortex",
+     "ko": "전전두엽 피질"
+    },
+    {
+     "en": "at full throttle",
+     "ko": "전속력으로"
+    },
+    {
+     "en": "primed for",
+     "ko": "~할 준비가 된"
+    },
+    {
+     "en": "risk-taking",
+     "ko": "위험 감수"
+    }
+   ]
+  },
+  {
+   "en": "Kepler's laws of planetary motion were no less a triumph of tedious arithmetic than of theoretical insight, distilled as they were from decades of naked-eye observations that Tycho Brahe had guarded almost jealously until his death.",
+   "ko": "케플러의 행성 운동 법칙은 이론적 통찰 못지않게 지루한 계산이 이룩한 개가이기도 했다. 튀코 브라헤가 죽는 날까지 거의 질투에 가깝게 지켜 온 수십 년치 육안 관측 자료에서 증류해 낸 결과물이었기 때문이다.",
+   "point": "no less A than B는 'B 못지않게 A인'. distilled as they were from ~은 '실제로 ~에서 추출된 것이니만큼'이라는 'as + 주어 + 동사' 삽입 구문이다.",
+   "keywords": [
+    {
+     "en": "no less A than B",
+     "ko": "B 못지않게 A인"
+    },
+    {
+     "en": "tedious",
+     "ko": "지루한, 고된"
+    },
+    {
+     "en": "distill",
+     "ko": "증류하다, 추출하다"
+    },
+    {
+     "en": "naked-eye",
+     "ko": "육안의"
+    }
+   ]
+  },
+  {
+   "en": "Cognitive behavioral therapy has proved remarkably effective against anxiety disorders, albeit through mechanisms — the restructuring of habitual thought patterns chief among them — that researchers are only beginning to trace at the neural level.",
+   "ko": "인지행동치료는 불안 장애에 놀랄 만큼 효과적임이 입증되었다. 다만 그 효과를 내는 메커니즘, 그중에서도 특히 습관적 사고 패턴의 재구성은 연구자들이 이제 막 신경 수준에서 추적하기 시작한 단계다.",
+   "point": "albeit은 '비록 ~이지만'으로 구를 이끄는 양보 표현. chief among them은 '그중 으뜸으로'라는 삽입구로 대표 예를 짚어 준다.",
+   "keywords": [
+    {
+     "en": "albeit",
+     "ko": "비록 ~이지만"
+    },
+    {
+     "en": "restructuring",
+     "ko": "재구성"
+    },
+    {
+     "en": "chief among them",
+     "ko": "그중 으뜸인"
+    },
+    {
+     "en": "trace",
+     "ko": "추적하다"
+    }
+   ]
+  },
+  {
+   "en": "Volcanic eruptions are at once agents of destruction and engines of renewal, blanketing farmland in ash one century only to underwrite, in the next, some of the most fertile soils on Earth.",
+   "ko": "화산 분화는 파괴의 주범인 동시에 재생의 원동력이기도 하다. 한 세기에는 농경지를 화산재로 뒤덮지만, 다음 세기에는 지구에서 가장 비옥한 토양을 만들어 내는 밑거름이 된다.",
+   "point": "at once A and B는 'A인 동시에 B인'. only to부정사는 '(그러고는) 결국 ~하게 되다'라는 결과의 부정사 용법이다.",
+   "keywords": [
+    {
+     "en": "at once A and B",
+     "ko": "A인 동시에 B인"
+    },
+    {
+     "en": "blanket",
+     "ko": "뒤덮다"
+    },
+    {
+     "en": "underwrite",
+     "ko": "뒷받침하다, 보증하다"
+    },
+    {
+     "en": "fertile",
+     "ko": "비옥한"
+    }
+   ]
+  },
+  {
+   "en": "Whether the Atlantic circulation merely slows in the coming century or collapses outright, as some models warn it might, the consequences for European agriculture would be profound and, in all likelihood, irreversible on any timescale that matters to human societies.",
+   "ko": "다가오는 세기에 대서양 순환이 그저 느려지는 데 그치든, 일부 모델이 경고하듯 아예 붕괴해 버리든, 유럽 농업이 입을 타격은 심대할 것이며 인간 사회에 유의미한 어떤 시간 척도에서도 십중팔구 돌이킬 수 없을 것이다.",
+   "point": "Whether A or B는 'A이든 B이든'의 양보 구문. as some models warn it might에서는 might 뒤에 collapse가 생략되어 있다.",
+   "keywords": [
+    {
+     "en": "outright",
+     "ko": "완전히, 아예"
+    },
+    {
+     "en": "in all likelihood",
+     "ko": "십중팔구"
+    },
+    {
+     "en": "profound",
+     "ko": "심대한"
+    },
+    {
+     "en": "circulation",
+     "ko": "순환"
+    }
+   ]
+  },
+  {
+   "en": "Repeatedly recounting a memory does not preserve it in pristine form; if anything, each act of retrieval subtly rewrites the original trace, which is why the most confidently told stories are often the least reliable.",
+   "ko": "기억을 거듭 이야기한다고 해서 그 기억이 원형 그대로 보존되는 것은 아니다. 오히려 회상이라는 행위 하나하나가 원래의 기억 흔적을 미묘하게 고쳐 쓰며, 가장 자신 있게 이야기되는 기억이 흔히 가장 신뢰하기 어려운 이유도 바로 여기에 있다.",
+   "point": "if anything은 '오히려, 굳이 말하자면'이라는 관용 삽입구. which is why ~는 앞 내용 전체를 받아 '그것이 ~한 이유다'로 이어 준다.",
+   "keywords": [
+    {
+     "en": "if anything",
+     "ko": "오히려, 굳이 말하자면"
+    },
+    {
+     "en": "retrieval",
+     "ko": "(기억의) 인출, 회상"
+    },
+    {
+     "en": "pristine",
+     "ko": "원래 그대로의, 손상되지 않은"
+    },
+    {
+     "en": "which is why",
+     "ko": "그것이 ~한 이유다"
+    }
+   ]
+  },
+  {
+   "en": "Much as the Industrial Revolution liberated millions from agricultural drudgery, it did so at the cost of urban squalor so severe that life expectancy in Manchester's factory districts actually fell below that of the surrounding countryside.",
+   "ko": "산업혁명이 수백만 명을 고된 농사일에서 해방시킨 것은 사실이지만, 그 대가는 극심한 도시 빈곤이었다. 오죽하면 맨체스터 공장 지대의 기대수명이 주변 농촌보다 오히려 낮아졌을 정도다.",
+   "point": "문두의 Much as ~는 '~이긴 하지만'이라는 양보 구문. 문미 that of the surrounding countryside의 that은 life expectancy를 받는 대명사다.",
+   "keywords": [
+    {
+     "en": "much as",
+     "ko": "~이긴 하지만"
+    },
+    {
+     "en": "drudgery",
+     "ko": "고된 일"
+    },
+    {
+     "en": "squalor",
+     "ko": "불결함, 누추함"
+    },
+    {
+     "en": "life expectancy",
+     "ko": "기대수명"
+    }
+   ]
+  },
+  {
+   "en": "For much of the twentieth century, scientists dismissed reports of tool use among crows on the grounds that such behavior demanded a cognitive sophistication birds supposedly lacked — an assumption field studies in New Caledonia have since demolished.",
+   "ko": "20세기의 상당 기간 동안 과학자들은 까마귀의 도구 사용 보고를 일축했는데, 그런 행동에는 조류에게는 없다고 여겨지던 수준의 인지적 정교함이 필요하다는 이유에서였다. 이 가정은 이후 뉴칼레도니아의 현장 연구들이 여지없이 무너뜨렸다.",
+   "point": "on the grounds that ~은 '~이라는 이유로'. 대시 뒤 an assumption은 앞 절 내용을 받는 동격으로, 목적격 관계대명사가 생략된 채 field studies가 이어진다.",
+   "keywords": [
+    {
+     "en": "on the grounds that",
+     "ko": "~이라는 이유로"
+    },
+    {
+     "en": "dismiss",
+     "ko": "일축하다"
+    },
+    {
+     "en": "sophistication",
+     "ko": "정교함"
+    },
+    {
+     "en": "demolish",
+     "ko": "무너뜨리다"
+    }
+   ]
+  },
+  {
+   "en": "Carbon pricing succeeds insofar as it makes the hidden costs of pollution visible at the point of decision, but its political fragility — no elected government relishes raising fuel prices — has kept most schemes far below the levels economists deem effective.",
+   "ko": "탄소 가격제는 오염의 숨은 비용을 의사결정의 순간에 눈에 보이게 만든다는 점에서는 성공적이다. 그러나 유권자가 뽑은 정부치고 연료 가격 인상을 반길 리 없다는 정치적 취약성 탓에, 대부분의 제도는 경제학자들이 효과적이라고 보는 수준에 한참 못 미쳐 왔다.",
+   "point": "insofar as는 '~하는 한에서는'. 대시 삽입절이 political fragility의 내용을 부연하며, the levels (which) economists deem effective에서 관계대명사가 생략되어 있다.",
+   "keywords": [
+    {
+     "en": "insofar as",
+     "ko": "~하는 한에서"
+    },
+    {
+     "en": "relish",
+     "ko": "반기다, 즐기다"
+    },
+    {
+     "en": "deem",
+     "ko": "~라고 여기다"
+    },
+    {
+     "en": "fragility",
+     "ko": "취약성"
+    }
+   ]
+  },
+  {
+   "en": "The rise of antibiotic-resistant bacteria ranks among the gravest threats to modern medicine, not least because routine procedures — appendectomies, cesarean sections, joint replacements — presuppose our ability to control infection.",
+   "ko": "항생제 내성균의 확산은 현대 의학이 직면한 가장 중대한 위협 중 하나로 꼽힌다. 무엇보다도 맹장 수술, 제왕절개, 인공관절 수술 같은 일상적인 시술들이 감염을 통제할 수 있다는 전제 위에 서 있기 때문이다.",
+   "point": "not least because는 '특히/무엇보다 ~ 때문에'라는 관용 표현. 대시 사이의 나열은 routine procedures의 구체적 예시를 삽입한 것이다.",
+   "keywords": [
+    {
+     "en": "not least because",
+     "ko": "특히 ~ 때문에"
+    },
+    {
+     "en": "rank among",
+     "ko": "~에 속하다, ~로 꼽히다"
+    },
+    {
+     "en": "presuppose",
+     "ko": "전제하다"
+    },
+    {
+     "en": "grave",
+     "ko": "중대한, 심각한"
+    }
+   ]
+  },
+  {
+   "en": "Little did the merchants unloading grain at Messina in 1347 suspect that the rats scurrying down their mooring ropes carried a bacterium that would, within five years, erase a third of Europe's population.",
+   "ko": "1347년 메시나 항에서 곡물을 부리던 상인들은, 계류 밧줄을 타고 내려오는 쥐들이 앞으로 5년 안에 유럽 인구의 3분의 1을 지워 버릴 세균을 품고 있으리라고는 꿈에도 생각하지 못했다.",
+   "point": "Little did A suspect that ~은 부정어 문두 도치로 'A는 ~을 전혀 의심하지 못했다'. would는 과거 시점에서 바라본 미래를 나타낸다.",
+   "keywords": [
+    {
+     "en": "little did A suspect",
+     "ko": "A는 꿈에도 몰랐다"
+    },
+    {
+     "en": "scurry",
+     "ko": "종종걸음치다, 재빨리 움직이다"
+    },
+    {
+     "en": "mooring rope",
+     "ko": "계류 밧줄"
+    },
+    {
+     "en": "erase",
+     "ko": "지워 버리다"
+    }
+   ]
+  },
+  {
+   "en": "For all its mathematical elegance, classical economics long rested on a fiction — the perfectly rational actor — and it took the systematic documentation of our predictable biases to bring the discipline closer to how human beings actually decide.",
+   "ko": "고전 경제학은 수학적으로는 그토록 우아했음에도 오랫동안 '완벽하게 합리적인 행위자'라는 허구 위에 서 있었다. 이 학문이 인간이 실제로 결정하는 방식에 가까워진 것은, 우리의 예측 가능한 편향들이 체계적으로 기록되고 나서였다.",
+   "point": "For all ~은 '~에도 불구하고'라는 양보의 전치사구. it took A to B는 'B하는 데 A가 필요했다, A가 있고서야 B했다'는 구문이다.",
+   "keywords": [
+    {
+     "en": "for all",
+     "ko": "~에도 불구하고"
+    },
+    {
+     "en": "rest on",
+     "ko": "~에 기초하다"
+    },
+    {
+     "en": "it took A to B",
+     "ko": "B하는 데 A가 필요했다"
+    },
+    {
+     "en": "bias",
+     "ko": "편향"
+    }
+   ]
+  },
+  {
+   "en": "What with warming waters, agricultural runoff, and steadily acidifying seas, the world's coral reefs are besieged on so many fronts at once that recovery periods between successive bleaching events have all but disappeared.",
+   "ko": "수온 상승에 농업 배수 유입, 갈수록 산성화되는 바다까지 겹치면서, 전 세계 산호초는 한꺼번에 너무나 많은 전선에서 포위당한 나머지 잇따른 백화 현상 사이의 회복기가 사실상 사라져 버렸다.",
+   "point": "What with A, B, and C는 'A, B, C 등이 이것저것 겹쳐서'라는 이유의 관용구. all but은 '사실상, 거의'라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "what with A and B",
+     "ko": "A와 B 등이 겹쳐서"
+    },
+    {
+     "en": "besiege",
+     "ko": "포위하다"
+    },
+    {
+     "en": "bleaching",
+     "ko": "백화 (현상)"
+    },
+    {
+     "en": "all but",
+     "ko": "사실상, 거의"
+    }
+   ]
+  },
+  {
+   "en": "The medieval mappa mundi was as much a theological statement as a navigational aid, arranging the known world around Jerusalem in an order that reflected divine hierarchy rather than measured distance.",
+   "ko": "중세의 세계지도 '마파 문디'는 항해 도구인 것 못지않게 신학적 선언이기도 해서, 알려진 세계를 예루살렘 중심으로 배치하되 실측 거리보다 신적 위계를 반영한 질서를 따랐다.",
+   "point": "as much A as B는 'B인 만큼이나 A이기도 한'. arranging 이하의 분사구문이 그 구체적인 방식을 부연 설명한다.",
+   "keywords": [
+    {
+     "en": "as much A as B",
+     "ko": "B인 만큼이나 A인"
+    },
+    {
+     "en": "theological",
+     "ko": "신학적인"
+    },
+    {
+     "en": "navigational aid",
+     "ko": "항해 보조 도구"
+    },
+    {
+     "en": "hierarchy",
+     "ko": "위계"
+    }
+   ]
+  },
+  {
+   "en": "No sooner had Sputnik's signal been picked up by radio operators in 1957 than the United States, stung by the specter of technological inferiority, began pouring unprecedented resources into science education and rocketry.",
+   "ko": "1957년 스푸트니크의 신호가 무선 통신사들에게 잡히기가 무섭게, 기술적 열세라는 망령에 자존심을 찔린 미국은 과학 교육과 로켓 개발에 전례 없는 자원을 쏟아붓기 시작했다.",
+   "point": "No sooner had A p.p. than B는 'A하자마자 B했다'의 도치 구문. stung by ~는 the United States를 수식하는 과거분사 삽입구다.",
+   "keywords": [
+    {
+     "en": "no sooner A than B",
+     "ko": "A하자마자 B하다"
+    },
+    {
+     "en": "sting",
+     "ko": "찌르다, 자존심을 상하게 하다"
+    },
+    {
+     "en": "specter",
+     "ko": "망령, 유령"
+    },
+    {
+     "en": "unprecedented",
+     "ko": "전례 없는"
+    }
+   ]
+  },
+  {
+   "en": "Given that the brain consolidates the day's learning during deep sleep, it stands to reason that the chronic sleep deprivation now endemic among adolescents exacts a measurable toll on academic achievement — a prediction borne out by virtually every study on the question.",
+   "ko": "뇌가 깊은 잠 동안 그날의 학습 내용을 굳힌다는 점을 감안하면, 요즘 청소년들 사이에 만연한 만성 수면 부족이 학업 성취에 눈에 띄는 대가를 치르게 하리라는 것은 당연한 이치다. 실제로 이 문제를 다룬 거의 모든 연구가 이 예측을 뒷받침한다.",
+   "point": "Given that ~은 '~을 감안하면', it stands to reason that ~은 '~은 당연한 이치다'라는 관용 표현. exact a toll on은 '~에 대가를 치르게 하다'.",
+   "keywords": [
+    {
+     "en": "it stands to reason that",
+     "ko": "~은 당연한 이치다"
+    },
+    {
+     "en": "consolidate",
+     "ko": "공고히 하다, 굳히다"
+    },
+    {
+     "en": "endemic",
+     "ko": "만연한, 고질적인"
+    },
+    {
+     "en": "exact a toll",
+     "ko": "대가를 치르게 하다"
+    },
+    {
+     "en": "bear out",
+     "ko": "입증하다, 뒷받침하다"
+    }
+   ]
+  },
+  {
+   "en": "Granted, the placebo effect cannot shrink a tumor or mend a fracture; yet its capacity to relieve pain, nausea, and fatigue is so robust that ethical guidelines require every new drug to prove itself superior to a sugar pill.",
+   "ko": "물론 플라세보 효과가 종양을 줄이거나 부러진 뼈를 붙이지는 못한다. 그러나 통증과 메스꺼움, 피로를 덜어 주는 힘만큼은 워낙 탄탄해서, 윤리 지침은 모든 신약이 설탕 알약보다 낫다는 것을 스스로 입증하도록 요구한다.",
+   "point": "문두의 Granted는 '물론 ~이긴 하다'라고 일단 인정한 뒤 yet으로 뒤집는 양보-반전 구조. 뒤에는 so ~ that 결과 구문이 이어진다.",
+   "keywords": [
+    {
+     "en": "granted",
+     "ko": "물론 ~이긴 하지만"
+    },
+    {
+     "en": "robust",
+     "ko": "탄탄한, 강력한"
+    },
+    {
+     "en": "mend",
+     "ko": "고치다, 붙이다"
+    },
+    {
+     "en": "superior to",
+     "ko": "~보다 우수한"
+    }
+   ]
+  },
+  {
+   "en": "Quantum entanglement, in which measuring one particle instantaneously fixes the state of its distant partner, borders on the paradoxical — so much so that Einstein, unwilling to accept what he derided as 'spooky action at a distance,' spent his last decades seeking a way around it.",
+   "ko": "한 입자를 측정하는 순간 멀리 떨어진 짝 입자의 상태까지 즉시 확정되는 양자 얽힘은 역설에 가깝다. 오죽하면 아인슈타인은 이를 '유령 같은 원격 작용'이라 조롱하며 받아들이기를 거부한 채, 말년의 수십 년을 이를 피해 갈 길을 찾는 데 보냈다.",
+   "point": "border on은 '~에 가깝다, 거의 ~이다'. so much so that은 '어찌나 그런지 ~할 정도로'라는 정도 강조 표현이다.",
+   "keywords": [
+    {
+     "en": "border on",
+     "ko": "~에 가깝다"
+    },
+    {
+     "en": "so much so that",
+     "ko": "~할 정도로"
+    },
+    {
+     "en": "deride",
+     "ko": "조롱하다"
+    },
+    {
+     "en": "entanglement",
+     "ko": "(양자) 얽힘"
+    }
+   ]
+  },
+  {
+   "en": "Air bubbles trapped in Antarctic ice cores, some of them sealed off from the atmosphere for eight hundred thousand years, attest to a blunt fact: at no point in that entire span did carbon dioxide concentrations approach today's levels.",
+   "ko": "남극 빙하 코어에 갇힌 공기 방울들은, 그중 일부는 80만 년 동안 대기와 차단되어 있었는데, 하나의 냉정한 사실을 증언한다. 그 긴 세월 어느 시점에도 이산화탄소 농도가 오늘날 수준에 근접한 적이 없다는 것이다.",
+   "point": "some of them ~은 주어를 보충하는 삽입구로, 본동사는 attest to다. 콜론 뒤 at no point ~ did는 부정어구 문두 도치 구문이다.",
+   "keywords": [
+    {
+     "en": "attest to",
+     "ko": "~을 증언하다, 입증하다"
+    },
+    {
+     "en": "seal off",
+     "ko": "차단하다, 밀봉하다"
+    },
+    {
+     "en": "span",
+     "ko": "기간"
+    },
+    {
+     "en": "at no point",
+     "ko": "어느 시점에도 ~않다"
+    }
+   ]
+  },
+  {
+   "en": "Decades of longitudinal data have borne out what the pioneers of attachment theory could only conjecture: the quality of an infant's earliest bonds reverberates, quietly but measurably, through friendships, marriages, and parenting styles half a century on.",
+   "ko": "수십 년간 축적된 종단 연구 데이터는 애착 이론의 선구자들이 추측만 할 수 있었던 바를 입증해 주었다. 유아기 최초의 유대가 지닌 질이 반세기가 지난 뒤의 우정과 결혼, 양육 방식에까지 조용히, 그러나 측정 가능하게 울려 퍼진다는 것이다.",
+   "point": "bear out은 '~을 입증하다'라는 구동사로, 목적어는 what 명사절이다. 콜론 뒤 절이 그 내용을 구체화하며, half a century on은 '반세기가 지난 시점에'라는 뜻이다.",
+   "keywords": [
+    {
+     "en": "bear out",
+     "ko": "입증하다"
+    },
+    {
+     "en": "longitudinal",
+     "ko": "종단적인"
+    },
+    {
+     "en": "conjecture",
+     "ko": "추측(하다)"
+    },
+    {
+     "en": "reverberate",
+     "ko": "울려 퍼지다, 파급되다"
+    },
+    {
+     "en": "attachment",
+     "ko": "애착"
     }
    ]
   }
