@@ -128,68 +128,94 @@
     return a;
   }
   function pct(n, d) { return d ? Math.round((n / d) * 100) : 0; }
-  // ---------- TTS: 기기에서 가장 좋은 미국식 영어 음성을 골라 사용 ----------
-  let ttsVoice = null;
-  function pickVoice() {
-    const vs = window.speechSynthesis ? speechSynthesis.getVoices() : [];
-    if (!vs.length) return null;
-    // 우선순위: 플랫폼별 고품질 미국식 음성 → en-US 로컬 → en-US → 기타 영어
-    const prefer = [
-      'Google US English',            // Android Chrome
-      'Samantha',                     // iOS / macOS
-      'Microsoft Aria Online',        // Windows Edge (신형)
-      'Microsoft Jenny Online',
-      'Microsoft Aria',
-      'Microsoft Zira',               // Windows (구형)
-      'Microsoft David',
-    ];
-    for (const name of prefer) {
-      const v = vs.find(v => v.name.includes(name) && v.lang.replace('_', '-').startsWith('en'));
-      if (v) return v;
+  // ---------- TTS ----------
+  // 크롬 계열의 고질적 버그들을 우회한다:
+  //  1) cancel() 직후의 speak()가 조용히 무시됨 → 재생 중일 때만 cancel하고 잠깐 뒤에 speak
+  //  2) 엔진이 paused 상태에 갇혀 아무 소리도 안 남 → speak 전에 항상 resume()
+  //  3) 원격(네트워크) 음성이 소리 없이 실패함 → 로컬 음성 우선 + 실패 시 기본 음성으로 재시도
+  function pickVoice(excludeName) {
+    if (!window.speechSynthesis) return null;
+    const en = speechSynthesis.getVoices().filter(v =>
+      v.lang.replace('_', '-').toLowerCase().indexOf('en') === 0 && v.name !== excludeName);
+    if (!en.length) return null;
+    const score = v => {
+      let s = 0;
+      if (v.lang.replace('_', '-').toLowerCase() === 'en-us') s += 4;
+      if (v.localService) s += 2;
+      if (/aria|jenny|samantha|zira|david|guy|google us english/i.test(v.name)) s += 1;
+      if (v.default) s += 1;
+      return s;
+    };
+    let best = en[0], bestScore = score(best);
+    for (let i = 1; i < en.length; i++) {
+      const s = score(en[i]);
+      if (s > bestScore) { best = en[i]; bestScore = s; }
     }
-    const us = vs.filter(v => v.lang.replace('_', '-') === 'en-US');
-    return us.find(v => v.localService) || us[0] ||
-      vs.find(v => v.lang.replace('_', '-').startsWith('en-')) || null;
+    return best;
   }
   if (window.speechSynthesis) {
-    ttsVoice = pickVoice();
-    speechSynthesis.onvoiceschanged = function () { ttsVoice = pickVoice(); };
+    // 음성 목록은 비동기로 채워지므로 미리 요청해 둔다
+    speechSynthesis.getVoices();
+    speechSynthesis.onvoiceschanged = function () { speechSynthesis.getVoices(); };
+  }
+  function makeUtter(text, rate, voice) {
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = 'en-US';
+    if (voice) u.voice = voice;
+    u.rate = rate;
+    u.pitch = 1;
+    u.volume = 1;
+    return u;
+  }
+  function speakAll(utters) {
+    if (!window.speechSynthesis || !utters.length) return;
+    const go = function () {
+      try { speechSynthesis.resume(); } catch (err) {}
+      utters.forEach(u => speechSynthesis.speak(u));
+    };
+    if (speechSynthesis.speaking || speechSynthesis.pending) {
+      speechSynthesis.cancel();
+      setTimeout(go, 100);
+    } else {
+      go();   // 사용자 제스처와 동기로 실행 (iOS 오디오 잠금 해제 유지)
+    }
   }
   function speak(text, isWord) {
     if (!window.speechSynthesis) return;
-    speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = 'en-US';
-    if (!ttsVoice) ttsVoice = pickVoice();
-    if (ttsVoice) u.voice = ttsVoice;
-    u.rate = isWord ? 0.85 : 0.95;   // 단어는 또박또박, 문장은 자연스럽게
-    u.pitch = 1;
-    speechSynthesis.speak(u);
+    const rate = isWord ? 0.85 : 0.95;   // 단어는 또박또박, 문장은 자연스럽게
+    const u = makeUtter(text, rate, pickVoice());
+    u.onerror = function (e) {
+      // 사용자가 끊은 게 아니라 음성 자체가 실패한 경우에만 기본 음성으로 재시도
+      if (e && (e.error === 'canceled' || e.error === 'interrupted')) return;
+      if (u.voice) speakAll([makeUtter(text, rate, null)]);
+    };
+    speakAll([u]);
+  }
+
+  // 긴 담화는 문장 단위로 쪼개서 읽는다 (크롬이 긴 발화를 중간에 끊는 문제 회피)
+  function splitSentences(text) {
+    return text.match(/[^.?!]+[.?!]+["')\]]?\s*|[^.?!]+$/g) || [text];
   }
 
   // 청해 스크립트 재생: A/B 화자를 다른 목소리(없으면 음높이)로 구분해 순서대로 읽는다
   function playScript(script, slow) {
     if (!window.speechSynthesis) return;
-    speechSynthesis.cancel();
-    if (!ttsVoice) ttsVoice = pickVoice();
     const rate = slow ? 0.75 : 0.92;
-    const vs = speechSynthesis.getVoices();
-    let voiceB = null;
-    if (ttsVoice) {
-      const others = vs.filter(v => v.lang.replace('_', '-').startsWith('en') && v.name !== ttsVoice.name);
-      voiceB = others.find(v => v.lang.replace('_', '-') === 'en-US') || others[0] || null;
-    }
+    const voiceA = pickVoice();
+    const voiceB = voiceA ? pickVoice(voiceA.name) : null;
+    const utters = [];
     script.split('\n').map(s => s.trim()).filter(Boolean).forEach(line => {
       const m = line.match(/^([AB])\s*:\s*(.*)$/);
-      const u = new SpeechSynthesisUtterance(m ? m[2] : line);
-      u.lang = 'en-US';
       const isB = !!m && m[1] === 'B';
-      const v = isB ? (voiceB || ttsVoice) : ttsVoice;
-      if (v) u.voice = v;
-      if (isB && !voiceB) u.pitch = 1.25;
-      u.rate = rate;
-      speechSynthesis.speak(u);
+      splitSentences(m ? m[2] : line).forEach(seg => {
+        seg = seg.trim();
+        if (!seg) return;
+        const u = makeUtter(seg, rate, isB ? (voiceB || voiceA) : voiceA);
+        if (isB && !voiceB) u.pitch = 1.25;
+        utters.push(u);
+      });
     });
+    speakAll(utters);
   }
 
   // ---------- 통계 헬퍼 ----------
