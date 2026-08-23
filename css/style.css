@@ -563,6 +563,48 @@ button {
 .result-actions { display: flex; gap: 10px; margin-top: 22px; }
 .result-actions .btn { flex: 1; }
 
+/* ---------- 청해 ---------- */
+.listen-player {
+  text-align: center;
+  padding: 10px 0 16px;
+  margin-bottom: 14px;
+  border-bottom: 1px dashed var(--line);
+}
+.listen-play {
+  width: 74px; height: 74px;
+  border-radius: 50%;
+  background: var(--brand);
+  color: #fff;
+  font-size: 28px;
+  padding-left: 6px;
+  box-shadow: var(--shadow-lift);
+  transition: transform 0.1s ease;
+}
+.listen-play:active { transform: scale(0.93); }
+.listen-tools { display: flex; justify-content: center; gap: 8px; margin-top: 12px; }
+.listen-tool {
+  font-size: 13px;
+  font-weight: 700;
+  padding: 6px 14px;
+  border-radius: 99px;
+  background: var(--bg);
+  color: var(--ink-soft);
+  border: 1px solid var(--line);
+}
+.listen-tool.active { background: var(--green-soft); color: var(--green); border-color: var(--green); }
+
+.script-box {
+  margin-top: 14px;
+  background: var(--bg);
+  border-radius: 12px;
+  padding: 14px 16px;
+  font-size: 14px;
+  line-height: 1.7;
+}
+.script-box .script-label { font-size: 12px; font-weight: 800; color: var(--ink-faint); margin-bottom: 6px; }
+.script-box .script-en { white-space: pre-line; font-weight: 600; margin-bottom: 10px; }
+.script-box .script-ko { white-space: pre-line; color: var(--ink-soft); font-size: 13.5px; border-top: 1px dashed var(--line); padding-top: 10px; }
+
 .review-item {
   background: var(--card);
   border-radius: var(--radius);

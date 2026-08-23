@@ -7588,6 +7588,1598 @@ window.TEPS_DATA.low = {
    ],
    "answer": 0,
    "explanation": "제니가 샐러드를 주문했는데 웨이터가 샌드위치를 잘못 가져왔고, 실수를 지적하자 매니저가 사과하며 무료 디저트를 제공했다는 내용입니다. 사과와 무료 디저트 제공은 실수를 보상하려는 행동이므로 '식당이 실수를 만회하려 했다(The restaurant tried to make up for its mistake)'를 추론할 수 있습니다. 제니가 다시는 안 가겠다고 한 내용은 지문에 없고, 디저트는 무료(free)였으므로 요금을 청구했다는 진술은 지문과 모순되며, 제니가 주문한 것은 샐러드 하나뿐입니다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: Excuse me, this sweater I bought yesterday has a hole in it.\nB: I'm so sorry about that. Would you like an exchange or a full ______?",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "receipt",
+    "discount",
+    "refund",
+    "deposit"
+   ],
+   "answer": 2,
+   "explanation": "어제 산 스웨터에 구멍이 나서 손님이 항의하자 직원이 '교환 또는 전액 ______'을 제안하는 상황이다. 결함 상품에 대한 보상이므로 refund(환불)가 적절하며, a full refund(전액 환불)는 자주 쓰이는 연어이다. receipt(영수증)는 보상 수단이 아니고, discount(할인)는 이미 구매한 결함 상품의 처리 방식으로 부자연스러우며, deposit(보증금)은 문맥과 무관하다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: I'd like to book a room for two nights next weekend.\nB: Let me check. Yes, we still have a few rooms ______.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "available",
+    "occupied",
+    "expensive",
+    "crowded"
+   ],
+   "answer": 0,
+   "explanation": "다음 주말 2박 예약을 문의하자 직원이 '아직 남은 방이 있다'고 답하는 상황이므로 rooms available(이용 가능한 객실)이 자연스럽다. occupied(사용 중인)는 정반대 의미이고, expensive(비싼)와 crowded(붐비는)는 예약 가능 여부를 알려 주는 긍정적 답변의 흐름과 맞지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: Can we ______ the meeting until tomorrow? Half the team is out sick today.\nB: Sure, I'll let everyone know about the change.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "attend",
+    "cancel",
+    "arrange",
+    "postpone"
+   ],
+   "answer": 3,
+   "explanation": "팀원 절반이 병가여서 회의를 '내일로 ______'하자고 제안하는 상황이다. until tomorrow(내일까지)와 어울리는 동사는 postpone(연기하다)이다. cancel(취소하다)은 until tomorrow와 함께 쓸 수 없어 매력적 오답이고, attend(참석하다)와 arrange(마련하다)는 문맥상 어색하다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: How was your job interview this morning?\nB: I think it went well. They said they'd ______ me by Friday.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "remind",
+    "contact",
+    "deliver",
+    "apply"
+   ],
+   "answer": 1,
+   "explanation": "면접이 잘 진행되었고 회사가 '금요일까지 ______하겠다'고 말한 상황이므로 contact(연락하다)가 적절하다. remind(상기시키다)는 무엇을 상기시키는지 내용(of/to)이 필요해 어색하고, deliver(배달하다)는 사람을 목적어로 취하는 이 문맥에 맞지 않으며, apply(지원하다)는 지원자인 B가 하는 행동이지 회사가 B에게 하는 행동이 아니다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: I'm visiting this city for the first time. Is there anything you'd ______ seeing?\nB: Definitely check out the old market downtown. It's my favorite spot.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "recommend",
+    "avoid",
+    "regret",
+    "forget"
+   ],
+   "answer": 0,
+   "explanation": "도시를 처음 방문한 A가 볼 만한 곳을 묻자 B가 시내 재래시장을 '꼭 가 보라'고 권하는 상황이므로 recommend(추천하다)가 정답이다. avoid(피하다)는 B의 긍정적인 추천 답변과 반대 방향이고, regret(후회하다)과 forget(잊다)은 의미가 통하지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "The store will ______ its opening hours during the holiday season to serve more customers.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "exchange",
+    "purchase",
+    "deliver",
+    "extend"
+   ],
+   "answer": 3,
+   "explanation": "연말 성수기에 더 많은 손님을 받기 위해 영업시간을 '연장한다(extend)'는 내용이다. extend one's opening hours는 자연스러운 연어이다. exchange(교환하다), purchase(구매하다), deliver(배달하다)는 opening hours를 목적어로 취하면 의미가 성립하지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "The new subway line has led to a ______ increase in the number of visitors to the area.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "punctual",
+    "significant",
+    "talented",
+    "artificial"
+   ],
+   "answer": 1,
+   "explanation": "새 지하철 노선 덕분에 방문객 수가 '상당히' 증가했다는 문장으로, a significant increase(상당한 증가)는 대표적인 연어이다. punctual(시간을 지키는), talented(재능 있는), artificial(인공적인)은 모두 increase를 수식하기에 의미가 맞지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "All passengers must ______ their boarding passes before getting on the plane.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "invent",
+    "describe",
+    "present",
+    "decorate"
+   ],
+   "answer": 2,
+   "explanation": "탑승 전에 모든 승객은 탑승권을 '제시해야(present)' 한다는 문장이다. 동사 present는 '제시하다, 보여 주다'의 의미로 쓰였다. invent(발명하다)와 decorate(장식하다)는 의미상 어긋나고, describe(설명하다)는 문법적으로는 가능하지만 탑승 절차라는 상황에 전혀 맞지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "Under the new policy, employees who work overtime are ______ to extra pay.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "entitled",
+    "dedicated",
+    "admitted",
+    "converted"
+   ],
+   "answer": 0,
+   "explanation": "새 방침에 따라 초과 근무를 한 직원은 추가 수당을 받을 '자격이 있다'는 내용으로, be entitled to(~을 받을 자격이 있다)가 정답이다. dedicated to는 '~에 헌신하는', admitted to는 '~에 입장·입학이 허가된', converted to는 '~로 전환된'이라는 뜻으로 모두 extra pay와 의미가 연결되지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "Customers may return any ______ within 30 days as long as they have a receipt.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "payment",
+    "permission",
+    "purpose",
+    "purchase"
+   ],
+   "answer": 3,
+   "explanation": "영수증만 있으면 30일 이내에 어떤 '구매품'이든 반품할 수 있다는 안내이다. purchase는 명사로 '구매(한 물건)'를 뜻하므로 return의 목적어로 자연스럽다. payment(지불금)는 반품(return)의 대상이 아니라 환불(refund)의 대상이라 매력적 오답이고, permission(허가)과 purpose(목적)는 문맥과 무관하다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: How long have you worked at this company?\nB: I ______ here for almost ten years now.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "work",
+    "worked",
+    "have worked",
+    "am working"
+   ],
+   "answer": 2,
+   "explanation": "근무 기간을 묻는 질문에 'for almost ten years now(이제 거의 10년째)'라고 답하고 있으므로, 과거부터 현재까지의 계속을 나타내는 현재완료 have worked가 정답이다. 단순현재 work와 현재진행 am working은 기간 표현 for ~ now와 어울리지 않고, 과거형 worked는 지금도 일하고 있다는 의미를 담지 못한다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: When can I pick up my order?\nB: It will be ready ______ noon on Thursday.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "until",
+    "by",
+    "from",
+    "in"
+   ],
+   "answer": 1,
+   "explanation": "주문품이 '목요일 정오까지는' 준비 완료될 것이라는 뜻이므로 완료 기한을 나타내는 전치사 by가 정답이다. until은 어떤 상태가 그 시점까지 '계속'됨을 나타내므로 준비 완료라는 일회성 사건과 어울리지 않아 매력적 오답이고, from(부터)과 in(안에, 후에)은 기한을 나타낼 수 없다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: Do I need to print out my ticket?\nB: No, you ______. You can just show it on your phone.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "mustn't",
+    "can't",
+    "wouldn't",
+    "don't have to"
+   ],
+   "answer": 3,
+   "explanation": "표를 출력해야 하느냐는 질문에 '휴대폰으로 보여 주면 된다'고 답하므로 '~할 필요가 없다'는 뜻의 don't have to가 정답이다. mustn't는 '~해서는 안 된다'는 금지의 의미라서 필요 여부를 묻는 질문의 답으로 어색한 매력적 오답이고, can't(불가능)와 wouldn't(의지 부정)도 문맥에 맞지 않는다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: How do you like your new apartment?\nB: I love it. It's much ______ than my old place.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "more spacious",
+    "spacious",
+    "most spacious",
+    "spaciously"
+   ],
+   "answer": 0,
+   "explanation": "빈칸 뒤에 than이 있고 앞에 비교급 강조 부사 much가 있으므로 비교급 more spacious가 정답이다. 원급 spacious는 than과 함께 쓸 수 없고, 최상급 most spacious는 비교 구문에 맞지 않으며, 부사 spaciously는 be동사의 보어 자리에 올 수 없다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: Is there ______ milk left in the fridge?\nB: Just a little. I'll buy some on my way home.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "many",
+    "few",
+    "any",
+    "none"
+   ],
+   "answer": 2,
+   "explanation": "의문문에서 불가산명사 milk 앞에는 any를 쓰는 것이 원칙이므로 any가 정답이다. B의 대답 a little도 milk가 불가산명사임을 보여 준다. many와 few는 가산 복수명사에만 쓸 수 있고, none은 대명사라서 명사를 직접 수식할 수 없다."
+  },
+  {
+   "part": "grammar",
+   "passage": "The price of the concert tickets ______ gone up since last month.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "have",
+    "has",
+    "having",
+    "to have"
+   ],
+   "answer": 1,
+   "explanation": "주어의 핵심은 단수명사 price이고 of the concert tickets는 수식어구일 뿐이므로 단수동사 has가 정답이다. 바로 앞의 복수명사 tickets에 이끌려 have를 고르기 쉬우나 수일치 대상이 아니며, having과 to have는 문장의 정동사가 될 수 없다."
+  },
+  {
+   "part": "grammar",
+   "passage": "Employees ______ complete the training course will receive a certificate.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "who",
+    "whose",
+    "which",
+    "whom"
+   ],
+   "answer": 0,
+   "explanation": "선행사 Employees(사람)가 관계사절 안에서 동사 complete의 주어 역할을 하므로 주격 관계대명사 who가 정답이다. whose는 뒤에 명사가 와야 하는 소유격이고, which는 사물 선행사에 쓰며, whom은 목적격이라 주어 자리에 올 수 없다."
+  },
+  {
+   "part": "grammar",
+   "passage": "The new shopping mall ______ next to the train station last year.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "built",
+    "has built",
+    "was building",
+    "was built"
+   ],
+   "answer": 3,
+   "explanation": "쇼핑몰은 '지어지는' 대상이므로 수동태가 필요하고, last year라는 명확한 과거 시점이 있으므로 과거 수동태 was built가 정답이다. built와 has built는 능동태라서 목적어가 필요하고, has built는 last year와도 어울리지 않으며, was building(과거진행 능동)은 쇼핑몰이 무언가를 짓고 있었다는 뜻이 되어 어색하다."
+  },
+  {
+   "part": "grammar",
+   "passage": "The manager suggested ______ the deadline to give the team more time.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "to move",
+    "move",
+    "moving",
+    "moved"
+   ],
+   "answer": 2,
+   "explanation": "suggest는 동명사를 목적어로 취하는 동사이므로 moving이 정답이다. to부정사를 목적어로 착각하기 쉬워 to move가 매력적 오답이지만 suggest는 to부정사를 취하지 않으며, 동사원형 move와 과거형 moved도 목적어 자리에 올 수 없다."
+  },
+  {
+   "part": "grammar",
+   "passage": "If it ______ tomorrow, the outdoor market will be canceled.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "will rain",
+    "rains",
+    "rained",
+    "would rain"
+   ],
+   "answer": 1,
+   "explanation": "조건을 나타내는 부사절(If절)에서는 미래의 일이라도 현재시제로 표현하므로 rains가 정답이다. tomorrow 때문에 will rain을 고르기 쉬우나 조건 부사절에는 will을 쓰지 않으며, rained와 would rain은 가정법 과거가 되어 주절의 will be canceled와 시제가 호응하지 않는다."
+  },
+  {
+   "part": "reading",
+   "passage": "Notice to all residents: The elevator will be out of service this Monday for regular maintenance. During this time, please use the stairs. We apologize for any ______ this may cause.",
+   "stem": "Which option best completes the passage?",
+   "choices": [
+    "improvement",
+    "inconvenience",
+    "entertainment",
+    "permission"
+   ],
+   "answer": 1,
+   "explanation": "엘리베이터 정기 점검으로 월요일에 운행이 중단되니 계단을 이용해 달라는 안내문이다. 사과 표현 apologize for와 어울리는 말은 inconvenience(불편)로, 'We apologize for any inconvenience'는 안내문의 상투적 표현이다. improvement(개선), entertainment(오락), permission(허가)은 사과의 대상이 될 수 없다."
+  },
+  {
+   "part": "reading",
+   "passage": "Dear Mr. Harris, Thank you for your order. Unfortunately, the desk lamp you requested is currently out of stock. We expect new stock to arrive early next week, so your order will be shipped ______.",
+   "stem": "Which option best completes the passage?",
+   "choices": [
+    "to a store near your home",
+    "if you cancel your order",
+    "although it was already delivered",
+    "as soon as it arrives"
+   ],
+   "answer": 3,
+   "explanation": "주문한 램프가 품절이라 다음 주 초에 재고가 들어오는 대로 발송하겠다는 안내 이메일이다. 앞 문장 '새 재고가 다음 주 초에 도착할 예정'과 so로 자연스럽게 이어지는 것은 'as soon as it arrives(도착하는 대로)'이다. '집 근처 매장으로 발송된다'는 재고 도착 시점과 인과관계가 없어 so와 연결되지 않고, '주문을 취소하면 발송한다'는 논리적으로 모순이며, '이미 배송되었지만'은 품절 상황과 정면으로 배치된다."
+  },
+  {
+   "part": "reading",
+   "passage": "Many airlines now allow passengers to check in online up to 24 hours before their flight. This service helps travelers ______. Those with only carry-on bags can even go straight to the security check without stopping at the counter.",
+   "stem": "Which option best completes the passage?",
+   "choices": [
+    "avoid waiting in long lines at the airport",
+    "pay lower prices for their plane tickets",
+    "carry extra luggage free of charge",
+    "book hotel rooms more easily"
+   ],
+   "answer": 0,
+   "explanation": "온라인 체크인 서비스에 관한 설명문으로, 뒤 문장 '기내 수하물만 있는 승객은 카운터에 들르지 않고 바로 보안 검색대로 갈 수 있다'가 줄 서는 시간을 줄여 준다는 내용을 뒷받침한다. 따라서 '공항에서 긴 줄을 피하게 해 준다'가 정답이다. 항공권 할인, 수하물 무료 추가, 호텔 예약은 본문에서 전혀 언급되지 않은 효과이다."
+  },
+  {
+   "part": "reading",
+   "passage": "To all staff: Starting next month, the office cafeteria will offer a wider variety of lunch options, including vegetarian dishes. This change comes in response to ______. We hope everyone enjoys the new menu.",
+   "stem": "Which option best completes the passage?",
+   "choices": [
+    "rising food prices",
+    "a shortage of kitchen staff",
+    "requests from employees",
+    "complaints about noise in the cafeteria"
+   ],
+   "answer": 2,
+   "explanation": "다음 달부터 구내식당 점심 메뉴가 채식 요리를 포함해 다양해진다는 사내 공지이다. 메뉴를 다양화하는 변화의 계기로 자연스러운 것은 '직원들의 요청(requests from employees)'이다. 식재료 가격 상승과 주방 인력 부족은 오히려 메뉴를 줄이는 이유가 될 수 있어 흐름과 반대이고, 식당 소음에 대한 불만은 메뉴 개편과 무관하다."
+  },
+  {
+   "part": "reading",
+   "passage": "Riverside Fitness Center is celebrating its tenth anniversary this month. All new members who sign up before June 30 will receive a 20 percent discount on their first year of membership. In addition, current members can bring a friend for free every weekend in June.",
+   "stem": "What is the main purpose of the announcement?",
+   "choices": [
+    "To announce the closing of a fitness center",
+    "To promote its anniversary membership offers",
+    "To explain new safety rules at a gym",
+    "To introduce a new fitness trainer"
+   ],
+   "answer": 1,
+   "explanation": "개관 10주년을 맞아 6월 30일 이전 신규 가입자에게 첫해 회비 20% 할인을, 기존 회원에게는 6월 주말 친구 무료 동반 혜택을 알리는 글이다. 따라서 목적은 기념 혜택 홍보이다. 폐업 안내, 안전 수칙 설명, 트레이너 소개는 본문 어디에도 언급되지 않았다."
+  },
+  {
+   "part": "reading",
+   "passage": "More and more companies are letting employees work from home a few days a week. Workers say they save time and money by not commuting, and many report getting more done. Employers, in turn, benefit from happier employees and lower office costs.",
+   "stem": "What is the passage mainly about?",
+   "choices": [
+    "The difficulty of finding office space",
+    "The rising cost of commuting",
+    "Ways to get promoted quickly",
+    "The benefits of working from home"
+   ],
+   "answer": 3,
+   "explanation": "재택근무를 허용하는 회사가 늘고 있으며, 직원은 통근 시간과 비용을 아끼고 생산성이 오르며 회사는 직원 만족과 사무실 비용 절감이라는 이득을 본다는 내용이다. 따라서 주제는 '재택근무의 이점'이다. 사무 공간 문제와 통근 비용은 글의 일부 소재를 확대한 오답이고, 승진 방법은 언급되지 않았다."
+  },
+  {
+   "part": "reading",
+   "passage": "When you travel abroad, it is a good idea to keep a copy of your passport separate from the original. If your passport is lost or stolen, a copy will make it much easier to get a replacement at your embassy. Some travelers also store a digital photo of it on their phone.",
+   "stem": "What is the main idea of the passage?",
+   "choices": [
+    "Keeping a copy of your passport is useful when traveling",
+    "Embassies no longer replace lost passports",
+    "Travelers should not carry their passports abroad",
+    "Digital photos are safer than paper documents"
+   ],
+   "answer": 0,
+   "explanation": "해외여행 시 여권 사본을 원본과 따로 보관하면 분실·도난 시 대사관에서 재발급받기가 훨씬 쉬워진다는 조언이므로, 요지는 '여권 사본 보관의 유용성'이다. 대사관이 재발급을 해 주지 않는다는 것은 본문 내용과 반대이고, 여권을 갖고 다니지 말라는 것은 지나친 해석이며, 디지털 사진이 더 안전하다는 것은 마지막 문장의 부가 정보를 과장한 오답이다."
+  },
+  {
+   "part": "reading",
+   "passage": "Greenway Supermarket will be open from 9 a.m. to 6 p.m. during the holiday, instead of its usual hours of 8 a.m. to 10 p.m. The pharmacy inside the store will remain closed for the entire holiday. Normal hours will resume on Tuesday.",
+   "stem": "Which is correct according to the notice?",
+   "choices": [
+    "The pharmacy will stay open during the holiday",
+    "The store will be closed until Tuesday",
+    "The supermarket will close earlier than usual during the holiday",
+    "The store usually opens at 9 a.m."
+   ],
+   "answer": 2,
+   "explanation": "평소 오전 8시~오후 10시 영업하는 슈퍼마켓이 연휴 동안 오전 9시~오후 6시로 단축 운영한다는 공지이다. 평소(오후 10시)보다 일찍(오후 6시) 문을 닫으므로 '평소보다 일찍 닫는다'가 옳다. 매장 내 약국은 연휴 내내 문을 닫으므로 '약국이 연다'는 틀리고, 상점 자체가 화요일까지 휴업하는 것이 아니라 단축 영업이므로 '화요일까지 문을 닫는다'도 틀리며, 평소 개점 시간은 오전 8시이므로 '평소 오전 9시에 연다'도 틀리다."
+  },
+  {
+   "part": "reading",
+   "passage": "Dear Ms. Cole, This is a reminder that your dental appointment is scheduled for Friday, May 12, at 3 p.m. If you need to change the date, please call us at least 24 hours in advance. Patients who miss an appointment without notice will be charged a $20 fee.",
+   "stem": "Which is correct according to the email?",
+   "choices": [
+    "The appointment is scheduled for Friday morning",
+    "Appointment changes must be made a week in advance",
+    "Ms. Cole must pay $20 to book an appointment",
+    "Patients who miss appointments without notice are charged a fee"
+   ],
+   "answer": 3,
+   "explanation": "5월 12일 금요일 오후 3시 치과 예약을 알리는 이메일로, 사전 연락 없이 예약을 지키지 않으면 20달러의 수수료가 부과된다고 했으므로 '무단 불참 시 수수료가 부과된다'가 옳다. 예약은 오후 3시이므로 '금요일 오전'은 틀리고, 변경 연락은 최소 24시간 전이면 되므로 '일주일 전'은 틀리며, 20달러는 예약비가 아니라 무단 불참 수수료이므로 '예약하려면 20달러를 내야 한다'도 틀리다."
+  },
+  {
+   "part": "reading",
+   "passage": "Thank you for purchasing the Solara electric kettle. Before first use, fill the kettle with water, boil it, and pour the water out. Do not place the kettle base in water, as this may damage the electrical parts inside.",
+   "stem": "What can be inferred from the passage?",
+   "choices": [
+    "The kettle can be used without electricity",
+    "The base of the kettle is not waterproof",
+    "The kettle should be washed in a dishwasher",
+    "Users must boil water in the kettle twice before first use"
+   ],
+   "answer": 1,
+   "explanation": "전기 주전자 사용 설명서로, 받침대(base)를 물에 담그면 내부 전기 부품이 손상될 수 있다고 경고하므로 받침대가 방수가 아니라는 것을 추론할 수 있다. '전기(electric) 주전자'이므로 전기 없이 쓸 수 있다는 추론은 어긋나고, 물에 담그지 말라는 경고와 배치되는 식기세척기 세척도 틀리며, 첫 사용 전 물을 '한 번' 끓여 버리라고 했으므로 '두 번 끓여야 한다'는 것도 본문과 다르다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: I have a terrible headache today.\nB: You should take some ______ and lie down for a while.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "notes",
+    "lessons",
+    "medicine",
+    "pictures"
+   ],
+   "answer": 2,
+   "explanation": "A가 '오늘 두통이 심하다'고 하자 B가 '______을 좀 먹고(복용하고) 잠시 누워 있으라'고 조언하는 대화입니다. 두통에 대한 처방으로 'take medicine(약을 복용하다)'이 자연스러우므로 medicine이 정답입니다. notes(take notes: 필기하다), lessons(take lessons: 수업을 받다), pictures(take pictures: 사진을 찍다)는 모두 take와 어울리는 표현이지만 두통·휴식이라는 문맥과 전혀 맞지 않습니다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: My laptop has been running really slowly these days.\nB: Maybe you should ______ some old files to free up space.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "delete",
+    "invent",
+    "postpone",
+    "attend"
+   ],
+   "answer": 0,
+   "explanation": "노트북이 느려졌다는 A에게 B가 '공간을 확보하려면 오래된 파일을 ______하라'고 조언합니다. 저장 공간을 비우는 방법은 파일을 '삭제(delete)'하는 것이므로 delete가 정답입니다. invent(발명하다), postpone(미루다), attend(참석하다)는 파일과 저장 공간이라는 문맥에 어울리지 않습니다. 특히 postpone은 시험·회의 등 일정에 쓰는 어휘로 파일에는 쓸 수 없습니다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: Why do you always bring your own cup to the café?\nB: I want to ______ plastic waste as much as I can.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "collect",
+    "reduce",
+    "increase",
+    "borrow"
+   ],
+   "answer": 1,
+   "explanation": "카페에 개인 컵을 가져가는 이유를 묻자 B가 '플라스틱 쓰레기를 최대한 ______하고 싶다'고 답합니다. 일회용 컵 대신 개인 컵을 쓰는 것은 쓰레기를 '줄이는(reduce)' 행동이므로 reduce가 정답입니다. increase(늘리다)는 정반대 의미이고, collect(모으다)는 쓰레기 수거 활동에나 어울리며 개인 컵 사용 이유로는 부적절합니다. borrow(빌리다)도 문맥과 무관합니다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: Did you hand in your history paper?\nB: Not yet. The professor agreed to ______ the deadline until Friday.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "cancel",
+    "refund",
+    "attend",
+    "extend"
+   ],
+   "answer": 3,
+   "explanation": "리포트를 냈냐는 질문에 B가 '아직이야. 교수님이 마감일을 금요일까지 ______해 주시기로 했어'라고 답합니다. 'until Friday(금요일까지)'라는 표현에서 마감이 '연장(extend)'되었음을 알 수 있으므로 extend가 정답입니다. cancel(취소하다)이라면 특정 날짜(until Friday)가 새로 정해질 이유가 없어 모순이고, refund(환불하다)는 돈에 쓰는 어휘, attend(참석하다)는 deadline과 결합할 수 없습니다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: I heard you joined a gym last month.\nB: Yes, I'm trying to stay ______ by working out three times a week.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "healthy",
+    "absent",
+    "narrow",
+    "silent"
+   ],
+   "answer": 0,
+   "explanation": "헬스장에 등록했다는 소식에 B가 '일주일에 세 번 운동하면서 ______한 상태를 유지하려고 한다'고 답합니다. 운동의 목적은 건강 유지이므로 'stay healthy(건강을 유지하다)'가 되는 healthy가 정답입니다. absent(결석한), narrow(좁은), silent(조용한)는 모두 운동과 건강이라는 문맥에 맞지 않는 형용사입니다."
+  },
+  {
+   "part": "vocab",
+   "passage": "Regular exercise can significantly ______ the risk of heart disease.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "blame",
+    "waste",
+    "lower",
+    "invite"
+   ],
+   "answer": 2,
+   "explanation": "'규칙적인 운동은 심장병의 위험을 크게 ______할 수 있다'는 문장입니다. 운동이 질병 위험에 미치는 긍정적 효과는 위험을 '낮추는(lower)' 것이므로 lower가 정답입니다. 'lower the risk'는 건강 관련 글의 대표적인 연어(collocation)입니다. blame(탓하다), waste(낭비하다)는 risk와 어울리지 않고, invite(초래하다)는 위험을 오히려 불러들인다는 반대 의미가 되어 문맥상 틀립니다."
+  },
+  {
+   "part": "vocab",
+   "passage": "Solar panels ______ sunlight into electricity that can power homes and schools.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "translate",
+    "convert",
+    "exchange",
+    "remove"
+   ],
+   "answer": 1,
+   "explanation": "'태양광 패널은 햇빛을 전기로 ______한다'는 문장입니다. 'A를 B로 전환하다'는 뜻의 'convert A into B'가 정확한 표현이므로 convert가 정답입니다. translate(번역하다)는 언어에, exchange(교환하다)는 물건·화폐를 맞바꿀 때 쓰며 into와 함께 에너지 전환을 나타내지 못합니다. remove(제거하다)는 의미 자체가 문맥과 어긋납니다."
+  },
+  {
+   "part": "vocab",
+   "passage": "Students must ______ their lab reports by Friday, or they will lose ten points.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "decorate",
+    "interrupt",
+    "purchase",
+    "submit"
+   ],
+   "answer": 3,
+   "explanation": "'학생들은 금요일까지 실험 보고서를 ______해야 하며, 그렇지 않으면 10점이 감점된다'는 문장입니다. 마감일(by Friday)과 감점이라는 문맥에서 보고서를 '제출하다(submit)'가 자연스러우므로 submit이 정답입니다. decorate(장식하다), interrupt(방해하다), purchase(구입하다)는 보고서 제출 기한이라는 상황과 전혀 어울리지 않습니다."
+  },
+  {
+   "part": "vocab",
+   "passage": "The company will ______ its new smartphone model at a press event next month.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "launch",
+    "expand",
+    "remove",
+    "translate"
+   ],
+   "answer": 0,
+   "explanation": "'그 회사는 다음 달 기자 간담회에서 새 스마트폰 모델을 ______할 것이다'라는 문장입니다. 신제품을 시장에 '출시하다'는 뜻의 launch가 정답이며, 'launch a new model'은 기술·비즈니스 기사에서 매우 흔한 표현입니다. expand(확장하다)는 사업·규모에 쓰는 말이고, remove(없애다)는 신제품 발표라는 문맥과 반대이며, translate(번역하다)는 제품과 결합할 수 없습니다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A balanced diet provides the ______ your body needs to stay strong and fight illness.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "symptoms",
+    "appliances",
+    "nutrients",
+    "documents"
+   ],
+   "answer": 2,
+   "explanation": "'균형 잡힌 식단은 몸이 튼튼함을 유지하고 질병과 싸우는 데 필요한 ______를 공급한다'는 문장입니다. 식단이 몸에 공급하는 것은 '영양소(nutrients)'이므로 nutrients가 정답입니다. symptoms(증상)는 건강 관련 어휘라 매력적으로 보이지만 질병의 징후를 뜻해 '공급한다'는 동사와 맞지 않고, appliances(가전제품), documents(서류)는 문맥과 무관합니다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: What did you do last weekend?\nB: I ______ a science documentary at home.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "watch",
+    "watched",
+    "will watch",
+    "watching"
+   ],
+   "answer": 1,
+   "explanation": "'지난 주말에 뭐 했어?'라는 과거 시점(last weekend)에 대한 질문이므로 대답도 과거시제여야 합니다. 따라서 watched가 정답입니다. watch(현재형)와 will watch(미래형)는 시제가 맞지 않고, watching은 be동사 없이 단독으로 본동사 역할을 할 수 없습니다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: I keep sneezing, and my throat really hurts.\nB: You ______ see a doctor before it gets worse.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "can't",
+    "used to",
+    "won't",
+    "should"
+   ],
+   "answer": 3,
+   "explanation": "재채기가 계속 나고 목이 아프다는 A에게 B가 '더 나빠지기 전에 병원에 가 보는 게 좋겠다'고 충고하는 상황입니다. 충고·권유를 나타내는 조동사 should가 정답입니다. can't(~할 수 없다)와 won't(~하지 않을 것이다)는 충고의 의미가 없어 문맥에 어긋나고, used to(~하곤 했다)는 과거의 습관을 나타내므로 앞으로의 행동을 권하는 상황에 쓸 수 없습니다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: How was the chemistry exam?\nB: It was much ______ than I expected.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "hard",
+    "harder",
+    "hardest",
+    "hardly"
+   ],
+   "answer": 1,
+   "explanation": "화학 시험이 어땠냐는 질문에 '예상했던 것보다 훨씬 어려웠다'고 답하는 대화입니다. 뒤에 비교 대상(than I expected)이 있으므로 비교급 harder가 정답이며, much는 비교급을 강조하는 부사입니다. 원급 hard와 최상급 hardest는 than과 함께 쓸 수 없고, hardly는 '거의 ~않다'라는 뜻의 부사로 형용사 자리에 올 수 없습니다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: When does the environmental science seminar start?\nB: It begins ______ 3 p.m. on Thursday.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "at",
+    "on",
+    "in",
+    "until"
+   ],
+   "answer": 0,
+   "explanation": "세미나 시작 시각을 묻고 답하는 대화입니다. 구체적인 시각(3 p.m.) 앞에는 전치사 at을 쓰므로 at이 정답입니다. on은 요일·날짜 앞에(on Thursday처럼), in은 월·연도·오전/오후(in the afternoon 등) 앞에 쓰며, until(~까지 계속)은 시작 시점을 나타내는 begins와 의미상 어울리지 않습니다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: What do you usually do to relieve stress?\nB: I enjoy ______ in the park near my house.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "jog",
+    "to jog",
+    "jogging",
+    "jogged"
+   ],
+   "answer": 2,
+   "explanation": "스트레스 해소법을 묻자 '집 근처 공원에서 조깅하는 것을 즐긴다'고 답하는 대화입니다. enjoy는 목적어로 동명사(-ing)만 취하는 동사이므로 jogging이 정답입니다. to jog(부정사)는 enjoy 뒤에 올 수 없고(enjoy는 finish, mind 등과 함께 동명사만 취함), 동사원형 jog와 과거형 jogged는 목적어 자리에 올 수 없습니다."
+  },
+  {
+   "part": "grammar",
+   "passage": "The number of students taking online science courses ______ increasing every year.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "is",
+    "are",
+    "be",
+    "have been"
+   ],
+   "answer": 0,
+   "explanation": "'온라인 과학 강좌를 듣는 학생의 수가 해마다 늘고 있다'는 문장입니다. 주어의 핵심은 복수명사가 아니라 단수인 'The number(수)'이므로 단수 동사 is가 정답입니다. are와 have been은 빈칸 바로 앞의 복수 명사(students, courses)에 이끌려 고르기 쉬운 매력적 오답이지만 실제 주어가 The number라는 점에서 틀렸고, be는 동사원형이라 본동사 자리에 올 수 없습니다."
+  },
+  {
+   "part": "grammar",
+   "passage": "The award went to the researcher ______ developed the new malaria vaccine.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "which",
+    "whose",
+    "whom",
+    "who"
+   ],
+   "answer": 3,
+   "explanation": "'그 상은 새 말라리아 백신을 개발한 연구자에게 돌아갔다'는 문장입니다. 선행사가 사람(the researcher)이고 빈칸 뒤에 동사(developed)가 바로 이어지므로 주격 관계대명사 who가 정답입니다. which는 사물 선행사에 쓰고, whose는 뒤에 명사가 와야 하는 소유격이며, whom은 목적격이라 주어 자리에 쓸 수 없습니다."
+  },
+  {
+   "part": "grammar",
+   "passage": "The results of the experiment ______ in a leading medical journal last month.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "published",
+    "were published",
+    "have published",
+    "publishing"
+   ],
+   "answer": 1,
+   "explanation": "'그 실험 결과는 지난달 유명 의학 학술지에 게재되었다'는 문장입니다. 주어인 결과(results)는 게재를 '당하는' 대상이므로 수동태가 필요하고, last month라는 과거 시점 표현이 있으므로 과거 수동태 were published가 정답입니다. published(능동 과거)와 have published(능동 현재완료)는 결과가 스스로 게재했다는 어색한 의미가 되고, 현재완료는 last month와도 함께 쓸 수 없습니다. publishing은 본동사가 될 수 없습니다."
+  },
+  {
+   "part": "grammar",
+   "passage": "Dr. Carter ______ environmental science at the university since 2015.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "teaches",
+    "taught",
+    "has taught",
+    "is teaching"
+   ],
+   "answer": 2,
+   "explanation": "'카터 박사는 2015년부터 그 대학에서 환경과학을 가르쳐 왔다'는 문장입니다. 'since + 과거 시점'은 과거에 시작되어 현재까지 계속되는 일을 나타내므로 현재완료 has taught가 정답입니다. 단순현재 teaches와 현재진행 is teaching은 since 2015와 함께 쓸 수 없고, 단순과거 taught는 이미 끝난 일을 나타내므로 '지금까지 계속'이라는 의미를 담지 못합니다."
+  },
+  {
+   "part": "grammar",
+   "passage": "Many people drink green tea every day ______ their overall health.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "improve",
+    "improving",
+    "improved",
+    "to improve"
+   ],
+   "answer": 3,
+   "explanation": "'많은 사람이 전반적인 건강을 개선하기 위해 매일 녹차를 마신다'는 문장입니다. '~하기 위해'라는 목적을 나타내는 to부정사 to improve가 정답입니다. 동사원형 improve는 이미 본동사 drink가 있으므로 또 올 수 없고, improving과 improved는 목적의 의미를 나타내지 못해 문장이 성립하지 않습니다."
+  },
+  {
+   "part": "reading",
+   "passage": "Notice to All Residents: Starting next month, recycling will be collected every Tuesday instead of Friday. Please place your bins outside by 8 a.m. ______, your recycling may not be picked up until the following week.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "Therefore",
+    "For example",
+    "Otherwise",
+    "In addition"
+   ],
+   "answer": 2,
+   "explanation": "재활용품 수거 요일이 화요일로 바뀌니 오전 8시까지 수거함을 내놓으라는 안내문입니다. 빈칸 앞은 '8시까지 내놓으라'는 지시, 뒤는 '재활용품이 다음 주까지 수거되지 않을 수 있다'는 경고이므로, '그렇지 않으면'이라는 뜻의 Otherwise가 정답입니다. Therefore(그러므로)는 인과, For example(예를 들어)은 예시, In addition(게다가)은 첨가를 나타내어 '지시를 따르지 않을 경우의 결과'라는 논리 관계와 맞지 않습니다."
+  },
+  {
+   "part": "reading",
+   "passage": "Dear Professor Kim, I am writing to ask about the biology midterm. I was absent last week due to a bad case of the flu, and I have a doctor's note. I would like to know if I can ______. Thank you for your time. Sincerely, Jason Lee",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "take a makeup exam",
+    "join your research project",
+    "cancel my course registration",
+    "borrow your lecture notes"
+   ],
+   "answer": 0,
+   "explanation": "독감으로 지난주에 결석해 생물학 중간고사를 못 본 학생이 진단서가 있다며 교수에게 보내는 이메일입니다. 시험을 놓친 학생이 요청할 내용으로는 '보충 시험을 볼 수 있는지(take a makeup exam)'가 가장 자연스럽습니다. 연구 프로젝트 참여나 수강 취소는 결석·진단서라는 맥락과 무관하고, 강의 노트를 빌려 달라는 부탁은 '중간고사(midterm)에 대해 문의드린다'는 첫 문장의 목적과 맞지 않습니다."
+  },
+  {
+   "part": "reading",
+   "passage": "Drinking enough water is essential for good health. Water helps the body control its temperature and carry nutrients to every cell. For these reasons, doctors recommend that people ______.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "avoid drinking water during meals",
+    "drink water regularly throughout the day",
+    "replace water with sugary sports drinks",
+    "drink water only after exercising"
+   ],
+   "answer": 1,
+   "explanation": "물이 체온 조절과 영양소 운반에 필수적이라는 내용의 짧은 설명문입니다. '이런 이유로 의사들은 사람들에게 ______을 권한다'로 이어지므로, 글의 흐름상 '하루 종일 규칙적으로 물을 마시라(drink water regularly throughout the day)'는 권고가 정답입니다. 식사 중 물을 피하라, 물을 단 스포츠음료로 대체하라, 운동 후에만 물을 마시라는 것은 모두 '충분한 물 섭취가 필수적'이라는 앞 내용과 논리적으로 어긋납니다."
+  },
+  {
+   "part": "reading",
+   "passage": "Electric cars are becoming popular because they produce no exhaust gases and help keep city air clean. However, they are not yet convenient for every driver. People in rural areas often hesitate to buy one because ______.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "city drivers dislike electric cars",
+    "electric cars are too fast for country roads",
+    "gasoline prices keep falling in the countryside",
+    "charging stations are rare outside large cities"
+   ],
+   "answer": 3,
+   "explanation": "전기차는 배기가스가 없어 인기지만 아직 모든 운전자에게 편리하지는 않다는 글입니다. 빈칸은 '시골 지역 사람들이 구매를 망설이는 이유'인데, 앞 문장의 '불편함(not convenient)'과 연결되는 실질적 이유는 충전 인프라이므로 '대도시 밖에는 충전소가 드물다(charging stations are rare outside large cities)'가 정답입니다. 도시 운전자가 전기차를 싫어한다는 것은 시골 주민의 사정과 무관하고, 전기차가 시골길에 너무 빠르다는 것은 근거 없는 진술이며, 휘발유 가격 하락은 전기차의 '불편함'을 설명하지 못해 앞 문장과 연결되지 않습니다."
+  },
+  {
+   "part": "reading",
+   "passage": "Many office workers sit at their desks for more than eight hours a day. Studies show that sitting for long periods can raise the risk of back pain and heart problems. Experts therefore advise standing up and stretching at least once every hour.",
+   "stem": "What is the passage mainly about?",
+   "choices": [
+    "The health risks of sitting too long and a simple way to reduce them",
+    "The best exercises for building strong muscles",
+    "Why office workers should work from home",
+    "How to treat serious back injuries at a hospital"
+   ],
+   "answer": 0,
+   "explanation": "사무직 근로자들이 하루 8시간 이상 앉아 있고, 오래 앉아 있으면 요통과 심장 질환 위험이 커지므로 전문가들이 매시간 일어나 스트레칭을 하라고 권한다는 글입니다. 즉 '오래 앉아 있는 것의 건강 위험과 이를 줄이는 간단한 방법'이 주제입니다. 근육을 키우는 운동이나 재택근무는 본문에 언급되지 않았고, 병원에서의 허리 부상 치료는 back pain이라는 단어만 이용한 함정으로 글의 핵심(예방 차원의 스트레칭 권고)과 다릅니다."
+  },
+  {
+   "part": "reading",
+   "passage": "Every year, about eight million tons of plastic waste enter the ocean. This trash harms sea turtles, birds, and fish that mistake it for food. Using fewer plastic bags and bottles is a simple step anyone can take to protect ocean life.",
+   "stem": "What is the best title for the passage?",
+   "choices": [
+    "How Plastic Bottles Are Made",
+    "Fun Summer Activities at the Beach",
+    "Plastic Waste: A Danger to Ocean Life",
+    "The Rising Cost of Recycling Programs"
+   ],
+   "answer": 2,
+   "explanation": "매년 약 800만 톤의 플라스틱 쓰레기가 바다로 유입되어 이를 먹이로 착각한 바다거북·새·물고기에게 해를 끼치며, 플라스틱 사용을 줄이는 것이 해양 생물을 보호하는 방법이라는 글입니다. 따라서 'Plastic Waste: A Danger to Ocean Life(플라스틱 쓰레기: 해양 생물에 대한 위협)'가 제목으로 가장 적절합니다. 플라스틱 병 제조 과정과 여름 해변 활동은 글에 없는 내용이고, 재활용 프로그램 비용은 연상 어휘를 이용한 오답으로 본문에서 비용은 전혀 다루지 않습니다."
+  },
+  {
+   "part": "reading",
+   "passage": "Online classes allow students to study anywhere with an Internet connection. Learners can replay recorded lectures and move at their own pace. This flexibility is the main reason more universities now offer full online degree programs.",
+   "stem": "What is the passage mainly about?",
+   "choices": [
+    "the rising cost of college tuition",
+    "the advantages of learning online",
+    "the difficulty of studying without a teacher",
+    "the history of the Internet"
+   ],
+   "answer": 1,
+   "explanation": "온라인 수업은 어디서나 공부할 수 있고, 녹화 강의를 다시 볼 수 있으며, 자기 속도대로 학습할 수 있다는 장점을 나열한 뒤 이런 유연성 때문에 대학들이 온라인 학위 과정을 늘리고 있다고 말하는 글입니다. 따라서 주제는 '온라인 학습의 장점(the advantages of learning online)'입니다. 등록금 비용과 인터넷의 역사는 본문에 언급되지 않았고, 교사 없이 공부하는 어려움은 글의 긍정적 논조와 정반대되는 내용입니다."
+  },
+  {
+   "part": "reading",
+   "passage": "City Health Center Notice: Free flu shots will be offered to residents aged 65 and older from October 5 to October 30. Please bring your ID card and visit between 9 a.m. and 4 p.m. on weekdays. No appointment is necessary.",
+   "stem": "Which of the following is correct according to the notice?",
+   "choices": [
+    "An appointment must be made in advance.",
+    "Flu shots are available on weekends.",
+    "Visitors need to pay a small fee for the shot.",
+    "Residents aged 65 or older can get a free flu shot."
+   ],
+   "answer": 3,
+   "explanation": "보건소가 10월 5일~30일에 65세 이상 주민에게 무료 독감 예방접종을 실시하며, 평일 오전 9시~오후 4시에 신분증을 지참해 방문하면 되고 예약은 필요 없다는 안내문입니다. 'Free flu shots ... to residents aged 65 and older'와 정확히 일치하는 '65세 이상 주민은 무료 독감 주사를 맞을 수 있다'가 정답입니다. 사전 예약이 필요하다는 것은 'No appointment is necessary'와 모순되고, 주말 접종은 'on weekdays'와 어긋나며, 비용을 내야 한다는 것은 'Free'라는 명시적 표현과 반대됩니다."
+  },
+  {
+   "part": "reading",
+   "passage": "The honeybee plays a key role in food production. About one-third of the crops we eat depend on bees to carry pollen from flower to flower. Sadly, bee populations have been falling in recent years because of pesticides and habitat loss.",
+   "stem": "Which of the following is correct according to the passage?",
+   "choices": [
+    "About one-third of our crops rely on bees for pollination.",
+    "Bee populations have grown in recent years.",
+    "Pesticides have helped bees survive.",
+    "Bees play only a minor role in food production."
+   ],
+   "answer": 0,
+   "explanation": "꿀벌은 식량 생산에 핵심적 역할을 하며, 우리가 먹는 작물의 약 3분의 1이 벌의 수분(꽃가루 운반)에 의존하는데, 살충제와 서식지 감소로 벌 개체수가 줄고 있다는 글입니다. 'About one-third of the crops we eat depend on bees'와 일치하는 '작물의 약 3분의 1이 벌의 수분에 의존한다'가 정답입니다. 개체수가 늘었다는 것은 'have been falling'과 반대이고, 살충제가 벌의 생존을 도왔다는 것은 감소 원인을 뒤집은 진술이며, 벌의 역할이 미미하다는 것은 'plays a key role'과 정면으로 모순됩니다."
+  },
+  {
+   "part": "reading",
+   "passage": "Dear Ms. Park, Thank you for purchasing the X10 tablet. Our records show that you have not yet registered your product online. Registered customers receive free software updates and an extra year of warranty service. Visit our website today to sign up. — GreenTech Customer Service",
+   "stem": "What can be inferred from the email?",
+   "choices": [
+    "Ms. Park bought her tablet from a secondhand store.",
+    "The X10 tablet is no longer available for purchase.",
+    "Ms. Park can extend her warranty by registering her product.",
+    "Registered customers must pay for software updates."
+   ],
+   "answer": 2,
+   "explanation": "X10 태블릿을 구매한 고객에게 아직 온라인 제품 등록을 하지 않았음을 알리며, 등록 고객은 무료 소프트웨어 업데이트와 1년 추가 보증을 받는다고 등록을 권하는 이메일입니다. 등록하면 보증이 1년 연장된다고 했으므로 '제품 등록을 통해 보증 기간을 연장할 수 있다'는 추론이 정답입니다. 중고 매장에서 구매했다는 것과 단종되었다는 것은 본문에 근거가 없고, 등록 고객이 업데이트 비용을 내야 한다는 것은 'free software updates'와 모순됩니다."
+  },
+  {
+   "part": "vocab",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "A: This jacket I bought yesterday has a hole in the sleeve.\nB: I'm so sorry. Would you like an exchange or a full ______?",
+   "choices": [
+    "receipt",
+    "discount",
+    "refund",
+    "deposit"
+   ],
+   "answer": 2,
+   "explanation": "어제 산 재킷에 구멍이 나서 항의하는 상황으로, 점원이 '교환 또는 전액 ______'을 제안하고 있습니다. 결함 상품에 대해 돈을 돌려주는 것은 refund(환불)이며, 'a full refund'는 대표적인 연어 표현입니다. discount(할인)는 새로 살 때 깎아 주는 것이라 결함 상품 처리와 맞지 않고, receipt(영수증), deposit(보증금)은 문맥과 무관합니다."
+  },
+  {
+   "part": "vocab",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "A: The city council meeting is still set for Friday, right?\nB: Actually, it was ______ until next week because of the storm.",
+   "choices": [
+    "postponed",
+    "canceled",
+    "repeated",
+    "invented"
+   ],
+   "answer": 0,
+   "explanation": "시의회 회의가 폭풍 때문에 다음 주로 미뤄졌다는 대화입니다. 'until next week(다음 주까지)'라는 표현과 자연스럽게 어울리는 것은 postpone(연기하다)입니다. cancel(취소하다)은 매력적인 오답이지만 취소는 아예 없어지는 것이므로 'until next week'와 함께 쓸 수 없습니다. repeat(반복하다), invent(발명하다)는 의미상 어색합니다."
+  },
+  {
+   "part": "vocab",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "A: Did you hear the news about gas prices?\nB: Yes, the government just ______ a plan to lower fuel taxes.",
+   "choices": [
+    "complained",
+    "announced",
+    "invited",
+    "earned"
+   ],
+   "answer": 1,
+   "explanation": "기름값 뉴스에 대해 '정부가 유류세 인하 계획을 방금 ______했다'는 문맥이므로 announce(발표하다)가 정답입니다. complain(불평하다)은 자동사로 목적어(a plan)를 바로 취할 수 없고 의미도 어색합니다. invite(초대하다)와 earn(벌다)은 plan을 목적어로 취하기에 의미가 맞지 않습니다."
+  },
+  {
+   "part": "vocab",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "A: I'd like two tickets for tonight's concert, please.\nB: I'm sorry, but tonight's performance is completely ______. Would you like tickets for tomorrow instead?",
+   "choices": [
+    "put off",
+    "worn out",
+    "checked in",
+    "sold out"
+   ],
+   "answer": 3,
+   "explanation": "오늘 밤 공연 표를 사려 했지만 내일 표를 권하는 상황이므로, 표가 '매진된(sold out)' 것입니다. put off(연기된)는 매력적인 오답이지만 연기라면 표 자체는 살 수 있고 'completely'와도 어울리지 않습니다. worn out(닳아 해진), checked in(체크인한)은 공연 표와 무관합니다."
+  },
+  {
+   "part": "vocab",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "A: How was the history museum over the holiday?\nB: It was so ______ that we could hardly move around.",
+   "choices": [
+    "crowded",
+    "empty",
+    "silent",
+    "spacious"
+   ],
+   "answer": 0,
+   "explanation": "연휴에 박물관에 갔는데 '거의 움직일 수 없을 정도'였다고 했으므로 사람이 많아 crowded(붐비는) 상태였음을 알 수 있습니다. empty(텅 빈)와 spacious(널찍한)는 오히려 움직이기 쉬운 상태라 정반대이고, silent(조용한)는 이동이 어려운 이유가 될 수 없습니다."
+  },
+  {
+   "part": "vocab",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "The new trade agreement is expected to have a ______ effect on the nation's economy.",
+   "choices": [
+    "portable",
+    "significant",
+    "efficient",
+    "nervous"
+   ],
+   "answer": 1,
+   "explanation": "새 무역 협정이 국가 경제에 '상당한 영향'을 줄 것으로 예상된다는 문장으로, 'a significant effect(상당한 영향)'가 자연스러운 연어입니다. efficient(효율적인)는 사람·시스템·기계를 수식하는 말이라 effect와 어울리지 않는 매력적 오답입니다. portable(휴대용의), nervous(긴장한)는 의미상 전혀 맞지 않습니다."
+  },
+  {
+   "part": "vocab",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "According to legend, the city of Rome was ______ nearly 2,800 years ago.",
+   "choices": [
+    "invented",
+    "discovered",
+    "founded",
+    "purchased"
+   ],
+   "answer": 2,
+   "explanation": "전설에 따르면 로마는 약 2,800년 전에 '세워졌다'는 내용이므로 도시·기관을 설립할 때 쓰는 found(설립하다)의 수동태 was founded가 정답입니다. discover(발견하다)는 이미 존재하던 것을 찾아낼 때 쓰므로 도시 건립과 맞지 않는 매력적 오답이고, invent(발명하다)는 물건·기술에, purchase(구입하다)는 매매에 쓰는 말입니다."
+  },
+  {
+   "part": "vocab",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "The country's birth rate has ______ sharply over the past two decades.",
+   "choices": [
+    "reduced",
+    "disappointed",
+    "canceled",
+    "declined"
+   ],
+   "answer": 3,
+   "explanation": "지난 20년 동안 출산율이 급격히 '감소해 왔다'는 문장이므로 자동사 decline(감소하다)이 정답입니다. reduce(줄이다)는 목적어가 필요한 타동사여서 'has reduced sharply'처럼 목적어 없이 쓰면 어색한 매력적 오답입니다. disappoint(실망시키다), cancel(취소하다)은 의미와 쓰임 모두 맞지 않습니다."
+  },
+  {
+   "part": "vocab",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "Visitors under the age of seven can enter the folk village free of ______.",
+   "choices": [
+    "charge",
+    "price",
+    "salary",
+    "debt"
+   ],
+   "answer": 0,
+   "explanation": "7세 미만 어린이는 민속촌에 '무료로' 입장할 수 있다는 문장입니다. free of charge는 '무료로'라는 뜻의 관용 표현으로 charge(요금)가 정답입니다. price(가격)는 의미가 비슷해 매력적이지만 'free of price'라는 표현은 쓰지 않습니다. salary(급여), debt(빚)는 입장료와 무관합니다."
+  },
+  {
+   "part": "vocab",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "The city installed more security cameras to ______ crime in public parks.",
+   "choices": [
+    "protect",
+    "prevent",
+    "celebrate",
+    "employ"
+   ],
+   "answer": 1,
+   "explanation": "시가 공원 범죄를 '막기 위해' CCTV를 늘렸다는 문맥이므로 prevent(예방하다, 막다)가 정답입니다. protect(보호하다)는 매력적인 오답이지만 보호의 대상(시민, 공원 등)을 목적어로 취해야 하며 'protect crime(범죄를 보호하다)'은 의미가 반대가 됩니다. celebrate(기념하다), employ(고용하다)는 crime과 어울리지 않습니다."
+  },
+  {
+   "part": "grammar",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "A: Have you finished the report on the election results?\nB: Not yet. I ______ on it since this morning.",
+   "choices": [
+    "am working",
+    "worked",
+    "have been working",
+    "will work"
+   ],
+   "answer": 2,
+   "explanation": "선거 결과 보고서를 아직 못 끝냈고 '오늘 아침부터 계속' 작업 중이라는 대화입니다. since(~이래로)는 과거 시점부터 현재까지 이어지는 일을 나타내므로 현재완료(진행)와 함께 써야 하며, have been working이 정답입니다. am working(현재진행)과 worked(단순과거)는 since this morning과 함께 쓸 수 없고, will work는 미래여서 문맥에 맞지 않습니다."
+  },
+  {
+   "part": "grammar",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "A: I can't find my wallet anywhere.\nB: You ______ it on the bus this morning.",
+   "choices": [
+    "must leave",
+    "must be leaving",
+    "had left",
+    "must have left"
+   ],
+   "answer": 3,
+   "explanation": "지갑이 없다는 말에 '오늘 아침 버스에 두고 내렸음이 틀림없다'고 과거 일을 추측하는 상황입니다. 과거 사실에 대한 강한 추측은 must have + 과거분사로 나타내므로 must have left가 정답입니다. must leave는 현재의 의무, must be leaving은 현재 진행 중인 일에 대한 추측이라 시제가 맞지 않고, had left(과거완료)는 기준이 되는 과거 시점이 없고 추측의 의미도 없습니다."
+  },
+  {
+   "part": "grammar",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "A: How do you like your new apartment downtown?\nB: I love it. It's much ______ to my office than the old one.",
+   "choices": [
+    "closer",
+    "close",
+    "closest",
+    "most close"
+   ],
+   "answer": 0,
+   "explanation": "새 아파트가 예전 집보다 사무실에서 '훨씬 더 가깝다'는 대화입니다. 뒤에 비교 대상을 나타내는 than이 있으므로 비교급 closer가 정답이며, much는 비교급을 강조하는 부사입니다. 원급 close와 최상급 closest는 than과 함께 쓸 수 없고, close는 1음절 형용사라 more/most를 붙인 most close 형태 자체가 틀립니다."
+  },
+  {
+   "part": "grammar",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "A: When does the new history exhibition open?\nB: It opens ______ March 3 at the National Museum.",
+   "choices": [
+    "in",
+    "on",
+    "at",
+    "by"
+   ],
+   "answer": 1,
+   "explanation": "새 역사 전시가 3월 3일에 국립박물관에서 개막한다는 대화입니다. 특정 날짜 앞에는 전치사 on을 씁니다(on March 3). in은 월·연도·계절(in March), at은 구체적 시각(at 3 o'clock)에 쓰므로 오답이고, by는 '~까지(완료 기한)'라는 뜻이라 개막 날짜를 말하는 문맥에 맞지 않습니다."
+  },
+  {
+   "part": "grammar",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "A: Why is the community center closed today?\nB: It ______ as a polling place for next week's local elections.",
+   "choices": [
+    "is setting up",
+    "is being set up",
+    "sets up",
+    "has set up"
+   ],
+   "answer": 1,
+   "explanation": "주민센터가 다음 주 지방선거를 위한 투표소로 '설치되고 있는 중'이라 오늘 문을 닫았다는 대화입니다. 주어 It(센터 건물)은 설치하는 주체가 아니라 설치되는 대상이므로 수동태가 필요하고, 지금 진행 중인 일이므로 진행형 수동태 is being set up이 정답입니다. is setting up은 진행형이지만 능동이라 건물이 스스로 무언가를 설치한다는 어색한 의미가 되는 매력적 오답이고, sets up과 has set up도 모두 능동이라 틀립니다."
+  },
+  {
+   "part": "grammar",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "The number of tourists visiting the old palace ______ increased sharply since last spring.",
+   "choices": [
+    "have",
+    "are",
+    "were",
+    "has"
+   ],
+   "answer": 3,
+   "explanation": "고궁을 찾는 관광객 수가 지난봄 이래 급증했다는 문장입니다. 주어는 The number of tourists이며, 'the number of + 복수명사'는 '~의 수'라는 뜻의 단수 취급 표현이므로 단수 동사 has가 정답입니다. have는 바로 앞의 복수명사 tourists에 이끌린 매력적 오답이고, are/were는 뒤의 과거분사 increased와 결합하면 수동태가 되어 의미가 성립하지 않습니다."
+  },
+  {
+   "part": "grammar",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "The economist ______ predicted the financial crisis was invited to speak at the forum.",
+   "choices": [
+    "who",
+    "whom",
+    "whose",
+    "which"
+   ],
+   "answer": 0,
+   "explanation": "금융 위기를 예측했던 그 경제학자가 포럼 연사로 초청되었다는 문장입니다. 빈칸은 사람 선행사 the economist를 받으면서 관계사절 안에서 predicted의 주어 역할을 하므로 주격 관계대명사 who가 정답입니다. whom은 목적격이라 주어 자리에 쓸 수 없고, whose는 뒤에 명사가 와야 하는 소유격이며, which는 사물 선행사에만 씁니다."
+  },
+  {
+   "part": "grammar",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "The city government decided ______ the old bridge instead of repairing it.",
+   "choices": [
+    "to replace",
+    "replacing",
+    "replace",
+    "replaced"
+   ],
+   "answer": 0,
+   "explanation": "시 정부가 낡은 다리를 수리하는 대신 교체하기로 결정했다는 문장입니다. decide는 목적어로 to부정사를 취하는 동사이므로 to replace가 정답입니다. replacing은 동명사를 목적어로 취하는 동사(enjoy, avoid 등)와 혼동한 매력적 오답이고, 동사원형 replace와 과거분사 replaced는 decided 뒤에 바로 올 수 없는 형태입니다."
+  },
+  {
+   "part": "grammar",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "______ the sharp rise in oil prices, demand for air travel has remained strong this year.",
+   "choices": [
+    "Although",
+    "Because",
+    "Despite",
+    "Unless"
+   ],
+   "answer": 2,
+   "explanation": "유가 급등에도 불구하고 항공 수요가 견고하다는 양보의 의미이며, 빈칸 뒤가 절이 아니라 명사구(the sharp rise)이므로 전치사 Despite가 정답입니다. Although는 의미는 같지만 뒤에 '주어+동사'의 절이 와야 해서 틀린 매력적 오답입니다. Because는 명사 앞에 쓰려면 because of가 되어야 하고 의미도 인과라 어색하며, Unless(~하지 않는 한)는 접속사인 데다 의미도 맞지 않습니다."
+  },
+  {
+   "part": "grammar",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "The survey found that ______ young adults prefer renting a home to buying one.",
+   "choices": [
+    "much",
+    "a little",
+    "a large amount of",
+    "many"
+   ],
+   "answer": 3,
+   "explanation": "설문 결과 많은 청년들이 집을 사는 것보다 빌리는 것을 선호한다는 문장입니다. young adults는 셀 수 있는 복수명사이므로 가산명사를 수식하는 many가 정답입니다. much, a little, a large amount of는 모두 셀 수 없는 명사(money, water 등)에만 쓰는 수량 표현이라 복수명사 앞에 올 수 없습니다."
+  },
+  {
+   "part": "reading",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "Notice: The city library will be closed this Monday for its annual book inventory. All books due that day may be returned on Tuesday ______. We apologize for any inconvenience this may cause.",
+   "choices": [
+    "without any late fees",
+    "with an additional fine",
+    "only at the main branch",
+    "in exchange for a coupon"
+   ],
+   "answer": 0,
+   "explanation": "도서관이 월요일에 장서 점검으로 휴관하니, 그날 반납 예정인 책은 화요일에 반납해도 된다는 안내문입니다. 휴관은 도서관 사정이고 마지막에 사과까지 하고 있으므로, 이용자에게 불이익 없이 '연체료 없이' 반납하게 해 주는 것이 자연스럽습니다. '추가 벌금을 내고'는 사과하는 흐름과 모순되고, '본관에서만'이나 '쿠폰과 교환으로'는 앞뒤 내용과 아무 관련이 없습니다."
+  },
+  {
+   "part": "reading",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "Dear Mr. Harris,\nThank you for ordering from Lakeside Furniture. Unfortunately, the bookshelf you purchased is temporarily out of stock. We expect to ______ within two weeks, and we will email you as soon as it is on its way.\nSincerely, Customer Service",
+   "choices": [
+    "close our online store",
+    "ship your order",
+    "raise the item's price",
+    "cancel your membership"
+   ],
+   "answer": 1,
+   "explanation": "주문한 책장이 일시 품절이라는 안내 이메일입니다. 빈칸 뒤에 '배송이 시작되면 이메일을 드리겠다'고 했으므로, 2주 안에 '주문품을 발송할' 것으로 예상한다는 내용이 들어가야 자연스럽습니다. 온라인 매장 폐쇄, 가격 인상, 멤버십 취소는 품절 안내와 사과의 흐름에 맞지 않는 내용입니다."
+  },
+  {
+   "part": "reading",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "The ancient Egyptians used the Nile River for more than drinking water. Its yearly floods left rich soil along the banks, which allowed farmers to ______. This is one reason Egypt became a powerful early civilization.",
+   "choices": [
+    "build ships for trade",
+    "hunt wild animals",
+    "grow plenty of crops",
+    "move to other lands"
+   ],
+   "answer": 2,
+   "explanation": "나일강의 연례 홍수가 강둑에 비옥한 흙을 남겼고, 그 덕분에 농부들이 무엇을 할 수 있었는지를 묻는 문제입니다. '비옥한 토양'과 '농부'라는 단서에서 '풍부한 작물을 재배할' 수 있었다는 내용이 논리적으로 이어집니다. 무역선 건조는 강 이용과 관련은 있어 보이지만 비옥한 토양과는 무관한 매력적 오답이고, 사냥이나 이주는 토양이 비옥해진 결과로 맞지 않습니다."
+  },
+  {
+   "part": "reading",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "More city workers are now choosing bicycles over cars for their daily commute. Cycling saves money on fuel and parking. It also helps riders ______.",
+   "choices": [
+    "spend more on gasoline",
+    "avoid exercise completely",
+    "arrive at work much later",
+    "stay in good shape"
+   ],
+   "answer": 3,
+   "explanation": "자전거 통근의 장점을 나열하는 글로, 연료비와 주차비 절약에 이어 also(또한)로 또 다른 장점이 이어져야 합니다. 따라서 '건강을 유지하게 해 준다'가 정답입니다. '기름값을 더 쓰게 한다'는 앞 문장의 절약 내용과 정반대이고, '운동을 완전히 피하게 한다'와 '회사에 훨씬 늦게 도착하게 한다'는 장점이 아니므로 흐름에 맞지 않습니다."
+  },
+  {
+   "part": "reading",
+   "stem": "What is the passage mainly about?",
+   "passage": "Prices for basic foods such as bread and eggs rose again last month. Experts say higher transportation costs are the main cause. Many families are now changing their shopping habits to save money.",
+   "choices": [
+    "The history of bread making",
+    "Rising food prices and their impact",
+    "How to open a grocery store",
+    "The benefits of home cooking"
+   ],
+   "answer": 1,
+   "explanation": "기본 식료품 가격이 또 올랐고, 그 원인은 운송비 상승이며, 가정들이 절약을 위해 소비 습관을 바꾸고 있다는 내용입니다. 세 문장 모두 '식료품 가격 상승과 그 영향'을 다루므로 이것이 주제입니다. 빵 만들기의 역사와 집밥의 장점은 소재(빵, 가정)만 겹칠 뿐 글의 중심 내용이 아니고, 식료품점 창업 방법은 전혀 언급되지 않았습니다."
+  },
+  {
+   "part": "reading",
+   "stem": "What is the best title for the announcement?",
+   "passage": "The Riverside Jazz Festival returns next month after a two-year break. This year's event will feature over twenty bands from around the world. Tickets go on sale this Friday at the community center.",
+   "choices": [
+    "A Music Festival Makes Its Return",
+    "How to Join a Jazz Band",
+    "Community Center Closes for Repairs",
+    "The History of World Music"
+   ],
+   "answer": 0,
+   "explanation": "리버사이드 재즈 페스티벌이 2년 만에 다시 열리고, 세계 각국 밴드가 참여하며, 티켓 판매가 시작된다는 공지입니다. 핵심은 '음악 축제가 돌아온다'는 것이므로 이것이 제목으로 가장 적절합니다. 재즈 밴드 가입 방법과 세계 음악의 역사는 언급되지 않았고, 주민센터는 티켓 판매 장소로만 나올 뿐 수리를 위해 문을 닫는다는 내용은 없습니다."
+  },
+  {
+   "part": "reading",
+   "stem": "What is the main topic of the passage?",
+   "passage": "A growing number of seniors are taking computer classes at local community centers. The classes teach basic skills such as sending emails and shopping online. Instructors say the students are eager to stay connected with their families.",
+   "choices": [
+    "The rising cost of computers",
+    "Why community centers are losing visitors",
+    "Seniors learning basic computer skills",
+    "The dangers of online shopping"
+   ],
+   "answer": 2,
+   "explanation": "점점 더 많은 노년층이 주민센터에서 컴퓨터 수업을 듣고, 이메일과 온라인 쇼핑 같은 기초 기술을 배우며, 가족과 소통하고 싶어 한다는 내용입니다. 따라서 주제는 '기초 컴퓨터 기술을 배우는 노년층'입니다. 컴퓨터 가격이나 온라인 쇼핑의 위험성은 언급되지 않았고, 주민센터는 오히려 수강생이 늘고 있으므로 방문자 감소 이유라는 선택지는 글과 반대됩니다."
+  },
+  {
+   "part": "reading",
+   "stem": "Which is correct according to the announcement?",
+   "passage": "Attention, passengers: The 9:30 express train to Central Station has been delayed by 40 minutes due to heavy snow. Passengers who wish to take the 9:45 local train instead may do so at no extra cost. We are sorry for the inconvenience.",
+   "choices": [
+    "The express train has been canceled",
+    "Bad weather caused the delay",
+    "The local train requires an extra fee",
+    "Central Station is closed today"
+   ],
+   "answer": 1,
+   "explanation": "9시 30분 급행열차가 폭설(heavy snow) 때문에 40분 지연되었고, 원하는 승객은 9시 45분 완행열차를 추가 요금 없이 탈 수 있다는 안내 방송입니다. 지연의 원인이 폭설이므로 '악천후가 지연을 일으켰다'가 정답입니다. 열차는 취소된 것이 아니라 지연된 것이고, 완행열차는 추가 요금이 없다(at no extra cost)고 했으며, 센트럴역이 폐쇄되었다는 내용은 없습니다."
+  },
+  {
+   "part": "reading",
+   "stem": "Which is correct about the tour according to the passage?",
+   "passage": "The Hanok Village walking tour runs every Saturday at 10 a.m. The tour lasts two hours and includes a visit to a traditional tea house. Reservations must be made at least three days in advance.",
+   "choices": [
+    "It is offered every day of the week.",
+    "It lasts three hours.",
+    "It includes a visit to a tea house.",
+    "Reservations can be made on the same day."
+   ],
+   "answer": 2,
+   "explanation": "한옥마을 도보 투어는 매주 토요일 오전 10시에 진행되고, 두 시간 동안 이어지며 전통 찻집 방문이 포함되고, 최소 3일 전에 예약해야 한다는 안내입니다. '찻집 방문이 포함된다'는 두 번째 문장과 일치하므로 정답입니다. 투어는 매일이 아니라 토요일에만 있고, 소요 시간은 세 시간이 아니라 두 시간이며, 예약은 당일이 아니라 최소 3일 전에 해야 하므로 나머지는 모두 틀립니다."
+  },
+  {
+   "part": "reading",
+   "stem": "What can be inferred from the notice?",
+   "passage": "Dear valued customers,\nStarting next month, Green Market will no longer provide free plastic bags. Customers may purchase paper bags for 20 cents or bring their own reusable bags. Thank you for helping us protect the environment.",
+   "choices": [
+    "Green Market is going out of business.",
+    "Paper bags will be given out for free.",
+    "Customers can no longer bring their own bags.",
+    "The store is trying to cut down on plastic waste."
+   ],
+   "answer": 3,
+   "explanation": "다음 달부터 무료 비닐봉지 제공을 중단하고, 종이봉투를 유료(20센트)로 팔거나 개인 장바구니 지참을 권하며, '환경 보호에 동참해 주셔서 감사하다'고 맺는 안내문입니다. 이를 종합하면 매장이 '플라스틱 쓰레기를 줄이려 한다'는 것을 추론할 수 있습니다. 폐업한다는 내용은 없고, 종이봉투는 무료가 아니라 20센트에 판매되며, 개인 장바구니는 금지가 아니라 오히려 권장되고 있습니다."
+  }
+ ],
+ "listening": [
+  {
+   "kind": "response",
+   "script": "A: Excuse me, do you know what time the library closes today?",
+   "question": "What is the best response?",
+   "choices": [
+    "It closes at nine on weekdays.",
+    "I borrowed three books yesterday.",
+    "The library is next to the bank.",
+    "Yes, I read it this morning."
+   ],
+   "answer": 0,
+   "script_ko": "A: 실례합니다, 오늘 도서관이 몇 시에 닫는지 아세요?",
+   "explanation": "도서관 마감 '시간'을 묻고 있으므로 시간을 알려 주는 (a) It closes at nine on weekdays가 정답입니다. (b)는 library에서 연상되는 books를 이용한 함정이고, (c)는 시간이 아닌 '위치'를 답해 질문과 어긋나며, (d)는 의문사 의문문에 Yes로 답해 오답입니다."
+  },
+  {
+   "kind": "response",
+   "script": "A: I'm thinking of getting a new phone this weekend.\nB: Didn't you buy one just last year?\nA: I did, but the battery dies so quickly now.",
+   "question": "What is the best response?",
+   "choices": [
+    "Sure, I'll charge it for you.",
+    "Maybe just replacing the battery would be cheaper.",
+    "I bought my phone last weekend, too.",
+    "The store closes early on weekends."
+   ],
+   "answer": 1,
+   "script_ko": "A: 이번 주말에 새 휴대폰을 살까 생각 중이야.\nB: 작년에 막 하나 사지 않았어?\nA: 샀지, 그런데 요즘 배터리가 너무 빨리 닳아.",
+   "explanation": "배터리가 문제라는 말에 '배터리만 교체하는 게 더 싸겠다'고 조언하는 (b)가 가장 자연스럽습니다. (a)는 battery에서 연상되는 charge를 쓴 함정으로 대화 흐름과 맞지 않고, (c)는 weekend를 반복한 함정, (d)는 상점 영업시간 이야기로 문맥과 무관합니다."
+  },
+  {
+   "kind": "response",
+   "script": "A: Would you like your coffee for here or to go?",
+   "question": "What is the best response?",
+   "choices": [
+    "I'll go there by bus.",
+    "Yes, I'd love some coffee.",
+    "To go, please. I'm in a hurry.",
+    "Here it is, right on the table."
+   ],
+   "answer": 2,
+   "script_ko": "A: 커피 매장에서 드시겠어요, 아니면 가져가시겠어요?",
+   "explanation": "매장 취식과 포장 중 하나를 고르는 선택 의문문이므로 To go, please라고 답한 (c)가 정답입니다. (a)는 go를 '이동하다'로 쓴 발음 함정, (b)는 선택 의문문에 Yes로 답해 어색하며, (d)는 here를 장소 지시로 쓴 함정입니다."
+  },
+  {
+   "kind": "response",
+   "script": "A: I heard you moved to a new apartment. How do you like it?",
+   "question": "What is the best response?",
+   "choices": [
+    "I like watching movies at home.",
+    "Yes, please move your car.",
+    "The movers arrive at ten.",
+    "It's great. It's much closer to my office."
+   ],
+   "answer": 3,
+   "script_ko": "A: 새 아파트로 이사했다면서요. 어때요, 마음에 들어요?",
+   "explanation": "새 집에 대한 감상을 묻고 있으므로 '좋아요, 회사에서 훨씬 가까워요'라고 답한 (d)가 정답입니다. (a)는 like를 다른 의미로 쓴 함정, (b)는 move의 '옮기다' 의미를 이용한 함정, (c)는 이사(movers)에서 연상되는 어휘 함정으로 이미 이사를 마친 상황과 맞지 않습니다."
+  },
+  {
+   "kind": "response",
+   "script": "A: Are you coming to the team dinner tonight?\nB: I'm not sure. I still have a lot of work to finish.\nA: Come on, everyone will be there.",
+   "question": "What is the best response?",
+   "choices": [
+    "All right, I'll try to wrap things up early.",
+    "Yes, dinner was delicious last night.",
+    "No, I've never worked with the team.",
+    "Sure, I'll book a table for you."
+   ],
+   "answer": 0,
+   "script_ko": "A: 오늘 밤 팀 회식에 올 거야?\nB: 잘 모르겠어. 아직 끝내야 할 일이 많거든.\nA: 그러지 말고 와, 다들 올 거야.",
+   "explanation": "참석을 설득하는 말에 '알겠어, 일을 일찍 마무리해 볼게'라고 응하는 (a)가 자연스럽습니다. (b)는 dinner를 반복했지만 어젯밤 이야기라 시제가 어긋나고, (c)는 team을 이용한 함정으로 같은 팀원이라는 상황과 모순되며, (d)는 예약을 해 주겠다는 말로 초대받는 입장과 역할이 뒤바뀐 오답입니다."
+  },
+  {
+   "kind": "response",
+   "script": "A: Excuse me, this shirt is too small. Can I exchange it for a larger size?",
+   "question": "What is the best response?",
+   "choices": [
+    "Sorry, we don't sell shirts here.",
+    "Of course. Do you have your receipt with you?",
+    "That shirt looks small on me, too.",
+    "You can wash it in cold water."
+   ],
+   "answer": 1,
+   "script_ko": "A: 실례합니다, 이 셔츠가 너무 작아서요. 더 큰 사이즈로 교환할 수 있을까요?",
+   "explanation": "교환 요청에 '물론이죠, 영수증 가져오셨나요?'라고 응대하는 (b)가 점원의 자연스러운 답변입니다. (a)는 셔츠를 팔지 않는다는 말로 상황과 모순되고, (c)는 shirt, small을 반복한 함정으로 점원의 응답으로 부적절하며, (d)는 세탁 방법 이야기로 요청과 무관합니다."
+  },
+  {
+   "kind": "response",
+   "script": "A: How was your trip to Jeju Island?",
+   "question": "What is the best response?",
+   "choices": [
+    "It takes an hour by plane.",
+    "I'm leaving next Monday.",
+    "It was wonderful, but it rained a lot.",
+    "The island is famous for oranges."
+   ],
+   "answer": 2,
+   "script_ko": "A: 제주도 여행은 어땠어?",
+   "explanation": "지난 여행의 소감을 묻는 과거 질문이므로 '정말 좋았는데 비가 많이 왔어'라고 답한 (c)가 정답입니다. (a)는 여행에서 연상되는 소요 시간 정보로 질문에 맞지 않고, (b)는 아직 떠나지 않은 것처럼 말해 시제가 어긋나며, (d)는 island를 반복한 일반 상식 함정입니다."
+  },
+  {
+   "kind": "response",
+   "script": "A: Doctor, I've had this headache for three days.\nB: Are you sleeping well these days?\nA: Not really. I've been staying up late for work.",
+   "question": "What is the best response?",
+   "choices": [
+    "I see. I had a headache last week, too.",
+    "You should keep working late, then.",
+    "Great, sleeping late is good for you.",
+    "Lack of sleep may be causing your headaches."
+   ],
+   "answer": 3,
+   "script_ko": "A: 선생님, 두통이 사흘째 계속되고 있어요.\nB: 요즘 잠은 잘 주무시나요?\nA: 아니요. 일 때문에 계속 늦게까지 깨어 있었어요.",
+   "explanation": "수면 부족을 확인한 의사가 '수면 부족이 두통의 원인일 수 있다'고 진단하는 (d)가 가장 적절합니다. (a)는 headache를 반복했지만 의사의 응답으로 부적절하고, (b)는 계속 늦게까지 일하라는 말로 상식에 어긋나며, (c)는 환자의 문제를 좋다고 말해 모순됩니다."
+  },
+  {
+   "kind": "response",
+   "script": "A: Could you turn down the music a little? I'm trying to study.",
+   "question": "What is the best response?",
+   "choices": [
+    "Oh, sorry. I didn't know you were studying.",
+    "Sure, I'll turn on the TV.",
+    "This song is my favorite, too.",
+    "The library is quiet at night."
+   ],
+   "answer": 0,
+   "script_ko": "A: 음악 소리 좀 줄여 줄래? 나 공부하려고 하거든.",
+   "explanation": "음악을 줄여 달라는 부탁에 사과하며 응하는 (a)가 정답입니다. (b)는 turn을 반복했지만 TV를 켜겠다는 말로 소음을 더하는 모순된 답이고, (c)는 music에서 연상되는 song 함정, (d)는 study에서 연상되는 library 함정으로 부탁에 대한 답이 아닙니다."
+  },
+  {
+   "kind": "response",
+   "script": "A: Hi, I'd like to open a bank account.\nB: Sure. Do you have some identification with you?\nA: Oh no, I think I left my wallet at home.",
+   "question": "What is the best response?",
+   "choices": [
+    "Then your account is ready now.",
+    "Cash or credit card?",
+    "I'm afraid you'll need to come back with it.",
+    "You can buy a new wallet downstairs."
+   ],
+   "answer": 2,
+   "script_ko": "A: 안녕하세요, 은행 계좌를 개설하고 싶은데요.\nB: 네. 신분증 갖고 계신가요?\nA: 아 이런, 지갑을 집에 두고 온 것 같아요.",
+   "explanation": "신분증이 없는 상황이므로 '신분증을 가지고 다시 오셔야겠습니다'라고 안내하는 (c)가 정답입니다. (a)는 신분증 없이 계좌가 완성됐다는 모순된 답이고, (b)는 wallet에서 연상되는 결제 수단 질문 함정, (d)는 wallet을 반복했지만 지갑을 새로 사라는 엉뚱한 답입니다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: Excuse me, I bought this laptop here last week, but it won't turn on.\nB: I'm sorry to hear that. Do you have the receipt?\nA: Yes, right here. Can I get a refund?\nB: We can offer you a repair or an exchange first.",
+   "question": "What is the man mainly trying to do?",
+   "choices": [
+    "Buy a new laptop",
+    "Get his money back for a laptop",
+    "Extend his laptop's warranty",
+    "Learn how to turn on a laptop"
+   ],
+   "answer": 1,
+   "script_ko": "A: 실례합니다, 지난주에 여기서 이 노트북을 샀는데 전원이 안 켜져요.\nB: 죄송합니다. 영수증 갖고 계신가요?\nA: 네, 여기 있어요. 환불받을 수 있을까요?\nB: 우선 수리나 교환을 해 드릴 수 있습니다.",
+   "explanation": "남자는 Can I get a refund라고 말하며 환불을 요구하고 있으므로 (b)가 정답입니다. (a)는 bought를 이용한 함정으로 남자는 이미 산 제품을 가져온 것이고, (c)의 보증 연장은 언급되지 않았으며, (d)는 turn on을 반복한 함정으로 사용법을 배우려는 것이 아닙니다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: Sarah, you look tired. Did you stay up late again?\nB: Yeah, I was finishing my history paper. It's due this morning.\nA: You always leave things until the last minute.\nB: I know. I really need to change that habit.",
+   "question": "What can be inferred about the woman?",
+   "choices": [
+    "She often delays her work.",
+    "She failed her history class.",
+    "She goes to bed early every night.",
+    "She finished her paper a week ago."
+   ],
+   "answer": 0,
+   "script_ko": "A: 새라, 피곤해 보이네. 또 늦게까지 안 잤어?\nB: 응, 역사 리포트를 끝내느라. 오늘 아침까지 제출이거든.\nA: 넌 항상 마지막 순간까지 일을 미루더라.\nB: 알아. 그 습관 정말 고쳐야 해.",
+   "explanation": "남자가 '항상 마지막 순간까지 미룬다'고 지적하고 여자도 습관을 고쳐야 한다고 인정하므로 (a)가 정답입니다. (b)는 history를 이용한 함정으로 낙제 여부는 언급되지 않았고, (c)는 밤늦게까지 깨어 있었다는 내용과 반대이며, (d)는 리포트를 당일 아침에야 끝낸 상황과 모순됩니다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: Are you still jogging every morning?\nB: Not anymore. I hurt my knee last month, so I swim instead.\nA: That's too bad. Is your knee getting better?\nB: Slowly. The doctor says I can run again next month.",
+   "question": "Which is correct according to the conversation?",
+   "choices": [
+    "The man jogs every morning.",
+    "The woman hurt her knee last month.",
+    "The man swims because he injured his knee.",
+    "The doctor told the man to stop running forever."
+   ],
+   "answer": 2,
+   "script_ko": "A: 아직도 매일 아침 조깅해?\nB: 이제 안 해. 지난달에 무릎을 다쳐서 대신 수영을 해.\nA: 저런, 안됐다. 무릎은 좀 나아지고 있어?\nB: 천천히. 의사 말로는 다음 달엔 다시 뛸 수 있대.",
+   "explanation": "남자는 무릎 부상 때문에 조깅 대신 수영을 한다고 했으므로 (c)가 정답입니다. (a)는 jogging을 반복한 함정으로 Not anymore와 모순되고, (b)는 다친 사람을 여자로 바꾼 함정이며, (d)는 다음 달에 다시 뛸 수 있다는 의사의 말과 반대됩니다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: Hi, I'd like two tickets for the seven o'clock show.\nB: I'm sorry, that show is sold out. We have seats for nine thirty.\nA: That's too late for us. Anything tomorrow afternoon?\nB: Yes, there are plenty of seats at two and four.",
+   "question": "What will the man most likely do next?",
+   "choices": [
+    "Watch the seven o'clock show",
+    "Ask for a refund",
+    "Come back at nine thirty tonight",
+    "Book tickets for tomorrow afternoon"
+   ],
+   "answer": 3,
+   "script_ko": "A: 안녕하세요, 일곱 시 공연 표 두 장 주세요.\nB: 죄송합니다, 그 공연은 매진이에요. 아홉 시 반 좌석은 있습니다.\nA: 그건 저희한테 너무 늦어요. 내일 오후엔 뭐 있나요?\nB: 네, 두 시와 네 시에 좌석이 많이 있습니다.",
+   "explanation": "남자가 먼저 내일 오후 공연을 물었고 좌석이 충분하다는 답을 들었으므로, 내일 오후 표를 예매하는 (d)가 가장 자연스러운 다음 행동입니다. (a)의 일곱 시 공연은 매진이고, (b)는 아직 표를 사지 않았으므로 환불할 것이 없으며, (c)의 아홉 시 반은 남자가 너무 늦다고 거절했습니다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: Honey, the sink in the kitchen is leaking again.\nB: Again? I fixed it just two weeks ago.\nA: I think we should call a plumber this time.\nB: You're right. My repairs never seem to last.",
+   "question": "What is the woman suggesting?",
+   "choices": [
+    "Buying a new sink",
+    "Getting professional help",
+    "Fixing the sink themselves",
+    "Cooking in the kitchen less often"
+   ],
+   "answer": 1,
+   "script_ko": "A: 여보, 부엌 싱크대가 또 새요.\nB: 또? 2주 전에 내가 막 고쳤는데.\nA: 이번엔 배관공을 부르는 게 좋을 것 같아요.\nB: 당신 말이 맞아. 내 수리는 영 오래가질 않네.",
+   "explanation": "여자는 call a plumber, 즉 전문가인 배관공을 부르자고 제안했으므로 (b)가 정답입니다. (a)의 싱크대 구입은 언급되지 않았고, (c)는 남편이 직접 고치던 기존 방식이라 여자의 제안과 반대이며, (d)는 kitchen을 반복한 함정입니다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: Professor Lee, could I hand in my assignment a day late? My laptop crashed.\nB: When exactly can you submit it?\nA: By Friday morning at the latest.\nB: All right, but I'll have to take off a few points.",
+   "question": "Which is correct according to the conversation?",
+   "choices": [
+    "The professor refused the late submission.",
+    "The man already submitted his assignment.",
+    "The professor's laptop crashed.",
+    "The man will lose some points on his assignment."
+   ],
+   "answer": 3,
+   "script_ko": "A: 이 교수님, 과제를 하루 늦게 내도 될까요? 노트북이 고장 나서요.\nB: 정확히 언제 제출할 수 있죠?\nA: 늦어도 금요일 오전까지요.\nB: 좋아요, 하지만 점수를 조금 깎을 수밖에 없어요.",
+   "explanation": "교수가 늦은 제출을 허락하되 take off a few points, 즉 감점하겠다고 했으므로 (d)가 정답입니다. (a)는 허락했다는 내용과 모순되고, (b)는 아직 제출 전이므로 오답이며, (c)는 노트북이 고장 난 사람을 교수로 바꾼 함정입니다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: Excuse me, is this the right train for the airport?\nB: No, this one goes downtown. You need line four across the platform.\nA: Oh, thank you. How often does it come?\nB: Every ten minutes, so you won't wait long.",
+   "question": "What is the woman trying to do?",
+   "choices": [
+    "Get to the airport",
+    "Go downtown",
+    "Buy a train ticket",
+    "Meet the man at the platform"
+   ],
+   "answer": 0,
+   "script_ko": "A: 실례합니다, 이게 공항 가는 열차 맞나요?\nB: 아니요, 이건 시내로 가요. 건너편 승강장에서 4호선을 타셔야 해요.\nA: 아, 감사합니다. 얼마나 자주 오나요?\nB: 10분마다 오니까 오래 기다리진 않으실 거예요.",
+   "explanation": "여자는 공항행 열차가 맞는지 확인하고 있으므로 공항에 가려는 (a)가 정답입니다. (b)의 downtown은 지금 타려던 잘못된 열차의 행선지로 함정이고, (c)의 표 구입은 언급되지 않았으며, (d)는 platform을 반복한 함정입니다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: Did you hear? The Friday meeting was moved to Monday morning.\nB: Really? I already booked a client visit for Monday.\nA: You'd better tell the manager, then.\nB: I will. Maybe I can join the meeting online.",
+   "question": "What is the woman's problem?",
+   "choices": [
+    "She missed the Friday meeting.",
+    "She forgot to book a meeting room.",
+    "She has two schedules at the same time.",
+    "Her manager canceled the client visit."
+   ],
+   "answer": 2,
+   "script_ko": "A: 들었어요? 금요일 회의가 월요일 오전으로 옮겨졌대요.\nB: 정말요? 저 월요일에 이미 고객 방문 일정을 잡아 놨는데.\nA: 그럼 매니저님께 말씀드리는 게 좋겠어요.\nB: 그럴게요. 회의엔 온라인으로 참여할 수 있을지도 몰라요.",
+   "explanation": "회의가 월요일로 옮겨졌는데 여자는 같은 날 고객 방문이 잡혀 있어 일정이 겹치는 상황이므로 (c)가 정답입니다. (a)는 Friday를 반복한 함정으로 회의는 아직 열리지 않았고, (b)는 booked를 이용한 함정이며, (d)의 고객 방문 취소는 언급되지 않았습니다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: Wow, this restaurant is packed. Did you make a reservation?\nB: No, I didn't think it would be this crowded on a Tuesday.\nA: The wait is forty minutes. I'm starving.\nB: There's a good noodle place around the corner. Let's just go there.",
+   "question": "What will the speakers probably do next?",
+   "choices": [
+    "Wait forty minutes for a table",
+    "Eat at a different restaurant",
+    "Make a reservation for next Tuesday",
+    "Cook noodles at home"
+   ],
+   "answer": 1,
+   "script_ko": "A: 와, 이 식당 사람이 꽉 찼네. 예약했어?\nB: 아니, 화요일인데 이렇게 붐빌 줄 몰랐지.\nA: 대기가 40분이래. 나 배고파 죽겠어.\nB: 모퉁이 돌면 괜찮은 국수집이 있어. 그냥 거기로 가자.",
+   "explanation": "남자가 근처 국수집으로 가자고 제안하며 대화가 끝나므로 다른 식당에서 먹는 (b)가 정답입니다. (a)의 40분 대기는 배가 고파서 피하려는 상황이고, (c)는 Tuesday와 reservation을 조합한 함정이며, (d)는 noodle을 반복했지만 집에서 요리한다는 내용은 없습니다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: Your dog is so cute. What's his name?\nB: Thanks, her name is Coco. I adopted her from a shelter last spring.\nA: That's wonderful. I've been thinking about adopting a cat myself.\nB: You should visit the shelter. They have lots of animals waiting for homes.",
+   "question": "Which is correct according to the conversation?",
+   "choices": [
+    "The man already has a cat.",
+    "The woman bought her dog from a pet store.",
+    "The man works at an animal shelter.",
+    "The woman got her dog at a shelter."
+   ],
+   "answer": 3,
+   "script_ko": "A: 강아지가 정말 귀엽네요. 이름이 뭐예요?\nB: 고마워요, 이름은 코코예요. 지난봄에 보호소에서 입양했어요.\nA: 정말 멋지네요. 저도 고양이 입양을 생각하고 있었거든요.\nB: 보호소에 가 보세요. 가족을 기다리는 동물이 많아요.",
+   "explanation": "여자는 지난봄 보호소에서 강아지를 입양했다고 말했으므로 (d)가 정답입니다. (a)는 cat을 반복한 함정으로 남자는 아직 입양을 '생각 중'일 뿐이고, (b)는 보호소 입양이라는 내용과 모순되며, (c)는 shelter를 반복했지만 남자가 그곳에서 일한다는 언급은 없습니다."
+  },
+  {
+   "kind": "talk",
+   "script": "Attention, passengers on flight two oh seven to Tokyo. Boarding will begin in ten minutes at gate twelve, not gate eight as printed on your ticket. Please have your passport and boarding pass ready. We apologize for any confusion and thank you for your patience.",
+   "question": "What is the main purpose of the announcement?",
+   "choices": [
+    "To announce a gate change",
+    "To report a flight delay",
+    "To ask passengers to buy new tickets",
+    "To introduce a new flight to Tokyo"
+   ],
+   "answer": 0,
+   "script_ko": "도쿄행 207편 승객 여러분께 안내 말씀드립니다. 탑승은 10분 후 시작되며, 티켓에 인쇄된 8번 게이트가 아니라 12번 게이트에서 진행됩니다. 여권과 탑승권을 준비해 주시기 바랍니다. 혼란을 드려 죄송하며 기다려 주셔서 감사합니다.",
+   "explanation": "방송의 핵심은 탑승구가 8번에서 12번으로 바뀌었다는 것이므로 (a)가 정답입니다. (b)는 탑승이 10분 후 정상 시작되므로 지연이 아니고, (c)는 ticket을 반복한 함정으로 새 티켓 구입 요구는 없으며, (d)의 신규 노선 소개도 언급되지 않았습니다."
+  },
+  {
+   "kind": "talk",
+   "script": "In local news, the city will open a new public library next Monday. The three-story building has a children's reading room, a computer lab, and a rooftop garden. During the first week, visitors can sign up for a free library card and receive a small gift. The library will be open every day except national holidays.",
+   "question": "Which is correct according to the news report?",
+   "choices": [
+    "The library opens only on weekends.",
+    "The building has three floors.",
+    "Visitors must pay for a library card.",
+    "The library was built ten years ago."
+   ],
+   "answer": 1,
+   "script_ko": "지역 뉴스입니다. 시에서 다음 주 월요일에 새 공공 도서관을 개관합니다. 3층 건물에는 어린이 열람실, 컴퓨터실, 옥상 정원이 있습니다. 개관 첫 주 동안 방문객은 무료로 도서관 카드를 만들고 작은 선물을 받을 수 있습니다. 도서관은 국경일을 제외하고 매일 문을 엽니다.",
+   "explanation": "three-story building이라고 했으므로 건물이 3층이라는 (b)가 정답입니다. (a)는 국경일 외 매일 연다는 내용과 모순되고, (c)는 카드가 무료(free)라는 내용과 반대이며, (d)는 다음 주에 새로 개관하는 도서관이므로 오답입니다."
+  },
+  {
+   "kind": "talk",
+   "script": "Today, let's talk about why we yawn. Many people think we yawn only when we're bored or tired, but scientists believe yawning may also cool down the brain. When we take a deep breath, cooler air lowers the temperature inside our head. That may be why we yawn more in warm rooms.",
+   "question": "What is the speaker mainly talking about?",
+   "choices": [
+    "How to stop feeling tired",
+    "Why warm rooms are bad for health",
+    "A possible reason people yawn",
+    "The best way to breathe deeply"
+   ],
+   "answer": 2,
+   "script_ko": "오늘은 우리가 왜 하품을 하는지 이야기해 봅시다. 많은 사람들이 지루하거나 피곤할 때만 하품을 한다고 생각하지만, 과학자들은 하품이 뇌를 식혀 주는 역할도 할 수 있다고 봅니다. 깊게 숨을 들이마시면 시원한 공기가 머릿속 온도를 낮춰 줍니다. 그래서 따뜻한 방에서 하품을 더 많이 하는 것일 수 있습니다.",
+   "explanation": "강의 전체가 하품의 원인, 특히 뇌를 식힌다는 가설을 설명하고 있으므로 (c)가 정답입니다. (a)는 tired를 이용한 함정으로 피로 해소법은 다루지 않았고, (b)는 warm rooms를 반복했지만 건강에 나쁘다는 내용은 없으며, (d)는 breath에서 연상되는 함정으로 호흡법 강의가 아닙니다."
+  },
+  {
+   "kind": "talk",
+   "script": "Are you tired of cooking after a long day? Green Table delivers fresh, healthy meals right to your door. Choose from over twenty dishes every week, made with local vegetables. Order before Sunday and get your first two meals free. Visit our website today and taste the difference.",
+   "question": "What is being advertised?",
+   "choices": [
+    "A cooking class",
+    "A vegetable garden",
+    "A new restaurant downtown",
+    "A meal delivery service"
+   ],
+   "answer": 3,
+   "script_ko": "긴 하루 끝에 요리하기 지치셨나요? 그린 테이블이 신선하고 건강한 식사를 문 앞까지 배달해 드립니다. 매주 지역 채소로 만든 20가지가 넘는 요리 중에서 골라 보세요. 일요일 전에 주문하시면 첫 두 끼가 무료입니다. 오늘 웹사이트를 방문해 그 차이를 맛보세요.",
+   "explanation": "delivers meals right to your door라는 표현에서 식사 배달 서비스 광고임을 알 수 있으므로 (d)가 정답입니다. (a)는 cooking을 반복한 함정으로 오히려 요리하기 싫은 사람이 대상이고, (b)는 vegetables를 이용한 함정이며, (c)는 배달 서비스이지 식당 개업 광고가 아닙니다."
+  },
+  {
+   "kind": "talk",
+   "script": "Attention, shoppers. Our store will be closing in fifteen minutes. Please bring your final purchases to the checkout counters at the front. Tomorrow, we'll open at nine as usual, and all winter coats will be thirty percent off. Thank you for shopping with us today.",
+   "question": "What can shoppers do tomorrow?",
+   "choices": [
+    "Return coats for full price",
+    "Shop until midnight",
+    "Buy winter coats at a discount",
+    "Get thirty percent off everything"
+   ],
+   "answer": 2,
+   "script_ko": "쇼핑객 여러분께 안내 말씀드립니다. 저희 매장은 15분 후에 문을 닫습니다. 마지막 구매 상품은 앞쪽 계산대로 가져와 주시기 바랍니다. 내일은 평소처럼 9시에 문을 열며, 모든 겨울 코트를 30퍼센트 할인합니다. 오늘 저희 매장을 찾아 주셔서 감사합니다.",
+   "explanation": "내일 겨울 코트를 30퍼센트 할인한다고 했으므로 (c)가 정답입니다. (a)의 반품 안내는 없었고, (b)는 폐점 안내에서 연상되는 함정으로 자정까지 영업한다는 말은 없으며, (d)는 thirty percent를 반복했지만 할인 대상은 전 품목이 아니라 겨울 코트뿐입니다."
+  },
+  {
+   "kind": "talk",
+   "script": "Good morning. Here's today's weather. It'll be sunny and warm this morning, but clouds will move in after lunch. Expect heavy rain in the evening, so take an umbrella if you're going out late. The rain should stop by tomorrow morning, and the weekend looks clear and mild.",
+   "question": "When will the rain most likely begin?",
+   "choices": [
+    "In the morning",
+    "In the evening",
+    "On the weekend",
+    "Tomorrow afternoon"
+   ],
+   "answer": 1,
+   "script_ko": "좋은 아침입니다. 오늘의 날씨입니다. 오전에는 맑고 따뜻하겠지만, 점심 이후 구름이 몰려오겠습니다. 저녁에는 폭우가 예상되니 늦게 외출하실 분들은 우산을 챙기세요. 비는 내일 아침까지 그치겠고, 주말은 맑고 온화하겠습니다.",
+   "explanation": "heavy rain in the evening이라고 했으므로 비는 저녁에 시작됩니다. 정답은 (b)입니다. (a)의 아침은 맑고 따뜻하다고 했고, (c)의 주말은 맑다고 했으며, (d)는 비가 내일 아침까지 '그친다'는 내용을 시작 시점으로 착각하게 만드는 함정입니다."
+  },
+  {
+   "kind": "talk",
+   "script": "Good afternoon, students. This is a reminder that the school gym will be closed next week for floor repairs. All basketball practice will move to the community center across the street. Practice times will stay the same. If you have questions, please talk to your coach before Friday.",
+   "question": "Why will the gym be closed?",
+   "choices": [
+    "To fix the floor",
+    "To hold a basketball game",
+    "Because the coach is away",
+    "Because of a school holiday"
+   ],
+   "answer": 0,
+   "script_ko": "학생 여러분, 안녕하세요. 다음 주에 학교 체육관이 바닥 수리로 문을 닫는다는 점을 다시 안내드립니다. 모든 농구 연습은 길 건너 주민센터로 옮겨서 진행됩니다. 연습 시간은 그대로 유지됩니다. 궁금한 점이 있으면 금요일 전에 코치 선생님과 이야기하세요.",
+   "explanation": "closed next week for floor repairs라고 했으므로 바닥 수리를 위해 닫는 (a)가 정답입니다. (b)는 basketball을 반복한 함정으로 경기가 아니라 연습 장소 변경 이야기이고, (c)는 coach를 이용한 함정이며, (d)의 방학이나 휴일은 언급되지 않았습니다."
+  },
+  {
+   "kind": "talk",
+   "script": "Do you drink enough water? Many people feel tired in the afternoon simply because they're thirsty. Doctors suggest drinking a glass of water when you wake up and keeping a bottle on your desk. Small sips through the day work better than one large glass at night.",
+   "question": "What does the speaker suggest?",
+   "choices": [
+    "Drinking one large glass before bed",
+    "Taking a nap in the afternoon",
+    "Seeing a doctor when tired",
+    "Drinking water regularly during the day"
+   ],
+   "answer": 3,
+   "script_ko": "물을 충분히 마시고 계신가요? 많은 사람들이 오후에 피곤함을 느끼는 이유는 단순히 목이 말라서입니다. 의사들은 일어나자마자 물 한 잔을 마시고 책상 위에 물병을 두라고 권합니다. 하루 종일 조금씩 마시는 것이 밤에 큰 잔으로 한 번 마시는 것보다 효과적입니다.",
+   "explanation": "아침 물 한 잔과 책상 위 물병, 그리고 하루 종일 조금씩 마시라는 조언이 핵심이므로 (d)가 정답입니다. (a)는 밤에 한 잔 크게 마시는 것보다 낫다고 한 내용과 반대이고, (b)는 tired, afternoon을 이용한 함정이며, (c)는 doctors를 반복했지만 진료를 권한 것이 아니라 의사들의 조언을 전한 것입니다."
+  },
+  {
+   "kind": "talk",
+   "script": "Let's begin with a short history of ice cream. Long before freezers existed, people in ancient China mixed snow with milk and rice. Later, Italian cooks brought frozen desserts to Europe, where they became popular with kings and queens. Ice cream finally reached ordinary people in the eighteen hundreds, when ice became cheaper.",
+   "question": "What is the talk mainly about?",
+   "choices": [
+    "How freezers changed cooking",
+    "How ice cream developed over time",
+    "Why kings loved Italian food",
+    "How to make ice cream at home"
+   ],
+   "answer": 1,
+   "script_ko": "아이스크림의 짧은 역사부터 시작해 봅시다. 냉동고가 생기기 훨씬 전, 고대 중국 사람들은 눈에 우유와 쌀을 섞었습니다. 이후 이탈리아 요리사들이 냉동 디저트를 유럽에 전했고, 그곳에서 왕과 왕비들에게 인기를 얻었습니다. 아이스크림은 얼음값이 싸진 1800년대에 마침내 일반 사람들에게까지 퍼졌습니다.",
+   "explanation": "고대 중국에서 1800년대까지 아이스크림이 발전해 온 과정을 시간 순으로 설명하고 있으므로 (b)가 정답입니다. (a)는 freezers를 이용한 함정으로 냉동고는 배경 언급일 뿐이고, (c)는 kings와 Italian을 조합한 세부 정보 함정이며, (d)의 만드는 방법은 다루지 않았습니다."
+  },
+  {
+   "kind": "talk",
+   "script": "And now for traffic. Drivers heading downtown should avoid Main Street this morning, as a water pipe broke near city hall. Crews expect to finish repairs by six this evening. Until then, buses five and nine will use Oak Avenue instead. City officials thank drivers for their patience.",
+   "question": "What can be inferred from the report?",
+   "choices": [
+    "City hall is closed today.",
+    "The buses stopped running today.",
+    "Main Street will likely reopen tonight.",
+    "The water pipe broke on Oak Avenue."
+   ],
+   "answer": 2,
+   "script_ko": "이번에는 교통 정보입니다. 오늘 아침 시청 근처에서 수도관이 터져, 시내 방면 운전자들은 메인 스트리트를 피하시기 바랍니다. 작업반은 오늘 저녁 6시까지 수리를 마칠 예정입니다. 그때까지 5번과 9번 버스는 오크 애비뉴로 우회 운행합니다. 시 관계자들은 운전자 여러분의 양해에 감사드립니다.",
+   "explanation": "저녁 6시까지 수리를 마칠 예정이라고 했으므로 메인 스트리트가 오늘 밤에는 다시 열릴 것이라고 추론할 수 있어 (c)가 정답입니다. (a)는 city hall을 반복한 함정으로 시청 폐쇄는 언급되지 않았고, (b)는 버스가 운행을 멈춘 것이 아니라 우회하는 것이며, (d)는 수도관이 터진 곳이 시청 근처이지 오크 애비뉴가 아닙니다."
   }
  ]
 };

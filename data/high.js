@@ -8483,6 +8483,1598 @@ window.TEPS_DATA.high = {
    ],
    "answer": 0,
    "explanation": "지문 요지: 중세의 시죄법(끓는 물 재판)은 미신처럼 보이지만, 경제학자 리슨에 따르면 신이 죄를 드러낼 것이라는 진심 어린 믿음 때문에 결백한 자는 기꺼이 시죄에 응하고 유죄인 자는 자백하거나 합의했으므로 효과적인 '선별 장치'로 기능했다. 마지막 문장 '신의 개입에 대한 믿음에도 불구하고가 아니라 바로 그 믿음 때문에 진실한 행동을 끌어냈다'가 '리슨은 신의 심판에 대한 믿음이 시죄법을 선별 장치로 작동하게 했다고 주장한다'를 직접 뒷받침한다. '시죄를 받은 피고인 대부분이 유죄 판정을 받았다'는 사제들이 물 온도를 낮추는 등 의식을 조작해 '응한 사람 대부분이 통과했다'는 서술과 반대이고, '사제들이 유죄인 자들의 회피 경향을 몰랐다'는 사제들이 이 자기선별을 '알고서(aware of this self-selection)' 조작했다는 명시적 서술과 모순되며, '시죄법이 성직자 피고인 전용이었다'는 제한은 지문 어디에도 없다(성직자는 판정자였을 뿐이다)."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: I can't believe they're still selling this blender after all those safety complaints.\nB: I know. The manufacturer simply refuses to ______ the product despite mounting pressure from consumer groups.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "retract",
+    "revoke",
+    "recall",
+    "rescind"
+   ],
+   "answer": 2,
+   "explanation": "안전 불만이 쇄도한 블렌더를 아직도 판매한다는 A의 말에, B가 '제조사가 소비자 단체의 압박에도 제품을 ______하기를 거부한다'고 답하는 상황이다. 결함 제품을 '회수하다'는 뜻의 recall a product가 정답 콜로케이션이다. retract는 발언·주장의 철회, revoke는 면허·권한의 취소, rescind는 계약·결정의 폐지에 쓰이는 어휘로, 목적어 '제품'과는 자연스럽게 결합하지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: How was your flight back from Prague?\nB: Dreadful. We hit turbulence the whole way, and the endless delays only ______ my exhaustion.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "compounded",
+    "alleviated",
+    "dispelled",
+    "condensed"
+   ],
+   "answer": 0,
+   "explanation": "프라하발 비행이 난기류에 시달린 데다 '끝없는 지연이 피로를 ______했다'는 문맥이므로, 문제·상황을 '가중시키다'라는 뜻의 compound가 정답이다. alleviated(완화하다)는 문맥과 정반대이고, dispelled(불식시키다)는 의혹·불안 등을 없앨 때 쓰며, condensed(응축하다)는 물리적·내용적 축약에 쓰이는 어휘라 exhaustion과 어울리지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: Did the board approve the merger proposal in the end?\nB: No, they ______ it outright, calling the terms nothing short of exploitative.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "endorsed",
+    "repudiated",
+    "condoned",
+    "extolled"
+   ],
+   "answer": 1,
+   "explanation": "이사회가 합병안을 승인했느냐는 질문에 B가 '아니, 조건이 착취적이라며 단칼에 ______했다'고 답한다. '단호히 거부·부인하다'라는 뜻의 repudiate가 정답이다. endorsed(지지하다)와 extolled(극찬하다)는 부정의 답변(No)과 모순되고, condoned(묵인하다)는 잘못을 눈감아 준다는 뜻이어서 제안을 거절하는 문맥에 맞지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: Jake swore he'd stop gambling, but I saw him at the casino again last night.\nB: His promises are worthless. He ______ on them every single time.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "embarks",
+    "dwells",
+    "converges",
+    "reneges"
+   ],
+   "answer": 3,
+   "explanation": "도박을 끊겠다고 맹세한 Jake가 또 카지노에 있었다는 대화로, '그의 약속은 무가치하다. 매번 약속을 ______한다'는 흐름이다. renege on(약속·합의를 어기다)이 정답 콜로케이션이다. embark on(착수하다), dwell on(곱씹다), converge on(한 점으로 모이다)은 모두 전치사 on을 취하지만 의미가 전혀 달라 오답이다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: Why is this boutique charging twice what the department store asks for the very same scarf?\nB: Honestly, prices like that are nothing short of ______.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "extortionate",
+    "negligible",
+    "lucrative",
+    "redeemable"
+   ],
+   "answer": 0,
+   "explanation": "같은 스카프를 백화점의 두 배 가격에 파는 부티크에 대해 '그런 가격은 ______나 다름없다'고 비판하는 문맥이다. '갈취 수준으로 터무니없이 비싼'이라는 뜻의 extortionate가 정답이다. negligible(무시해도 될 만큼 적은)은 정반대 의미이고, lucrative(수익성이 좋은)는 판매자 관점의 어휘로 가격 자체를 형용하기에 부적절하며, redeemable(교환·상환 가능한)은 문맥과 무관하다."
+  },
+  {
+   "part": "vocab",
+   "passage": "Smartphones have become so ______ in modern commerce that retailers who fail to offer mobile payment options risk alienating the majority of their customers.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "obsolete",
+    "clandestine",
+    "ubiquitous",
+    "rudimentary"
+   ],
+   "answer": 2,
+   "explanation": "스마트폰이 현대 상거래에서 매우 ______해져서 모바일 결제를 제공하지 않는 소매상은 대다수 고객을 잃을 위험이 있다는 문장이다. '어디에나 존재하는'이라는 뜻의 ubiquitous가 뒤의 결과절과 논리적으로 맞아떨어진다. obsolete(구식이 된)는 뒤 내용과 모순되고, clandestine(은밀한), rudimentary(초보적인)는 스마트폰의 보편성이라는 논지와 연결되지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "The negotiations reached an ______ when neither the union nor management would budge on the issue of overtime pay.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "epitome",
+    "impasse",
+    "ovation",
+    "itinerary"
+   ],
+   "answer": 1,
+   "explanation": "노조와 사측 어느 쪽도 초과근무 수당 문제에서 물러서지 않아 협상이 ______에 이르렀다는 문맥이다. reach an impasse(교착 상태에 빠지다)가 정답 콜로케이션이다. epitome(전형), ovation(갈채), itinerary(여행 일정표)는 모두 reach의 목적어로 이 문맥에서 성립하지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "Seasoned travelers ______ particular caution when exchanging currency at unlicensed kiosks, where rigged rates are all too common.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "execute",
+    "perform",
+    "commit",
+    "exercise"
+   ],
+   "answer": 3,
+   "explanation": "노련한 여행자는 조작된 환율이 흔한 무허가 환전소에서 각별한 주의를 ______한다는 문장으로, exercise caution(주의를 기울이다)이 굳어진 콜로케이션이다. execute(집행·실행하다), perform(수행하다), commit(저지르다·전념하다)은 모두 caution과 관용적으로 결합하지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "The CEO's decision to expand overseas while domestic sales were plummeting presented shareholders with a genuine ______: back a risky venture or watch the company stagnate.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "conundrum",
+    "consensus",
+    "testimonial",
+    "prerogative"
+   ],
+   "answer": 0,
+   "explanation": "국내 매출이 급락하는 와중의 해외 진출 결정이 주주들에게 '위험한 모험을 지지하느냐, 회사의 정체를 지켜보느냐'라는 진짜 ______를 안겼다는 문맥이다. 콜론 뒤의 양자택일 구조와 맞물리는 conundrum(풀기 어려운 난제)이 정답이다. consensus(합의), testimonial(추천사), prerogative(특권)는 모두 뒤에 제시된 딜레마 구조와 논리적으로 연결되지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "The hotel offered ______ apologies for the overbooking, but many guests felt the gesture came far too late to matter.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "prolific",
+    "proficient",
+    "profuse",
+    "profane"
+   ],
+   "answer": 2,
+   "explanation": "호텔이 오버부킹에 대해 ______ 사과를 했지만 투숙객들은 너무 늦었다고 느꼈다는 문맥이다. profuse apologies(거듭된·아낌없는 사과)가 굳어진 정답 콜로케이션이다. prolific(다작의), proficient(능숙한), profane(불경한)은 profuse와 형태만 유사할 뿐 apologies를 수식하는 자리에서 의미가 성립하지 않는 매력적 오답이다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: Have you ever seen the CEO lose his temper like that before?\nB: No. Never ______ him raise his voice in all my years at this company.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "I have heard",
+    "have I heard",
+    "I heard",
+    "did I heard"
+   ],
+   "answer": 1,
+   "explanation": "CEO가 화내는 것을 본 적 있느냐는 질문에 '이 회사에서 일한 세월 동안 한 번도 목소리를 높이는 것을 들어 본 적이 없다'고 답하는 상황이다. 부정어 Never가 문두에 오면 주어와 조동사가 도치되며, in all my years라는 경험의 기간과 어울리는 현재완료 have I heard가 정답이다. 'I have heard'는 도치가 이루어지지 않았고, 'I heard'는 도치와 시제 모두 부적절하며, 'did I heard'는 조동사 did 뒤에 동사원형이 와야 하므로 형태 자체가 오류다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: You look completely worn out. Rough night?\nB: If I hadn't agreed to cover Mark's shift, I ______ in bed right now.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "would have been",
+    "will be",
+    "had been",
+    "would be"
+   ],
+   "answer": 3,
+   "explanation": "Mark의 근무를 대신하기로 하지 않았더라면 '지금쯤 침대에 있을 텐데'라는 혼합 가정법이다. 조건절은 과거 사실의 반대(hadn't agreed)이지만 주절은 현재 상황(right now)을 가정하므로 would + 동사원형인 would be가 정답이다. would have been은 주절까지 과거에 대한 가정으로 만들어 right now와 충돌하고, will be는 직설법 미래라 가정법 문맥에 맞지 않으며, had been은 조건절에 쓰이는 형태다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: What did the auditor say about our expense reports?\nB: She insisted that every receipt ______ before the end of the month.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "be submitted",
+    "was submitted",
+    "is submitted",
+    "will be submitted"
+   ],
+   "answer": 0,
+   "explanation": "감사관이 '모든 영수증이 월말 전에 제출되어야 한다'고 요구했다는 대화다. insist가 '~해야 한다고 주장·요구하다'의 뜻일 때 that절에는 (should) + 동사원형의 당위 가정법을 쓰므로, 수동 원형인 be submitted가 정답이다. was submitted와 is submitted는 직설법이어서 요구·주장의 내용을 나타내지 못하고, will be submitted 역시 당위의 가정법 규칙에 어긋난다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: The projector broke down right in the middle of my presentation.\nB: Don't worry — it's still ______ warranty, so the repair won't cost us anything.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "on",
+    "in",
+    "within",
+    "under"
+   ],
+   "answer": 3,
+   "explanation": "발표 도중 고장 난 프로젝터에 대해 '아직 보증 기간 중이니 수리비가 들지 않는다'고 안심시키는 대화다. '보증이 적용되는 상태인'은 under warranty라는 굳어진 전치사 관용구로 표현하므로 under가 정답이다. on, in, within은 warranty와 이 의미로 결합하지 않으며, 특히 within은 기간 명사와 어울리는 전치사라 매력적으로 보이지만 관용 표현이 아니다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: How did the outdoor market go this weekend?\nB: Terribly. With the rain ______ down all afternoon, we barely sold a thing.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "poured",
+    "pouring",
+    "to pour",
+    "pours"
+   ],
+   "answer": 1,
+   "explanation": "야외 장터가 어땠느냐는 질문에 '오후 내내 비가 쏟아지는 바람에 거의 팔지 못했다'고 답하는 상황으로, with + 목적어 + 분사의 부대상황 구문이다. the rain과 pour의 관계가 능동·진행이므로 현재분사 pouring이 정답이다. poured는 수동 관계를 나타내어 부적절하고, to pour와 pours는 with 구문에 올 수 없는 형태다."
+  },
+  {
+   "part": "grammar",
+   "passage": "The new travel policy requires that employees book flights through the approved portal, submit itineraries in advance, and ______ all receipts for reimbursement.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "retaining",
+    "to retain",
+    "retain",
+    "retained"
+   ],
+   "answer": 2,
+   "explanation": "새 출장 규정이 직원들에게 '승인된 포털로 항공권을 예약하고, 일정을 미리 제출하고, 영수증을 보관할 것'을 요구한다는 문장이다. that절 안에서 book, submit과 병치되는 세 번째 동사도 같은 형태여야 하므로 동사원형 retain이 정답이다(requires that절의 당위 가정법 원형이기도 하다). retaining, to retain, retained는 모두 앞의 두 동사와 병렬 구조를 이루지 못한다."
+  },
+  {
+   "part": "grammar",
+   "passage": "One seldom comes across ______ in today's overheated housing market, so the buyer signed the contract on the spot.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "so reasonable an offer",
+    "a so reasonable offer",
+    "such reasonable an offer",
+    "so a reasonable offer"
+   ],
+   "answer": 0,
+   "explanation": "과열된 주택 시장에서 '이토록 합리적인 제안'은 좀처럼 만나기 어렵다는 문맥이다. so가 형용사를 수식할 때는 so + 형용사 + a/an + 명사의 어순을 취하므로 so reasonable an offer가 정답이다. such를 쓰려면 such a reasonable offer가 되어야 하며, 'a so reasonable offer'와 'so a reasonable offer'는 관사의 위치가 어순 규칙에 어긋난다."
+  },
+  {
+   "part": "grammar",
+   "passage": "Freelancers who charge by ______ hour often out-earn salaried staff, though their income is far less predictable.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "a",
+    "an",
+    "the",
+    "its"
+   ],
+   "answer": 2,
+   "explanation": "'시간 단위로 요금을 청구하는' 프리랜서에 관한 문장으로, 단위를 나타낼 때는 by + the + 단위명사(by the hour, by the pound 등)의 정관사 관용 구문을 쓰므로 the가 정답이다. hour가 모음으로 시작한다는 점 때문에 an이 매력적 오답이 되지만 이 구문에서는 부정관사를 쓰지 않으며, a는 형태부터 틀리고 its는 의미가 성립하지 않는다."
+  },
+  {
+   "part": "grammar",
+   "passage": "It was not until the shipment reached customs ______ the exporter discovered that the required paperwork had never been filed.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "which",
+    "that",
+    "when",
+    "what"
+   ],
+   "answer": 1,
+   "explanation": "'화물이 세관에 도착하고 나서야 비로소 수출업자는 필수 서류가 제출되지 않았음을 알았다'는 문장으로, It was not until A that B(A하고 나서야 비로소 B했다) 강조구문이다. 따라서 that이 정답이다. which와 what은 선행사를 필요로 하거나 명사절을 이끌어 구조상 맞지 않고, when은 not until 강조구문의 접속사로 쓸 수 없다."
+  },
+  {
+   "part": "grammar",
+   "passage": "The firm brought in a consultant ______ expertise in cross-border taxation proved invaluable during the merger talks.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "whom",
+    "which",
+    "that",
+    "whose"
+   ],
+   "answer": 3,
+   "explanation": "회사가 영입한 컨설턴트'의' 국제 조세 전문 지식이 합병 협상에서 큰 가치를 발휘했다는 문장이다. 선행사 a consultant와 expertise 사이가 소유 관계이므로 소유격 관계대명사 whose가 정답이다. whom, which, that은 뒤에 오는 명사 expertise와의 소유 관계를 나타낼 수 없어 절 구조가 성립하지 않는다."
+  },
+  {
+   "part": "reading",
+   "passage": "Retailers have long understood that consumers rarely assess value in absolute terms. When a mid-priced option is displayed beside a conspicuously overpriced alternative, sales of the former tend to rise sharply, even though nothing about the product itself has changed. The overpriced item is seldom expected to sell; its true function is to make its neighbor look reasonable by comparison. Marketing researchers call this the decoy effect, and it pervades everything from cinema concession stands to airline seat upgrades. In short, the price tags consumers see are often designed less to sell a given product than to ______.",
+   "stem": "Choose the option that best completes the passage.",
+   "choices": [
+    "reflect the true cost of production",
+    "reframe how other products are perceived",
+    "discourage shoppers from comparing brands",
+    "comply with consumer-protection regulations"
+   ],
+   "answer": 1,
+   "explanation": "지문 요지: 소비자는 가치를 절대적으로 판단하지 않기 때문에, 일부러 비싼 '미끼' 상품을 옆에 두어 중간 가격 상품이 합리적으로 보이게 만든다(미끼 효과). 마지막 문장은 이 논지의 요약으로, '가격표는 특정 상품을 팔기 위해서라기보다 다른 상품이 인식되는 방식을 재구성하기 위해 설계된다'가 자연스럽다. (0) 생산 원가 반영은 '제품은 그대로인데 인식만 바뀐다'는 논지와 정반대이고, (2) 브랜드 간 비교를 막는다는 내용은 없으며, (3) 소비자 보호 규정 준수는 지문에서 다루지 않았다."
+  },
+  {
+   "part": "reading",
+   "passage": "For decades, municipal governments treated tourism as an unalloyed economic blessing, competing fiercely to attract ever larger numbers of visitors. Recently, however, residents of cities such as Venice, Barcelona, and Kyoto have protested that mass tourism inflates rents, overwhelms public services, and hollows out neighborhoods as homes are converted into short-term rentals. In response, officials have introduced entry fees, caps on cruise-ship arrivals, and restrictions on vacation lettings. Such measures signal a broader shift in urban policy: tourism is no longer viewed simply as revenue to be maximized, but as ______.",
+   "stem": "Choose the option that best completes the passage.",
+   "choices": [
+    "a resource to be managed within limits",
+    "an industry destined for inevitable decline",
+    "a burden that cities must eliminate entirely",
+    "a private matter beyond government regulation"
+   ],
+   "answer": 0,
+   "explanation": "지문 요지: 관광을 무조건적 축복으로 여기던 도시들이 오버투어리즘의 폐해(임대료 상승, 공공 서비스 과부하 등)에 직면해 입장료, 크루즈 제한 등의 조치를 도입했다. 이는 관광을 '극대화할 수익'이 아니라 '한도 안에서 관리해야 할 자원'으로 보는 정책 전환이므로 (0)이 정답이다. (1) 산업의 필연적 쇠퇴나 (2) 관광의 전면 제거는 지문이 말하는 '관리·제한'과 다르며, (3) 정부 규제 밖의 사적 문제라는 진술은 각종 규제 도입 내용과 정면으로 모순된다."
+  },
+  {
+   "part": "reading",
+   "passage": "When open-plan offices first gained popularity, their advocates promised that removing physical barriers would foster spontaneous collaboration among employees. Subsequent research has largely contradicted this expectation. One influential study found that after firms switched to open layouts, face-to-face interaction fell by roughly seventy percent, while email and instant messaging surged. Stripped of privacy, workers reported donning headphones and avoiding eye contact to signal that they were unavailable. Ironically, a design intended to bring colleagues together appears instead to have ______.",
+   "stem": "Choose the option that best completes the passage.",
+   "choices": [
+    "increased the frequency of face-to-face meetings",
+    "reduced companies' spending on office space",
+    "persuaded managers to abandon electronic communication",
+    "prompted workers to erect invisible barriers of their own"
+   ],
+   "answer": 3,
+   "explanation": "지문 요지: 개방형 사무실은 자발적 협업을 늘릴 것으로 기대됐으나, 연구 결과 대면 상호작용은 약 70% 감소하고 이메일·메신저가 급증했으며, 직원들은 헤드폰 착용과 시선 회피로 스스로를 차단했다. 마지막 문장의 Ironically(역설적으로)는 의도와 반대되는 결과를 예고하므로 '직원들이 스스로 보이지 않는 장벽을 세우게 만들었다'가 정답이다. (0) 대면 회의 증가는 지문 내용과 반대이고, (1) 사무 공간 비용 절감은 논점이 아니며, (2) 관리자가 전자 소통을 버렸다는 내용은 없다(오히려 급증했다)."
+  },
+  {
+   "part": "reading",
+   "passage": "Loyalty programs are typically framed as rewards for a store's most devoted customers. Points, membership tiers, and members-only discounts create the impression that the retailer is returning value to shoppers out of gratitude. ______, the data these programs harvest — what customers buy, when they buy it, and at what price they hesitate — is often worth far more to the company than the discounts cost. In effect, members are not so much receiving a gift as selling their purchasing histories at a modest price.",
+   "stem": "Choose the option that best completes the passage.",
+   "choices": [
+    "For instance",
+    "Likewise",
+    "In reality",
+    "As a result"
+   ],
+   "answer": 2,
+   "explanation": "빈칸 앞은 로열티 프로그램이 '감사의 보상'이라는 인상을 준다는 통념이고, 빈칸 뒤는 프로그램이 수집하는 구매 데이터가 할인 비용보다 훨씬 가치 있다는 실상이다. 통념을 뒤집어 실제 사정을 제시하는 대조의 연결어 In reality(실제로는)가 정답이다. For instance는 예시, Likewise는 유사한 내용의 첨가, As a result는 인과 관계를 나타내므로, '겉모습 대 실상'의 대조 관계인 앞뒤 문장을 연결하지 못한다."
+  },
+  {
+   "part": "reading",
+   "passage": "Many corporations now publish glossy sustainability reports documenting their commitments to renewable energy, ethical sourcing, and carbon neutrality. Critics note, however, that such reports are largely unregulated: firms decide which metrics to disclose, which to omit, and how to define success. A company may trumpet a modest reduction in packaging waste while remaining silent about emissions from its supply chain, which often dwarf those from its direct operations. Absent independent auditing, sustainability reporting functions less as accountability than as advertising. Genuine progress, critics argue, will require binding disclosure standards enforced by regulators rather than voluntary pledges crafted by marketing departments.",
+   "stem": "What is the main idea of the passage?",
+   "choices": [
+    "Corporate sustainability reports mean little without binding, independently verified standards",
+    "Most corporations have quietly abandoned their renewable energy commitments",
+    "Cutting packaging waste is the most effective way for firms to reduce emissions",
+    "Regulators have already imposed strict auditing requirements on sustainability claims"
+   ],
+   "answer": 0,
+   "explanation": "지문 요지: 기업 지속가능성 보고서는 규제가 없어 기업이 공개할 지표를 취사선택하며, 독립적 감사가 없는 한 책무성보다는 광고에 가깝다 — 따라서 규제 당국이 강제하는 구속력 있는 공시 기준이 필요하다는 비판이다. 이를 요약한 (0)이 정답이다. (1) 재생에너지 공약을 '포기'했다는 언급은 없고, (2) 포장 폐기물 감축이 최선이라는 주장도 없으며(오히려 공급망 배출이 훨씬 크다고 지적), (3) 규제 당국이 이미 엄격한 감사를 도입했다는 진술은 지문이 지적하는 '감사의 부재'와 모순된다."
+  },
+  {
+   "part": "reading",
+   "passage": "Duty-free shops occupy a curious niche in the retail landscape: they promise tax-free bargains, yet studies repeatedly show that many of their prices exceed those at ordinary downtown stores. The explanation lies in a captive market — travelers idling at a departure gate cannot comparison-shop, often hold unspent foreign currency they are eager to offload, and tend to suspend their usual frugality in the holiday spirit. Airport retailers, well aware of these conditions, price their goods accordingly: the tax exemption is real, but a quiet markup absorbs much of the saving. The savvy traveler therefore treats the duty-free sign not as a guarantee of value but as an invitation to check prices as carefully as anywhere else.",
+   "stem": "Which is the best title for the passage?",
+   "choices": [
+    "How Airports Calculate Departure Taxes",
+    "Duty-Free Shopping: A Bargain That Often Isn't",
+    "The Decline of Downtown Retail Stores",
+    "Why Travelers Should Avoid Foreign Currency"
+   ],
+   "answer": 1,
+   "explanation": "지문 요지: 면세점은 세금 면제를 내세우지만 실제로는 시내 상점보다 비싼 경우가 많다. 출국 게이트에 붙잡힌 '포로 시장'의 소비자 심리를 이용해 마크업이 절세분을 흡수하기 때문이며, 현명한 여행자는 면세 간판을 믿지 말고 가격을 직접 확인해야 한다. 이 '면세 = 할인이라는 통념의 반박'을 담은 (1)이 최적의 제목이다. (0) 공항 세금 계산 방식과 (2) 시내 소매업의 쇠퇴는 지문의 화제가 아니고, (3) 외화 소지 기피는 지엽적 세부사항을 확대한 오답이다."
+  },
+  {
+   "part": "reading",
+   "passage": "A growing number of firms, including several prominent multinationals, have abandoned the traditional annual performance review. The ritual, they concluded, consumed enormous managerial time while demoralizing employees, who received feedback months after the work in question was done and could do little to act on it. In its place, these companies have adopted continuous feedback models: brief, frequent check-ins in which managers address problems as they arise and adjust goals in real time. Early evidence suggests the shift improves both morale and performance, though it demands more consistent engagement than many managers are accustomed to providing. The annual review, once a fixture of corporate life, may soon seem as antiquated as the typewriter.",
+   "stem": "What is the passage mainly about?",
+   "choices": [
+    "Techniques for writing fairer annual performance evaluations",
+    "Legal disputes arising from unfavorable performance ratings",
+    "Why companies are replacing annual reviews with continuous feedback",
+    "The influence of office technology on corporate rituals"
+   ],
+   "answer": 2,
+   "explanation": "지문 요지: 여러 기업이 연례 인사평가를 폐지하는 이유(막대한 관리 시간 소모, 뒤늦은 피드백으로 인한 사기 저하)와 그 대안인 수시 피드백 모델의 방식·효과·한계를 설명한다. 따라서 '기업들이 연례평가를 수시 피드백으로 대체하는 이유'인 (2)가 정답이다. (0) 더 공정한 연례평가 작성법은 지문의 방향(폐지)과 반대이고, (1) 법적 분쟁은 언급되지 않았으며, (3) 타자기는 마지막 문장에서 구식화의 비유로 한 번 등장할 뿐 주제가 아니다."
+  },
+  {
+   "part": "reading",
+   "passage": "Dynamic pricing — adjusting prices in real time according to demand — has spread from airlines to sectors as varied as ride-hailing, hotels, concert tickets, and online groceries. Its defenders argue that flexible prices allocate scarce goods efficiently: when a concert sells out in minutes at a fixed price, the surplus simply flows to scalpers rather than to the artist. Consumers, however, often perceive the practice as exploitative, particularly when prices spike during emergencies, as when ride-hailing fares surge during a storm. Several jurisdictions have responded by capping surge pricing during designated crisis periods while leaving routine fluctuations untouched. The uneasy compromise reflects a persistent tension between economic efficiency and popular notions of fairness.",
+   "stem": "Which of the following is correct according to the passage?",
+   "choices": [
+    "Dynamic pricing was pioneered by the hotel industry",
+    "Consumers generally welcome fare surges during storms",
+    "Fixed concert prices guarantee that profits reach the performing artists",
+    "Some jurisdictions cap surge pricing only during designated emergency periods"
+   ],
+   "answer": 3,
+   "explanation": "지문 요지: 수요에 따라 실시간으로 가격을 조정하는 다이내믹 프라이싱의 효율성 옹호론과 소비자의 반감, 그리고 일부 지역의 절충적 규제를 다룬다. 넷째 문장에서 '여러 관할 구역이 지정된 위기 기간에는 가격 급등을 제한하되 평상시 변동은 그대로 두었다'고 했으므로 (3)이 일치한다. (0) 항공사에서 시작해 다른 부문으로 확산되었다고 했으므로 호텔 기원은 오류이고, (1) 소비자는 폭풍 시 요금 급등을 착취적으로 인식하며, (2) 고정 가격에서는 잉여가 아티스트가 아니라 암표상에게 흘러간다고 했으므로 반대다."
+  },
+  {
+   "part": "reading",
+   "passage": "Subscription services flourish partly because of a well-documented asymmetry in consumer behavior: signing up takes seconds, while canceling is often deliberately laborious. Firms bury cancellation options deep in account menus, require phone calls during limited business hours, or present a gauntlet of retention offers before honoring the request. Behavioral economists refer to such obstacles as \"sludge\" — friction engineered to exploit inertia rather than to serve any administrative need. Regulators in several countries have begun mandating that canceling a subscription be no more difficult than starting one, a rule that industry groups have lobbied against vigorously. The intensity of that lobbying is telling: firms evidently regard engineered inertia not as an incidental flaw but as a pillar of their revenue.",
+   "stem": "What can be inferred from the passage?",
+   "choices": [
+    "Some companies profit from customers who keep paying mainly because quitting is a hassle",
+    "Most subscribers cancel their services within the first month of signing up",
+    "Retention offers have already been banned in several countries",
+    "Canceling a subscription by phone is generally faster than canceling online"
+   ],
+   "answer": 0,
+   "explanation": "지문 요지: 구독 서비스는 가입은 쉽고 해지는 일부러 어렵게 설계된 비대칭('sludge') 덕에 번성하며, 해지를 가입만큼 쉽게 만들라는 규제에 업계가 격렬히 로비하고 있다. 마지막 문장에서 그 로비의 강도가 '설계된 관성'이 수익의 기둥임을 보여 준다고 했으므로, '해지가 귀찮아서 계속 결제하는 고객 덕에 수익을 얻는 기업이 있다'는 (0)을 추론할 수 있다. (1) 첫 달 해지 비율에 관한 정보는 없고, (2) 금지된 것이 아니라 '해지를 가입만큼 쉽게 하라'는 의무화가 시작된 것이며, (3) 전화와 온라인 해지의 속도 비교는 지문에 없다."
+  },
+  {
+   "part": "reading",
+   "passage": "\"Bleisure\" travel — the practice of appending vacation days to business trips — has grown steadily since companies began loosening their travel policies. Surveys indicate that employees under forty are its most enthusiastic adopters, extending roughly one in three international work trips for personal sightseeing. Employers have proved surprisingly receptive: the airfare is already paid, the extra hotel nights fall to the employee, and workers return more rested than colleagues who fly straight home. Some firms have even begun marketing bleisure-friendly policies as a recruitment tool aimed at younger talent. Complications persist, however, chiefly over who bears insurance liability once the business portion of a trip has ended.",
+   "stem": "Which of the following is correct according to the passage?",
+   "choices": [
+    "Employers typically cover the cost of the added vacation nights",
+    "Employees under forty extend business trips for leisure more often than others",
+    "Insurance questions surrounding bleisure travel have been fully resolved",
+    "Most firms have tightened travel policies to discourage bleisure trips"
+   ],
+   "answer": 1,
+   "explanation": "지문 요지: 출장에 휴가를 덧붙이는 '블레저' 여행이 확산 중이며, 40세 미만 직원이 가장 적극적이고, 고용주도 대체로 수용적이지만 보험 책임 문제는 남아 있다. 둘째 문장에서 '40세 미만 직원이 가장 열성적인 수용층으로, 해외 출장 세 건 중 한 건꼴로 연장한다'고 했으므로 (1)이 일치한다. (0) 추가 숙박비는 직원 부담이라고 명시되었고, (2) 보험 문제는 '여전히 남아 있는' 복잡한 사안이며, (3) 기업들은 오히려 출장 규정을 완화하고 이를 채용 수단으로 홍보하고 있다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: Have you noticed how much misinformation about vaccines is circulating online these days?\nB: I have. False claims have become so ______ that debunking them all is a lost cause.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "tentative",
+    "negligible",
+    "ubiquitous",
+    "redundant"
+   ],
+   "answer": 2,
+   "explanation": "A가 백신 관련 허위 정보가 온라인에 넘쳐난다고 하자, B가 '허위 주장이 너무 ___해서 전부 반박하는 것은 가망 없는 일'이라고 답하는 상황이다. '어디에나 퍼져 있는'이라는 뜻의 ubiquitous가 문맥에 정확히 들어맞는다. tentative(잠정적인)와 negligible(무시해도 될 정도의)은 '반박이 불가능할 만큼 많다'는 흐름과 모순되고, redundant(불필요하게 중복된)는 '널리 퍼져 있다'는 의미를 담지 못해 부적절하다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: Did you hear the lead author was accused of fabricating his data?\nB: Yes, but he flatly ______ the allegations, calling them a smear campaign.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "repudiated",
+    "corroborated",
+    "insinuated",
+    "condoned"
+   ],
+   "answer": 0,
+   "explanation": "데이터 조작 혐의를 받은 저자가 이를 '중상모략'이라 부르며 강하게 부인했다는 맥락이다. '단호히 부인하다'라는 뜻의 repudiated가 정답이며 flatly와의 콜로케이션도 자연스럽다. corroborated(확증했다)는 정반대 의미이고, insinuated(넌지시 암시했다)는 allegations를 목적어로 취해 부인하는 맥락과 맞지 않으며, condoned(용인했다)도 문맥상 어색하다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: Did the new emissions rules actually clean up the city's air?\nB: Hardly. Whatever gains they produced were ______ by a spike in factory output.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "vindicated",
+    "offset",
+    "replenished",
+    "bolstered"
+   ],
+   "answer": 1,
+   "explanation": "배출 규제로 얻은 개선 효과가 공장 생산 급증 때문에 사실상 사라졌다는 맥락이므로 '상쇄되었다'는 뜻의 offset이 정답이다. vindicated(정당성이 입증되다)와 bolstered(강화되다)는 'Hardly(전혀 아니다)'라는 부정적 답변과 모순되고, replenished(다시 채워지다)는 gains를 주어로 한 이 구문에서 의미가 통하지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: The CEO is promising fully driverless taxis on every street within a year.\nB: Given the regulatory hurdles alone, that timetable strikes me as utterly ______.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "attainable",
+    "impervious",
+    "negligible",
+    "untenable"
+   ],
+   "answer": 3,
+   "explanation": "1년 안에 완전 자율주행 택시를 전면 도입하겠다는 계획에 대해 B가 '규제 장벽만 고려해도 그 일정은 도저히 성립할 수 없다'고 회의적으로 반응하는 상황이다. '(주장·입장이) 옹호될 수 없는, 지탱 불가능한'이라는 뜻의 untenable이 정답이다. attainable(달성 가능한)은 정반대이고, impervious(영향받지 않는)는 보통 impervious to 형태로 쓰이며 의미도 맞지 않고, negligible(미미한)은 일정을 평가하는 말로 부적절하다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: Why did your doctor take you off that sleeping pill?\nB: Apparently, long-term use can ______ the very insomnia it is prescribed to relieve.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "alleviate",
+    "diagnose",
+    "exacerbate",
+    "immunize"
+   ],
+   "answer": 2,
+   "explanation": "수면제를 끊게 된 이유를 묻자, 장기 복용이 '완화하려고 처방된 바로 그 불면증'을 오히려 악화시킬 수 있다는 역설적 설명이 이어진다. '악화시키다'라는 뜻의 exacerbate가 정답이다. alleviate(완화하다)는 relieve와 같은 의미라 '약을 끊은 이유'가 되지 못하고, diagnose(진단하다)와 immunize(면역시키다)는 insomnia를 목적어로 한 이 문맥에서 성립하지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "Reconciling short-term economic growth with long-term environmental sustainability remains an intractable ______ for policymakers worldwide.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "consensus",
+    "conundrum",
+    "anomaly",
+    "repertoire"
+   ],
+   "answer": 1,
+   "explanation": "단기 성장과 장기 환경 지속가능성을 조화시키는 일이 정책 입안자들에게 여전히 '해결하기 어려운 난제'로 남아 있다는 문장이다. intractable(다루기 힘든)과 자연스럽게 어울리는 conundrum(난제)이 정답이다. consensus(합의)는 intractable과 의미가 충돌하고, anomaly(이례적 현상)는 '해결해야 할 문제'라는 뉘앙스가 없으며, repertoire(레퍼토리)는 문맥과 무관하다."
+  },
+  {
+   "part": "vocab",
+   "passage": "The discovery of domesticated grain at prehistoric sites on three separate continents ______ the long-held assumption that agriculture arose in only one region and spread outward from there.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "corroborated",
+    "emulated",
+    "consolidated",
+    "belied"
+   ],
+   "answer": 3,
+   "explanation": "세 개의 서로 다른 대륙의 선사 유적지에서 재배 곡물이 발견되었다는 사실은, '농경이 단 한 지역에서 발생해 밖으로 전파되었다'는 오랜 가정이 사실이 아님을 보여 준다. '~이 거짓임을 드러내다'라는 뜻의 belied가 정답이다. corroborated(확증했다)와 consolidated(공고히 했다)는 세 대륙에서의 독립적 발견이라는 단서와 정면으로 모순되고, emulated(모방했다)는 assumption을 목적어로 취할 수 없는 어색한 조합이다."
+  },
+  {
+   "part": "vocab",
+   "passage": "Despite decades of investigation, the precise mechanism by which general anesthesia induces unconsciousness remains ______.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "elusive",
+    "prevalent",
+    "obsolete",
+    "redundant"
+   ],
+   "answer": 0,
+   "explanation": "수십 년의 연구에도 전신마취가 의식을 잃게 하는 정확한 기제는 여전히 규명되지 않았다는 내용으로, 'Despite decades of investigation'이 결정적 단서다. '(파악·규명이) 어려운, 손에 잡히지 않는'이라는 뜻의 elusive가 remain과 함께 쓰이는 전형적 콜로케이션으로 정답이다. prevalent(널리 퍼진), obsolete(구식의), redundant(불필요한)는 모두 '밝혀지지 않았다'는 문맥과 어울리지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "The inquiry's final report ______ attributed the reactor meltdown to lax regulatory oversight rather than to equipment failure.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "imperceptibly",
+    "unequivocally",
+    "superfluously",
+    "clandestinely"
+   ],
+   "answer": 1,
+   "explanation": "조사 최종 보고서가 원자로 노심용융의 원인을 장비 결함이 아니라 허술한 규제 감독 탓으로 '명확하게' 돌렸다는 문장이다. 'A rather than B' 구조로 원인을 단정하는 맥락이므로 unequivocally(명백히, 단호하게)가 정답이다. imperceptibly(감지할 수 없을 만큼)와 clandestinely(은밀하게)는 공식 보고서의 공개적 결론과 모순되고, superfluously(불필요하게)는 의미가 통하지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "Low-lying island nations' repeated appeals for climate financing have thus far ______ little more than symbolic pledges from wealthy governments.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "relinquished",
+    "permeated",
+    "averted",
+    "elicited"
+   ],
+   "answer": 3,
+   "explanation": "저지대 섬나라들의 거듭된 기후 재원 요청이 지금까지 부유국들로부터 상징적 약속 정도밖에 '이끌어 내지' 못했다는 문장이다. appeals가 반응(pledges)을 끌어낸다는 구조이므로 elicit(이끌어 내다)가 정답이며 'elicit a response/pledge'는 대표적 콜로케이션이다. relinquished(포기했다), permeated(스며들었다), averted(모면했다)는 모두 이 구문의 목적어와 논리적으로 연결되지 않는다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: How is your father doing after his heart surgery?\nB: Much better, though the doctor insisted that he ______ off salt entirely for at least a month.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "stay",
+    "stays",
+    "stayed",
+    "will stay"
+   ],
+   "answer": 0,
+   "explanation": "심장 수술 후 아버지의 경과를 묻자, 의사가 최소 한 달간 소금을 완전히 끊으라고 강력히 요구했다고 답하는 대화다. insist, demand, suggest 등 주장·요구·제안 동사 뒤의 that절에는 '(should) + 동사원형'을 쓰는 가정법 현재가 온다. 따라서 원형 stay가 정답이다. stays와 will stay는 직설법이라 요구의 의미를 담지 못하고, stayed는 시제 일치처럼 보이는 매력적 오답이지만 당위의 that절에서는 쓸 수 없다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: Why are your lab results still not back?\nB: It's my own fault — if I ______ the samples earlier, the analysis would be finished by now.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "submitted",
+    "would submit",
+    "had submitted",
+    "have submitted"
+   ],
+   "answer": 2,
+   "explanation": "과거에 시료를 더 일찍 제출했더라면(과거 사실의 반대) 지금쯤 분석이 끝나 있을 것(현재의 결과)이라는 혼합가정법 문장이다. 조건절은 과거 사실에 대한 가정이므로 had submitted(가정법 과거완료)를 쓰고, 주절은 by now와 함께 would be finished(가정법 과거)를 쓴다. submitted는 단순 가정법 과거로 '지금 제출한다면'이 되어 by now와 어긋나고, would submit은 조건절에 조동사를 넣은 오류이며, have submitted는 가정법 형태가 아니다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: Do you think quantum computers will make today's encryption obsolete soon?\nB: Few cryptographers, ______, expect that to happen within the next decade.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "as any",
+    "if any",
+    "if some",
+    "whether any"
+   ],
+   "answer": 1,
+   "explanation": "양자컴퓨터가 곧 현재의 암호화를 무력화하겠느냐는 질문에, '있다 하더라도 극소수의' 암호학자만 10년 내 실현을 예상한다고 답하는 대화다. few 뒤에 삽입되어 '설령 있더라도'라는 뜻을 더하는 관용 표현 if any가 정답이다. if some은 존재하지 않는 형태이고, as any는 비교 구문(as ~ as any)에서나 쓰이며, whether any는 명사절을 이끄는 접속사라 삽입구로 쓸 수 없다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: Shall we run the trial again tomorrow morning?\nB: Actually, I'd rather we ______ it today, before the samples start to degrade.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "finish",
+    "will finish",
+    "finished",
+    "had finished"
+   ],
+   "answer": 2,
+   "explanation": "내일 다시 실험하자는 제안에, 시료가 변질되기 전에 '오늘 끝냈으면 좋겠다'고 답하는 대화다. would rather 뒤에 주어가 딸린 절이 올 때는 현재·미래의 소망이라도 가정법 과거(과거형 동사)를 쓰므로 finished가 정답이다. finish와 will finish는 이 구문에서 허용되지 않는 직설법 형태이고, had finished(가정법 과거완료)는 이미 지나간 과거 일에 대한 아쉬움을 나타내므로 '오늘 하자'는 문맥과 맞지 않는다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: I can't believe the review board rejected such a generously funded proposal.\nB: ______ as it was, the study design contained a fatal statistical flaw.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "Impressive",
+    "However impressive",
+    "Despite impressive",
+    "Being impressive"
+   ],
+   "answer": 0,
+   "explanation": "넉넉한 연구비를 받은 제안서가 왜 탈락했는지에 대해, '인상적이긴 했지만 연구 설계에 치명적 통계 결함이 있었다'고 설명하는 대화다. '형용사 + as + 주어 + 동사'는 양보의 도치 구문(Impressive as it was = Though it was impressive)이므로 Impressive가 정답이다. However impressive는 뒤에 as 없이 'However impressive it was'로 써야 하고, Despite는 전치사라 절과 결합할 수 없으며, Being impressive는 as it was와 겹쳐 비문이 된다."
+  },
+  {
+   "part": "grammar",
+   "passage": "Not until the ozone hole was detected over Antarctica ______ the full extent of the damage that CFCs were inflicting on the atmosphere.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "scientists grasped",
+    "scientists did grasp",
+    "scientists had grasped",
+    "did scientists grasp"
+   ],
+   "answer": 3,
+   "explanation": "남극 상공에서 오존 구멍이 발견되고 나서야 과학자들이 프레온가스(CFC)가 대기에 입히던 피해의 전모를 파악했다는 문장이다. Not until이 이끄는 부사절이 문두에 오면 주절은 반드시 '조동사 + 주어' 어순으로 도치되므로 did scientists grasp가 정답이다. 나머지 세 선택지는 모두 '주어 + 동사'의 평서 어순이어서 문두 부정어구에 따른 의무적 도치를 어긴 비문이다."
+  },
+  {
+   "part": "grammar",
+   "passage": "The experimental therapy is designed to shorten hospital stays, reduce postoperative complications, and ______ patients' long-term quality of life.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "improving",
+    "improve",
+    "to improving",
+    "improved"
+   ],
+   "answer": 1,
+   "explanation": "이 실험적 치료법은 입원 기간 단축, 수술 후 합병증 감소, 그리고 환자의 장기적 삶의 질 '개선'을 목표로 설계되었다는 문장이다. designed to 뒤에 shorten, reduce가 원형으로 병치되어 있으므로, and 뒤의 세 번째 항목도 동일하게 원형 improve로 맞추어야 한다. improving과 improved는 병치 구조를 깨뜨리고, to improving은 to부정사도 전치사구도 아닌 비문 형태다."
+  },
+  {
+   "part": "grammar",
+   "passage": "Unlike the institute's salaried researchers, its laboratory technicians are paid by ______ hour.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "a",
+    "an",
+    "(no article)",
+    "the"
+   ],
+   "answer": 3,
+   "explanation": "연봉제인 연구원들과 달리 실험실 기사들은 '시간 단위로' 급여를 받는다는 문장이다. 'by + 단위 명사'로 계산 단위를 나타낼 때는 by the hour, by the pound처럼 정관사 the를 쓰는 것이 원칙이므로 the가 정답이다. hour가 모음 발음으로 시작한다는 점 때문에 an이 매력적 오답이 되지만, 부정관사(a/an)는 이 단위 표현에 쓰이지 않으며 무관사 역시 관용에 어긋난다."
+  },
+  {
+   "part": "grammar",
+   "passage": "______ the wake of the reactor meltdown, several governments suspended their nuclear expansion plans indefinitely.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "In",
+    "At",
+    "On",
+    "By"
+   ],
+   "answer": 0,
+   "explanation": "원자로 노심용융 사고의 '여파로' 여러 정부가 원전 확대 계획을 무기한 중단했다는 문장이다. '~의 여파로, ~에 뒤이어'라는 뜻의 관용 표현은 in the wake of로 굳어져 있으므로 In이 정답이다. wake가 '항적(배가 지나간 자리)'에서 온 표현임을 모르면 At이나 On을 고르기 쉽지만, 이 관용구에서 전치사는 in으로 고정되어 있어 At, On, By는 모두 비문이다."
+  },
+  {
+   "part": "grammar",
+   "passage": "The necessary permits ______, construction of the deep-sea observatory finally commenced last month.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "having secured",
+    "having been secured",
+    "to have been secured",
+    "had been secured"
+   ],
+   "answer": 1,
+   "explanation": "필요한 인허가가 확보된 뒤에 심해 관측소 건설이 지난달 마침내 시작되었다는 문장으로, 주절과 주어가 다른 독립분사구문이다. permits는 '확보되는' 대상이고 확보가 착공보다 앞선 일이므로 완료 수동 분사 having been secured가 정답이다. having secured는 능동형이라 permits가 스스로 확보한 꼴이 되어 비문이고, had been secured는 정동사라 접속사 없이 두 절을 이을 수 없으며, to have been secured는 부정사여서 분사구문 자리에 올 수 없다."
+  },
+  {
+   "part": "reading",
+   "passage": "For decades, sleep was regarded as a passive state in which the brain simply powered down. Recent neuroimaging studies, however, tell a different story. During slow-wave sleep, the hippocampus repeatedly reactivates the neural patterns encoded during the day, effectively transferring fragile memories to the cortex for long-term storage. Subjects deprived of this stage of sleep perform markedly worse on recall tests, even when their total sleep time is held constant. Far from being downtime, then, sleep appears to be ______.",
+   "stem": "Choose the option that best completes the passage.",
+   "choices": [
+    "an active phase of memory consolidation",
+    "a period in which the brain erases redundant information",
+    "less important for cognition than researchers once assumed",
+    "a process governed chiefly by the cortex rather than the hippocampus"
+   ],
+   "answer": 0,
+   "explanation": "수면은 뇌가 꺼지는 수동적 상태가 아니라, 서파수면 중 해마가 낮 동안 부호화된 신경 패턴을 재활성화해 기억을 피질로 옮기며, 이 단계를 박탈당하면 회상 성적이 크게 떨어진다는 내용이다. 'Far from being downtime(휴지기이기는커녕)'이라는 단서에 따라 빈칸에는 '기억 응고화의 능동적 단계'라는 결론이 와야 하므로 (a)가 정답이다. (b)의 '중복 정보 삭제'는 지문에 언급이 없고, (c)는 지문의 논지와 정반대이며, (d)는 해마가 핵심 역할을 한다는 세부 내용과 어긋난다."
+  },
+  {
+   "part": "reading",
+   "passage": "Proponents of ocean iron fertilization argue that seeding nutrient-poor waters with iron could trigger vast phytoplankton blooms that draw carbon dioxide out of the atmosphere. Small-scale trials, however, have yielded sobering results. Much of the carbon captured by the blooms is released back into the water as the organisms decompose, and the artificial influx of nutrients can distort marine food webs in ways scientists cannot yet predict. Until such uncertainties are resolved, most oceanographers contend that the technique should be regarded as ______.",
+   "stem": "Choose the option that best completes the passage.",
+   "choices": [
+    "a promising substitute for cutting fossil fuel emissions",
+    "an experimental gamble rather than a proven remedy",
+    "an ecological threat no different from an oil spill",
+    "a strategy best deployed immediately on a global scale"
+   ],
+   "answer": 1,
+   "explanation": "철분 살포로 식물플랑크톤 번성을 유도해 이산화탄소를 흡수하자는 제안이지만, 소규모 실험 결과 포집된 탄소 상당량이 분해 과정에서 재방출되고 먹이그물 교란도 예측 불가라는 내용이다. '불확실성이 해소될 때까지'라는 단서에 따라 '검증된 해법이 아닌 실험적 도박'으로 보아야 한다는 (b)가 정답이다. (a)는 배출 감축의 대체재로 격상시켜 지문의 신중론과 반대이고, (c)는 기름 유출과 동일시하는 과장으로 근거가 없으며, (d)의 즉각적 대규모 시행은 지문의 결론과 정면으로 배치된다."
+  },
+  {
+   "part": "reading",
+   "passage": "Large language models can now draft legal briefs, summarize medical literature, and write functional computer code. Yet their fluency conceals a fundamental limitation: they generate text by predicting statistically likely word sequences, not by consulting an internal model of truth. As a result, they can produce confident, polished prose that is factually baseless — a failure mode researchers call hallucination. This is why many experts insist that, at least in high-stakes domains, machine-generated output must ______.",
+   "stem": "Choose the option that best completes the passage.",
+   "choices": [
+    "replace human experts in fields where speed is critical",
+    "be produced only by the largest available models",
+    "be verified against reliable sources by human reviewers",
+    "be restricted to tasks involving creative writing"
+   ],
+   "answer": 2,
+   "explanation": "대형 언어모델은 진리 모델이 아니라 통계적으로 그럴듯한 단어 배열을 예측할 뿐이어서, 유창하지만 사실무근인 텍스트(환각)를 만들 수 있다는 내용이다. 따라서 고위험 분야에서는 기계 산출물을 '인간 검토자가 신뢰할 수 있는 출처와 대조해 검증해야 한다'는 (c)가 논리적 귀결이다. (a)는 인간 대체를 주장해 지문의 경고와 반대이고, (b)는 모델 크기가 환각을 해결한다는 언급이 없어 근거 부족이며, (d)는 창작 전용으로 제한하자는 극단론으로 지문의 결론보다 지나치게 나간 진술이다."
+  },
+  {
+   "part": "reading",
+   "passage": "When Alfred Wegener proposed in 1912 that the continents drift across the Earth's surface, the geological establishment dismissed him outright. His critics were not simply being stubborn: Wegener could point to the neat fit of coastlines and the matching distribution of fossils, but he could not identify any physical force capable of pushing continents through solid ocean floor. Only in the 1960s, when evidence of seafloor spreading supplied the missing mechanism, did his theory finally win acceptance. The episode illustrates that in science, ______.",
+   "stem": "Choose the option that best completes the passage.",
+   "choices": [
+    "established researchers reject unfamiliar ideas chiefly out of professional rivalry",
+    "theories win acceptance as soon as supporting data begin to emerge",
+    "a theory's fate depends primarily on its author's personal reputation",
+    "evidence of a pattern rarely convinces without a mechanism to explain it"
+   ],
+   "answer": 3,
+   "explanation": "베게너는 해안선의 일치와 화석 분포라는 정황 증거를 제시했지만 대륙을 움직이는 물리적 힘을 설명하지 못해 배척당했고, 1960년대 해저확장설이 그 메커니즘을 제공하자 비로소 이론이 수용되었다는 내용이다. 따라서 '패턴의 증거만으로는 그것을 설명할 메커니즘 없이는 설득이 어렵다'는 (d)가 결론으로 적절하다. (a)는 지문이 '비판자들이 단순히 고집을 부린 게 아니었다'고 명시해 배제되고, (b)는 증거가 있어도 수십 년간 거부된 사례와 모순되며, (c)의 저자 평판은 지문에서 다뤄지지 않았다."
+  },
+  {
+   "part": "reading",
+   "passage": "Nutrition science is plagued by a methodological weakness: most of its findings come from observational studies in which participants self-report what they eat. Such reports are notoriously unreliable — people forget snacks, underestimate portions, and overstate their consumption of healthy foods. Moreover, dietary habits are entangled with income, education, and exercise, making it difficult to isolate the effect of any single food. This helps explain why headlines about a given food's benefits seem to reverse every few years. Readers would therefore do well to treat any single dietary study not as a verdict but as one tentative data point.",
+   "stem": "What is the main idea of the passage?",
+   "choices": [
+    "Self-reported dietary data should be barred from academic journals.",
+    "The media deliberately misrepresent the findings of nutrition research.",
+    "Socioeconomic status influences health far more than diet does.",
+    "Findings in nutrition science warrant caution because the field's methods have inherent limitations."
+   ],
+   "answer": 3,
+   "explanation": "영양학은 자기보고식 관찰연구에 의존하는데 이 보고는 부정확하고, 식습관이 소득·교육·운동과 얽혀 있어 개별 식품의 효과를 분리하기 어렵다는 방법론적 한계를 지적한 뒤, 개별 연구를 '판결'이 아닌 '잠정적 데이터 포인트'로 보라고 권고하는 글이다. 이를 종합한 (d)가 주제로 적절하다. (a)는 자기보고 데이터의 '금지'까지 주장하지 않았으므로 과장이고, (b)는 언론의 의도적 왜곡이 아니라 연구 자체의 한계가 원인이라 했으며, (c)는 교란 변수로 언급됐을 뿐 상대적 중요성을 비교한 바 없다."
+  },
+  {
+   "part": "reading",
+   "passage": "Cities are consistently several degrees warmer than the countryside around them, a phenomenon known as the urban heat island effect. Asphalt and concrete absorb solar radiation by day and release it slowly at night, while waste heat from vehicles and air conditioners compounds the problem. Planting trees is among the cheapest countermeasures: a mature canopy lowers surrounding air temperatures through shade and the evaporative cooling of transpiration. Modeling studies suggest that raising urban tree cover to thirty percent could offset a substantial share of projected heat-related deaths. For city planners confronting ever-hotter summers, greenery is thus less an ornament than a form of infrastructure.",
+   "stem": "What is the best title for the passage?",
+   "choices": [
+    "Trees as Cooling Infrastructure for Overheating Cities",
+    "The Hidden Costs of Urban Tree-Planting Campaigns",
+    "Why Rural Areas Are Warming Faster Than Cities",
+    "Air Conditioning: The Ultimate Answer to Urban Heat"
+   ],
+   "answer": 0,
+   "explanation": "도시 열섬 현상의 원인을 설명한 뒤, 나무 심기가 그늘과 증산 냉각으로 기온을 낮추는 가장 저렴한 대책이며 도시 수목은 '장식이 아니라 인프라'라고 결론짓는 글이다. 이 핵심을 담은 (a)가 제목으로 가장 적절하다. (b)는 지문에 없는 '숨은 비용'을 내세워 논지와 반대 방향이고, (c)는 도시가 농촌보다 덥다는 지문 내용과 정반대이며, (d)의 에어컨은 오히려 폐열로 문제를 악화시키는 요인으로 언급되었다."
+  },
+  {
+   "part": "reading",
+   "passage": "During the COVID-19 pandemic, scientists began posting manuscripts to public preprint servers months before formal peer review could be completed. The practice undeniably accelerated research: crucial findings about transmission and treatment circulated in days rather than the better part of a year. But speed came at a price. Several widely publicized preprints containing serious methodological flaws shaped public behavior and even government policy before they were debunked. The lesson is not that preprints should be abandoned — their benefits are too great — but that journalists, policymakers, and the public need better tools for judging the provisional nature of unreviewed science.",
+   "stem": "What is the writer's main point about preprints?",
+   "choices": [
+    "Preprint servers should be suspended until peer review can be made faster.",
+    "Peer review has proven useless during public health emergencies.",
+    "Preprints are worth keeping, but their unvetted status demands more discerning readers.",
+    "Governments should never base policy on scientific findings."
+   ],
+   "answer": 2,
+   "explanation": "팬데믹 시기 프리프린트는 연구 유통을 극적으로 앞당겼지만, 결함 있는 논문이 검증 전에 대중 행동과 정책까지 좌우한 대가가 있었다는 내용이다. 글쓴이는 '프리프린트를 버리자는 게 아니라, 미검증 과학의 잠정성을 판별할 더 나은 도구가 필요하다'고 결론지으므로 (c)가 정답이다. (a)는 지문이 명시적으로 부정한 입장(abandoned가 아니라고 함)이고, (b)는 동료 심사가 느리다고 했을 뿐 무용하다고 하지 않았으며, (d)는 과학 기반 정책 자체를 부정하는 극단론으로 지문의 취지와 다르다."
+  },
+  {
+   "part": "reading",
+   "passage": "Antibiotic resistance is often portrayed as a problem of hospitals, yet agriculture accounts for roughly seventy percent of antibiotic use in many countries. Livestock producers routinely administer low doses of the drugs not to treat illness but to promote growth and preempt infection in crowded conditions. These sub-therapeutic doses are ideal for breeding resistance: they kill off susceptible bacteria while allowing hardier strains to multiply. Resistant microbes then reach humans through undercooked meat, farm runoff, and direct contact with animals. The European Union banned growth-promoting antibiotic use in 2006, but the practice remains legal in much of the world.",
+   "stem": "Which of the following is correct according to the passage?",
+   "choices": [
+    "Hospitals are responsible for most antibiotic consumption in many countries.",
+    "Sub-therapeutic antibiotic doses in livestock favor the survival of resistant bacteria.",
+    "The European Union still permits antibiotics to be used for growth promotion.",
+    "Resistant bacteria cannot be transmitted to humans through food."
+   ],
+   "answer": 1,
+   "explanation": "항생제 내성은 병원 문제로 알려져 있지만 실제로는 농업이 사용량의 약 70%를 차지하며, 가축에게 투여되는 치료 이하 저용량이 민감한 균만 죽이고 내성균의 증식을 돕는다는 내용이다. 이 세부 내용과 일치하는 (b)가 정답이다. (a)는 병원이 아니라 농업이 대부분을 차지한다는 첫 문장과 모순되고, (c)는 EU가 2006년에 성장촉진용 사용을 금지했다는 내용과 반대이며, (d)는 덜 익힌 고기 등 식품 경로로 인간에게 전파된다는 서술과 정면으로 어긋난다."
+  },
+  {
+   "part": "reading",
+   "passage": "Economists have long debated whether automation destroys jobs on balance or merely transforms them. The historical record offers some comfort: the mechanization of agriculture displaced millions of farm workers, yet later generations found employment in factories and offices that had scarcely existed before. What the aggregate statistics obscure, however, is the fate of the displaced individuals themselves, many of whom never regained their former earnings. New industries tend to hire the young and the newly trained, not those whose skills have been rendered obsolete. If artificial intelligence follows the same pattern, its costs will fall on a specific generation of workers even if the economy as a whole eventually adapts.",
+   "stem": "What can be inferred from the passage?",
+   "choices": [
+    "Artificial intelligence will eliminate fewer jobs than farm mechanization did.",
+    "Displaced workers generally recover their previous earnings in new industries.",
+    "Economy-wide adaptation can conceal lasting harm to a particular generation of workers.",
+    "The mechanization of agriculture permanently reduced total employment."
+   ],
+   "answer": 2,
+   "explanation": "농업 기계화 이후 경제 전체로는 새 일자리가 생겨났지만, 총계 통계에 가려진 실직 당사자들은 이전 소득을 회복하지 못했고 신산업은 젊고 새로 훈련받은 인력을 선호했다는 내용이다. AI도 같은 패턴이라면 경제 전체의 적응 이면에서 특정 세대가 비용을 떠안는다는 (c)를 추론할 수 있다. (a)는 일자리 감소 규모 비교가 지문에 없고, (b)는 '이전 소득을 결코 회복하지 못한 이가 많았다'는 서술과 반대이며, (d)는 후속 세대가 공장과 사무실에 고용됐다는 내용과 모순된다."
+  },
+  {
+   "part": "reading",
+   "passage": "Arctic permafrost holds an estimated 1,500 billion tons of organic carbon — roughly twice the amount currently in the atmosphere. As the frozen ground thaws, microbes begin decomposing this ancient plant matter, releasing carbon dioxide and methane. The process is self-reinforcing: the released gases accelerate warming, which in turn thaws more permafrost. Crucially, most of the climate models used to set international emissions targets either treat permafrost carbon in a simplified way or omit the feedback altogether. Some researchers therefore argue that existing carbon budgets are more generous than the physics warrants.",
+   "stem": "What can be inferred from the passage?",
+   "choices": [
+    "Emissions cuts needed to meet climate goals may be larger than current models suggest.",
+    "Thawing permafrost absorbs more carbon than it releases.",
+    "The permafrost feedback is fully incorporated into the models used for setting targets.",
+    "The atmosphere currently contains twice as much carbon as the permafrost does."
+   ],
+   "answer": 0,
+   "explanation": "영구동토에는 대기의 약 두 배에 달하는 탄소가 저장되어 있고 해빙-온난화의 자기강화 피드백이 존재하는데, 국제 감축 목표 설정에 쓰이는 대부분의 기후 모델이 이를 단순화하거나 아예 누락한다는 내용이다. 그래서 기존 탄소 예산이 '물리학이 허용하는 것보다 후하다'면, 실제 필요한 감축량은 현 모델의 제시치보다 크다는 (a)를 추론할 수 있다. (b)는 동토가 탄소를 방출한다는 서술과 반대이고, (c)는 피드백이 누락됐다는 지문 내용과 모순되며, (d)는 두 배 관계를 거꾸로 뒤집은 진술이다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: The central bank's decision to raise rates again caught everyone off guard.\nB: I know. Markets had been ______ a pause, so the announcement triggered a sharp sell-off.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "pricing in",
+    "writing off",
+    "ironing out",
+    "drumming up"
+   ],
+   "answer": 0,
+   "explanation": "대화 요지: 중앙은행의 추가 금리 인상이 모두의 허를 찔렀고, 시장은 이미 '(인상) 중단'을 가격에 반영해 두었기에 발표 후 급락했다는 내용. 'price in'은 '(시장이) 미래 이벤트를 자산 가격에 미리 반영하다'라는 금융 콜로케이션으로 정답. (b) write off는 '실패로 간주하다, 대손 처리하다', (c) iron out은 '(문제·이견을) 해결하다', (d) drum up은 '(지지·수요를) 끌어모으다'로 모두 '시장이 어떤 전망을 반영하다'라는 문맥에 맞지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: Did you see that the senator finally addressed the corruption allegations?\nB: I did, but his statement was so ______ that no one could tell whether he was actually denying them.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "forthright",
+    "categorical",
+    "equivocal",
+    "indignant"
+   ],
+   "answer": 2,
+   "explanation": "대화 요지: 상원의원이 부패 의혹에 입장을 냈지만, 부인인지 아닌지조차 알 수 없을 만큼 발언이 모호했다는 내용. 따라서 '모호한, 애매한'을 뜻하는 equivocal이 정답. (a) forthright(솔직 담백한)과 (b) categorical(단정적인)은 오히려 뜻이 반대여서 '알 수 없었다'는 뒷내용과 모순되고, (d) indignant(분개한)는 감정 상태를 나타내어 발언의 명료성 여부와 무관하다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: The critics are raving about the new exhibition at the national museum.\nB: Deservedly so. It completely ______ conventional notions of what folk art can be.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "placates",
+    "subverts",
+    "rescinds",
+    "convenes"
+   ],
+   "answer": 1,
+   "explanation": "대화 요지: 평단의 호평을 받는 전시가 민속 예술에 대한 통념을 완전히 뒤집는다는 내용. subvert(전복하다, 뒤엎다)가 'conventional notions(통념)'와 자연스럽게 어울려 정답. (a) placate는 '(화난 사람을) 달래다', (c) rescind는 '(법령·계약을) 철회·폐지하다'로 공식 문서에 쓰는 어휘, (d) convene은 '(회의를) 소집하다'로 모두 목적어 '통념'과 결합할 수 없다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: The two countries are trading barbs over the disputed islands again.\nB: Right, and every incident like this only ______ tensions that were already running high.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "alleviates",
+    "condones",
+    "permeates",
+    "exacerbates"
+   ],
+   "answer": 3,
+   "explanation": "대화 요지: 영유권 분쟁 중인 두 나라 사이에 사건이 벌어질 때마다 이미 고조된 긴장이 더 악화된다는 내용. exacerbate(악화시키다)가 tensions와의 콜로케이션으로 정답. (a) alleviate(완화하다)는 정반대 의미, (b) condone(묵인하다)은 잘못·행위를 목적어로 취하므로 부적절, (c) permeate(스며들다, 퍼지다)는 '긴장을 더 심화시킨다'는 논리와 맞지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "A: I can't believe how much the dealership charged me just to replace a sensor.\nB: They know you have few alternatives, so they get away with charging ______ prices.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "exorbitant",
+    "negligible",
+    "frugal",
+    "lucrative"
+   ],
+   "answer": 0,
+   "explanation": "대화 요지: 선택지가 별로 없는 소비자를 상대로 판매점이 터무니없는 수리비를 받는다는 불만. exorbitant(터무니없이 비싼)가 prices와 결합하는 전형적 콜로케이션으로 정답. (b) negligible(무시할 만한)은 정반대, (c) frugal(검소한)은 사람·생활 방식을 수식하는 형용사, (d) lucrative(수익성 좋은)는 사업·거래를 수식하는 말로 prices를 직접 수식하면 어색한 매력적 오답이다."
+  },
+  {
+   "part": "vocab",
+   "passage": "Despite a century of excavation and scholarship, the sudden collapse of the Bronze Age civilizations remains a ______ that continues to divide historians.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "platitude",
+    "conundrum",
+    "corollary",
+    "consensus"
+   ],
+   "answer": 1,
+   "explanation": "문장 요지: 한 세기에 걸친 발굴과 연구에도 청동기 문명의 갑작스러운 붕괴 원인은 여전히 역사가들의 견해를 갈라놓는 난제라는 내용. conundrum(난제, 수수께끼)이 'divide historians(역사가들을 분열시키다)'와 논리적으로 부합하여 정답. (a) platitude(상투적인 말), (c) corollary(필연적 결과)는 문맥과 무관하고, (d) consensus(합의)는 학자들이 분열되어 있다는 뒷내용과 정면으로 모순된다."
+  },
+  {
+   "part": "vocab",
+   "passage": "The prime minister moved swiftly to ______ rumors that she intended to dissolve parliament, dismissing them as entirely groundless.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "foment",
+    "corroborate",
+    "quash",
+    "insinuate"
+   ],
+   "answer": 2,
+   "explanation": "문장 요지: 총리가 의회 해산설을 전혀 근거 없다고 일축하며 신속히 잠재우려 했다는 내용. quash(소문·반란 등을 진압하다, 일축하다)가 rumors와 결합하는 고급 콜로케이션으로 정답. (a) foment(조장하다)와 (b) corroborate(확증하다)는 소문을 부인했다는 뒷내용과 반대 방향이고, (d) insinuate(넌지시 암시하다)는 소문을 없애는 행위가 아니므로 오답."
+  },
+  {
+   "part": "vocab",
+   "passage": "Once dismissed as a novelty, mobile payment systems have become so ______ in many Asian cities that some vendors no longer accept cash at all.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "obsolete",
+    "clandestine",
+    "rudimentary",
+    "ubiquitous"
+   ],
+   "answer": 3,
+   "explanation": "문장 요지: 한때 신기한 물건 취급을 받던 모바일 결제가 아시아 도시들에서 워낙 널리 퍼져 현금을 아예 받지 않는 상인도 있다는 내용. ubiquitous(어디에나 있는, 편재하는)가 'so ~ that 현금을 안 받는다'는 결과와 논리적으로 이어져 정답. (a) obsolete(구식이 된)는 오히려 현금에 어울리는 말이고, (b) clandestine(은밀한), (c) rudimentary(초보적인)는 보편적 확산이라는 문맥과 맞지 않는다."
+  },
+  {
+   "part": "vocab",
+   "passage": "Critics charged that the legislation would end up ______ the very inequalities it purported to eliminate, since its tax breaks flowed disproportionately to the wealthy.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "perpetuating",
+    "redressing",
+    "forfeiting",
+    "curtailing"
+   ],
+   "answer": 0,
+   "explanation": "문장 요지: 감세 혜택이 부유층에 쏠리기 때문에 그 법안이 없애겠다던 불평등을 오히려 영속화할 것이라는 비판. perpetuate(영속화하다)가 'the very inequalities it purported to eliminate(없애겠다고 표방한 바로 그 불평등)'라는 역설적 문맥에 부합하여 정답. (b) redress(시정하다)와 (d) curtail(축소하다)은 비판이 아니라 법안의 취지에 해당하는 반대 방향이고, (c) forfeit(몰수당하다, 상실하다)는 불평등을 목적어로 취할 수 없다."
+  },
+  {
+   "part": "vocab",
+   "passage": "Under the terms of the armistice, the defeated empire was compelled to formally ______ all claims to its overseas territories.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "annex",
+    "renounce",
+    "covet",
+    "uphold"
+   ],
+   "answer": 1,
+   "explanation": "문장 요지: 휴전 조약에 따라 패전국이 해외 영토에 대한 모든 권리를 공식적으로 포기해야 했다는 내용. renounce(권리·주장을 공식적으로 포기하다)가 claims와 결합하는 전형적 콜로케이션으로 정답. (a) annex(병합하다)는 패전국이 오히려 영토를 얻는다는 뜻이 되어 모순이고, (c) covet(탐내다)는 공식 조약 행위가 아니며, (d) uphold(유지·옹호하다)는 포기와 정반대 의미다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: How was the lecture on the financial crisis?\nB: Fascinating. Rarely ______ such a complex topic explained so clearly.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "I have heard",
+    "I heard",
+    "did I heard",
+    "have I heard"
+   ],
+   "answer": 3,
+   "explanation": "대화 요지: 금융 위기 강연이 훌륭했고, 그렇게 복잡한 주제가 명쾌하게 설명되는 것을 좀처럼 들어 본 적이 없다는 감탄. Rarely 같은 부정·준부정 부사가 문두에 오면 주어와 조동사가 도치되어야 하므로 현재완료 도치형 'have I heard'가 정답. (a), (b)는 도치가 일어나지 않아 오답이고, (c)는 did 뒤에 동사원형 hear가 와야 하는데 과거형 heard를 써서 형태상 오류다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: The company went bankrupt just two years after its IPO.\nB: If management had heeded the auditors' warnings, it ______ in business today.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "would still be",
+    "would still have been",
+    "will still be",
+    "had still been"
+   ],
+   "answer": 0,
+   "explanation": "대화 요지: 경영진이 감사인의 경고를 새겨들었다면 회사가 지금도 살아 있었을 것이라는 아쉬움. 조건절은 과거 사실의 반대(had heeded)인데 주절에는 today가 있어 '현재'의 결과를 말하는 혼합 가정법이므로 'would still be'가 정답. (b) would still have been은 과거 결과를 나타내어 today와 충돌하고, (c) will은 직설법이라 가정법 문맥에 맞지 않으며, (d) had been은 조건절에 쓰는 형태다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: What did the opposition say about the budget proposal?\nB: They demanded that the finance minister ______ before the committee to justify the figures.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "appears",
+    "appeared",
+    "appear",
+    "will appear"
+   ],
+   "answer": 2,
+   "explanation": "대화 요지: 야당이 재무장관에게 위원회에 출석해 수치를 해명하라고 요구했다는 내용. demand, insist, require 등 요구·주장 동사 뒤의 that절에는 '(should) + 동사원형'을 쓰는 가정법 현재가 오므로 원형 appear가 정답. (a) appears는 3인칭 단수 직설법, (b) appeared는 과거형, (d) will appear는 미래 직설법으로 모두 이 구문에서는 쓸 수 없다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: I've never understood why housing prices keep climbing despite falling demand.\nB: ______. It seems to defy basic economics.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "Neither have I",
+    "So have I",
+    "Neither I have",
+    "So I haven't"
+   ],
+   "answer": 0,
+   "explanation": "대화 요지: A가 수요 감소에도 집값이 오르는 이유를 도무지 이해한 적이 없다고 하자 B가 '나도 그렇다(나도 이해 못 한다)'고 동의하는 상황. 앞 문장이 현재완료 부정(I've never understood)이므로 부정 동의는 'Neither + 조동사 + 주어' 도치 형태인 'Neither have I'가 정답. (b) So have I는 긍정문에 대한 동의 표현이고, (c)는 도치가 빠진 어순 오류, (d)는 성립하지 않는 비문이다."
+  },
+  {
+   "part": "grammar",
+   "passage": "A: Do you think the strike will end soon?\nB: Hard to say. The union is still at odds ______ management over pension reform.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "to",
+    "against",
+    "with",
+    "for"
+   ],
+   "answer": 2,
+   "explanation": "대화 요지: 파업이 곧 끝날지 묻자, 노조가 연금 개혁을 두고 사측과 여전히 대립 중이라 알 수 없다는 답. 'be at odds with ~'(~와 대립하다, 불화하다)는 전치사 with가 고정된 관용 표현이므로 (c)가 정답. (b) against는 '대립'이라는 의미 때문에 고르기 쉬운 매력적 오답이지만 이 관용구에서는 쓰이지 않으며, (a) to와 (d) for도 성립하지 않는다."
+  },
+  {
+   "part": "grammar",
+   "passage": "______ number of studies have shown that prolonged exposure to fine dust increases the risk of respiratory disease.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "The",
+    "A",
+    "Every",
+    "Much"
+   ],
+   "answer": 1,
+   "explanation": "문장 요지: 많은 연구들이 미세먼지 장기 노출과 호흡기 질환 위험 증가의 관련성을 보여 주었다는 내용. 'a number of + 복수명사'는 '많은 ~'이라는 뜻으로 복수동사(have shown)와 호응하므로 A가 정답. (a) The number of는 '~의 수'라는 뜻으로 단수동사(has)를 취해야 하므로 동사와 어긋나는 매력적 오답이고, (c) Every는 단수명사, (d) Much는 불가산명사와만 결합한다."
+  },
+  {
+   "part": "grammar",
+   "passage": "The reforms aim to stabilize prices, restore investor confidence, and ______ the burden on small businesses.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "alleviating",
+    "alleviate",
+    "to alleviating",
+    "alleviated"
+   ],
+   "answer": 1,
+   "explanation": "문장 요지: 개혁안의 목표는 물가 안정, 투자자 신뢰 회복, 그리고 소상공인 부담 완화라는 내용. aim to 뒤에 등위접속사로 연결된 동사들은 to를 공유하며 원형으로 병치되므로(to stabilize..., restore..., and alleviate) 원형 alleviate가 정답. (a) 분사형은 앞의 원형들과 병치가 깨지고, (c) to alleviating은 'to + 동명사' 형태로 이 to부정사 병렬 구조에 올 수 없으며, (d) 과거형은 to부정사 구문에 올 수 없다."
+  },
+  {
+   "part": "grammar",
+   "passage": "______ the archive was opened to the public in 1998 that historians grasped the full extent of the surveillance program.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "Not until",
+    "Until",
+    "Only after",
+    "It was not until"
+   ],
+   "answer": 3,
+   "explanation": "문장 요지: 1998년 기록보관소가 공개되고 나서야 역사가들이 감시 프로그램의 전모를 파악했다는 내용. 뒤에 'that historians grasped...'가 있으므로 'It was not until A that B'(A가 되어서야 비로소 B했다) 강조구문이 정답. (a) Not until이나 (c) Only after를 문두에 쓰려면 주절에 도치(did historians grasp)가 일어나야 하는데 본문은 that절 구조이므로 오답이고, (b) Until만으로는 that절과 연결될 수 없다."
+  },
+  {
+   "part": "grammar",
+   "passage": "With inflation ______ at its fastest pace in four decades, the central bank has little room to cut rates.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "risen",
+    "rising",
+    "rises",
+    "to rise"
+   ],
+   "answer": 1,
+   "explanation": "문장 요지: 물가가 40년 만에 가장 빠른 속도로 오르고 있어 중앙은행이 금리를 내릴 여지가 거의 없다는 내용. 'with + 명사 + 분사'의 부대상황 구문에서 inflation이 스스로 오르는 능동·진행 관계이므로 현재분사 rising이 정답. (a) risen은 과거분사로 수동 관계에 쓰여 부적절하고, (c) rises는 정동사라 이 구문에 올 수 없으며, (d) to rise는 '앞으로 오를 예정'이라는 의미가 되어 문맥과 어긋난다."
+  },
+  {
+   "part": "grammar",
+   "passage": "______ distinguishes the current downturn from previous recessions is the resilience of the labor market.",
+   "stem": "빈칸에 가장 적절한 것을 고르시오.",
+   "choices": [
+    "That",
+    "Which",
+    "It",
+    "What"
+   ],
+   "answer": 3,
+   "explanation": "문장 요지: 이번 경기 침체가 과거의 침체들과 구별되는 점은 노동시장의 회복력이라는 내용. 선행사를 포함한 관계대명사 What(= the thing that)이 주어 역할의 명사절을 이끌어 'What distinguishes A from B is C' 구조를 만들므로 정답. (a) That이 이끄는 명사절은 완전한 절이어야 하는데 distinguishes의 주어가 비어 있어 비문이고, (b) Which는 선행사가 없어 쓸 수 없으며, (c) It은 뒤의 is와 겹쳐 문장이 성립하지 않는다."
+  },
+  {
+   "part": "reading",
+   "passage": "Proponents of universal basic income frequently cite pilot programs in Finland and Kenya as proof that unconditional cash transfers do not discourage work. Yet these trials share a critical limitation: participants knew the payments were both temporary and confined to a small group. A worker who receives a two-year stipend has every reason to remain employed, since the income will soon vanish; a permanent nationwide entitlement might elicit very different behavior. Moreover, small pilots cannot reveal how universal payments would affect wages, prices, or tax burdens across an entire economy. Any attempt to generalize from these experiments to national policy is therefore ______.",
+   "stem": "Read the passage and choose the option that best completes it.",
+   "choices": [
+    "fraught with methodological hazards",
+    "supported by an emerging scholarly consensus",
+    "the most reliable guide available to policymakers",
+    "unnecessary given the programs' evident success"
+   ],
+   "answer": 0,
+   "explanation": "지문 요지: 기본소득 시범사업은 '일시적·소규모'라는 결정적 한계 때문에 참가자의 행동이 전국적 영구 제도에서와 다를 수 있고, 임금·물가·조세 등 경제 전체에 미칠 효과도 보여 주지 못한다는 비판적 논증. 따라서 결론 문장은 '이 실험들을 국가 정책으로 일반화하려는 시도는 방법론적 위험으로 가득하다'가 되어야 한다. (b)는 지문에 학계 합의 언급이 없고 논지와 반대이며, (c)는 시범사업의 신뢰성을 부정하는 지문 흐름과 모순, (d)는 '성공이 자명하다'는 전제 자체를 지문이 반박하고 있으므로 오답이다."
+  },
+  {
+   "part": "reading",
+   "passage": "Historians have long debated whether the printing press caused the Protestant Reformation or merely accelerated it. Luther's theses spread across Europe within weeks, a pace unthinkable in the age of hand-copied manuscripts, and reformers consciously exploited the new medium with cheap vernacular pamphlets. Yet dissenting movements such as the Hussites had already shaken the Church a century before Gutenberg, without any mechanical aid. The press, moreover, served Catholic authorities just as readily, churning out indulgences and counter-reformation tracts. The technology is thus best understood not as the spark of religious upheaval but as ______.",
+   "stem": "Read the passage and choose the option that best completes it.",
+   "choices": [
+    "an obstacle that both sides struggled to overcome",
+    "a neutral instrument that historians can safely ignore",
+    "an amplifier that magnified forces already in motion",
+    "the sole cause of the Church's declining authority"
+   ],
+   "answer": 2,
+   "explanation": "지문 요지: 인쇄술은 종교개혁 사상의 확산 속도를 극적으로 높였지만, 인쇄술 이전에도 후스파 같은 저항 운동이 있었고 가톨릭 측도 인쇄술을 똑같이 활용했다. 즉 인쇄술은 격변의 '불씨(spark)'가 아니라 '이미 진행 중이던 힘을 증폭한 장치'로 보아야 한다는 결론이 논리적이다. (a) 인쇄술을 장애물로 본 내용은 없고, (b) 역사가가 무시해도 된다는 주장도 없으며, (d) '유일한 원인'은 'not as the spark'라는 문장 구조 및 지문 전체 논지와 정면으로 모순된다."
+  },
+  {
+   "part": "reading",
+   "passage": "It is widely assumed that social media algorithms drive political polarization by trapping users in echo chambers. Recent large-scale studies, however, complicate this narrative. When researchers replaced algorithmic feeds with chronological ones for tens of thousands of users, exposure to like-minded content fell, but political attitudes did not measurably moderate. Other work suggests that the most polarized citizens are often those who use social media least, such as older adults who rely on partisan television. These findings do not exonerate the platforms entirely, but they do indicate that ______.",
+   "stem": "Read the passage and choose the option that best completes it.",
+   "choices": [
+    "polarization would disappear if algorithms were abolished",
+    "the roots of political division extend well beyond algorithmic curation",
+    "chronological feeds are more polarizing than algorithmic ones",
+    "older adults are immune to media-driven polarization"
+   ],
+   "answer": 1,
+   "explanation": "지문 요지: 알고리즘 피드를 시간순 피드로 바꿔도 정치적 태도가 완화되지 않았고, 가장 양극화된 시민은 오히려 SNS를 가장 적게 쓰는 노년층이라는 연구 결과들이 '알고리즘 = 양극화의 주범'이라는 통념을 흔든다. 따라서 '정치적 분열의 뿌리는 알고리즘 큐레이션 너머에 있다'가 결론으로 적절하다. (a)는 지문이 반박하는 통념을 오히려 강화한 진술이고, (c)는 실험 결과에 대한 왜곡이며, (d)는 노년층이 당파적 TV로 인해 가장 양극화되었다는 내용과 정반대다."
+  },
+  {
+   "part": "reading",
+   "passage": "Calls to repatriate cultural artifacts have grown louder as former colonies demand the return of treasures taken under duress. European museums have traditionally countered that they are 'universal' institutions preserving objects for all humanity, and that many items would have perished had they remained in situ. That defense, however, has begun to ring hollow: modern conservation expertise is no longer a Western monopoly, and digital technology allows objects to be studied remotely. What ultimately sustains the retentionist position, critics argue, is not stewardship but ______.",
+   "stem": "Read the passage and choose the option that best completes it.",
+   "choices": [
+    "a reluctance to relinquish the prestige that famous collections confer",
+    "a sincere belief that source countries have no interest in their own heritage",
+    "the prohibitive cost of transporting fragile antiquities",
+    "binding international laws that forbid restitution"
+   ],
+   "answer": 0,
+   "explanation": "지문 요지: 유럽 박물관들이 내세우던 '인류를 위한 보존' 논리는 보존 기술이 더 이상 서구의 전유물이 아니고 원격 연구도 가능해지면서 설득력을 잃었다. 따라서 비판자들이 보기에 반환 거부를 지탱하는 것은 '관리 책임(stewardship)'이 아니라 '유명 소장품이 주는 위신을 놓지 않으려는 태도'라는 완성이 논리적이다. (b)는 지문에 없는 극단적 주장이고, (c) 운송 비용은 언급조차 없으며, (d)는 오히려 반환을 금지하는 국제법이 있다는 근거가 지문에 전혀 없다."
+  },
+  {
+   "part": "reading",
+   "passage": "The gig economy is often celebrated for the flexibility it affords workers, who can ostensibly choose when, where, and how much to work. In practice, however, that freedom is heavily circumscribed. Ride-hailing drivers must log on during peak hours to earn a living wage, and couriers who decline orders see their ratings—and thus their access to future work—suffer. Algorithmic management, meanwhile, monitors performance with a granularity no human supervisor could match. For many gig workers, the promise of autonomy has yielded a regime of surveillance and precarity that traditional employment, for all its rigidity, rarely imposed.",
+   "stem": "What is the main idea of the passage?",
+   "choices": [
+    "Gig work offers greater autonomy than traditional employment ever did",
+    "The gig economy's celebrated flexibility masks new forms of control and insecurity",
+    "Ride-hailing drivers earn substantially more than delivery couriers",
+    "Algorithmic management has made human supervisors obsolete"
+   ],
+   "answer": 1,
+   "explanation": "지문 요지: 긱 이코노미는 '유연성'으로 칭송받지만 실제로는 생계를 위해 피크 시간에 일해야 하고, 주문 거절 시 평점 불이익을 받으며, 알고리즘의 정밀한 감시까지 받는 등 자율성의 약속이 감시와 불안정으로 귀결되었다는 비판. 따라서 '유연성이라는 수사가 새로운 형태의 통제와 불안정을 가린다'가 주제로 적절하다. (a)는 지문 논지와 정반대이고, (c)는 지문에 없는 비교이며, (d)는 알고리즘 관리가 언급되긴 하나 지문의 중심 논지가 아니라 세부 근거에 불과하다."
+  },
+  {
+   "part": "reading",
+   "passage": "When coffeehouses first appeared in seventeenth-century London, they were derided as dens of idleness, and Charles II even attempted to suppress them as breeding grounds of sedition. Yet these establishments quickly became engines of intellectual and commercial life. For the price of a cup of coffee, patrons of any rank could read newspapers, debate politics, and strike business deals; Lloyd's of London, the great insurance market, famously began in a coffeehouse. Historians have gone so far as to credit these 'penny universities' with incubating the public sphere on which modern democratic discourse depends. What the crown feared as subversion proved to be a seedbed of civil society.",
+   "stem": "Which of the following is the best title for the passage?",
+   "choices": [
+    "Charles II: A Monarch Ahead of His Time",
+    "Why Coffee Consumption Declined in England",
+    "From Suspected Sedition to Civil Society: The Rise of the Coffeehouse",
+    "The Economics of the Seventeenth-Century Beverage Trade"
+   ],
+   "answer": 2,
+   "explanation": "지문 요지: 17세기 런던의 커피하우스는 처음엔 '선동의 온상'으로 의심받아 탄압 시도까지 있었지만, 신분에 상관없이 토론과 상거래가 이루어지는 공간이 되어 로이즈 보험시장을 낳고 근대 민주적 공론장의 못자리가 되었다는 내용. '의심받던 선동의 소굴에서 시민사회의 토대로'라는 (c)가 지문의 반전 구조를 정확히 담은 제목이다. (a)는 찰스 2세가 오히려 탄압한 인물이므로 부적절하고, (b) 커피 소비 감소나 (d) 음료 무역의 경제학은 지문에서 다루지 않는다."
+  },
+  {
+   "part": "reading",
+   "passage": "Debates over pension reform tend to fixate on raising the retirement age, but this blunt instrument ignores stark disparities in how people age. A manual laborer who began work at eighteen may be physically depleted by sixty, while an office professional of the same age might comfortably work another decade. Uniform retirement thresholds thus force some into premature hardship while subsidizing others who need no support. Several European countries have begun experimenting with occupation-adjusted schemes that index pension eligibility to years of physically demanding labor. Such differentiated approaches, though administratively complex, better reflect the uneven realities of working life.",
+   "stem": "What is the main topic of the passage?",
+   "choices": [
+    "The case for tailoring retirement ages to differing occupational demands",
+    "The imminent financial collapse of European pension systems",
+    "Why office workers deserve earlier retirement than manual laborers",
+    "The administrative simplicity of occupation-adjusted pension schemes"
+   ],
+   "answer": 0,
+   "explanation": "지문 요지: 정년 일괄 상향은 직업에 따라 노화·소모의 정도가 크게 다르다는 현실을 무시하는 무딘 수단이며, 육체노동 연수에 연동해 수급 연령을 차등화하는 유럽식 실험이 노동 현실을 더 잘 반영한다는 주장. 따라서 '직업별 부담 차이에 맞춘 정년 차등화의 필요성'이 중심 화제다. (b) 연금 재정 파탄은 지문의 초점이 아니고, (c)는 지문 내용(육체노동자가 더 일찍 소모됨)과 반대이며, (d)는 지문이 차등 제도를 '행정적으로 복잡하다(administratively complex)'고 했으므로 사실관계가 틀렸다."
+  },
+  {
+   "part": "reading",
+   "passage": "The Hanseatic League, a confederation of merchant guilds and market towns, dominated Northern European trade from the thirteenth to the fifteenth century. At its height, the League counted nearly two hundred towns among its members and maintained trading posts stretching from London to Novgorod. It wielded power that rivaled sovereign states: it waged war against Denmark in the 1360s and won, extracting sweeping trade privileges through the Treaty of Stralsund. Yet the League had no formal constitution, no standing army, and no common treasury; its cohesion rested entirely on the shared commercial interests of its members. When Atlantic trade routes and centralized nation-states rose in the sixteenth century, that fragile unity dissolved.",
+   "stem": "Which of the following is correct about the Hanseatic League according to the passage?",
+   "choices": [
+    "It maintained a permanent professional army",
+    "It was governed by a formal written constitution",
+    "It reached the height of its power in the sixteenth century",
+    "It defeated Denmark and secured commercial privileges by treaty"
+   ],
+   "answer": 3,
+   "explanation": "지문 요지: 한자동맹은 13~15세기 북유럽 무역을 지배한 상인 길드·도시 연합으로, 1360년대 덴마크와의 전쟁에서 승리해 슈트랄준트 조약으로 광범위한 무역 특권을 얻었으나, 헌법·상비군·공동 금고 없이 상업적 이해관계로만 결속되어 있다가 16세기에 해체되었다. (d)는 'waged war against Denmark... and won, extracting... privileges through the Treaty of Stralsund'와 정확히 일치하는 정답. (a)와 (b)는 지문이 'no standing army', 'no formal constitution'이라고 명시적으로 부정했고, (c)는 16세기가 전성기가 아니라 쇠퇴·해체의 시기이므로 오답이다."
+  },
+  {
+   "part": "reading",
+   "passage": "Central banks in over a hundred countries are studying digital versions of their currencies, but enthusiasm varies tellingly with circumstance. In economies where cash use has collapsed, such as Sweden, the central bank frames a digital krona as a way to preserve public money's role against private payment monopolies. The Bahamas, by contrast, launched its 'sand dollar' chiefly to reach unbanked residents scattered across remote islands. China's digital yuan, meanwhile, is widely viewed abroad as an instrument for tightening state oversight of financial flows. The technology, in other words, is less a single innovation than a mirror reflecting each government's distinct anxieties.",
+   "stem": "What can be inferred from the passage?",
+   "choices": [
+    "Sweden plans to abolish physical cash by legal mandate",
+    "The Bahamas issued its digital currency mainly to rival China's",
+    "Countries pursue digital currencies for reasons rooted in their own domestic conditions",
+    "Digital currencies have failed in every country that has launched them"
+   ],
+   "answer": 2,
+   "explanation": "지문 요지: 스웨덴은 현금 소멸 속 공공 화폐의 역할 보전, 바하마는 외딴섬의 금융 소외층 포용, 중국은 금융 흐름에 대한 국가 감독 강화라는 서로 다른 동기로 CBDC를 추진하며, 이 기술은 '각국 정부의 고유한 불안을 비추는 거울'이라는 결론. 따라서 '각국이 자국의 국내 여건에 뿌리를 둔 이유로 디지털 화폐를 추진한다'는 추론이 타당하다. (a) 법으로 현금을 폐지한다는 언급은 없고, (b) 바하마의 동기는 중국 견제가 아니라 금융 포용이며, (d) 실패 여부는 지문에서 전혀 다루지 않는다."
+  },
+  {
+   "part": "reading",
+   "passage": "Of the roughly seven thousand languages spoken today, linguists estimate that nearly half may fall silent by the end of the century. The losses are not merely sentimental: languages encode ecological knowledge, medicinal lore, and classificatory systems accumulated over millennia, much of it recorded nowhere else. When the last fluent speaker dies, entire taxonomies of local plants and weather patterns can vanish as well. Revitalization efforts, from Maori immersion schools in New Zealand to Welsh-language broadcasting, show that decline is not irreversible—but such programs demand sustained funding and, above all, communities willing to raise children in the ancestral tongue. Documentation alone, however meticulous, preserves a language only as a museum preserves a fossil.",
+   "stem": "What can be inferred from the passage?",
+   "choices": [
+    "Most endangered languages have already been thoroughly documented",
+    "Welsh and Maori no longer face any threat of decline",
+    "Ecological knowledge reliably survives the disappearance of a language",
+    "Documentation by itself cannot keep a language alive as a spoken tongue"
+   ],
+   "answer": 3,
+   "explanation": "지문 요지: 금세기 말까지 언어의 절반가량이 사라질 수 있고, 언어에는 다른 곳에 기록되지 않은 생태·의학 지식이 담겨 있어 마지막 화자의 죽음과 함께 소멸한다. 재활성화는 가능하지만 지속적 재원과 모어로 아이를 키울 공동체가 필요하며, '기록만으로는 박물관이 화석을 보존하듯 언어를 보존할 뿐'이라는 마지막 문장에서 '기록 자체로는 언어를 살아 있는 말로 유지할 수 없다'는 (d)가 추론된다. (a)는 오히려 '다른 곳에 기록되지 않았다'는 내용과 어긋나고, (b) 웨일스어·마오리어는 재활성화 노력이 진행 중인 위기 언어의 예이며, (c)는 언어 소멸과 함께 생태 지식도 사라진다는 지문 내용과 정반대다."
+  }
+ ],
+ "listening": [
+  {
+   "kind": "response",
+   "script": "A: Have you had a chance to look over the quarterly projections I sent you?\nB: I skimmed them, but honestly, the revenue estimates struck me as wildly optimistic.\nA: Well, they're based on the assumption that the merger goes through by March.",
+   "question": "What is the best response?",
+   "choices": [
+    "Optimism is my middle name, you know.",
+    "Then I'll march right over and pick them up.",
+    "That's a big if, given the regulatory hurdles involved.",
+    "The revenue was already deposited yesterday."
+   ],
+   "answer": 2,
+   "script_ko": "A: 제가 보내 드린 분기 실적 전망을 검토해 보실 시간이 있으셨나요?\nB: 대충 훑어봤는데, 솔직히 매출 추정치가 터무니없이 낙관적이라는 인상을 받았어요.\nA: 음, 그 수치는 3월까지 합병이 성사된다는 가정에 근거한 거예요.",
+   "explanation": "마지막 말의 핵심은 전망치가 '합병 성사'라는 불확실한 가정에 기대고 있다는 것이다. 그 가정의 불확실성(big if)과 규제 장벽을 지적하는 (c)가 가장 자연스럽다. March(3월)를 행진하다(march)로 받은 (b), revenue를 그대로 쓴 (d), optimistic을 받은 (a)는 스크립트 단어만 재활용한 함정이다."
+  },
+  {
+   "kind": "response",
+   "script": "A: I can't believe they passed me over for the promotion again after all the overtime I've put in.",
+   "question": "What is the best response?",
+   "choices": [
+    "That's rough. Maybe it's time to raise it with your manager directly.",
+    "Congratulations, you've certainly earned it.",
+    "Just pass it over to me when you're done.",
+    "The overtime pay should be in your next paycheck."
+   ],
+   "answer": 0,
+   "script_ko": "A: 그렇게 야근을 했는데도 또 승진에서 누락됐다니 믿기지가 않아.",
+   "explanation": "pass over는 '(승진 등에서) 제외하다'라는 뜻이다. 상심한 상대를 위로하며 조언하는 (a)가 적절하다. (b)는 승진에 성공했다고 착각하게 만드는 함정, (c)는 pass over를 '건네주다'로 받은 함정, (d)는 overtime을 수당 문제로 바꿔치기한 함정이다."
+  },
+  {
+   "kind": "response",
+   "script": "A: The landlord's raising our rent by fifteen percent when the lease is up.\nB: Fifteen percent? That's steep. Can he even do that legally?\nA: Apparently he can, since our building isn't rent-controlled.",
+   "question": "What is the best response?",
+   "choices": [
+    "Steep stairs are good exercise, though.",
+    "I'm glad the lease covers the increase.",
+    "Then let's ask him to control the rent.",
+    "In that case, we'd better start looking for a new place."
+   ],
+   "answer": 3,
+   "script_ko": "A: 임대 계약이 끝나면 집주인이 월세를 15퍼센트 올린대.\nB: 15퍼센트? 너무 심한데. 법적으로 그래도 되는 거야?\nA: 우리 건물은 임대료 규제 대상이 아니라서 가능하다나 봐.",
+   "explanation": "인상을 법적으로 막을 수 없다는 결론이므로 이사를 알아보자는 (d)가 논리적 귀결이다. steep(가파른/비싼)의 다른 뜻을 쓴 (a), lease를 엉뚱하게 받은 (b), rent-controlled를 문자 그대로 되받은 (c)는 모두 단어 함정이다."
+  },
+  {
+   "kind": "response",
+   "script": "A: They've just announced our connecting flight to Frankfurt is grounded because of a mechanical issue.",
+   "question": "What is the best response?",
+   "choices": [
+    "Frankfurt is lovely this time of year, isn't it?",
+    "Let's get in line at the service desk before the crowd does.",
+    "I didn't know you were afraid of flying.",
+    "The ground floor is just past the escalator."
+   ],
+   "answer": 1,
+   "script_ko": "A: 프랑크푸르트행 연결편이 기체 결함으로 운항이 보류됐다고 방금 안내 방송이 나왔어.",
+   "explanation": "결항 상황에서는 다른 승객보다 먼저 서비스 데스크로 가서 대안을 찾자는 (b)가 실질적인 대응이다. (a)는 Frankfurt만 받은 동문서답, (c)는 상황과 무관한 반응, (d)는 grounded의 ground를 '1층'으로 받은 발음 함정이다."
+  },
+  {
+   "kind": "response",
+   "script": "A: Professor Lin says my thesis proposal needs a sharper theoretical framework.\nB: Did she offer any concrete suggestions?\nA: She wants me to ground my argument in institutional theory, but that means scrapping half my literature review.",
+   "question": "What is the best response?",
+   "choices": [
+    "Painful as that sounds, revising now beats defending a shaky thesis later.",
+    "Institutional food really isn't that bad, honestly.",
+    "Then just submit the half you've already scrapped.",
+    "You should propose to her before someone else does."
+   ],
+   "answer": 0,
+   "script_ko": "A: 린 교수님이 내 논문 계획서에 더 날카로운 이론적 틀이 필요하다고 하셔.\nB: 구체적인 제안은 좀 해 주셨어?\nA: 제도 이론에 논거를 두라고 하시는데, 그러려면 문헌 검토의 절반을 갈아엎어야 해.",
+   "explanation": "대대적 수정을 망설이는 상대에게 '지금 고치는 편이 나중에 부실한 논문을 심사받는 것보다 낫다'고 조언하는 (a)가 적절하다. institutional을 '단체 급식'으로 받은 (b), scrap을 잘못 받은 (c), proposal을 '청혼(propose)'으로 비튼 (d)는 모두 어휘 함정이다."
+  },
+  {
+   "kind": "response",
+   "script": "A: I'm afraid we'll have to shelve the marketing campaign until the budget situation clears up.",
+   "question": "What is the best response?",
+   "choices": [
+    "Sure, I'll put it on the top shelf in the storage room.",
+    "The forecast says it should clear up by noon.",
+    "Understood. Should I tell the design team to hold off?",
+    "Great, the campaign launch party is tonight then."
+   ],
+   "answer": 2,
+   "script_ko": "A: 예산 문제가 정리될 때까지 마케팅 캠페인은 보류해야 할 것 같아요.",
+   "explanation": "shelve는 '보류하다'라는 관용 표현이다. 보류 결정을 받아 후속 조치(디자인팀에 중단 통보)를 묻는 (c)가 자연스럽다. shelve를 실제 선반(shelf)으로 받은 (a), clear up을 날씨로 받은 (b), 보류와 정반대인 (d)는 함정이다."
+  },
+  {
+   "kind": "response",
+   "script": "A: My doctor says I need to cut back on caffeine, but I can barely function without my morning coffee.\nB: Have you tried switching to decaf, or maybe tea?\nA: Decaf just doesn't do the trick, and tea somehow gives me a headache.",
+   "question": "What is the best response?",
+   "choices": [
+    "Turkey sandwiches work wonders for headaches.",
+    "Then you'd better stick to doctors who drink coffee.",
+    "Right, tricks like that never fool anyone.",
+    "Maybe tapering off gradually would be easier than quitting cold turkey."
+   ],
+   "answer": 3,
+   "script_ko": "A: 의사가 카페인을 줄이라는데, 아침 커피 없이는 도저히 정신을 못 차리겠어.\nB: 디카페인이나 차로 바꿔 보는 건 어때?\nA: 디카페인은 영 효과가 없고, 차는 이상하게 머리만 아파.",
+   "explanation": "대체재가 다 실패했으니 '단칼에 끊기(cold turkey)보다 서서히 줄이기(tapering off)'를 제안하는 (d)가 논리적이다. cold turkey에서 칠면조 샌드위치를 끌어온 (a), do the trick(효과가 있다)의 trick을 '속임수'로 받은 (c), 엉뚱한 (b)는 함정이다."
+  },
+  {
+   "kind": "response",
+   "script": "A: Your dog's barking kept me up half the night again, and that's the third time this week.",
+   "question": "What is the best response?",
+   "choices": [
+    "Thanks, he's always loved singing at night.",
+    "I'm terribly sorry. I'll look into getting him trained right away.",
+    "Half a night's sleep is plenty for most adults.",
+    "Three walks a week keeps him healthy, that's true."
+   ],
+   "answer": 1,
+   "script_ko": "A: 댁의 개가 짖는 소리에 또 밤잠을 설쳤어요. 이번 주만 벌써 세 번째라고요.",
+   "explanation": "반복된 소음 항의에는 사과하고 해결책(훈련)을 약속하는 (b)가 적절하다. 항의를 칭찬처럼 받은 (a), half the night를 수면 시간 논쟁으로 돌린 (c), third time this week를 산책 횟수로 바꿔치기한 (d)는 함정이다."
+  },
+  {
+   "kind": "response",
+   "script": "A: Did you catch the news about the central bank hiking interest rates again?\nB: Yeah, third hike this year. My mortgage payments are going to balloon.\nA: Same here. I'm seriously thinking about refinancing before things get any worse.",
+   "question": "What is the best response?",
+   "choices": [
+    "Couldn't hurt to run the numbers with your lender first.",
+    "Balloons are half price at the party store this week.",
+    "Hiking sounds great, let's hit the trail this weekend.",
+    "Banks always catch the news before we do."
+   ],
+   "answer": 0,
+   "script_ko": "A: 중앙은행이 또 금리를 올렸다는 뉴스 봤어?\nB: 응, 올해만 세 번째 인상이잖아. 내 주택담보대출 상환액이 눈덩이처럼 불어나게 생겼어.\nA: 나도 마찬가지야. 상황이 더 나빠지기 전에 진지하게 재융자를 고려 중이야.",
+   "explanation": "재융자를 고민한다는 말에 '우선 대출 기관과 수치를 따져 보라'고 조언하는 (a)가 자연스럽다. balloon(급증하다)을 풍선으로 받은 (b), hike(인상)를 등산으로 받은 (c), catch the news를 그대로 되받은 (d)는 다의어 함정이다."
+  },
+  {
+   "kind": "response",
+   "script": "A: We're throwing a farewell dinner for Marcus this Friday, and it'd mean a lot if you could make it.",
+   "question": "What is the best response?",
+   "choices": [
+    "Farewell, then. It was nice knowing you.",
+    "I can throw it a lot farther than Marcus.",
+    "I wouldn't miss it for the world. What time should I come?",
+    "Dinner was delicious last Friday, thanks again."
+   ],
+   "answer": 2,
+   "script_ko": "A: 이번 주 금요일에 마커스 송별회 저녁을 여는데, 네가 와 주면 정말 좋겠어.",
+   "explanation": "초대에 대한 응답이므로 참석 의사를 밝히고 시간을 묻는 (c)가 정답이다. farewell을 작별 인사로 받은 (a), throw(파티를 열다)를 '던지다'로 받은 (b), Friday와 dinner를 과거 일로 돌린 (d)는 스크립트 단어를 이용한 함정이다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: Have you seen what we're both shelling out on gas driving to the office separately?\nB: Tell me about it, Mark. My fuel bill has practically doubled since they moved us to the new campus.\nA: Exactly. So how would you feel about carpooling? We live barely ten minutes apart.\nB: I'd love to in theory, but my schedule's all over the place with client visits.\nA: We could keep it loose and just share rides on days we're both in the office.\nB: Hmm, when you put it that way, it actually sounds doable.",
+   "question": "What is the man mainly trying to do?",
+   "choices": [
+    "Get the woman to cover part of his fuel costs",
+    "Persuade the woman to share rides to work",
+    "Convince the woman to move closer to the office",
+    "Rearrange the woman's client visit schedule"
+   ],
+   "answer": 1,
+   "script_ko": "A: 우리 둘이 따로 출근하면서 기름값으로 얼마나 쓰고 있는지 봤어?\nB: 말도 마, 마크. 새 캠퍼스로 옮긴 뒤로 내 기름값이 거의 두 배가 됐어.\nA: 그러니까. 카풀하는 건 어때? 우리 집은 겨우 10분 거리잖아.\nB: 하고는 싶은데, 고객 방문 때문에 일정이 워낙 들쭉날쭉이라서.\nA: 부담 없이 둘 다 출근하는 날만 같이 타면 되지.\nB: 흠, 그렇게 말하니 정말 할 만하겠는데.",
+   "explanation": "남자(Mark)는 기름값 부담을 화두로 꺼낸 뒤 카풀을 제안하고, 여자의 일정 문제에 유연한 방식을 제시하며 설득하고 있다. 따라서 (b)가 정답이다. fuel costs를 이용한 (a), '10분 거리'를 비튼 (c), client visits를 이용한 (d)는 세부 표현만 따온 함정이다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: Excuse me, I ordered the grilled salmon nearly forty minutes ago.\nB: I'm terribly sorry, ma'am. The kitchen's been slammed since a tour group walked in.\nA: I understand, but I have a train to catch at eight fifteen.\nB: Let me check on your order right away. Could I offer you a complimentary drink in the meantime?\nA: I'd rather just have the food packed to go, if that's possible.\nB: Absolutely. I'll have it boxed up and bring your check along.",
+   "question": "What can be inferred about the woman?",
+   "choices": [
+    "She is pressed for time",
+    "She is traveling with the tour group",
+    "She wants a refund for her drink",
+    "She plans to cancel her train reservation"
+   ],
+   "answer": 0,
+   "script_ko": "A: 저기요, 그릴드 연어를 주문한 지 거의 40분이 지났는데요.\nB: 정말 죄송합니다, 손님. 단체 관광객이 들어온 뒤로 주방이 정신이 없어서요.\nA: 이해는 하는데, 제가 8시 15분 기차를 타야 해서요.\nB: 바로 주문을 확인해 보겠습니다. 기다리시는 동안 음료를 무료로 드릴까요?\nA: 가능하다면 그냥 음식을 포장해 주시면 좋겠어요.\nB: 물론입니다. 포장해서 계산서와 함께 가져다드리겠습니다.",
+   "explanation": "여자는 기차 시간을 언급하고 음료 제안도 사양한 채 포장을 요청한다. 시간에 쫓기고 있다는 (a)를 추론할 수 있다. tour group은 지연의 원인일 뿐 여자와 무관하므로 (b)는 함정이고, 무료 음료를 환불 요구로 바꾼 (c), 기차를 취소한다는 (d)는 스크립트 단어를 이용한 오답이다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: IT says the server migration is happening this weekend, so save everything locally by Friday.\nB: This weekend? I thought they'd pushed it back to next month.\nA: That was the original plan, but the security audit moved everything up.\nB: Wonderful, and it lands right when I'm wrapping up the annual report.\nA: If it helps, the shared drives should be back online by Monday morning.\nB: I guess I'll be backing up my files tonight then.",
+   "question": "Which is correct according to the conversation?",
+   "choices": [
+    "The shared drives will stay offline until next month",
+    "The annual report has already been submitted",
+    "The migration was moved up because of a security audit",
+    "The migration will take place next month as planned"
+   ],
+   "answer": 2,
+   "script_ko": "A: IT 부서에서 이번 주말에 서버 이전을 한다니까 금요일까지 전부 로컬에 저장해 두래요.\nB: 이번 주말이요? 다음 달로 미뤄진 줄 알았는데요.\nA: 원래는 그랬는데, 보안 감사 때문에 일정이 전부 앞당겨졌대요.\nB: 잘됐네요, 하필 제가 연차 보고서를 마무리할 때랑 겹치다니.\nA: 그나마 공유 드라이브는 월요일 아침이면 다시 열린대요.\nB: 오늘 밤에 파일을 백업해 둬야겠네요.",
+   "explanation": "'보안 감사가 일정을 앞당겼다(the security audit moved everything up)'고 명시되므로 (c)가 정답이다. 공유 드라이브는 월요일에 복구되므로 (a)는 오답, 보고서는 아직 마무리 중이므로 (b)도 오답, next month는 취소된 원래 계획이므로 (d)는 함정이다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: Hi, I bought this espresso machine here last week, but it's been leaking from the base.\nB: I'm sorry to hear that, sir. Do you have your receipt with you?\nA: I do. And I'd prefer a refund rather than a replacement, if that's all right.\nB: Unfortunately, appliances are exchange-only once seven days have passed since purchase.\nA: But it's only been six days. I bought it last Saturday, and today's Friday.\nB: Oh, you're absolutely right. My apologies. I'll process the refund straight away.",
+   "question": "What is the man mainly trying to do?",
+   "choices": [
+    "Extend the warranty on his espresso machine",
+    "Exchange his machine for a newer model",
+    "Complain about the store's return policy",
+    "Get his money back for a faulty appliance"
+   ],
+   "answer": 3,
+   "script_ko": "A: 안녕하세요, 지난주에 여기서 이 에스프레소 머신을 샀는데 바닥에서 물이 새요.\nB: 불편을 드려 죄송합니다, 고객님. 영수증은 가지고 계신가요?\nA: 네. 그리고 괜찮다면 교환보다는 환불을 받고 싶습니다.\nB: 죄송하지만 가전제품은 구매 후 7일이 지나면 교환만 가능합니다.\nA: 그런데 아직 6일밖에 안 됐어요. 지난 토요일에 샀고 오늘이 금요일이잖아요.\nB: 아, 맞는 말씀이네요. 사과드립니다. 바로 환불 처리해 드리겠습니다.",
+   "explanation": "남자는 처음부터 '교환이 아니라 환불(refund rather than a replacement)'을 원한다고 밝히고, 날짜 계산으로 환불 자격을 입증한다. 따라서 (d)가 정답이다. 남자가 명시적으로 거절한 교환을 고른 (b), 대화에 없는 보증 연장 (a), 정책 자체에 대한 항의로 본 (c)는 함정이다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: How's the grad school decision coming along, Dave?\nB: Honestly, I'm torn. Two programs accepted me, but they couldn't be more different.\nA: That's a nice problem to have. What's the dilemma?\nB: One offers full funding, but the other has the professor whose work basically inspired my entire research agenda.\nA: Couldn't you reach out to that professor and ask about funding options?\nB: I emailed her yesterday, actually. I'm just trying not to get my hopes up.",
+   "question": "What can be inferred about the man?",
+   "choices": [
+    "He weighs research fit as heavily as financial support",
+    "He has been rejected by both programs",
+    "He has already accepted the funded offer",
+    "He plans to put off graduate school for a year"
+   ],
+   "answer": 0,
+   "script_ko": "A: 대학원 결정은 잘돼 가, 데이브?\nB: 솔직히 고민이야. 두 군데 붙었는데 성격이 완전히 달라서.\nA: 행복한 고민이네. 뭐가 문제인데?\nB: 한 곳은 전액 장학금을 주는데, 다른 곳엔 내 연구 방향 자체에 영감을 준 교수님이 계셔.\nA: 그 교수님께 연락해서 장학금 가능성을 여쭤보면 되잖아?\nB: 실은 어제 이메일을 드렸어. 너무 기대하지 않으려고 애쓰는 중이야.",
+   "explanation": "남자는 전액 장학금과 '연구 방향에 영감을 준 교수' 사이에서 갈등하며(torn), 그 교수에게까지 연락했다. 연구 적합성을 재정 지원 못지않게 중시함을 추론할 수 있으므로 (a)가 정답이다. 두 곳 모두 합격했으므로 (b)는 반대 함정, 아직 결정 전이므로 (c)와 (d)도 오답이다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: I'd like to change my reservation from the tenth to the fourteenth, please.\nB: Let me pull that up, ma'am. Ah, I see you booked a non-refundable rate, so there's a fifty dollar change fee.\nA: Fifty? Your website said changes were free for members.\nB: That only applies to our premium tier, and your account shows a basic membership.\nA: I see. Well, could I upgrade now and have the fee waived?\nB: We can do that. The upgrade is thirty dollars a year, so you'd actually come out ahead.\nA: Perfect, let's go with that then.",
+   "question": "Which is correct according to the conversation?",
+   "choices": [
+    "The woman originally booked a refundable rate",
+    "The woman will upgrade her membership to avoid the fee",
+    "Changes are free for all members regardless of tier",
+    "The upgrade costs more than the change fee"
+   ],
+   "answer": 1,
+   "script_ko": "A: 예약을 10일에서 14일로 변경하고 싶은데요.\nB: 확인해 보겠습니다, 고객님. 아, 환불 불가 요금으로 예약하셔서 변경 수수료 50달러가 부과됩니다.\nA: 50달러요? 웹사이트에는 회원은 변경이 무료라고 되어 있던데요.\nB: 그건 프리미엄 등급에만 해당하고, 고객님 계정은 기본 회원으로 되어 있습니다.\nA: 그렇군요. 그럼 지금 업그레이드하면 수수료를 면제받을 수 있나요?\nB: 가능합니다. 업그레이드는 연 30달러라서 오히려 이득이세요.\nA: 좋아요, 그렇게 할게요.",
+   "explanation": "여자는 50달러 수수료를 피하려고 연 30달러짜리 업그레이드를 선택했으므로 (b)가 정답이다. 예약은 환불 불가 요금이었으므로 (a)는 반대, 무료 변경은 프리미엄 등급 한정이므로 (c)는 오답, 업그레이드(30달러)가 수수료(50달러)보다 싸므로 (d)도 오답이다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: Did you see they finally approved the light rail extension through downtown, Greg?\nB: I did. About time, though the construction is going to snarl traffic for years.\nA: Short-term pain for long-term gain, I suppose. Property values along the route are already climbing.\nB: That's exactly what worries me. Longtime residents could get priced out of their own neighborhoods.\nA: True, but the city says it'll require affordable units in any new development.\nB: I'll believe that when I see it. Promises like that tend to evaporate once the cranes go up.",
+   "question": "What is the man mainly concerned about?",
+   "choices": [
+    "Delays in the construction approval process",
+    "The route chosen for the light rail extension",
+    "A shortage of qualified construction workers",
+    "Rising costs pushing out current residents"
+   ],
+   "answer": 3,
+   "script_ko": "A: 시내를 관통하는 경전철 연장이 드디어 승인됐다는 소식 봤어, 그렉?\nB: 봤지. 진작 했어야지. 물론 공사 때문에 몇 년은 교통이 엉망이 되겠지만.\nA: 장기적 이익을 위한 단기적 고통이랄까. 노선 주변 부동산 가격은 벌써 오르고 있더라.\nB: 바로 그게 걱정이야. 오래 산 주민들이 집값 때문에 자기 동네에서 밀려날 수 있잖아.\nA: 맞아, 그래도 시에서는 신규 개발에 저렴한 주택을 의무화하겠다던데.\nB: 그건 봐야 알지. 그런 약속은 크레인이 올라가는 순간 증발하기 마련이거든.",
+   "explanation": "남자(Greg)의 핵심 우려는 부동산 가격 상승으로 기존 주민이 밀려나는 것(priced out)이며, 시의 약속에도 회의적이다. 따라서 (d)가 정답이다. 승인은 이미 났으므로 (a)는 오답, route와 construction, cranes 등 들린 단어를 재조합한 (b)와 (c)는 함정이다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: Doctor Patel's office, how may I help you?\nB: Hi, I need to reschedule my physical that's set for Tuesday morning.\nA: Let's see. We could do Thursday at two or next Monday at nine.\nB: Thursday's out because I'll be flying back from a conference. Let's do Monday.\nA: Monday at nine it is, Mr. Reyes. Please fast for twelve hours beforehand for the blood work.\nB: Right, but water's fine, isn't it?\nA: Water's fine, just no food or coffee.",
+   "question": "Which is correct according to the conversation?",
+   "choices": [
+    "The man must avoid drinking water before his visit",
+    "The man's original appointment was on Thursday",
+    "The man will have his physical on Monday morning",
+    "The man is rescheduling because he feels unwell"
+   ],
+   "answer": 2,
+   "script_ko": "A: 파텔 박사님 진료실입니다. 무엇을 도와드릴까요?\nB: 안녕하세요, 화요일 오전으로 잡힌 건강검진 일정을 변경하고 싶어서요.\nA: 확인해 볼게요. 목요일 2시나 다음 주 월요일 9시가 가능합니다.\nB: 목요일은 학회에서 돌아오는 비행기라 안 되고요. 월요일로 할게요.\nA: 월요일 9시로 잡아 드렸습니다, 레예스 씨. 혈액 검사가 있으니 12시간 전부터 금식해 주세요.\nB: 네, 그래도 물은 괜찮죠?\nA: 물은 괜찮습니다. 음식과 커피만 피해 주세요.",
+   "explanation": "남자는 월요일 9시로 검진을 옮겼으므로 (c)가 정답이다. 물은 마셔도 된다고 확인해 주므로 (a)는 반대 함정, 원래 예약은 화요일이고 목요일은 거절한 대안이므로 (b)는 함정, 변경 사유는 몸 상태가 아니라 출장 일정이므로 (d)도 오답이다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: So how did the final interview go, Susan?\nB: Hard to say. They grilled me on my management style for a solid hour.\nA: That sounds intense. Any idea when you'll hear back?\nB: They said by the end of next week, but the recruiter hinted they're down to two candidates.\nA: Just two? Those are pretty decent odds. Would you take it if they offered?\nB: The commute gives me pause, honestly. It's ninety minutes each way unless they allow remote work.",
+   "question": "What can be inferred about the woman?",
+   "choices": [
+    "She has reservations about the job's location",
+    "She was eliminated after the first interview",
+    "She has already turned down the offer",
+    "She is competing against ten other candidates"
+   ],
+   "answer": 0,
+   "script_ko": "A: 최종 면접은 어땠어, 수전?\nB: 글쎄, 잘 모르겠어. 한 시간 내내 내 관리 스타일을 집요하게 파고들더라.\nA: 살벌했겠네. 결과는 언제쯤 나온대?\nB: 다음 주말까지라는데, 채용 담당자가 후보가 둘로 좁혀졌다고 귀띔해 줬어.\nA: 둘이라고? 확률이 꽤 괜찮네. 제안이 오면 수락할 거야?\nB: 솔직히 통근이 마음에 걸려. 재택근무가 안 되면 편도로 90분이거든.",
+   "explanation": "여자는 편도 90분 통근이 '마음에 걸린다(gives me pause)'고 하므로 근무지 위치에 대한 유보적 태도, 즉 (a)를 추론할 수 있다. 최종 면접까지 갔고 최종 2인에 들었으므로 (b)와 (d)는 오답이며, 아직 제안조차 받지 않았으므로 (c)도 오답이다."
+  },
+  {
+   "kind": "dialogue",
+   "script": "A: You know how I'm off to Lisbon for two weeks from Sunday?\nB: Right, the food tour you've been raving about, Laura.\nA: Exactly. The thing is, my usual cat sitter just canceled on me.\nB: Ah, I think I can see where this is going.\nA: Would you mind popping in every other day? Just food, water, and a bit of attention.\nB: Well, Whiskers and I do get along. Bring me back some pastries and you've got a deal.",
+   "question": "What is the woman mainly trying to do?",
+   "choices": [
+    "Recommend a reliable cat sitter to her friend",
+    "Ask her friend to look after her cat",
+    "Invite her friend along on a food tour",
+    "Postpone her trip until a sitter is available"
+   ],
+   "answer": 1,
+   "script_ko": "A: 나 일요일부터 2주 동안 리스본 가는 거 알지?\nB: 알지, 네가 그렇게 노래를 부르던 미식 투어잖아, 로라.\nA: 맞아. 그런데 문제는, 늘 부탁하던 고양이 시터가 방금 취소를 했지 뭐야.\nB: 아, 무슨 얘기가 나올지 알 것 같은데.\nA: 이틀에 한 번씩만 들러 줄 수 있어? 밥이랑 물 주고 잠깐 놀아 주기만 하면 돼.\nB: 뭐, 위스커스랑 나랑 사이가 좋긴 하지. 페이스트리 사다 주면 콜이야.",
+   "explanation": "여자(Laura)는 시터의 취소를 언급한 뒤 친구에게 격일로 들러 고양이를 돌봐 달라고 부탁하므로 (b)가 정답이다. cat sitter를 '추천'으로 바꾼 (a), food tour를 초대로 바꾼 (c), 여행 연기라는 (d)는 들린 표현을 재조합한 함정이다."
+  },
+  {
+   "kind": "talk",
+   "script": "Attention, please, all passengers on Flight 372 to Vancouver. Due to a crew scheduling issue, boarding will now begin at six forty rather than six ten, and at Gate 22 instead of Gate 15. We sincerely apologize for the thirty-minute delay and any inconvenience it may cause. Passengers with connecting flights in Vancouver should speak with a gate agent, who can rebook them free of charge. As a gesture of goodwill, meal vouchers are available at the customer service counter for all ticketed passengers. Thank you for your patience, and we look forward to welcoming you aboard shortly.",
+   "question": "Which is correct according to the announcement?",
+   "choices": [
+    "The delay was caused by a mechanical problem",
+    "Meal vouchers are limited to connecting passengers",
+    "The flight will board at Gate 15 as originally planned",
+    "Boarding will now take place at Gate 22"
+   ],
+   "answer": 3,
+   "script_ko": "밴쿠버행 372편 승객 여러분께 안내 말씀드립니다. 승무원 일정 문제로 탑승이 6시 10분이 아닌 6시 40분에, 15번 게이트가 아닌 22번 게이트에서 시작됩니다. 30분 지연과 그로 인한 불편에 진심으로 사과드립니다. 밴쿠버에서 연결편을 이용하시는 승객께서는 게이트 직원에게 말씀하시면 무료로 재예약을 해 드립니다. 보상의 뜻으로 모든 발권 승객께 고객 서비스 카운터에서 식사 쿠폰을 제공합니다. 기다려 주셔서 감사드리며, 곧 기내에서 뵙겠습니다.",
+   "explanation": "탑승 게이트가 15번에서 22번으로 변경되었으므로 (d)가 정답이다. 지연 사유는 기체 결함이 아니라 승무원 일정 문제이므로 (a)는 함정, 식사 쿠폰은 모든 발권 승객 대상이므로 (b)는 오답, 15번 게이트는 변경 전 정보이므로 (c)도 함정이다."
+  },
+  {
+   "kind": "talk",
+   "script": "In tonight's top story, the regional power grid is being pushed to its limits as the heat wave stretches into its ninth day. Grid operators are asking residents to set thermostats no lower than seventy-eight degrees and to run major appliances only after nine in the evening. So far, rolling blackouts have been avoided, but officials warn that tomorrow's forecast high of a hundred and eight could change that. Cooling centers remain open in public libraries and community centers across the county. Meanwhile, utility crews are working around the clock to repair transformers that failed under the strain. We'll bring you updates as the situation develops.",
+   "question": "What can be inferred from the news report?",
+   "choices": [
+    "The heat wave is expected to end tomorrow",
+    "Blackouts may occur if temperatures rise further",
+    "All of the county's cooling centers have closed",
+    "The transformers have already been fully repaired"
+   ],
+   "answer": 1,
+   "script_ko": "오늘의 주요 뉴스입니다. 폭염이 9일째 이어지면서 지역 전력망이 한계에 몰리고 있습니다. 전력망 운영 당국은 주민들에게 냉방 온도를 화씨 78도 아래로 내리지 말고, 대형 가전제품은 저녁 9시 이후에만 사용해 달라고 요청했습니다. 지금까지는 순환 정전을 피했지만, 당국은 내일 예보된 최고 기온 화씨 108도가 상황을 바꿀 수 있다고 경고합니다. 카운티 전역의 공공 도서관과 주민 센터에서는 무더위 쉼터가 계속 운영되고 있습니다. 한편 전력 회사 작업반은 과부하로 고장 난 변압기를 수리하기 위해 밤낮없이 일하고 있습니다. 상황이 진전되는 대로 다시 전해 드리겠습니다.",
+   "explanation": "'내일 108도의 폭염이 지금까지 피해 온 순환 정전 상황을 바꿀 수 있다'는 경고에서, 기온이 더 오르면 정전이 발생할 수 있음을 추론할 수 있다. 폭염 종료 예보는 없으므로 (a)는 오답, 쉼터는 계속 운영 중이므로 (c)는 반대 함정, 변압기는 수리 중이므로 (d)도 오답이다."
+  },
+  {
+   "kind": "talk",
+   "script": "Today I want to challenge a common assumption about how memory works. Most people picture memory as a video recording that faithfully stores events for later playback. In reality, every act of remembering is an act of reconstruction, in which the brain rebuilds the past from fragments and fills the gaps with inference. That's why eyewitnesses can sincerely report details that never happened, especially after leading questions plant suggestions in their minds. Far from being a defect, this flexibility lets us update our understanding as new information comes in. The key takeaway is that confidence in a memory is no guarantee of its accuracy.",
+   "question": "What is the main idea of the lecture?",
+   "choices": [
+    "Memory is reconstructive rather than an exact recording",
+    "Eyewitnesses deliberately invent false details",
+    "Video recordings should replace human testimony",
+    "Confident memories are usually the most accurate"
+   ],
+   "answer": 0,
+   "script_ko": "오늘은 기억이 작동하는 방식에 대한 흔한 통념에 도전해 보려 합니다. 대부분의 사람들은 기억을 사건을 충실히 저장했다가 나중에 재생하는 비디오 녹화처럼 생각합니다. 하지만 실제로는 기억해 내는 모든 행위가 재구성 행위이며, 뇌는 조각들로 과거를 다시 짜 맞추고 빈틈을 추론으로 메웁니다. 그래서 목격자들은, 특히 유도 질문이 암시를 심어 준 뒤에는, 일어난 적 없는 세부 사항을 진심으로 진술할 수 있습니다. 이 유연성은 결함이기는커녕 새로운 정보가 들어올 때 우리의 이해를 갱신하게 해 줍니다. 핵심은, 기억에 대한 확신이 그 정확성을 보장하지 않는다는 것입니다.",
+   "explanation": "강의 전체가 '기억은 녹화가 아니라 재구성'이라는 주장을 전개하므로 (a)가 정답이다. 목격자는 '진심으로(sincerely)' 잘못 진술하는 것이므로 고의 날조라는 (b)는 함정, 비디오는 비유일 뿐이므로 (c)는 오답, (d)는 마지막 문장과 정반대되는 내용이다."
+  },
+  {
+   "kind": "talk",
+   "script": "Tired of paying for a gym membership you never use? At FlexFit Studio, you pay only for the classes you actually attend, with no contracts and no hidden fees. Choose from over forty sessions a week, from sunrise yoga to high-intensity interval training, all led by certified instructors. First-time visitors can claim three complimentary classes simply by mentioning this ad at the front desk. And through the end of the month, anyone who purchases a ten-class pack receives two bonus sessions absolutely free. Drop by our downtown studio today, or book online at flexfitstudio dot com.",
+   "question": "What is mainly being advertised?",
+   "choices": [
+    "A certification course for yoga instructors",
+    "A gym offering discounted yearly contracts",
+    "A fitness studio with pay-per-class pricing",
+    "A downtown store selling home gym equipment"
+   ],
+   "answer": 2,
+   "script_ko": "쓰지도 않는 헬스장 회원권에 돈을 내는 데 지치셨나요? 플렉스핏 스튜디오에서는 실제로 참석한 수업에 대해서만 비용을 내시며, 계약도 숨은 수수료도 없습니다. 새벽 요가부터 고강도 인터벌 트레이닝까지 주 40개가 넘는 수업이 모두 공인 강사의 지도로 진행됩니다. 첫 방문 고객은 프런트에서 이 광고를 언급하시기만 하면 무료 수업 세 번을 받으실 수 있습니다. 또한 이달 말까지 10회 수업권을 구매하시면 보너스 수업 두 번을 완전 무료로 드립니다. 오늘 시내 스튜디오에 들르시거나 플렉스핏스튜디오 닷컴에서 온라인으로 예약하세요.",
+   "explanation": "광고의 핵심은 '참석한 수업만큼만 내는(pay only for the classes you actually attend)' 피트니스 스튜디오이므로 (c)가 정답이다. certified instructors와 yoga를 조합한 (a), '계약 없음'과 반대인 (b), downtown을 이용해 장비 판매점으로 바꾼 (d)는 함정이다."
+  },
+  {
+   "kind": "talk",
+   "script": "May I have your attention, please? Beginning next Monday, the university library will extend its hours for final exams, staying open until two in the morning on weekdays. The twenty-four hour study lounge on the ground floor will remain accessible around the clock with a valid student ID. Please note that group study rooms must now be reserved online, as walk-in use has been suspended for the exam period. In addition, free coffee and snacks will be offered at the main entrance every night from ten, courtesy of the student council. We wish you the best of luck on your exams.",
+   "question": "Which is correct according to the announcement?",
+   "choices": [
+    "The entire library will stay open twenty-four hours",
+    "Group study rooms now require an online reservation",
+    "Snacks will be sold at a discount each night",
+    "The extended hours take effect this Friday"
+   ],
+   "answer": 1,
+   "script_ko": "안내 말씀드립니다. 다음 주 월요일부터 대학 도서관이 기말고사 기간을 맞아 평일 새벽 2시까지 연장 운영됩니다. 1층의 24시간 스터디 라운지는 유효한 학생증만 있으면 언제든 이용하실 수 있습니다. 시험 기간에는 그룹 스터디룸의 현장 이용이 중단되어 반드시 온라인으로 예약하셔야 한다는 점에 유의해 주세요. 또한 학생회의 후원으로 매일 밤 10시부터 정문에서 무료 커피와 간식이 제공됩니다. 시험에서 모두 좋은 결과 있기를 기원합니다.",
+   "explanation": "그룹 스터디룸은 현장 이용이 중단되고 온라인 예약이 필수라고 하므로 (b)가 정답이다. 24시간 운영은 도서관 전체가 아니라 1층 라운지에만 해당하므로 (a)는 함정, 간식은 판매가 아니라 무료 제공이므로 (c)는 오답, 시행일은 금요일이 아니라 다음 주 월요일이므로 (d)도 오답이다."
+  },
+  {
+   "kind": "talk",
+   "script": "Marine biologists have discovered a thriving ecosystem around a previously unknown hydrothermal vent nearly three kilometers beneath the Pacific. The vent supports dozens of species, several of which appear entirely new to science, including a ghostly white crab and a tube worm over two meters long. What excites researchers most is that these organisms flourish without sunlight, drawing energy instead from chemicals dissolved in the superheated water. The team says the find could reshape thinking about where life might exist beyond Earth, such as on ice-covered moons with buried oceans. They caution, however, that proposed deep-sea mining in the region could wipe out such habitats before they're even documented. A full survey of the site is planned for next spring.",
+   "question": "What can be inferred from the report?",
+   "choices": [
+    "The site survey has already been completed",
+    "Sunlight reaches the vent through the water",
+    "The new species closely resemble land animals",
+    "Mining could destroy species not yet discovered"
+   ],
+   "answer": 3,
+   "script_ko": "해양 생물학자들이 태평양 수심 약 3킬로미터 아래에서, 이전에 알려지지 않았던 열수 분출구 주변의 번성하는 생태계를 발견했습니다. 이 분출구는 수십 종의 생물을 부양하는데, 유령처럼 흰 게와 길이 2미터가 넘는 관벌레를 포함해 여러 종이 과학계에 완전히 새로운 종으로 보입니다. 연구진이 가장 흥분하는 점은 이 생물들이 햇빛 없이, 초고온의 물에 녹아 있는 화학 물질에서 에너지를 얻어 번성한다는 사실입니다. 연구팀은 이번 발견이 얼음으로 덮인 위성의 지하 바다처럼 지구 밖 생명체가 존재할 만한 곳에 대한 생각을 바꿔 놓을 수 있다고 말합니다. 다만 이 해역에서 추진 중인 심해 채굴이 이런 서식지를 기록되기도 전에 쓸어버릴 수 있다고 경고합니다. 내년 봄에는 이 지역에 대한 전면 조사가 계획되어 있습니다.",
+   "explanation": "'채굴이 서식지를 기록되기도 전에 파괴할 수 있다'는 경고에서, 아직 발견되지 않은 종까지 사라질 수 있음을 추론할 수 있으므로 (d)가 정답이다. 조사는 내년 봄 예정이므로 (a)는 오답, 생물들은 햇빛 없이 살아가므로 (b)는 반대 함정, 육지 동물과의 유사성은 언급되지 않았으므로 (c)도 오답이다."
+  },
+  {
+   "kind": "talk",
+   "script": "Let's talk about why people stick with failing projects long after the evidence says to walk away. Economists call this the sunk cost fallacy, the tendency to keep investing because of what we've already spent rather than what we stand to gain. Say you've paid for a concert ticket, but you're exhausted and a storm is raging, yet many of us drag ourselves there anyway, reasoning that otherwise the money is wasted. But the money is gone either way, and the only real question is whether going or staying home serves you better now. Businesses fall into the same trap, pouring millions into doomed ventures simply because millions have already been spent. Rational decision-making means looking forward to future costs and benefits, not backward at what can't be recovered.",
+   "question": "What is the speaker's main point?",
+   "choices": [
+    "Past spending shouldn't drive present decisions",
+    "Concert tickets should always be refundable",
+    "Businesses waste far more money than individuals",
+    "Abandoning a project always saves money"
+   ],
+   "answer": 0,
+   "script_ko": "사람들이 왜 실패하고 있는 프로젝트를, 그만두라는 증거가 나온 뒤에도 오래 붙들고 있는지 이야기해 봅시다. 경제학자들은 이를 매몰 비용의 오류라고 부르는데, 앞으로 얻을 것이 아니라 이미 쓴 것 때문에 계속 투자하는 경향을 말합니다. 콘서트 표를 샀는데 몸은 지치고 폭풍까지 몰아친다고 해 봅시다. 그래도 많은 이들이 돈이 아깝다는 이유로 몸을 이끌고 공연장에 갑니다. 하지만 돈은 어차피 사라진 것이고, 진짜 문제는 지금 가는 것과 집에 있는 것 중 무엇이 더 나은가뿐입니다. 기업들도 똑같은 함정에 빠져, 이미 수백만 달러를 썼다는 이유만으로 가망 없는 사업에 수백만 달러를 더 쏟아붓습니다. 합리적 의사 결정이란 회수할 수 없는 과거가 아니라 앞으로의 비용과 이익을 내다보는 것입니다.",
+   "explanation": "강의의 요지는 '이미 쓴 돈(매몰 비용)이 현재의 결정을 좌우해서는 안 된다'는 것이므로 (a)가 정답이다. 콘서트 표는 예시일 뿐이므로 (b)는 함정, 기업과 개인의 낭비 규모 비교는 논점이 아니므로 (c)는 오답, '항상 포기하라'는 (d)는 주장을 과장한 오답이다."
+  },
+  {
+   "kind": "talk",
+   "script": "Welcome aboard the Harbor Lights evening cruise. Tonight's route takes us past the old lighthouse, under the suspension bridge, and along the waterfront district, with the full loop lasting about ninety minutes. Dinner will be served on the lower deck starting at seven, while the upper deck stays open for sightseeing throughout the voyage. For your safety, please remain seated whenever the captain announces choppy water ahead. Photography is welcome anywhere on board, but please avoid using flash near the wheelhouse, as it can interfere with the crew's night vision. Now sit back, relax, and enjoy the skyline.",
+   "question": "Which is correct according to the announcement?",
+   "choices": [
+    "The cruise lasts about seven hours",
+    "Dinner will be served on the upper deck",
+    "Flash photography is restricted near the wheelhouse",
+    "Taking pictures is prohibited everywhere on board"
+   ],
+   "answer": 2,
+   "script_ko": "하버 라이츠 저녁 유람선에 오신 것을 환영합니다. 오늘 밤 항로는 오래된 등대를 지나 현수교 아래를 통과해 워터프런트 지구를 따라가며, 전체 코스는 약 90분이 걸립니다. 저녁 식사는 7시부터 아래 갑판에서 제공되며, 위 갑판은 항해 내내 관람용으로 개방됩니다. 안전을 위해 선장이 전방에 파도가 거칠다고 안내할 때는 자리에 앉아 계시기 바랍니다. 사진 촬영은 선내 어디서나 가능하지만, 승무원의 야간 시야를 방해할 수 있으니 조타실 근처에서는 플래시 사용을 삼가 주십시오. 이제 편안히 앉아 스카이라인을 즐기시기 바랍니다.",
+   "explanation": "플래시 촬영은 조타실 근처에서만 제한된다고 했으므로 (c)가 정답이다. 운항 시간은 약 90분이고 7시는 저녁 식사 시작 시각이므로 (a)는 숫자 함정, 식사는 위 갑판이 아니라 아래 갑판이므로 (b)는 반대 함정, 촬영 자체는 어디서나 허용되므로 (d)는 과장된 오답이다."
+  },
+  {
+   "kind": "talk",
+   "script": "A new study released this week adds to mounting evidence that chronic sleep loss does far more than leave you groggy. Researchers followed over four thousand adults for a decade and found that those sleeping under six hours a night had markedly higher rates of high blood pressure and type two diabetes. Notably, catching up on sleep over the weekend didn't offset the damage, as the health risks tracked weekday habits regardless of how long participants slept on Saturdays. The authors stress that consistency matters more than the occasional long night. They recommend keeping a fixed bedtime, dimming screens an hour before bed, and treating sleep as an appointment you can't cancel. Outside experts called the findings persuasive, though they noted that self-reported sleep times can be unreliable.",
+   "question": "Which is correct according to the report?",
+   "choices": [
+    "Participants were followed for six years",
+    "Sleep was measured with wearable devices",
+    "An occasional long night matters more than consistency",
+    "Weekend catch-up sleep didn't offset the health risks"
+   ],
+   "answer": 3,
+   "script_ko": "이번 주에 발표된 새 연구는 만성 수면 부족이 단순히 사람을 몽롱하게 만드는 데 그치지 않는다는 증거를 더해 줍니다. 연구진은 4천 명이 넘는 성인을 10년간 추적해, 하루 6시간 미만으로 자는 사람들의 고혈압과 제2형 당뇨 발병률이 눈에 띄게 높다는 사실을 발견했습니다. 특히 주말에 몰아 자는 것은 피해를 상쇄하지 못했는데, 건강 위험은 토요일에 얼마나 잤는지와 무관하게 평일 수면 습관을 따라갔습니다. 저자들은 가끔의 긴 잠보다 일관성이 더 중요하다고 강조합니다. 또한 취침 시간을 고정하고, 자기 한 시간 전에는 화면을 어둡게 하고, 수면을 취소할 수 없는 약속처럼 다루라고 권합니다. 연구에 참여하지 않은 전문가들은 결과가 설득력 있다면서도, 자가 보고된 수면 시간은 신뢰도가 떨어질 수 있다고 지적했습니다.",
+   "explanation": "주말 몰아 자기가 피해를 상쇄하지 못했다고 명시되므로 (d)가 정답이다. 추적 기간은 10년이고 6은 수면 시간에 나온 숫자이므로 (a)는 숫자 함정, 수면 시간은 자가 보고 방식이었으므로 (b)는 오답, (c)는 '일관성이 더 중요하다'는 내용을 뒤집은 함정이다."
+  },
+  {
+   "kind": "talk",
+   "script": "Good morning, everyone, and thanks for joining this briefing. Starting the first of next month, we're rolling out a revised hybrid work policy based on feedback from last quarter's staff survey. All employees may work remotely up to three days a week, provided they're on site for their team's anchor days, which are Tuesday and Wednesday for most departments. Meeting rooms are moving to a new booking system, so any recurring reservations must be re-entered by the end of this week. Also, the fourth-floor cafeteria will close for renovations through October, with a temporary coffee station set up in the lobby. Finally, please direct questions to HR through the portal rather than by email.",
+   "question": "Which is correct according to the talk?",
+   "choices": [
+    "Employees must come to the office four days a week",
+    "Recurring room reservations must be entered again",
+    "The cafeteria will remain open during renovations",
+    "Questions should be sent to HR by email"
+   ],
+   "answer": 1,
+   "script_ko": "좋은 아침입니다, 여러분. 브리핑에 함께해 주셔서 감사합니다. 다음 달 1일부터 지난 분기 직원 설문 결과를 반영해 개편된 하이브리드 근무 제도를 시행합니다. 전 직원은 주 3일까지 원격 근무가 가능하며, 단 소속 팀의 지정 출근일에는 사무실에 나와야 하는데, 대부분의 부서는 화요일과 수요일입니다. 회의실은 새 예약 시스템으로 전환되므로, 기존의 반복 예약은 이번 주말까지 다시 입력하셔야 합니다. 또한 4층 구내식당은 10월까지 보수 공사로 문을 닫으며, 로비에 임시 커피 스테이션이 마련됩니다. 마지막으로 문의 사항은 이메일이 아니라 포털을 통해 인사팀에 전달해 주시기 바랍니다.",
+   "explanation": "새 예약 시스템 도입으로 반복 예약을 이번 주말까지 다시 입력해야 한다고 했으므로 (b)가 정답이다. 원격 근무가 주 3일까지 허용되므로 주 4일 출근 의무라는 (a)는 오답, 구내식당은 10월까지 폐쇄되므로 (c)는 반대 함정, 문의는 이메일이 아니라 포털로 하라고 했으므로 (d)도 반대 함정이다."
   }
  ]
 };

@@ -40,6 +40,14 @@
     grammar: { name: '문법', icon: '🔧', color: 'var(--amber)', soft: 'var(--amber-soft)' },
     reading: { name: '독해', icon: '📄', color: 'var(--high)', soft: 'var(--high-soft)' },
     all:     { name: '전체', icon: '✨', color: 'var(--brand)', soft: 'var(--brand-soft)' },
+    listening: { name: '청해', icon: '🎧', color: 'var(--green)', soft: 'var(--green-soft)' },
+  };
+
+  const KIND_META = {
+    all:      { name: '전체', icon: '🎧', desc: '골고루 랜덤 10문항' },
+    response: { name: '응답 고르기', icon: '💬', desc: '이어질 응답 찾기' },
+    dialogue: { name: '대화 듣기', icon: '🗣️', desc: '대화 듣고 질문에 답하기' },
+    talk:     { name: '담화 듣기', icon: '📻', desc: '안내·뉴스·강의 듣기' },
   };
 
   // ---------- 데이터 접근 ----------
@@ -49,6 +57,7 @@
       words: (d && d.words) || [],
       sentences: (d && d.sentences) || [],
       questions: (d && d.questions) || [],
+      listening: (d && d.listening) || [],
     };
   }
 
@@ -59,10 +68,12 @@
       words: { low: {}, mid: {}, high: {} },      // word -> 'known' | 'again'
       sents: { low: {}, mid: {}, high: {} },      // index -> 'o' | 'x'
       quizStats: { low: { attempted: 0, correct: 0 }, mid: { attempted: 0, correct: 0 }, high: { attempted: 0, correct: 0 } },
-      notes: { low: [], mid: [], high: [] },      // question indices
+      listenStats: { low: { attempted: 0, correct: 0 }, mid: { attempted: 0, correct: 0 }, high: { attempted: 0, correct: 0 } },
+      notes: { low: [], mid: [], high: [] },      // 문제 인덱스(숫자) 또는 청해 'L<인덱스>'(문자열)
     };
   }
   // localStorage가 차단된 환경(일부 샌드박스)에서도 앱이 동작하도록 안전하게 감싼다
+  let storageBlocked = false;
   const storage = (function () {
     try {
       const t = '__teps_test__';
@@ -70,6 +81,7 @@
       localStorage.removeItem(t);
       return localStorage;
     } catch (e) {
+      storageBlocked = true;
       const mem = {};
       return {
         getItem: k => (k in mem ? mem[k] : null),
@@ -91,11 +103,14 @@
     // 단어
     wordTab: 'card',
     wordQueue: [], wordPos: 0, flipped: false, sessionLearned: 0,
+    wordHistory: [],   // {wi, prev, requeued, learnedDelta} — 이전 카드로 되돌리기용
     wordQuiz: null,   // { qs:[{wi,choices,answer}], pos, picked }
     // 예문
     sentFilter: 'all', sentList: [], sentPos: 0, revealed: false,
     // 문제
     quizSet: null,    // { part, items:[qi], pos, picked, correctCount }
+    // 청해
+    listenSet: null,  // { kind, items:[li], pos, picked, correctCount, slow }
   };
 
   // ---------- 유틸 ----------
@@ -152,6 +167,31 @@
     speechSynthesis.speak(u);
   }
 
+  // 청해 스크립트 재생: A/B 화자를 다른 목소리(없으면 음높이)로 구분해 순서대로 읽는다
+  function playScript(script, slow) {
+    if (!window.speechSynthesis) return;
+    speechSynthesis.cancel();
+    if (!ttsVoice) ttsVoice = pickVoice();
+    const rate = slow ? 0.75 : 0.92;
+    const vs = speechSynthesis.getVoices();
+    let voiceB = null;
+    if (ttsVoice) {
+      const others = vs.filter(v => v.lang.replace('_', '-').startsWith('en') && v.name !== ttsVoice.name);
+      voiceB = others.find(v => v.lang.replace('_', '-') === 'en-US') || others[0] || null;
+    }
+    script.split('\n').map(s => s.trim()).filter(Boolean).forEach(line => {
+      const m = line.match(/^([AB])\s*:\s*(.*)$/);
+      const u = new SpeechSynthesisUtterance(m ? m[2] : line);
+      u.lang = 'en-US';
+      const isB = !!m && m[1] === 'B';
+      const v = isB ? (voiceB || ttsVoice) : ttsVoice;
+      if (v) u.voice = v;
+      if (isB && !voiceB) u.pitch = 1.25;
+      u.rate = rate;
+      speechSynthesis.speak(u);
+    });
+  }
+
   // ---------- 통계 헬퍼 ----------
   function knownCount(level) {
     const map = P.words[level] || {};
@@ -170,7 +210,7 @@
   const app = document.getElementById('app');
   function render() {
     if (window.speechSynthesis) window.speechSynthesis.cancel();
-    const views = { home: vHome, menu: vMenu, words: vWords, sentences: vSentences, quiz: vQuiz, notes: vNotes };
+    const views = { home: vHome, menu: vMenu, words: vWords, sentences: vSentences, quiz: vQuiz, listening: vListening, notes: vNotes };
     app.innerHTML = (views[S.view] || vHome)();
   }
   function go(view) { S.view = view; render(); window.scrollTo(0, 0); }
@@ -215,7 +255,13 @@
       </tr>`;
     }).join('');
 
+    const storageWarn = storageBlocked ? `
+      <div class="card" style="background:var(--red-soft);color:var(--red);font-size:13.5px;margin-bottom:14px">
+        ⚠️ 지금 보고 있는 화면에서는 <b>학습 기록이 저장되지 않아요.</b><br>
+        <a href="https://dlwnsdyd21-del.github.io/teps-trainer/" target="_blank" rel="noopener" style="color:inherit;font-weight:800">정식 주소(dlwnsdyd21-del.github.io/teps-trainer)</a>에서 열면 기록이 계속 저장됩니다.
+      </div>` : '';
     return `
+      ${storageWarn}
       <div class="hero">
         <div class="logo">🎯</div>
         <h1>TEPS 트레이너</h1>
@@ -277,6 +323,9 @@
       ${modeCard('sentences', '📖', 'var(--mid-soft)', '예문 해석',
         `${d.sentences.length}개 문장 · 해석 훈련 + 구문 포인트`,
         `<div class="progress-track"><div class="progress-fill" style="width:${pct(sc, d.sentences.length)}%;background:${m.color}"></div></div>`)}
+      ${modeCard('listening', '🎧', 'var(--green-soft)', '청해 연습',
+        `${d.listening.length}문항 · 듣고 푸는 뉴텝스 청해 (응답·대화·담화)`,
+        `<div class="tiny">${P.listenStats[lv].attempted ? `지금까지 ${P.listenStats[lv].attempted}문항 중 ${P.listenStats[lv].correct}개 정답` : '스크립트 없이 듣고 풀어 보세요'}</div>`)}
       ${modeCard('quiz', '✍️', 'var(--high-soft)', '문제 풀기',
         `어휘 · 문법 · 독해 ${d.questions.length}문제 · 텝스 실전 유형`,
         `<div class="tiny">${st.attempted ? `지금까지 ${st.attempted}문제 중 ${st.correct}개 정답` : '아직 푼 문제가 없어요'}</div>`)}
@@ -294,6 +343,7 @@
     S.wordPos = 0;
     S.flipped = false;
     S.sessionLearned = 0;
+    S.wordHistory = [];
   }
 
   function vWords() {
@@ -317,6 +367,7 @@
         <div class="big">🎉</div>
         <h2>이번 세션 완료!</h2>
         <p>이번에 <b>${S.sessionLearned}개</b>를 외웠어요.<br>누적 암기 <b>${kc} / ${d.words.length}</b>${remain ? ` · 아직 ${remain}개 남았어요` : ' · 전부 외웠어요! 👑'}</p>
+        ${S.wordHistory.length ? `<button class="btn btn-ghost btn-block" data-act="word-undo" style="margin-bottom:10px">↩ 마지막 카드 취소</button>` : ''}
         ${remain ? `<button class="btn btn-primary btn-block" data-act="restudy-unknown" style="margin-bottom:10px">미암기 단어 ${remain}개 다시 학습</button>` : ''}
         <button class="btn btn-ghost btn-block" data-act="restudy-all" style="margin-bottom:10px">전체 ${d.words.length}개 처음부터 복습</button>
         <button class="btn btn-red-soft btn-block" data-act="reset-words">암기 기록 초기화</button>
@@ -329,7 +380,10 @@
     return `
       <div class="flash-meta">
         <span>남은 카드 <b>${S.wordQueue.length - S.wordPos}</b> · 누적 암기 <b>${knownCount(lv)}/${d.words.length}</b></span>
-        <button class="shuffle-btn" data-act="word-shuffle">🔀 섞기</button>
+        <span style="display:flex;gap:6px">
+          <button class="shuffle-btn" data-act="word-undo" ${S.wordHistory.length ? '' : 'disabled style="opacity:0.4"'}>↩ 이전 카드</button>
+          <button class="shuffle-btn" data-act="word-shuffle">🔀 섞기</button>
+        </span>
       </div>
       <div class="flip-scene">
         <div class="flip-card ${S.flipped ? 'flipped' : ''}" data-act="flip">
@@ -587,6 +641,106 @@
       </div>`;
   }
 
+  // ===== 청해 연습 =====
+  function startListenSet(kind) {
+    const d = levelData(S.level);
+    let pool = d.listening.map((x, i) => i);
+    if (kind !== 'all') pool = pool.filter(i => d.listening[i].kind === kind);
+    if (!pool.length) { S.listenSet = null; return; }
+    const items = shuffle(pool).slice(0, Math.min(10, pool.length));
+    S.listenSet = { kind, items, pos: 0, picked: null, correctCount: 0, slow: false };
+  }
+
+  function vListening() {
+    const lv = S.level, m = LEVEL_META[lv], d = levelData(lv);
+    if (!d.listening.length) return `${topbar('청해 연습', 'menu', true)}${emptyState('📦', '청해 데이터가 아직 없습니다.')}`;
+    const L = S.listenSet;
+
+    if (!L) {
+      const counts = { all: d.listening.length };
+      ['response', 'dialogue', 'talk'].forEach(k => { counts[k] = d.listening.filter(x => x.kind === k).length; });
+      const cards = ['all', 'response', 'dialogue', 'talk'].map(k => {
+        const km = KIND_META[k];
+        return `<button class="part-card" data-act="listen-kind" data-arg="${k}">
+          <div class="p-icon">${km.icon}</div>
+          <div class="p-name">${km.name}</div>
+          <div class="p-sub">${km.desc}${k === 'all' ? '' : ` · ${counts[k]}문항`}</div>
+        </button>`;
+      }).join('');
+      return `${topbar('청해 연습', 'menu', true)}
+        <div class="card" style="margin-bottom:16px;font-size:13.5px">
+          <b>🎧 스크립트 없이 듣고 푸세요</b><br>
+          <span class="muted">▶ 버튼을 누르면 음성이 나옵니다. 몇 번이든 다시 들을 수 있고, 스크립트와 해석은 정답을 고른 뒤 공개돼요. 소리를 켜 두세요!</span>
+        </div>
+        <div class="part-grid">${cards}</div>`;
+    }
+
+    if (L.pos >= L.items.length) {
+      const score = L.correctCount, total = L.items.length;
+      const perc = pct(score, total);
+      return `${topbar('청해 연습', 'menu', true)}
+        <div class="card result-card">
+          <p>${KIND_META[L.kind].name} 세트 결과</p>
+          <div class="score-big" style="color:${m.color}">${score}<small> / ${total}</small></div>
+          <p>정답률 ${perc}% · ${perc === 100 ? '완벽한 귀! 👑' : perc >= 70 ? '좋아요, 감이 잡혀요! 💪' : '스크립트를 소리 내어 따라 읽어 보세요 🔁'}</p>
+          <div class="result-actions">
+            <button class="btn btn-ghost" data-act="listen-kind" data-arg="${L.kind}">다시 풀기</button>
+            <button class="btn btn-primary" data-act="listen-exit">다른 유형</button>
+          </div>
+        </div>`;
+    }
+
+    const li = L.items[L.pos];
+    const item = d.listening[li];
+    const km = KIND_META[item.kind] || KIND_META.all;
+    const choices = item.choices.map((c, i) => {
+      let cls = 'choice';
+      if (L.picked != null) {
+        if (i === item.answer) cls += ' correct';
+        else if (i === L.picked) cls += ' wrong';
+        else cls += ' dim';
+      }
+      return `<button class="${cls}" data-act="listen-pick" data-arg="${i}" ${L.picked != null ? 'disabled' : ''}>
+        <span class="letter">${'ABCD'[i]}</span><span>${esc(c)}</span>
+      </button>`;
+    }).join('');
+
+    const afterPick = L.picked != null ? `
+      <div class="script-box">
+        <div class="script-label">📜 스크립트</div>
+        <div class="script-en">${esc(item.script)}</div>
+        <div class="script-ko">${esc(item.script_ko)}</div>
+      </div>
+      <div class="q-explain">
+        <div class="verdict ${L.picked === item.answer ? 'ok' : 'no'}">
+          ${L.picked === item.answer ? '⭕ 정답입니다!' : `❌ 아쉬워요! 정답은 ${'ABCD'[item.answer]}`}
+        </div>
+        ${esc(item.explanation)}
+      </div>
+      <button class="btn btn-primary btn-block quiz-next" data-act="listen-next">${L.pos + 1 === L.items.length ? '결과 보기' : '다음 문항'} →</button>` : '';
+
+    return `${topbar('청해 연습', 'menu', true)}
+      <div class="quiz-head">
+        <span><b>${L.pos + 1}</b> / ${L.items.length}</span>
+        <div class="progress-track"><div class="progress-fill" style="width:${pct(L.pos, L.items.length)}%;background:${m.color}"></div></div>
+        <span>${L.correctCount}개 정답</span>
+      </div>
+      <div class="card">
+        <div class="q-part-tag"><span class="pill" style="background:var(--green-soft);color:var(--green)">${km.icon} ${km.name}</span></div>
+        <div class="listen-player">
+          <button class="listen-play" data-act="listen-play">▶</button>
+          <div class="listen-tools">
+            <button class="listen-tool" data-act="listen-play">🔁 다시 듣기</button>
+            <button class="listen-tool ${L.slow ? 'active' : ''}" data-act="listen-speed">🐢 천천히${L.slow ? ' 켜짐' : ''}</button>
+          </div>
+          ${L.picked == null ? '<div class="tiny" style="margin-top:8px">스크립트와 해석은 정답을 고르면 공개돼요</div>' : ''}
+        </div>
+        <div class="q-stem">${esc(item.question)}</div>
+        <div class="choice-list">${choices}</div>
+        ${afterPick}
+      </div>`;
+  }
+
   // ===== 오답노트 =====
   function vNotes() {
     const lv = S.level, d = levelData(lv);
@@ -594,17 +748,24 @@
     if (!notes.length) {
       return `${topbar('오답노트', 'menu', true)}${emptyState('🗂️', '아직 틀린 문제가 없어요.<br>문제를 풀면 틀린 문제가 자동으로 쌓여요.')}`;
     }
-    const items = notes.map(qi => {
-      const q = d.questions[qi];
+    const items = notes.map(ref => {
+      const isListen = typeof ref === 'string' && ref.charAt(0) === 'L';
+      const q = isListen ? d.listening[parseInt(ref.slice(1), 10)] : d.questions[ref];
       if (!q) return '';
-      const pm = PART_META[q.part] || PART_META.all;
+      const pm = isListen ? PART_META.listening : (PART_META[q.part] || PART_META.all);
+      const body = isListen
+        ? `<div class="ri-passage">${esc(q.script)}</div>
+           <div class="ri-passage" style="color:var(--ink-faint)">${esc(q.script_ko)}</div>
+           <div class="ri-stem">${esc(q.question)}</div>`
+        : `${q.passage ? `<div class="ri-passage">${esc(q.passage)}</div>` : ''}
+           <div class="ri-stem">${esc(q.stem)}</div>`;
       return `<div class="review-item">
         <div class="ri-head">
           <span class="pill" style="background:${pm.soft};color:${pm.color}">${pm.icon} ${pm.name}</span>
-          <button class="ri-del" data-act="note-del" data-arg="${qi}">외웠어요 ✓</button>
+          ${isListen ? `<button class="tts-btn" data-act="note-listen" data-arg="${esc(ref)}" style="font-size:14px">🔊</button>` : ''}
+          <button class="ri-del" data-act="note-del" data-arg="${esc(String(ref))}">외웠어요 ✓</button>
         </div>
-        ${q.passage ? `<div class="ri-passage">${esc(q.passage)}</div>` : ''}
-        <div class="ri-stem">${esc(q.stem)}</div>
+        ${body}
         <div class="ri-answer">정답: <b>${'ABCD'[q.answer]}. ${esc(q.choices[q.answer])}</b></div>
         <div class="ri-explain">${esc(q.explanation)}</div>
       </div>`;
@@ -634,6 +795,7 @@
         if (arg === 'words') { buildWordQueue(false); S.wordTab = 'card'; S.wordQuiz = null; }
         if (arg === 'sentences') { S.sentFilter = 'all'; S.sentPos = 0; buildSentList(); }
         if (arg === 'quiz') S.quizSet = null;
+        if (arg === 'listening') S.listenSet = null;
         go(arg);
         break;
       case 'go-level':
@@ -661,7 +823,9 @@
       case 'word-know': {
         const wi = S.wordQueue[S.wordPos];
         const w = d.words[wi];
-        if (P.words[lv][w.word] !== 'known') S.sessionLearned++;
+        const delta = P.words[lv][w.word] !== 'known' ? 1 : 0;
+        S.wordHistory.push({ wi, prev: P.words[lv][w.word], requeued: false, learnedDelta: delta });
+        S.sessionLearned += delta;
         P.words[lv][w.word] = 'known';
         save();
         S.wordPos++; S.flipped = false;
@@ -671,7 +835,9 @@
       case 'word-again': {
         const wi = S.wordQueue[S.wordPos];
         const w = d.words[wi];
-        if (P.words[lv][w.word] === 'known') S.sessionLearned--;
+        const delta = P.words[lv][w.word] === 'known' ? -1 : 0;
+        S.wordHistory.push({ wi, prev: P.words[lv][w.word], requeued: true, learnedDelta: delta });
+        S.sessionLearned += delta;
         P.words[lv][w.word] = 'again';
         save();
         S.wordQueue.push(wi);   // 이번 세션 뒤쪽에서 한 번 더
@@ -679,9 +845,24 @@
         render();
         break;
       }
+      case 'word-undo': {
+        const rec = S.wordHistory.pop();
+        if (!rec) break;
+        if (rec.requeued) S.wordQueue.pop();          // 뒤에 다시 넣었던 카드 제거
+        S.wordPos = Math.max(0, S.wordPos - 1);
+        const w = d.words[rec.wi];
+        if (rec.prev === undefined) delete P.words[lv][w.word];
+        else P.words[lv][w.word] = rec.prev;
+        S.sessionLearned -= rec.learnedDelta;
+        save();
+        S.flipped = false;
+        render();
+        break;
+      }
       case 'word-shuffle': {
         const rest = shuffle(S.wordQueue.slice(S.wordPos));
         S.wordQueue = S.wordQueue.slice(0, S.wordPos).concat(rest);
+        S.wordHistory = [];   // 순서가 바뀌면 되돌리기 기록은 무효
         S.flipped = false;
         render();
         break;
@@ -762,9 +943,55 @@
         window.scrollTo(0, 0);
         break;
 
+      // 청해
+      case 'listen-kind': startListenSet(arg); go('listening'); break;
+      case 'listen-exit': S.listenSet = null; render(); break;
+      case 'listen-play': {
+        const L = S.listenSet;
+        if (!L) break;
+        const item = d.listening[L.items[L.pos]];
+        if (item) playScript(item.script, L.slow);
+        break;
+      }
+      case 'listen-speed': {
+        const L = S.listenSet;
+        if (!L) break;
+        L.slow = !L.slow;
+        render();
+        break;
+      }
+      case 'listen-pick': {
+        const L = S.listenSet;
+        if (L.picked != null) break;
+        if (window.speechSynthesis) speechSynthesis.cancel();
+        L.picked = parseInt(arg, 10);
+        const li = L.items[L.pos];
+        const item = d.listening[li];
+        const ok = L.picked === item.answer;
+        if (ok) L.correctCount++;
+        P.listenStats[lv].attempted++;
+        if (ok) P.listenStats[lv].correct++;
+        const ref = 'L' + li;
+        if (!ok && !P.notes[lv].includes(ref)) P.notes[lv].push(ref);
+        save();
+        render();
+        break;
+      }
+      case 'listen-next':
+        S.listenSet.pos++;
+        S.listenSet.picked = null;
+        render();
+        window.scrollTo(0, 0);
+        break;
+
       // 오답노트
+      case 'note-listen': {
+        const item = d.listening[parseInt(arg.slice(1), 10)];
+        if (item) playScript(item.script, false);
+        break;
+      }
       case 'note-del':
-        P.notes[lv] = P.notes[lv].filter(i => i !== parseInt(arg, 10));
+        P.notes[lv] = P.notes[lv].filter(i => String(i) !== arg);
         save();
         render();
         break;
