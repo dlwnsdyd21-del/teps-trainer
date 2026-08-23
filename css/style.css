@@ -563,6 +563,38 @@ button {
 .result-actions { display: flex; gap: 10px; margin-top: 22px; }
 .result-actions .btn { flex: 1; }
 
+/* ---------- 발음 음성 설정 ---------- */
+.voice-list { display: flex; flex-direction: column; gap: 8px; }
+.voice-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--card);
+  border: 2px solid var(--line);
+  border-radius: 12px;
+  padding: 4px 10px 4px 4px;
+}
+.voice-row.active { border-color: var(--brand); background: var(--brand-soft); }
+.voice-pick { flex: 1; min-width: 0; text-align: left; padding: 10px 12px; }
+.voice-name { font-weight: 700; font-size: 14.5px; word-break: break-word; }
+.voice-check { color: var(--brand); font-size: 12px; font-weight: 800; }
+.voice-meta { display: flex; align-items: center; gap: 8px; margin-top: 4px; flex-wrap: wrap; }
+.voice-test {
+  flex: none;
+  width: 42px; height: 42px;
+  border-radius: 50%;
+  background: var(--brand);
+  color: #fff;
+  font-size: 15px;
+  padding-left: 3px;
+}
+.voice-test:active { transform: scale(0.92); }
+
+.guide-box { font-size: 13.5px; line-height: 1.7; }
+.guide-box ol { margin: 8px 0 0 18px; color: var(--ink-soft); }
+.guide-box li { margin-bottom: 6px; }
+.guide-box b { color: var(--ink); }
+
 /* ---------- 청해 ---------- */
 .listen-player {
   text-align: center;

@@ -70,6 +70,7 @@
       quizStats: { low: { attempted: 0, correct: 0 }, mid: { attempted: 0, correct: 0 }, high: { attempted: 0, correct: 0 } },
       listenStats: { low: { attempted: 0, correct: 0 }, mid: { attempted: 0, correct: 0 }, high: { attempted: 0, correct: 0 } },
       notes: { low: [], mid: [], high: [] },      // 문제 인덱스(숫자) 또는 청해 'L<인덱스>'(문자열)
+      settings: {},                               // { voice: 선택한 음성 이름 }
     };
   }
   // localStorage가 차단된 환경(일부 샌드박스)에서도 앱이 동작하도록 안전하게 감싼다
@@ -133,30 +134,52 @@
   //  1) cancel() 직후의 speak()가 조용히 무시됨 → 재생 중일 때만 cancel하고 잠깐 뒤에 speak
   //  2) 엔진이 paused 상태에 갇혀 아무 소리도 안 남 → speak 전에 항상 resume()
   //  3) 원격(네트워크) 음성이 소리 없이 실패함 → 로컬 음성 우선 + 실패 시 기본 음성으로 재시도
+  // 영어 음성 목록 (품질 높은 순으로 정렬)
+  function enVoices() {
+    if (!window.speechSynthesis) return [];
+    return speechSynthesis.getVoices()
+      .filter(v => v.lang.replace('_', '-').toLowerCase().indexOf('en') === 0)
+      .sort((a, b) => voiceScore(b) - voiceScore(a));
+  }
+  // 점수가 높을수록 원어민에 가까운 음성.
+  // 신경망(Natural/Neural/Siri/Google) 음성이 구형 포먼트 합성음보다 압도적으로 자연스럽다.
+  function voiceScore(v) {
+    let s = 0;
+    const n = v.name;
+    if (/natural/i.test(n)) s += 40;                       // Edge Natural (원어민급)
+    else if (/neural|premium|enhanced|siri/i.test(n)) s += 34;
+    else if (/google/i.test(n)) s += 26;                    // Google TTS (준수)
+    else if (/samantha|alex|ava|allison|tom/i.test(n)) s += 22;  // Apple 기본
+    else if (/zira|david|mark|hazel/i.test(n)) s += 6;      // Windows 구형 (기계음)
+    const lang = v.lang.replace('_', '-').toLowerCase();
+    if (lang === 'en-us') s += 8;
+    else if (lang === 'en-gb') s += 4;
+    if (v.default) s += 1;
+    return s;
+  }
   function pickVoice(excludeName) {
-    if (!window.speechSynthesis) return null;
-    const en = speechSynthesis.getVoices().filter(v =>
-      v.lang.replace('_', '-').toLowerCase().indexOf('en') === 0 && v.name !== excludeName);
-    if (!en.length) return null;
-    const score = v => {
-      let s = 0;
-      if (v.lang.replace('_', '-').toLowerCase() === 'en-us') s += 4;
-      if (v.localService) s += 2;
-      if (/aria|jenny|samantha|zira|david|guy|google us english/i.test(v.name)) s += 1;
-      if (v.default) s += 1;
-      return s;
-    };
-    let best = en[0], bestScore = score(best);
-    for (let i = 1; i < en.length; i++) {
-      const s = score(en[i]);
-      if (s > bestScore) { best = en[i]; bestScore = s; }
+    const chosen = P.settings && P.settings.voice;
+    const list = enVoices();
+    if (!list.length) return null;
+    if (chosen && !excludeName) {
+      const v = list.find(v => v.name === chosen);
+      if (v) return v;
     }
-    return best;
+    if (excludeName) {
+      // 두 번째 화자: 선택된 음성과 다르되 품질은 최대한 비슷한 것
+      const other = list.find(v => v.name !== excludeName);
+      if (other) return other;
+    }
+    return list[0];
   }
   if (window.speechSynthesis) {
-    // 음성 목록은 비동기로 채워지므로 미리 요청해 둔다
+    // 음성 목록은 비동기로 채워진다. 설정 화면을 보고 있다면 목록이 도착했을 때 다시 그린다.
     speechSynthesis.getVoices();
-    speechSynthesis.onvoiceschanged = function () { speechSynthesis.getVoices(); };
+    speechSynthesis.onvoiceschanged = function () {
+      speechSynthesis.getVoices();
+      // 음성 목록에 따라 화면이 달라지는 곳(설정 화면, 홈의 경고 배너)만 다시 그린다
+      if (S.view === 'voice' || S.view === 'home') render();
+    };
   }
   function makeUtter(text, rate, voice) {
     const u = new SpeechSynthesisUtterance(text);
@@ -236,7 +259,7 @@
   const app = document.getElementById('app');
   function render() {
     if (window.speechSynthesis) window.speechSynthesis.cancel();
-    const views = { home: vHome, menu: vMenu, words: vWords, sentences: vSentences, quiz: vQuiz, listening: vListening, notes: vNotes };
+    const views = { home: vHome, menu: vMenu, words: vWords, sentences: vSentences, quiz: vQuiz, listening: vListening, notes: vNotes, voice: vVoice };
     app.innerHTML = (views[S.view] || vHome)();
   }
   function go(view) { S.view = view; render(); window.scrollTo(0, 0); }
@@ -281,12 +304,20 @@
       </tr>`;
     }).join('');
 
+    // 영어 음성이 없으면 브라우저가 한국어 엔진으로 영어를 읽어 발음이 크게 망가진다
+    const noEnVoice = window.speechSynthesis && speechSynthesis.getVoices().length && !enVoices().length;
+    const voiceWarn = noEnVoice ? `
+      <button class="card" style="display:block;width:100%;text-align:left;background:var(--amber-soft);color:var(--amber-text);font-size:13.5px;margin-bottom:14px" data-act="nav" data-arg="voice">
+        ⚠️ 이 기기에 <b>영어 음성이 설치되어 있지 않아</b> 발음이 부정확하게 들립니다.<br>
+        <b style="color:var(--amber)">여기를 눌러 원어민 음성 설치 방법 보기 ›</b>
+      </button>` : '';
     const storageWarn = storageBlocked ? `
       <div class="card" style="background:var(--red-soft);color:var(--red);font-size:13.5px;margin-bottom:14px">
         ⚠️ 지금 보고 있는 화면에서는 <b>학습 기록이 저장되지 않아요.</b><br>
         <a href="https://dlwnsdyd21-del.github.io/teps-trainer/" target="_blank" rel="noopener" style="color:inherit;font-weight:800">정식 주소(dlwnsdyd21-del.github.io/teps-trainer)</a>에서 열면 기록이 계속 저장됩니다.
       </div>` : '';
     return `
+      ${voiceWarn}
       ${storageWarn}
       <div class="hero">
         <div class="logo">🎯</div>
@@ -301,6 +332,14 @@
           ${gradeRows}
         </table>
       </div>
+      <button class="mode-card" data-act="nav" data-arg="voice" style="margin-top:16px">
+        <div class="mode-icon" style="background:var(--brand-soft)">🔊</div>
+        <div class="mode-body">
+          <div class="mode-name">발음 음성 설정</div>
+          <div class="mode-sub">더 자연스러운 원어민 음성으로 바꾸기</div>
+        </div>
+        <div class="arrow">›</div>
+      </button>
       <div class="section-title">🏛️ 주요 활용 기준</div>
       <div class="card">
         <ul class="use-list">
@@ -802,6 +841,71 @@
       <button class="btn btn-red-soft btn-block" data-act="notes-clear" style="margin-top:6px">오답노트 전체 비우기</button>`;
   }
 
+  // ===== 발음 음성 설정 =====
+  function voiceTier(v) {
+    const s = voiceScore(v);
+    if (s >= 40) return { label: '최상 · 원어민급', color: 'var(--green)', soft: 'var(--green-soft)' };
+    if (s >= 30) return { label: '우수 · 자연스러움', color: 'var(--mid)', soft: 'var(--mid-soft)' };
+    if (s >= 20) return { label: '양호', color: 'var(--brand)', soft: 'var(--brand-soft)' };
+    return { label: '기본 · 기계음', color: 'var(--ink-faint)', soft: 'var(--bg)' };
+  }
+
+  function vVoice() {
+    const list = enVoices();
+    const chosen = (P.settings && P.settings.voice) || null;
+    const active = pickVoice();
+    const ua = navigator.userAgent;
+    const isIOS = /iPhone|iPad|iPod/.test(ua);
+    const isAndroid = /Android/.test(ua);
+    const isEdge = /Edg\//.test(ua);
+
+    const guide = isIOS ? `
+      <b>아이폰 · 아이패드에서 원어민급 음성 켜기</b>
+      <ol>
+        <li>설정 → 손쉬운 사용 → 콘텐츠 말하기 → 음성 → English</li>
+        <li><b>Siri</b> 또는 <b>Premium / Enhanced</b> 음성을 받으세요 (Samantha보다 훨씬 자연스럽습니다)</li>
+        <li>다운로드 후 이 화면으로 돌아와 새로고침하면 목록에 나타납니다</li>
+      </ol>` : isAndroid ? `
+      <b>안드로이드에서 원어민급 음성 켜기</b>
+      <ol>
+        <li>설정 → 접근성 → 텍스트 음성 변환 출력</li>
+        <li>엔진을 <b>Google 음성 인식 및 합성</b>으로 선택</li>
+        <li>언어 → English (US) → <b>고품질</b> 음성 데이터 다운로드</li>
+        <li>더 좋은 음성을 원하면 <b>Microsoft Edge 브라우저</b>로 이 앱을 열어 보세요 — Natural 음성을 쓸 수 있습니다</li>
+      </ol>` : `
+      <b>PC에서 원어민급 음성 켜기</b>
+      <ol>
+        ${isEdge ? '<li>지금 Edge를 쓰고 계시네요 — 아래 목록에서 <b>Natural</b>이 붙은 음성(Aria, Jenny 등)을 고르면 원어민급입니다</li>'
+          : '<li><b>Microsoft Edge 브라우저</b>로 이 앱을 열면 <b>Natural</b> 음성(Aria, Jenny)을 쓸 수 있습니다 — 크롬 기본 음성보다 훨씬 자연스러워요</li>'}
+        <li>윈도우 설정 → 시간 및 언어 → 음성 → 음성 추가에서 English (United States)를 설치하면 선택지가 늘어납니다</li>
+      </ol>`;
+
+    const rows = list.length ? list.map(v => {
+      const t = voiceTier(v);
+      const isActive = active && v.name === active.name;
+      return `<div class="voice-row ${isActive ? 'active' : ''}">
+        <button class="voice-pick" data-act="voice-set" data-arg="${esc(v.name)}">
+          <div class="voice-name">${esc(v.name)}${isActive ? ' <span class="voice-check">✓ 사용 중</span>' : ''}</div>
+          <div class="voice-meta">
+            <span class="pill" style="background:${t.soft};color:${t.color}">${t.label}</span>
+            <span class="tiny">${esc(v.lang)}${v.localService ? ' · 오프라인' : ' · 온라인'}</span>
+          </div>
+        </button>
+        <button class="voice-test" data-act="voice-test" data-arg="${esc(v.name)}">▶</button>
+      </div>`;
+    }).join('') : `<div class="empty-state"><div class="big">🔇</div>영어 음성이 하나도 설치되어 있지 않아요.<br>아래 안내를 따라 음성을 추가해 주세요.</div>`;
+
+    return `${topbar('발음 음성 설정', 'home', false)}
+      <div class="card" style="margin-bottom:16px;font-size:13.5px">
+        <b>🎧 원어민 발음으로 듣기</b><br>
+        <span class="muted">발음 품질은 기기에 설치된 음성으로 결정됩니다. <b>최상 · 원어민급</b> 표시가 붙은 음성을 고르면 사람이 읽는 것과 거의 같아요. ▶로 미리 들어보고 선택하세요.</span>
+      </div>
+      ${chosen ? `<button class="btn btn-ghost btn-block" data-act="voice-reset" style="margin-bottom:12px">↩ 자동 선택(가장 좋은 음성)으로 되돌리기</button>` : ''}
+      <div class="voice-list">${rows}</div>
+      <div class="section-title">📱 더 좋은 음성 받는 법</div>
+      <div class="card guide-box">${guide}</div>`;
+  }
+
   function emptyState(icon, html) {
     return `<div class="empty-state"><div class="big">${icon}</div><div>${html}</div></div>`;
   }
@@ -967,6 +1071,25 @@
         S.quizSet.picked = null;
         render();
         window.scrollTo(0, 0);
+        break;
+
+      // 발음 음성 설정
+      case 'voice-set':
+        P.settings.voice = arg;
+        save();
+        render();
+        speak('This is how your new voice sounds. Let\'s study English together.', false);
+        break;
+      case 'voice-test': {
+        const v = enVoices().find(v => v.name === arg);
+        const u = makeUtter('The early bird catches the worm.', 0.95, v || null);
+        speakAll([u]);
+        break;
+      }
+      case 'voice-reset':
+        delete P.settings.voice;
+        save();
+        render();
         break;
 
       // 청해
