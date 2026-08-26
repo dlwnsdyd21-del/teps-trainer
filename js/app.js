@@ -246,6 +246,12 @@
     const map = P.words[level] || {};
     return levelData(level).words.filter(w => map[w.word] === 'known').length;
   }
+  function againWords(level) {
+    const map = P.words[level] || {};
+    return levelData(level).words
+      .map((w, i) => ({ w, i }))
+      .filter(x => map[x.w.word] === 'again');
+  }
   function sentDoneCount(level) {
     const map = P.sents[level] || {};
     return Object.values(map).filter(v => v === 'o').length;
@@ -413,11 +419,15 @@
 
   function vWords() {
     const lv = S.level, m = LEVEL_META[lv], d = levelData(lv);
+    const againN = againWords(lv).length;
     const tabs = `<div class="tabs">
       <button class="${S.wordTab === 'card' ? 'active' : ''}" data-act="word-tab" data-arg="card">카드 학습</button>
       <button class="${S.wordTab === 'quiz' ? 'active' : ''}" data-act="word-tab" data-arg="quiz">단어 퀴즈</button>
+      <button class="${S.wordTab === 'again' ? 'active' : ''}" data-act="word-tab" data-arg="again">헷갈린 단어${againN ? ` <b>${againN}</b>` : ''}</button>
     </div>`;
-    const body = S.wordTab === 'card' ? vWordCards() : vWordQuiz();
+    const body = S.wordTab === 'card' ? vWordCards()
+      : S.wordTab === 'quiz' ? vWordQuiz()
+      : vWordAgain();
     return `${topbar('단어 암기', 'menu', true)}${tabs}${body}`;
   }
 
@@ -479,6 +489,45 @@
         <button class="btn btn-red-soft" data-act="word-again">🤔 몰라요</button>
         <button class="btn btn-green" data-act="word-know">✅ 알아요</button>
       </div>`;
+  }
+
+  // ===== 헷갈린 단어 모아보기 =====
+  function vWordAgain() {
+    const lv = S.level, m = LEVEL_META[lv];
+    const list = againWords(lv);
+    if (!list.length) {
+      return `<div class="card word-done">
+        <div class="big">🌱</div>
+        <h2>아직 헷갈린 단어가 없어요</h2>
+        <p>카드 학습에서 <b>🤔 몰라요</b>를 누른 단어가<br>여기에 모여서 언제든 다시 볼 수 있어요.</p>
+        <button class="btn btn-primary btn-block" data-act="word-tab" data-arg="card">카드 학습 하러 가기</button>
+      </div>`;
+    }
+
+    const items = list.map(x => {
+      const w = x.w;
+      return `<div class="wb-item">
+        <div class="wb-head">
+          <span class="wb-word">${esc(w.word)}</span>
+          ${w.ipa ? `<span class="wb-ipa">${esc(w.ipa)}</span>` : ''}
+          <button class="tts-btn" data-act="tts" data-word="1" data-tts="${esc(w.word)}" style="font-size:15px">🔊</button>
+          <button class="wb-done" data-act="wb-known" data-arg="${x.i}">외웠어요 ✓</button>
+        </div>
+        <div class="wb-ko">${esc(w.ko)}${w.pos ? ` <span class="tiny">${esc(w.pos)}</span>` : ''}</div>
+        <div class="wb-ex">
+          <div class="en">${esc(w.ex_en)} <button class="tts-btn" data-act="tts" data-tts="${esc(w.ex_en)}" style="font-size:13px">🔊</button></div>
+          <div class="ko">${esc(w.ex_ko)}</div>
+        </div>
+      </div>`;
+    }).join('');
+
+    return `
+      <div class="flash-meta">
+        <span>헷갈린 단어 <b>${list.length}</b>개</span>
+        <button class="shuffle-btn" data-act="wb-study">🃏 이 단어만 카드 학습</button>
+      </div>
+      ${items}
+      <button class="btn btn-red-soft btn-block" data-act="wb-clear" style="margin-top:6px">목록 전체 비우기</button>`;
   }
 
   function startWordQuiz() {
@@ -944,6 +993,7 @@
         S.wordTab = arg;
         if (arg === 'quiz') S.wordQuiz = null;
         if (arg === 'card' && S.wordPos >= S.wordQueue.length) buildWordQueue(false);
+        if (arg === 'again' && window.speechSynthesis) speechSynthesis.cancel();
         render();
         break;
       case 'flip':
@@ -1004,6 +1054,35 @@
           P.words[lv] = {};
           save();
           buildWordQueue(false);
+          render();
+        }
+        break;
+
+      // 헷갈린 단어 모아보기
+      case 'wb-known': {
+        const w = d.words[parseInt(arg, 10)];
+        if (!w) break;
+        P.words[lv][w.word] = 'known';
+        save();
+        render();
+        break;
+      }
+      case 'wb-study': {
+        const list = againWords(lv);
+        if (!list.length) break;
+        S.wordQueue = list.map(x => x.i);
+        S.wordPos = 0;
+        S.flipped = false;
+        S.sessionLearned = 0;
+        S.wordHistory = [];
+        S.wordTab = 'card';
+        render();
+        break;
+      }
+      case 'wb-clear':
+        if (confirm('헷갈린 단어 목록을 전부 비울까요? (단어는 미암기 상태로 돌아가요)')) {
+          againWords(lv).forEach(x => { delete P.words[lv][x.w.word]; });
+          save();
           render();
         }
         break;

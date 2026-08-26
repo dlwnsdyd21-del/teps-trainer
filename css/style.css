@@ -595,6 +595,40 @@ button {
 .guide-box li { margin-bottom: 6px; }
 .guide-box b { color: var(--ink); }
 
+/* ---------- 헷갈린 단어 모아보기 ---------- */
+.wb-item {
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 14px 16px;
+  margin-bottom: 10px;
+  border-left: 4px solid var(--amber);
+}
+.wb-head { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+.wb-word { font-size: 19px; font-weight: 800; letter-spacing: -0.3px; }
+.wb-ipa { font-size: 13px; color: var(--ink-soft); letter-spacing: 0.3px; }
+.wb-done {
+  margin-left: auto;
+  flex: none;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--green);
+  background: var(--green-soft);
+  padding: 5px 11px;
+  border-radius: 99px;
+}
+.wb-ko { font-size: 15px; font-weight: 700; color: var(--brand); margin: 4px 0 8px; }
+.wb-ex {
+  background: var(--bg);
+  border-radius: 10px;
+  padding: 10px 12px;
+  font-size: 13.5px;
+}
+.wb-ex .en { font-weight: 600; margin-bottom: 3px; }
+.wb-ex .ko { color: var(--ink-soft); font-size: 13px; }
+
+.tabs button b { color: var(--brand); margin-left: 2px; }
+
 /* ---------- 청해 ---------- */
 .listen-player {
   text-align: center;
