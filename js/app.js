@@ -157,6 +157,28 @@
     if (v.default) s += 1;
     return s;
   }
+  // 음성 이름으로 성별 추정. 주요 플랫폼(Windows/Edge, macOS·iOS, Android/Google)의
+  // 표준 음성 이름을 사전으로 두고, 없으면 null(불명)을 돌려준다.
+  const MALE_VOICES = /\b(david|mark|guy|christopher|eric|roger|steffan|brian|andrew|alex|tom|daniel|fred|aaron|oliver|ryan|thomas|george|liam|william|james|male)\b/i;
+  const FEMALE_VOICES = /\b(zira|aria|jenny|michelle|ana|emma|amber|ashley|cora|elizabeth|monica|nanci|sara|samantha|ava|allison|susan|karen|moira|tessa|victoria|serena|kate|sonia|libby|natasha|clara|female)\b/i;
+  function voiceGender(v) {
+    if (!v) return null;
+    if (FEMALE_VOICES.test(v.name)) return 'female';
+    if (MALE_VOICES.test(v.name)) return 'male';
+    return null;
+  }
+  // 원하는 성별의 가장 자연스러운 음성. 없으면 null.
+  function pickVoiceByGender(gender) {
+    const list = enVoices();
+    if (!list.length) return null;
+    const match = list.filter(v => voiceGender(v) === gender);
+    if (match.length) return match[0];   // enVoices()가 이미 품질순 정렬
+    return null;
+  }
+  // 남성·여성 음성이 모두 갖춰져 있는지 (대화 문항에서 화자 구분 가능 여부)
+  function hasBothGenderVoices() {
+    return !!(pickVoiceByGender('male') && pickVoiceByGender('female'));
+  }
   function pickVoice(excludeName) {
     const chosen = P.settings && P.settings.voice;
     const list = enVoices();
@@ -184,7 +206,8 @@
   function makeUtter(text, rate, voice) {
     const u = new SpeechSynthesisUtterance(text);
     u.lang = 'en-US';
-    if (voice) u.voice = voice;
+    // 음성 대입이 실패해도 재생 자체는 계속되도록 (기본 음성으로 읽힌다)
+    if (voice) { try { u.voice = voice; } catch (e) {} }
     u.rate = rate;
     u.pitch = 1;
     u.volume = 1;
@@ -221,20 +244,47 @@
   }
 
   // 청해 스크립트 재생: A/B 화자를 다른 목소리(없으면 음높이)로 구분해 순서대로 읽는다
-  function playScript(script, slow) {
+  // 화자별 음성 배정.
+  // 문항의 speakers({A:'male'|'female', B:...})를 따라 남성 화자는 남성 목소리로,
+  // 여성 화자는 여성 목소리로 읽는다. 질문이 "the man"/"the woman"을 지칭하므로
+  // 성별이 어긋나면 문제를 풀 수 없기 때문에 이 배정이 정확해야 한다.
+  // 기기에 해당 성별 음성이 없으면 음높이를 크게 벌려 최소한 구분되게 한다.
+  function speakerVoices(speakers) {
+    const sp = speakers || {};
+    const plan = {};
+    ['A', 'B'].forEach(key => {
+      const gender = sp[key];
+      if (!gender) { plan[key] = { voice: pickVoice(), pitch: 1 }; return; }
+      const v = pickVoiceByGender(gender);
+      plan[key] = v
+        ? { voice: v, pitch: 1 }
+        : { voice: pickVoice(), pitch: gender === 'male' ? 0.62 : 1.32 };
+    });
+    // 두 화자가 같은 음성·같은 음높이가 되면(성별 정보가 없거나 한쪽 성별 음성만 있는 기기)
+    // 대화가 한 사람 목소리로 들리므로 B를 확실히 다르게 만든다.
+    const sameVoice = plan.A.voice && plan.B.voice && plan.A.voice.name === plan.B.voice.name;
+    if ((sameVoice || (!plan.A.voice && !plan.B.voice)) && plan.A.pitch === plan.B.pitch) {
+      const other = plan.A.voice ? pickVoice(plan.A.voice.name) : null;
+      if (other && plan.A.voice && other.name !== plan.A.voice.name) plan.B.voice = other;
+      else { plan.A.pitch = 0.7; plan.B.pitch = 1.3; }
+    }
+    return plan;
+  }
+
+  function playScript(script, slow, speakers) {
     if (!window.speechSynthesis) return;
     const rate = slow ? 0.75 : 0.92;
-    const voiceA = pickVoice();
-    const voiceB = voiceA ? pickVoice(voiceA.name) : null;
+    const plan = speakerVoices(speakers);
     const utters = [];
     script.split('\n').map(s => s.trim()).filter(Boolean).forEach(line => {
       const m = line.match(/^([AB])\s*:\s*(.*)$/);
-      const isB = !!m && m[1] === 'B';
+      const who = m ? m[1] : 'A';
+      const cfg = plan[who] || plan.A;
       splitSentences(m ? m[2] : line).forEach(seg => {
         seg = seg.trim();
         if (!seg) return;
-        const u = makeUtter(seg, rate, isB ? (voiceB || voiceA) : voiceA);
-        if (isB && !voiceB) u.pitch = 1.25;
+        const u = makeUtter(seg, rate, cfg.voice);
+        u.pitch = cfg.pitch;
         utters.push(u);
       });
     });
@@ -848,6 +898,7 @@
             <button class="listen-tool ${L.slow ? 'active' : ''}" data-act="listen-speed">🐢 천천히${L.slow ? ' 켜짐' : ''}</button>
           </div>
           ${L.picked == null ? '<div class="tiny" style="margin-top:8px">스크립트와 해석은 정답을 고르면 공개돼요</div>' : ''}
+          ${item.kind !== 'talk' && !hasBothGenderVoices() ? `<div class="tiny" style="margin-top:6px;color:var(--amber)">⚠️ 기기에 남성·여성 영어 음성이 모두 없어 음높이로만 구분돼요. <b data-act="nav" data-arg="voice" style="cursor:pointer;text-decoration:underline">음성 추가하기</b></div>` : ''}
         </div>
         <div class="q-stem">${esc(item.question)}</div>
         <div class="choice-list">${choices}</div>
@@ -1178,7 +1229,7 @@
         const L = S.listenSet;
         if (!L) break;
         const item = d.listening[L.items[L.pos]];
-        if (item) playScript(item.script, L.slow);
+        if (item) playScript(item.script, L.slow, item.speakers);
         break;
       }
       case 'listen-speed': {
@@ -1215,7 +1266,7 @@
       // 오답노트
       case 'note-listen': {
         const item = d.listening[parseInt(arg.slice(1), 10)];
-        if (item) playScript(item.script, false);
+        if (item) playScript(item.script, false, item.speakers);
         break;
       }
       case 'note-del':
